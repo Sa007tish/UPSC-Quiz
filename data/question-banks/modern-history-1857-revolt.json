@@ -1,0 +1,136 @@
+{
+  "bankId": "modern-history-1857-revolt",
+  "subject": "History",
+  "topic": "Modern Indian History",
+  "subtopic": "Revolt of 1857",
+  "source": "AI-generated",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "mh1857-q01",
+      "type": "single-choice",
+      "text": "Which of the following was the immediate trigger for the Revolt of 1857?",
+      "options": [
+        { "id": "a", "text": "Annexation of Awadh by Lord Dalhousie" },
+        { "id": "b", "text": "Introduction of greased cartridges for the Enfield rifle" },
+        { "id": "c", "text": "The Doctrine of Lapse" },
+        { "id": "d", "text": "Imposition of the Subsidiary Alliance system" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "The cartridges, reportedly greased with cow and pig fat, offended both Hindu and Muslim sepoys and served as the immediate spark, even though the other options were longer-term causes of resentment.",
+      "tags": ["1857-revolt", "causes"],
+      "estimatedTimeSeconds": 45
+    },
+    {
+      "id": "mh1857-q02",
+      "type": "single-choice",
+      "text": "The Revolt of 1857 first broke out at:",
+      "options": [
+        { "id": "a", "text": "Delhi" },
+        { "id": "b", "text": "Meerut" },
+        { "id": "c", "text": "Kanpur" },
+        { "id": "d", "text": "Lucknow" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "The revolt began at Meerut on 10 May 1857 when sepoys mutinied, before spreading to Delhi the next day.",
+      "tags": ["1857-revolt", "timeline"],
+      "estimatedTimeSeconds": 30
+    },
+    {
+      "id": "mh1857-q03",
+      "type": "single-choice",
+      "text": "Who was proclaimed the symbolic emperor of India by the rebels in Delhi during the Revolt of 1857?",
+      "options": [
+        { "id": "a", "text": "Bahadur Shah Zafar" },
+        { "id": "b", "text": "Nana Sahib" },
+        { "id": "c", "text": "Wajid Ali Shah" },
+        { "id": "d", "text": "Mirza Ghalib" }
+      ],
+      "correctOptionIds": ["a"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "The rebel sepoys declared the aging Mughal emperor Bahadur Shah Zafar as their symbolic leader.",
+      "tags": ["1857-revolt", "leaders"],
+      "estimatedTimeSeconds": 30
+    },
+    {
+      "id": "mh1857-q04",
+      "type": "single-choice",
+      "text": "Rani Lakshmibai, one of the most prominent leaders of the 1857 revolt, ruled which princely state?",
+      "options": [
+        { "id": "a", "text": "Gwalior" },
+        { "id": "b", "text": "Jhansi" },
+        { "id": "c", "text": "Indore" },
+        { "id": "d", "text": "Bhopal" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "tags": ["1857-revolt", "leaders"],
+      "estimatedTimeSeconds": 30
+    },
+    {
+      "id": "mh1857-q05",
+      "type": "single-choice",
+      "text": "Which British official's policies, including the annexation of Jhansi and Awadh, are widely cited as a major underlying cause of the 1857 revolt?",
+      "options": [
+        { "id": "a", "text": "Lord Canning" },
+        { "id": "b", "text": "Lord Dalhousie" },
+        { "id": "c", "text": "Lord Bentinck" },
+        { "id": "d", "text": "Lord Curzon" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "medium",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "Lord Dalhousie's Doctrine of Lapse led to the annexation of several states, including Jhansi, fueling resentment among Indian rulers.",
+      "tags": ["1857-revolt", "causes"],
+      "estimatedTimeSeconds": 50
+    },
+    {
+      "id": "mh1857-q06",
+      "type": "single-choice",
+      "text": "Who was the Governor-General of India when the Revolt of 1857 broke out?",
+      "options": [
+        { "id": "a", "text": "Lord Dalhousie" },
+        { "id": "b", "text": "Lord Canning" },
+        { "id": "c", "text": "Lord Lawrence" },
+        { "id": "d", "text": "Lord Mayo" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "hard",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "Lord Canning was Governor-General during the revolt and later became the first Viceroy of India after the Crown took direct control in 1858.",
+      "tags": ["1857-revolt", "administration"],
+      "estimatedTimeSeconds": 50
+    },
+    {
+      "id": "mh1857-q07",
+      "type": "multi-choice",
+      "text": "Which of the following leaders actively participated in the Revolt of 1857? (Select all that apply.)",
+      "options": [
+        { "id": "a", "text": "Rani Lakshmibai" },
+        { "id": "b", "text": "Mangal Pandey" },
+        { "id": "c", "text": "Tantia Tope" },
+        { "id": "d", "text": "Bal Gangadhar Tilak" }
+      ],
+      "correctOptionIds": ["a", "b", "c"],
+      "difficulty": "medium",
+      "marks": 3,
+      "negativeMarks": 0,
+      "explanation": "Lakshmibai, Mangal Pandey, and Tantia Tope were all active participants. Tilak was an infant in 1857 and rose to prominence decades later.",
+      "tags": ["1857-revolt", "leaders"],
+      "estimatedTimeSeconds": 60
+    }
+  ]
+}

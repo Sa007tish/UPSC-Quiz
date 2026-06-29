@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: -apple-system, "Segoe UI", ui-sans-serif, system-ui, "Helvetica Neue", Arial, sans-serif;
+  --font-body: -apple-system, "Segoe UI", ui-sans-serif, system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", "Cascadia Code", ui-monospace, "Roboto Mono", Menlo, Consolas, monospace;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply bg-paper text-ink dark:bg-paper-dark dark:text-ink-dark font-body antialiased;
+}
+
+* {
+  @apply border-ink/10 dark:border-ink-dark/10;
+}
+
+/* Numbers throughout the app (timer, scores, palette) use tabular mono digits
+   so they don't jitter as they change — part of the "scorecard" visual language. */
+.font-mono {
+  font-feature-settings: "tnum" 1, "zero" 1;
+}
+
+::selection {
+  @apply bg-saffron-200 dark:bg-saffron-700/50;
+}
+
+/* Visible focus ring everywhere, including for keyboard-only navigation. */
+:focus-visible {
+  outline: 2px solid theme("colors.saffron.500");
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Subtle ruled-paper texture for the question card, evoking an answer sheet
+   without being literal or noisy. */
+.ruled-paper {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 35px,
+    rgba(31, 36, 48, 0.045) 35px,
+    rgba(31, 36, 48, 0.045) 36px
+  );
+}
+.dark .ruled-paper {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent,
+    transparent 35px,
+    rgba(237, 238, 242, 0.05) 35px,
+    rgba(237, 238, 242, 0.05) 36px
+  );
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(31, 36, 48, 0.2);
+  border-radius: 8px;
+}
+.dark .scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(237, 238, 242, 0.2);
+}

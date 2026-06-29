@@ -1,0 +1,116 @@
+{
+  "bankId": "geography-physical-india",
+  "subject": "Geography",
+  "topic": "Physical Geography",
+  "subtopic": "Indian Physiography",
+  "source": "AI-generated",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "geo-phys-q01",
+      "type": "single-choice",
+      "text": "Which is the highest peak located entirely within India?",
+      "options": [
+        { "id": "a", "text": "Nanda Devi" },
+        { "id": "b", "text": "Kangchenjunga" },
+        { "id": "c", "text": "K2" },
+        { "id": "d", "text": "Mount Everest" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "medium",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "Kangchenjunga, on the Sikkim-Nepal border, is the highest peak situated within Indian territory. K2 lies in Pakistan-administered Kashmir, and Everest is in Nepal.",
+      "tags": ["physiography", "himalayas"],
+      "estimatedTimeSeconds": 40
+    },
+    {
+      "id": "geo-phys-q02",
+      "type": "single-choice",
+      "text": "The Western Ghats are also known by which other name?",
+      "options": [
+        { "id": "a", "text": "Sahyadri" },
+        { "id": "b", "text": "Aravalli" },
+        { "id": "c", "text": "Satpura" },
+        { "id": "d", "text": "Vindhya" }
+      ],
+      "correctOptionIds": ["a"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "tags": ["physiography", "peninsular-plateau"],
+      "estimatedTimeSeconds": 30
+    },
+    {
+      "id": "geo-phys-q03",
+      "type": "single-choice",
+      "text": "River Godavari, the largest peninsular river of India, is also known as the:",
+      "options": [
+        { "id": "a", "text": "Dakshin Ganga" },
+        { "id": "b", "text": "Vridha Ganga" },
+        { "id": "c", "text": "Mokshda" },
+        { "id": "d", "text": "Kaveri of the North" }
+      ],
+      "correctOptionIds": ["a"],
+      "difficulty": "easy",
+      "marks": 2,
+      "negativeMarks": 0,
+      "tags": ["rivers", "peninsular-rivers"],
+      "estimatedTimeSeconds": 30
+    },
+    {
+      "id": "geo-phys-q04",
+      "type": "single-choice",
+      "text": "The river Yamuna originates from which glacier?",
+      "options": [
+        { "id": "a", "text": "Gangotri Glacier" },
+        { "id": "b", "text": "Yamunotri Glacier" },
+        { "id": "c", "text": "Siachen Glacier" },
+        { "id": "d", "text": "Zemu Glacier" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "medium",
+      "marks": 2,
+      "negativeMarks": 0,
+      "tags": ["rivers", "himalayan-rivers"],
+      "estimatedTimeSeconds": 40
+    },
+    {
+      "id": "geo-phys-q05",
+      "type": "single-choice",
+      "text": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        { "id": "a", "text": "6" },
+        { "id": "b", "text": "8" },
+        { "id": "c", "text": "10" },
+        { "id": "d", "text": "12" }
+      ],
+      "correctOptionIds": ["b"],
+      "difficulty": "hard",
+      "marks": 2,
+      "negativeMarks": 0,
+      "explanation": "The Tropic of Cancer passes through 8 states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+      "tags": ["physiography", "latitude-longitude"],
+      "estimatedTimeSeconds": 55
+    },
+    {
+      "id": "geo-phys-q06",
+      "type": "multi-choice",
+      "text": "Which of the following rivers are Himalayan (snow-fed, perennial) rivers? (Select all that apply.)",
+      "options": [
+        { "id": "a", "text": "Ganga" },
+        { "id": "b", "text": "Brahmaputra" },
+        { "id": "c", "text": "Krishna" },
+        { "id": "d", "text": "Godavari" }
+      ],
+      "correctOptionIds": ["a", "b"],
+      "difficulty": "medium",
+      "marks": 3,
+      "negativeMarks": 0,
+      "explanation": "Ganga and Brahmaputra are Himalayan rivers fed by snowmelt and glaciers, making them perennial. Krishna and Godavari are peninsular rivers that depend mainly on rainfall.",
+      "tags": ["rivers"],
+      "estimatedTimeSeconds": 60
+    }
+  ]
+}
