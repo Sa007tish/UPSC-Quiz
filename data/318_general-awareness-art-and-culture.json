@@ -1,0 +1,4696 @@
+{
+  "bankId": "general-awareness-art-and-culture",
+  "subject": "General Awareness",
+  "topic": "Art and Culture",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-art-and-culture-q1",
+      "type": "single-choice",
+      "text": "In which of the following place Kumbh Mela is not held?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nashik"
+        },
+        {
+          "id": "b",
+          "text": "Haridwar"
+        },
+        {
+          "id": "c",
+          "text": "Prayag"
+        },
+        {
+          "id": "d",
+          "text": "Varanasi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Varanasi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016 MPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q2",
+      "type": "single-choice",
+      "text": "After how many years ‘Maha Kumbh’ is held?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 years"
+        },
+        {
+          "id": "b",
+          "text": "10 years"
+        },
+        {
+          "id": "c",
+          "text": "9 years"
+        },
+        {
+          "id": "d",
+          "text": "144 years"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 144 years",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2016 MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q3",
+      "type": "single-choice",
+      "text": "‘Madhubani’ painting is related to which state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Bihar"
+        },
+        {
+          "id": "c",
+          "text": "Kerala"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bihar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2017 MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q4",
+      "type": "single-choice",
+      "text": "In the context of the cultural history of India, a pose in dance and dramatics called Tribhanga had been a favourite of Indian artists from ancient time till today. Which one of the following statements best describes this pose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One leg is bent and the body is slightly but oppositely curved at waist and neck"
+        },
+        {
+          "id": "b",
+          "text": "Facial expressions, hand ges- tures and make-up are com- bined to symbolize certain epic or historical characters"
+        },
+        {
+          "id": "c",
+          "text": "Movements of body, face and hands are used to express one- self or to tell a story"
+        },
+        {
+          "id": "d",
+          "text": "A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: One leg is bent and the body is slightly but oppositely curved at waist and neck",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q5",
+      "type": "single-choice",
+      "text": "In which place Kumbh Mela is held every twelfth years?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prayag - Haridwar - Ujjain - Nashik"
+        },
+        {
+          "id": "b",
+          "text": "Chitrakoot - Ujjain - Prayag - Haridwar"
+        },
+        {
+          "id": "c",
+          "text": "Rameshwaram - Puri - Badrinath - Dwarika"
+        },
+        {
+          "id": "d",
+          "text": "Ujjain - Puri - Prayag - Haridwar"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Prayag - Haridwar - Ujjain - Nashik",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q6",
+      "type": "single-choice",
+      "text": "Consider the following pairs. Tradition State 1. Gatka, a tradi- - Kerala tional martial art 2. Madhubani, a - Bihar traditional painting 3. Singhey Khababs - Jammu and Sindhu Darshan Kashmir festival Which of the above pair(s) is/are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 and 3",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q7",
+      "type": "single-choice",
+      "text": "Consider the following pairs. Traditions Communities 1. Chaliha Sahib - Sindhis Festival 2. Nanda Raj Jaat - Gonds Yatra 3. Wari-Warkari - Santhals Which of the pairs given above is/ are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q8",
+      "type": "single-choice",
+      "text": "Onam is the festival of which State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Karnataka"
+        },
+        {
+          "id": "b",
+          "text": "Assam"
+        },
+        {
+          "id": "c",
+          "text": "Kerala"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Kerala",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q9",
+      "type": "single-choice",
+      "text": "‘Bihu’ is the folk dance of which of the following States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Assam"
+        },
+        {
+          "id": "c",
+          "text": "West Bengal"
+        },
+        {
+          "id": "d",
+          "text": "Maharashtra"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Assam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q10",
+      "type": "single-choice",
+      "text": "‘Pongal’ is the festival of which State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "c",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tamil Nadu",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q11",
+      "type": "single-choice",
+      "text": "South Indian Festival of ‘Onam’ is associated with which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ram’s Victory over Rawan"
+        },
+        {
+          "id": "b",
+          "text": "Durga’s Killing of Mahishasur"
+        },
+        {
+          "id": "c",
+          "text": "Shiva Shakti"
+        },
+        {
+          "id": "d",
+          "text": "Mahabali"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mahabali",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q12",
+      "type": "single-choice",
+      "text": "‘Athapoo’ is associated with which of the following festivals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dol Yatra"
+        },
+        {
+          "id": "b",
+          "text": "Onam"
+        },
+        {
+          "id": "c",
+          "text": "Pongal"
+        },
+        {
+          "id": "d",
+          "text": "Vishwakarma Puja"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Onam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q13",
+      "type": "single-choice",
+      "text": "‘Tamasha’ is the famous folk form of musical theatre in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Punjab"
+        },
+        {
+          "id": "c",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "d",
+          "text": "Bihar"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Maharashtra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2009 UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q14",
+      "type": "single-choice",
+      "text": "Name the holy place in which the main God is different from other three?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amarnath"
+        },
+        {
+          "id": "b",
+          "text": "Jagannath"
+        },
+        {
+          "id": "c",
+          "text": "Kedarnath"
+        },
+        {
+          "id": "d",
+          "text": "Vishwanath"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Jagannath",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q15",
+      "type": "single-choice",
+      "text": "Four Mathas established by Adi Shankaracharya are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joshimath, Dwarka, Puri, Sringeri"
+        },
+        {
+          "id": "b",
+          "text": "Sringeri, Dwarka, Joshimath, Prayag"
+        },
+        {
+          "id": "c",
+          "text": "Dwarka, Joshimath, Prayag, Kanchi"
+        },
+        {
+          "id": "d",
+          "text": "Puri, Sringeri, Dwarka, Varanasi"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Joshimath, Dwarka, Puri, Sringeri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q16",
+      "type": "single-choice",
+      "text": "In India, many pilgrims travel to Srisailam, which is one of the twelve Jyotirlingas, is located",
+      "options": [
+        {
+          "id": "a",
+          "text": "in Tapovan near Uttaranchal"
+        },
+        {
+          "id": "b",
+          "text": "in Tamil Nadu near Arunachal"
+        },
+        {
+          "id": "c",
+          "text": "in Andhra Pradesh near Kurnool"
+        },
+        {
+          "id": "d",
+          "text": "in Kerala near Kaladi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: in Andhra Pradesh near Kurnool",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (J)(Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q17",
+      "type": "single-choice",
+      "text": "In which State is the Buddhist site Tabo Monastery located?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Sikkim"
+        },
+        {
+          "id": "d",
+          "text": "Uttarakhand"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Himachal Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q18",
+      "type": "single-choice",
+      "text": "Losoong is a festival which is celebrated in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tibet"
+        },
+        {
+          "id": "b",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Sikkim"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sikkim",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003, 01 UP UDA/LDA (Pre) 2002 UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q19",
+      "type": "single-choice",
+      "text": "Chapchar Kut is a festival celebrat- ed in the State of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Assam"
+        },
+        {
+          "id": "c",
+          "text": "Mizoram"
+        },
+        {
+          "id": "d",
+          "text": "Sikkim"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mizoram",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q20",
+      "type": "single-choice",
+      "text": "Ijtima Festival (Mela) is celebrated in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indore"
+        },
+        {
+          "id": "b",
+          "text": "Bhopal"
+        },
+        {
+          "id": "c",
+          "text": "Jabalpur"
+        },
+        {
+          "id": "d",
+          "text": "Raipur"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bhopal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q21",
+      "type": "single-choice",
+      "text": "Who was the grandfather of Arjun, the hero of Mahabharata?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vichitravirya"
+        },
+        {
+          "id": "b",
+          "text": "Shantanu"
+        },
+        {
+          "id": "c",
+          "text": "Chitrangad"
+        },
+        {
+          "id": "d",
+          "text": "Devadutt"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vichitravirya",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q22",
+      "type": "single-choice",
+      "text": "What is ‘Kaaba’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hindu Shrine"
+        },
+        {
+          "id": "b",
+          "text": "Jew’s Shrine"
+        },
+        {
+          "id": "c",
+          "text": "Muslim Shrine"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Muslim Shrine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q23",
+      "type": "single-choice",
+      "text": "What is the Jewish place of worship called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Church"
+        },
+        {
+          "id": "b",
+          "text": "Synagogue"
+        },
+        {
+          "id": "c",
+          "text": "Mosque"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Synagogue",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q24",
+      "type": "single-choice",
+      "text": "Where the first Sanskrit University Chair established?",
+      "options": [
+        {
+          "id": "a",
+          "text": "England"
+        },
+        {
+          "id": "b",
+          "text": "France"
+        },
+        {
+          "id": "c",
+          "text": "Germany"
+        },
+        {
+          "id": "d",
+          "text": "Russia"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: France",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q25",
+      "type": "single-choice",
+      "text": "The earliest reference of ‘Magnetic Compass’ is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miftahul Fuzala"
+        },
+        {
+          "id": "b",
+          "text": "Chachnama"
+        },
+        {
+          "id": "c",
+          "text": "Ranazatu’s Safar"
+        },
+        {
+          "id": "d",
+          "text": "Jawamiul Hikayat"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jawamiul Hikayat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q26",
+      "type": "single-choice",
+      "text": "With reference to Buddhist history, tradition and culture in India, consider the following pairs. Famous shrine Location 1. Tabo monastery - Spiti and temple Valley complex 2. Lhotsava - Zanskar Lhakhang Valley temple, Nako 3. Alchi temple - Ladakh complex Which of the pairs given above is/ are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Only 1 and 3",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q27",
+      "type": "single-choice",
+      "text": "The Chitragupta Swami Temple considered to be the only temple of Chitragupta is situated in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kanchi"
+        },
+        {
+          "id": "b",
+          "text": "Mathura"
+        },
+        {
+          "id": "c",
+          "text": "Puri"
+        },
+        {
+          "id": "d",
+          "text": "Ujjain"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Kanchi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q28",
+      "type": "single-choice",
+      "text": "Name the place where the Thyagaraja festival is regularly celebrated in the honour of composer Sri Thyagaraja?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adyar"
+        },
+        {
+          "id": "b",
+          "text": "Thanjavur"
+        },
+        {
+          "id": "c",
+          "text": "Mamallapuram"
+        },
+        {
+          "id": "d",
+          "text": "Udipi"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Thanjavur",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q29",
+      "type": "single-choice",
+      "text": "‘Sufi Kalam’ a type of devotional music, is characteristic of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gujarat"
+        },
+        {
+          "id": "b",
+          "text": "Kashmir"
+        },
+        {
+          "id": "c",
+          "text": "Rajasthan"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kashmir",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q30",
+      "type": "single-choice",
+      "text": "According to Mimamsa system of philosophy liberation is possible by means of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gyan"
+        },
+        {
+          "id": "b",
+          "text": "Bhakti"
+        },
+        {
+          "id": "c",
+          "text": "Yoga"
+        },
+        {
+          "id": "d",
+          "text": "Karma"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Karma",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q31",
+      "type": "single-choice",
+      "text": "‘Jagar’ is a form of God worship ritual prevalent in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Uttarakhand"
+        },
+        {
+          "id": "c",
+          "text": "Haryana"
+        },
+        {
+          "id": "d",
+          "text": "Assam"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Uttarakhand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q32",
+      "type": "single-choice",
+      "text": "Where is the ‘Rath Yatra’ festival held?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konark"
+        },
+        {
+          "id": "b",
+          "text": "Puri"
+        },
+        {
+          "id": "c",
+          "text": "Dwarka"
+        },
+        {
+          "id": "d",
+          "text": "Haridwar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Puri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q33",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Madhumita - Odissi dancer"
+        },
+        {
+          "id": "b",
+          "text": "Indira Chakravarty - Nutrition- al scientist"
+        },
+        {
+          "id": "c",
+          "text": "Meeta Bhatia - Jurist"
+        },
+        {
+          "id": "d",
+          "text": "Sadhvi Sadhana - Homemaker doctor"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Indira Chakravarty - Nutrition- al scientist",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q34",
+      "type": "single-choice",
+      "text": "Alla Rakha, the famous instrumen- talist, is related with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Violin"
+        },
+        {
+          "id": "b",
+          "text": "Pakhawaj"
+        },
+        {
+          "id": "c",
+          "text": "Tabla"
+        },
+        {
+          "id": "d",
+          "text": "Sitar recital"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Tabla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q35",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debu Chaudhuri - Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Amjad Ali Khan - Sarod"
+        },
+        {
+          "id": "c",
+          "text": "Panna Lal Ghosh - Tabla"
+        },
+        {
+          "id": "d",
+          "text": "Yahudi Menuhin - Violin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Panna Lal Ghosh - Tabla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q36",
+      "type": "single-choice",
+      "text": "Which one of the following pairs of composers in different languages and their works on the Mahabharata theme is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarladasa - Bengali"
+        },
+        {
+          "id": "b",
+          "text": "Kasirama - Oriya"
+        },
+        {
+          "id": "c",
+          "text": "Tikkana - Marathi"
+        },
+        {
+          "id": "d",
+          "text": "Pampa - Kannada"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Pampa - Kannada",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q37",
+      "type": "single-choice",
+      "text": "The first writer to use Urdu as the medium of poetic expression was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amir Khusrau"
+        },
+        {
+          "id": "b",
+          "text": "Mirza Ghalib"
+        },
+        {
+          "id": "c",
+          "text": "Bahadur Shah Zafar"
+        },
+        {
+          "id": "d",
+          "text": "Faiz"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Amir Khusrau",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q38",
+      "type": "single-choice",
+      "text": "‘Radha Govind Sangeet Sar’ the renowned classical music composi- tion is the creation of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Devarshi Bhatt Brajpal"
+        },
+        {
+          "id": "b",
+          "text": "Sawai Pratap Singh"
+        },
+        {
+          "id": "c",
+          "text": "Hiranand Vyas"
+        },
+        {
+          "id": "d",
+          "text": "Chatur Lal Sen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sawai Pratap Singh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q39",
+      "type": "single-choice",
+      "text": "The brothers Umakant and Ramakant Gundecha are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dhrupad vocalists"
+        },
+        {
+          "id": "b",
+          "text": "Kathak dancers"
+        },
+        {
+          "id": "c",
+          "text": "Sarod maestros"
+        },
+        {
+          "id": "d",
+          "text": "Table players"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Dhrupad vocalists",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q40",
+      "type": "single-choice",
+      "text": "The author of the ‘Raga Kallpadrum’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Radhakrishnan"
+        },
+        {
+          "id": "b",
+          "text": "Krishnanand Vyas"
+        },
+        {
+          "id": "c",
+          "text": "Rana Hammir"
+        },
+        {
+          "id": "d",
+          "text": "Maharana Kumbha"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Krishnanand Vyas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q41",
+      "type": "single-choice",
+      "text": "The ‘Raga’ which is sung early in the morning is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Todi"
+        },
+        {
+          "id": "b",
+          "text": "Darbari"
+        },
+        {
+          "id": "c",
+          "text": "Bhopali"
+        },
+        {
+          "id": "d",
+          "text": "Bhimpalasi"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Todi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q42",
+      "type": "single-choice",
+      "text": "Pandit Bhimsen Joshi is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Astrology"
+        },
+        {
+          "id": "b",
+          "text": "Politics"
+        },
+        {
+          "id": "c",
+          "text": "Environment"
+        },
+        {
+          "id": "d",
+          "text": "Music"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Music",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q43",
+      "type": "single-choice",
+      "text": "The famous classical singer, Bhimsen Joshi is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banaras Gharana"
+        },
+        {
+          "id": "b",
+          "text": "Kirana Gharana"
+        },
+        {
+          "id": "c",
+          "text": "Lucknow Gharana"
+        },
+        {
+          "id": "d",
+          "text": "Rampur Gharana"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kirana Gharana",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q44",
+      "type": "single-choice",
+      "text": "‘Odissi’ dance belongs to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerala"
+        },
+        {
+          "id": "b",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Orissa"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Orissa",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q45",
+      "type": "single-choice",
+      "text": "‘Mohini Attam’ is the folk dance of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Karnataka"
+        },
+        {
+          "id": "c",
+          "text": "Kerala"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Kerala",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q46",
+      "type": "single-choice",
+      "text": "Which one of the following dances involves solo performance?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bharatnatyam"
+        },
+        {
+          "id": "b",
+          "text": "Kuchipudi"
+        },
+        {
+          "id": "c",
+          "text": "Mohiniyattam"
+        },
+        {
+          "id": "d",
+          "text": "Odissi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mohiniyattam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q47",
+      "type": "single-choice",
+      "text": "Which of the following dance styles originates from Eastern India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kathakali"
+        },
+        {
+          "id": "b",
+          "text": "Kuchipudi"
+        },
+        {
+          "id": "c",
+          "text": "Bharatanatyam"
+        },
+        {
+          "id": "d",
+          "text": "Manipuri"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Manipuri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q48",
+      "type": "single-choice",
+      "text": "From which classical dance system Indrani Rahman is related?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kathak"
+        },
+        {
+          "id": "b",
+          "text": "Bharatanatyam"
+        },
+        {
+          "id": "c",
+          "text": "Odissi"
+        },
+        {
+          "id": "d",
+          "text": "Kuchipudi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Odissi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q49",
+      "type": "single-choice",
+      "text": "Girija Devi, famous singer of Thumri belongs to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banaras Gharana"
+        },
+        {
+          "id": "b",
+          "text": "Lucknow Gharana"
+        },
+        {
+          "id": "c",
+          "text": "Jaipur Gharana"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Banaras Gharana",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011 UPPCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q50",
+      "type": "single-choice",
+      "text": "Which of the following musical instrument is not of Indo-Islamic origin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Tabla"
+        },
+        {
+          "id": "c",
+          "text": "Sarangi"
+        },
+        {
+          "id": "d",
+          "text": "Shehnai"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sarangi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q51",
+      "type": "single-choice",
+      "text": "Gangubai Hangal, who died a few months ago, was a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Classical Singer"
+        },
+        {
+          "id": "b",
+          "text": "Dancer"
+        },
+        {
+          "id": "c",
+          "text": "Painter"
+        },
+        {
+          "id": "d",
+          "text": "Sitar Player"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Classical Singer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008 UPPSC (GIC) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q52",
+      "type": "single-choice",
+      "text": "‘Tera Tali’ is the folk dance of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerala"
+        },
+        {
+          "id": "b",
+          "text": "Rajasthan"
+        },
+        {
+          "id": "c",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rajasthan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000 UP Lower Sub. (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q53",
+      "type": "single-choice",
+      "text": "‘Karagam’ a religious folk dance is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "b",
+          "text": "Kerala"
+        },
+        {
+          "id": "c",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Karnataka"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Tamil Nadu",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q54",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vilayat Khan - Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Alla Rakha - Tabla"
+        },
+        {
+          "id": "c",
+          "text": "Hari Prasad - Flute Chaurasia"
+        },
+        {
+          "id": "d",
+          "text": "Amjad Ali Khan - Pakhawaj"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Amjad Ali Khan - Pakhawaj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q55",
+      "type": "single-choice",
+      "text": "Sri V.G. Jog is famous for which of the following instrumental music?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Violin"
+        },
+        {
+          "id": "c",
+          "text": "Tabla"
+        },
+        {
+          "id": "d",
+          "text": "Santoor"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Violin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q56",
+      "type": "single-choice",
+      "text": "Who among the following is an excellent dancer of Kathak?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alla Rakha"
+        },
+        {
+          "id": "b",
+          "text": "M.S. Reddy"
+        },
+        {
+          "id": "c",
+          "text": "Birju Maharaj"
+        },
+        {
+          "id": "d",
+          "text": "Raja Reddy"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Birju Maharaj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q57",
+      "type": "single-choice",
+      "text": "Identify one from the following who is not associated with Kathak dance.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bindadin"
+        },
+        {
+          "id": "b",
+          "text": "Shambhu Maharaj"
+        },
+        {
+          "id": "c",
+          "text": "Lachhu Maharaj"
+        },
+        {
+          "id": "d",
+          "text": "Dhruvtara Joshi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dhruvtara Joshi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q58",
+      "type": "single-choice",
+      "text": "Who amongst the following is not a Kathak artist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birju Maharaj"
+        },
+        {
+          "id": "b",
+          "text": "Kishan Maharaj"
+        },
+        {
+          "id": "c",
+          "text": "Lachhu Maharaj"
+        },
+        {
+          "id": "d",
+          "text": "Sitara Devi"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kishan Maharaj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q59",
+      "type": "single-choice",
+      "text": "To which State does the folk art form of Madhubani belong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orissa"
+        },
+        {
+          "id": "b",
+          "text": "West Bengal"
+        },
+        {
+          "id": "c",
+          "text": "Bihar"
+        },
+        {
+          "id": "d",
+          "text": "Rajasthan"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bihar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q60",
+      "type": "single-choice",
+      "text": "With reference to India’s culture and tradition, what is ‘Kalaripayattu’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India"
+        },
+        {
+          "id": "b",
+          "text": "It is an ancient style bronze and brasswork still found in Southern part of Coromandel area"
+        },
+        {
+          "id": "c",
+          "text": "It is an ancient form of dance- drama and a living tradition in the Northern part of Malabar"
+        },
+        {
+          "id": "d",
+          "text": "It is an ancient martial art and a living tradition in some parts of South India"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: It is an ancient martial art and a living tradition in some parts of South India",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q61",
+      "type": "single-choice",
+      "text": "Which one of the signifies the folk culture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cultural practices of more civilized people"
+        },
+        {
+          "id": "b",
+          "text": "Cultural practices of urban people"
+        },
+        {
+          "id": "c",
+          "text": "Cultural practices of common people"
+        },
+        {
+          "id": "d",
+          "text": "Cultural practices of people of modern society"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cultural practices of common people",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q62",
+      "type": "single-choice",
+      "text": "Kalamkari painting refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "A hand-painted cotton textile in South India"
+        },
+        {
+          "id": "b",
+          "text": "A handmade drawing on bamboo handicrafts in North- East India"
+        },
+        {
+          "id": "c",
+          "text": "A block-painted woollen cloth in Western Himalayan region of India"
+        },
+        {
+          "id": "d",
+          "text": "A hand-painted decorative silk cloth in North-Western India"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A hand-painted cotton textile in South India",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q63",
+      "type": "single-choice",
+      "text": "Folk songs has paramount impor- tance",
+      "options": [
+        {
+          "id": "a",
+          "text": "for entertainment"
+        },
+        {
+          "id": "b",
+          "text": "for the development of music"
+        },
+        {
+          "id": "c",
+          "text": "for preserving traditions"
+        },
+        {
+          "id": "d",
+          "text": "for livelihood"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: for preserving traditions",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q64",
+      "type": "single-choice",
+      "text": "The dance which is not classical",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kathak"
+        },
+        {
+          "id": "b",
+          "text": "Kuchipudi"
+        },
+        {
+          "id": "c",
+          "text": "Odissi"
+        },
+        {
+          "id": "d",
+          "text": "Garba"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Garba",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q65",
+      "type": "single-choice",
+      "text": "Which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hari Prasad Chaurasia - Flute"
+        },
+        {
+          "id": "b",
+          "text": "Bismillah Khan - Tabla"
+        },
+        {
+          "id": "c",
+          "text": "Alla Rakha Khan - Sarod"
+        },
+        {
+          "id": "d",
+          "text": "Zakir Hussain - Veena"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hari Prasad Chaurasia - Flute",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q66",
+      "type": "single-choice",
+      "text": "Which one of the following pair is wrong?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhimsen Joshi - Classical Vocal Music"
+        },
+        {
+          "id": "b",
+          "text": "Alla Rakha Khan - Tabla"
+        },
+        {
+          "id": "c",
+          "text": "Debu Chaudhari - Sitar"
+        },
+        {
+          "id": "d",
+          "text": "M.S. Subbalakshmi - Flute"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: M.S. Subbalakshmi - Flute",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q67",
+      "type": "single-choice",
+      "text": "Which of the following Academy is responsible for fostering the development of dance, drama and music in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sangeet Academy"
+        },
+        {
+          "id": "b",
+          "text": "Lalit Kala Academy"
+        },
+        {
+          "id": "c",
+          "text": "Sahitya Academy"
+        },
+        {
+          "id": "d",
+          "text": "National School of Drama"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sangeet Academy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q68",
+      "type": "single-choice",
+      "text": "Who among the following is a flute player?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Debu Chaudhari"
+        },
+        {
+          "id": "b",
+          "text": "Madhup Mudgal"
+        },
+        {
+          "id": "c",
+          "text": "Ronu Majumdar"
+        },
+        {
+          "id": "d",
+          "text": "Shafat Ahmad"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ronu Majumdar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q69",
+      "type": "single-choice",
+      "text": "Ustad Amjad Ali Khan is a famous player of which musical instrument?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Tabla"
+        },
+        {
+          "id": "c",
+          "text": "Flute"
+        },
+        {
+          "id": "d",
+          "text": "Sarod"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sarod",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q70",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birju Maharaj - Kathak"
+        },
+        {
+          "id": "b",
+          "text": "Bismillah Khan - Shahnai"
+        },
+        {
+          "id": "c",
+          "text": "Zakir Hussain - Harmonium"
+        },
+        {
+          "id": "d",
+          "text": "Amzad Ali Khan - Sarod"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Zakir Hussain - Harmonium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q71",
+      "type": "single-choice",
+      "text": "Which one of the following is the most ancient musical instrument?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sitar"
+        },
+        {
+          "id": "b",
+          "text": "Veena"
+        },
+        {
+          "id": "c",
+          "text": "Sarod"
+        },
+        {
+          "id": "d",
+          "text": "Tabla"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Veena",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q72",
+      "type": "single-choice",
+      "text": "Musical instrument sitar is the combination of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bansuri and Veena"
+        },
+        {
+          "id": "b",
+          "text": "Bansuri and Sarangi"
+        },
+        {
+          "id": "c",
+          "text": "Veena and Tambura"
+        },
+        {
+          "id": "d",
+          "text": "Veena and Piano"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Veena and Tambura",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q73",
+      "type": "single-choice",
+      "text": "Which one of the following pairs of folk dance forms and States is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Korku - Maharashtra"
+        },
+        {
+          "id": "b",
+          "text": "Jhumar - Haryana"
+        },
+        {
+          "id": "c",
+          "text": "Thali - Himachal Pradesh"
+        },
+        {
+          "id": "d",
+          "text": "Mukna - Manipur"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Thali - Himachal Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q74",
+      "type": "single-choice",
+      "text": "Kuchipudi dance started in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Kerala"
+        },
+        {
+          "id": "c",
+          "text": "Orissa"
+        },
+        {
+          "id": "d",
+          "text": "Tamil Nadu"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Andhra Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttaranchal PCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q75",
+      "type": "single-choice",
+      "text": "‘Kuchipudi’ dance is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerala"
+        },
+        {
+          "id": "b",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "c",
+          "text": "Karnataka"
+        },
+        {
+          "id": "d",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Andhra Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q76",
+      "type": "single-choice",
+      "text": "The folk dance of Meghalaya is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nati"
+        },
+        {
+          "id": "b",
+          "text": "Loho"
+        },
+        {
+          "id": "c",
+          "text": "Bamboo dance"
+        },
+        {
+          "id": "d",
+          "text": "Khantum"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Loho",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q77",
+      "type": "single-choice",
+      "text": "In Indian architecture, ‘Surkhi’ was introduced by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kushans"
+        },
+        {
+          "id": "b",
+          "text": "Guptas"
+        },
+        {
+          "id": "c",
+          "text": "Sultanate Sultans"
+        },
+        {
+          "id": "d",
+          "text": "Mughals"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Kushans",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q78",
+      "type": "single-choice",
+      "text": "Which one of the following is not the factor of ‘Cultural Lag’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Religion"
+        },
+        {
+          "id": "b",
+          "text": "Politics"
+        },
+        {
+          "id": "c",
+          "text": "Law"
+        },
+        {
+          "id": "d",
+          "text": "Tradition"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Politics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q79",
+      "type": "single-choice",
+      "text": "Which dance is performed only by male?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mohini Attam"
+        },
+        {
+          "id": "b",
+          "text": "Odissi"
+        },
+        {
+          "id": "c",
+          "text": "Kathakali"
+        },
+        {
+          "id": "d",
+          "text": "Manipuri"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Kathakali",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q80",
+      "type": "single-choice",
+      "text": "Mask dance is associated with which of the following dance styles?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kathakali"
+        },
+        {
+          "id": "b",
+          "text": "Naga"
+        },
+        {
+          "id": "c",
+          "text": "Odissi"
+        },
+        {
+          "id": "d",
+          "text": "Kuchipudi"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Kathakali",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q81",
+      "type": "single-choice",
+      "text": "Which one of the following dances related to Gujarat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chunar"
+        },
+        {
+          "id": "b",
+          "text": "Bidesia"
+        },
+        {
+          "id": "c",
+          "text": "Raas dance"
+        },
+        {
+          "id": "d",
+          "text": "Kuchipudi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Raas dance",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q82",
+      "type": "single-choice",
+      "text": "Which of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India’s first technicolour film - Jhansi Ki Rani"
+        },
+        {
+          "id": "b",
+          "text": "India’s first 3-D film - My Dear Kuttichathan"
+        },
+        {
+          "id": "c",
+          "text": "India’s first insured film - Taal"
+        },
+        {
+          "id": "d",
+          "text": "India’s first actress to win the Bharat Ratna - Meena Kumari"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: India’s first actress to win the Bharat Ratna - Meena Kumari",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q83",
+      "type": "single-choice",
+      "text": "The lead character in the film ‘The Bandit Queen’ has been played by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seema Biswas"
+        },
+        {
+          "id": "b",
+          "text": "Shabana Azmi"
+        },
+        {
+          "id": "c",
+          "text": "Neeta Gupta"
+        },
+        {
+          "id": "d",
+          "text": "Pallavi Joshi"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Seema Biswas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997 IAS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q84",
+      "type": "single-choice",
+      "text": "Who was the producer of the famous T.V. serial ‘Ramayan’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.R. Chopra"
+        },
+        {
+          "id": "b",
+          "text": "Ramanand Sagar"
+        },
+        {
+          "id": "c",
+          "text": "Shyam Benegal"
+        },
+        {
+          "id": "d",
+          "text": "Mira Nair"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ramanand Sagar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q85",
+      "type": "single-choice",
+      "text": "The film ‘The Making of the Mahatma’ has been directed by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peter Ustinov"
+        },
+        {
+          "id": "b",
+          "text": "Richard Attenborough"
+        },
+        {
+          "id": "c",
+          "text": "Shyam Benegal"
+        },
+        {
+          "id": "d",
+          "text": "Mira Nair"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Shyam Benegal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q86",
+      "type": "single-choice",
+      "text": "Who played the role of Gandhi in the movie ‘Gandhi’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ben Kingsley"
+        },
+        {
+          "id": "b",
+          "text": "Richard Attenborough"
+        },
+        {
+          "id": "c",
+          "text": "Naseeruddin Shah"
+        },
+        {
+          "id": "d",
+          "text": "Roshan Seth"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ben Kingsley",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q87",
+      "type": "single-choice",
+      "text": "Richard Attenborough is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A writer"
+        },
+        {
+          "id": "b",
+          "text": "A painter"
+        },
+        {
+          "id": "c",
+          "text": "An actor"
+        },
+        {
+          "id": "d",
+          "text": "Producer and director"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Producer and director",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q88",
+      "type": "single-choice",
+      "text": "The first feature film (talkie) to be produced in India was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hatimtai"
+        },
+        {
+          "id": "b",
+          "text": "Alam Ara"
+        },
+        {
+          "id": "c",
+          "text": "Pundalik"
+        },
+        {
+          "id": "d",
+          "text": "Raja Harishchandra"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Alam Ara",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q89",
+      "type": "single-choice",
+      "text": "Whom did the famous Indian actress Devika Rani marry?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Painter Svetoslav Roerich"
+        },
+        {
+          "id": "b",
+          "text": "Writer Solzhenitsym"
+        },
+        {
+          "id": "c",
+          "text": "Piano player and author Rubinstein"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Painter Svetoslav Roerich",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q90",
+      "type": "single-choice",
+      "text": "Who was the producer of the serial ‘Mahabharat’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shyam Benegal"
+        },
+        {
+          "id": "b",
+          "text": "B.R. Chopra"
+        },
+        {
+          "id": "c",
+          "text": "Ramanand Sagar"
+        },
+        {
+          "id": "d",
+          "text": "Maniratnam"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: B.R. Chopra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q91",
+      "type": "single-choice",
+      "text": "Vidushaka, a common character in Sanskrit drama is invariably",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brahmana"
+        },
+        {
+          "id": "b",
+          "text": "Kshatriya"
+        },
+        {
+          "id": "c",
+          "text": "Vaisya"
+        },
+        {
+          "id": "d",
+          "text": "Shudra"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Brahmana",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q92",
+      "type": "single-choice",
+      "text": "K. Shankar Pillai was a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cartoonist"
+        },
+        {
+          "id": "b",
+          "text": "Painter"
+        },
+        {
+          "id": "c",
+          "text": "Dancer"
+        },
+        {
+          "id": "d",
+          "text": "Flute player"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Cartoonist",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q93",
+      "type": "single-choice",
+      "text": "Raghu Rai is well known for which one of the following areas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Research in Mathematics"
+        },
+        {
+          "id": "b",
+          "text": "Photography"
+        },
+        {
+          "id": "c",
+          "text": "Water harvesting"
+        },
+        {
+          "id": "d",
+          "text": "Pollution control"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Photography",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q94",
+      "type": "single-choice",
+      "text": "The paintings of Abanindra Nath Tagore have classified as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Realistic"
+        },
+        {
+          "id": "b",
+          "text": "Socialistic"
+        },
+        {
+          "id": "c",
+          "text": "Revivalistic"
+        },
+        {
+          "id": "d",
+          "text": "Impressionistic"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Revivalistic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q95",
+      "type": "single-choice",
+      "text": "Who was Vishnu Chinchalkar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chitrakar"
+        },
+        {
+          "id": "b",
+          "text": "Shilpkar"
+        },
+        {
+          "id": "c",
+          "text": "Kahanikar"
+        },
+        {
+          "id": "d",
+          "text": "Sahityakar"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chitrakar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q96",
+      "type": "single-choice",
+      "text": "Who among the following established ‘Indian Society of Oriental Art’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nihar Ranjan Ray"
+        },
+        {
+          "id": "b",
+          "text": "Narendra Mohan Mukherjee"
+        },
+        {
+          "id": "c",
+          "text": "Abanindra Nath Tagore"
+        },
+        {
+          "id": "d",
+          "text": "Barindra Kumar Ghosh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Abanindra Nath Tagore",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Re. Exam)(Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q97",
+      "type": "single-choice",
+      "text": "Who painted the famous ‘Mona Lisa’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Michel Angelo"
+        },
+        {
+          "id": "b",
+          "text": "Jashua Reynolds"
+        },
+        {
+          "id": "c",
+          "text": "Rambrandt"
+        },
+        {
+          "id": "d",
+          "text": "Leonardo Da Vinci"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Leonardo Da Vinci",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2018 MPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q98",
+      "type": "single-choice",
+      "text": "‘Mera piya ghar aaya’ has been sung by which Pakistani singer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ghulam Ali"
+        },
+        {
+          "id": "b",
+          "text": "Nusrat Fateh Ali Khan"
+        },
+        {
+          "id": "c",
+          "text": "Mehdi Hassan"
+        },
+        {
+          "id": "d",
+          "text": "Faiz Ahmad Faiz"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nusrat Fateh Ali Khan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Nagaland PSC (Pre) 2017 MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q99",
+      "type": "single-choice",
+      "text": "Jamini Roy was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Musician"
+        },
+        {
+          "id": "b",
+          "text": "Painter"
+        },
+        {
+          "id": "c",
+          "text": "Lyricist"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Painter",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q100",
+      "type": "single-choice",
+      "text": "What is Britney Spears famous for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dancing"
+        },
+        {
+          "id": "b",
+          "text": "Singing"
+        },
+        {
+          "id": "c",
+          "text": "Writing"
+        },
+        {
+          "id": "d",
+          "text": "Modelling"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Singing",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q101",
+      "type": "single-choice",
+      "text": "Who among the following is considered the ‘Tagore’ of Punjabi language?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puran Singh"
+        },
+        {
+          "id": "b",
+          "text": "Mohan Singh"
+        },
+        {
+          "id": "c",
+          "text": "Amrita Pritam"
+        },
+        {
+          "id": "d",
+          "text": "Kartar Singh Duggal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Puran Singh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003 RAS/RTS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q102",
+      "type": "single-choice",
+      "text": "The famous painting ‘Satyam Shivam Sundaram’ was prepared by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shobha Singh"
+        },
+        {
+          "id": "b",
+          "text": "Nandkishore Sharma"
+        },
+        {
+          "id": "c",
+          "text": "Shivnandan Nautiyal"
+        },
+        {
+          "id": "d",
+          "text": "Vishwanath Mehta"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Shobha Singh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q103",
+      "type": "single-choice",
+      "text": "The First Indian lady to climb on Everest top is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bachendri Pal"
+        },
+        {
+          "id": "b",
+          "text": "Dicky Dolma"
+        },
+        {
+          "id": "c",
+          "text": "Santosh Yadav"
+        },
+        {
+          "id": "d",
+          "text": "P.T. Usha"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bachendri Pal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q104",
+      "type": "single-choice",
+      "text": "Given below is a traditional list dresses of women along with States. Which one of them is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boku - Sikkim"
+        },
+        {
+          "id": "b",
+          "text": "Mekhala - Assam"
+        },
+        {
+          "id": "c",
+          "text": "Mundu - Chhattisgarh"
+        },
+        {
+          "id": "d",
+          "text": "Pheran - Kashmir"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mundu - Chhattisgarh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003 UPPCS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q105",
+      "type": "single-choice",
+      "text": "Shanti Niketan is located in which district of West Bengal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vardhman"
+        },
+        {
+          "id": "b",
+          "text": "Bankura"
+        },
+        {
+          "id": "c",
+          "text": "Murshidabad"
+        },
+        {
+          "id": "d",
+          "text": "Birbhum"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Birbhum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q106",
+      "type": "single-choice",
+      "text": "With reference to Dhrupad, one of the major traditions of India that has been kept alive for centuries, which of the following statements are correct? 1. Dhrupad originated and devel- oped in the Rajput kingdoms during the Mughal period. 2. Dhrupad is primarily a devo- tional and spiritual music. 3. Dhrupad Alap uses Sanskrit syl- lables from Mantras. Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 and 3",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q107",
+      "type": "single-choice",
+      "text": "Consider the following statements regarding the Chakiarkoothu form of dance. 1. It is performed by Chakiar caste. 2. It cannot be traditionally witnessed by the higher caster Hindus. 3. Mizhavu is the accompanying instrument. 4. Its theatre form is called Koothambalam. Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1, 3 and 4",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q108",
+      "type": "single-choice",
+      "text": "With reference to Manipuri Sankirtana, consider the following statements. 1. It is a song and dance performance. 2. Cymbals are the only musical instruments used in the performance. 3. It is performed to narrate the life and deeds of Lord Krishna. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "Only 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 1 and 3",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q109",
+      "type": "single-choice",
+      "text": "With reference to the famous Sattriya dance, consider the following statements. 1. Sattriya is a combination of mu- sic, dance and drama. 2. It is a centuries-old living tradi- tion of Vaishnavites of Assam. 3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir and Mirabai. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 1 and 2",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q110",
+      "type": "single-choice",
+      "text": "Consider the following pairs. 1. Garba - Gujarat 2. Mohini Attam - Odisha 3. Yakshagana - Karnataka Which of the pairs given above is/ are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Only 1 and 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q111",
+      "type": "single-choice",
+      "text": "How do you distinguish between Kuchipudi and Bharatanatyam dances? 1. Dancers occasionally speak- ing dialogues is found in Kuchipudi dance but not in Bharatanatyam. 2. Dancing on the brass plate by keeping the feet on its edges is a feature of Bharatanatyam, but Kuchipudi dance does not have such a form of movements. Which of the statement(s) given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q112",
+      "type": "single-choice",
+      "text": "Consider the following famous names. 1. Amrita Shergil 2. Bikas Bhattacharjee 3. N.S. Bendre 4. Subodh Gupta Who of the above is/are well- known as an artist(s)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "1 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q113",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Bihu (b) Onam (c) Pongal (d) Vaisakhi List-II 1. Assam 2. Kerala 3. Tamil Nadu 4. Punjab Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "1 3 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 2 3 4",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Mains) 2004, 02"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q114",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Famous Temple) (a) Vidyashankara Temple (b) Rajarani Temple (c) Kandariya Mahadeo Temple (d) Bhimesvara Temple List-II (State) 1. Andhra Pradesh 2. Karnataka 3. Madhya Pradesh 4. Orissa Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 3 1"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "d",
+          "text": "1 3 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 4 3 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q115",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Person) (a) Bhajan Sopori (b) Birju Maharaj (c) Priyadarshini Govind (d) T.V. Gopala Krishnan List-II (Known As) 1. Exponent of Santoor 2. Kathak dancer 3. Bharatanatyam dancer 4. Mridangam maestro Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "c",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1 2 3 4",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q116",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Dancer) (a) Kalamandalam Kshemavathy (b) Kottakkal Sivaraman (c) Lakshmi Viswanathan (d) N. Madhabi Devi List-II (Dance) 1. Kathakali 2. Manipuri 3. Mohiniattam 4. Bharatanatyam Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "b",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "c",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 1 4 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q117",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Bharatanatyam (b) Kathak (c) Kuchipudi (d) Mohiniattam List-II 1. Tamil Nadu 2. Kerala 3. Andhra Pradesh 4. Uttar Pradesh Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1 4 3 2",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPRO/ARO (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q118",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Artist) (a) Hira Bhattacharya (b) Malini Rajurkar (c) Pratibha Prahlad (d) Vempati Chinna Satyam List-II (Art) 1. Bharatanatyam dance 2. Hindustani vocal music 3. Kuchipudi dance 4. Puppetry Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "b",
+          "text": "3 1 2 4"
+        },
+        {
+          "id": "c",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "d",
+          "text": "3 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 4 2 1 3",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q119",
+      "type": "match-the-following",
+      "text": "Various States and their popular dance styles are given as follows. List-I (a) Andhra Pradesh (b) Assam (c) Himachal Pradesh (d) Rajasthan List-II 1. Bihu 2. Burra 3. Ghoomar 4. Nati What will be the correct matching of state and dance? Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "c",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "d",
+          "text": "2 4 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 1 4 3",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "38th BPSC (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q120",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (State) (a) Assam (b) Himachal Pradesh (c) West Bengal (d) Bihar List-II (Dance) 1. Jata-Jatin 2. Jatra 3. Ojapali 4. Luddi Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 2 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q121",
+      "type": "match-the-following",
+      "text": "Match the correct order. List-I (a) Shahnai (b) Sarod (c) Painter (d) Tabla (e) Sitar List-II 1. Maqbool Fida Husain 2. Bismillah Khan 3. Alla Rakha 4. Amjad Ali Khan 5. Ravi Shankar Code (a) (b) (c) (d) (e)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1 3 5"
+        },
+        {
+          "id": "b",
+          "text": "1 2 3 4 5"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1 5"
+        },
+        {
+          "id": "d",
+          "text": "3 5 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 4 1 3 5",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q122",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Birju Maharaj (b) Hari Prasad Chaurasia (c) Ali Akbar (d) Zakir Hussain List-II 1. Flute 2. Tabla 3. Kathak 4. Sarod Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 1 2 4"
+        },
+        {
+          "id": "b",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "c",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "d",
+          "text": "4 2 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 1 4 2",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "UPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q123",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Shiv Kumar Sharma (b) Hari Prasad Chaurasia (c) Asad Ali Khan (d) Pramod Gaekwad List-II 1. Flute 2. Santoor 3. Sundari 4. Rudra Veena Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "1 3 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 1 4 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q124",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Field) (a) Khayal (b) Pakhawaj (c) Veena Vadan (d) Tabla List-II (Artist) 1. Suraj Khan 2. Sadiq Ali Khan 3. Pt. Ayodhya Prasad 4. Veeru Mishra Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1 3 2 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UP UDA/LDA (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q125",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Pt. Shiv Kumar Sharma (b) Pt. Mallikarjun Mansur (c) V.G. Jog (d) Ali Akbar Khan List-II 1. Hindustani Music 2. Violin Player 3. Santoor Player 4. Sarod Player Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "c",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 3 1 2 4",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "MPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q126",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Ravishankar (b) Hari Prasad Chaurasia (c) Omkar Nath Thakur (d) Bismillah Khan List-II 1. Shahnai 2. Violin 3. Sitar 4. Flute Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "2 4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 4 2 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q127",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Kishan Maharaj (b) Hari Prasad Chaurasia (c) Pt. Gopalji Mishra (d) Kudak Singh List-II 1. Sarangi Player 2. Tabla Player 3. Pakhawaj Player 4. Bansuri Player Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "c",
+          "text": "2 4 3 1"
+        },
+        {
+          "id": "d",
+          "text": "2 4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 2 4 1 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q128",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Rukmani Devi (b) Kumar Gandharva (c) Birju Maharaj (d) Rakesh Sharma List-II 1. Classical singing 2. Astronaut 3. Kathak dance 4. Bharatanatyam dance Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "c",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "d",
+          "text": "3 2 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 4 1 3 2",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q129",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Artist) (a) Balamurali Krishna (b) Mita Pandit (c) Kanyakumari (d) Nikhil Bannerjee List-II (Medium of music delivery) 1. Hindustani Vocal 2. Ghatam 3. Sitar 4. Violin 5. Carnatic Vocal Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 1 2 3"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 5"
+        },
+        {
+          "id": "c",
+          "text": "3 1 5 2"
+        },
+        {
+          "id": "d",
+          "text": "5 4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 5 1 2 3",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q130",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Kavalam Narayana Panikkar (b) Sharmila Tagore (c) Balamurali Krishna (d) Sonal Man Singh List-II 1. Dance 2. Carnatic Vocal 3. Theatre 4. Historian 5. Cinema Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 5 3 1"
+        },
+        {
+          "id": "b",
+          "text": "3 1 2 5"
+        },
+        {
+          "id": "c",
+          "text": "4 1 3 5"
+        },
+        {
+          "id": "d",
+          "text": "3 5 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 3 5 2 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Uttaranchal PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q131",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Pandit Durga Lal (b) Lalgudi Jayaraman (c) Balamurali Krishna (d) Amrita Shergil List-II 1. Instrumental music 2. Dance 3. Painting 4. Vocal music Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "1 2 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 1 2 4"
+        },
+        {
+          "id": "d",
+          "text": "2 4 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 4 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q132",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Famous person) (a) Mandakini Amte (b) Neelam Man Singh Chowdhary (c) Romila Thaper (d) Vanashree Rao List-II (Well-known for) 1. Theatre direction 2. Social Service and Community leadership 3. Dance 4. History writing Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "c",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 4 3",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q133",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Amrita Shergil (b) Bhimsen Joshi (c) Rukmini Devi Arundale (d) Suryakant Tripathi ‘Nirala’ List-II 1. Dancer 2. Painter 3. Poet 4. Singer Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "c",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 4 1 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Telangana PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q134",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Taslima Nasrin (b) Salman Rushdie (c) M.F. Hussain (d) Rukmini Arundale List-II 1. Satanic Verses 2. Lajja 3. Dance 4. Painter Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 1 4 3",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Kerala PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q135",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Kuchipudi (b) Bharatanatyam (c) Kathak (d) Odissi List-II 1. Orissa 2. Uttar Pradesh 3. Tamil Nadu 4. Andhra Pradesh Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "b",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "d",
+          "text": "3 1 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 4 3 2 1",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "MPPCS (Pre) 1994 Haryana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q136",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Pandit Vishnu Digambar Paluskar (b) Venkatamahi (c) Shyama Shastri (d) Amir Khusrau List-II 1. Introduced the scheme of Raga classification of Indian music 2. Proponent of Carnatic music 3. Proponent of the Khayal form of Hindustani music 4. Wrote the music for the song ‘Vande Mataram’ Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "b",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "c",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "d",
+          "text": "1 4 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1 4 2 3",
+      "estimatedTimeSeconds": 155,
+      "tags": [
+        "Assam PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q137",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Eminent) (a) Bhanu Bharti (b) Mike Pandey (c) Mohd. Zahur Khayyam (d) Vinda Karandikar List-II (Known As) 1. Music composer 2. Poet and literature 3. Theatre director 4. Wildlife filmmaker Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "b",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "c",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 3 4 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q138",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Field) (a) Hindi Literature (b) Urdu (c) Music and Dance (d) Painting List-II (Person) 1. Ras Khan 2. Gyan Chandra Jain 3. Savita Devi 4. Satish Chandra Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 2 3 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Jammu & Kashmir PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q139",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Person) (a) Santosh Yadav (b) Oprah Winfrey (c) Oscar Wilde (d) P. Sainath List-II (Distinguished as) 1. T.V. Host 2. Journalist 3. Mountaineer 4. Dramatist and Author Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "b",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "c",
+          "text": "3 1 2 4"
+        },
+        {
+          "id": "d",
+          "text": "1 3 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 1 4 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q140",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Liberties) (a) Saraswati Mahal Library (b) Library of Tibetan Work and Archives (c) Raza Library (d) Khuda Baksh Oriental Public Library List-II (Locations) 1. Patna 2. Dharamsala 3. Thanjavur 4. Rampur Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 2 4 1",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q141",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Monument) (a) Gateway of India (b) Victoria Memorial (c) India Gate (d) Char Minar List-II (Location) 1. Kolkata 2. Hyderabad 3. New Delhi 4. Mumbai Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "b",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "1 4 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 1 3 2",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-art-and-culture-q142",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Sri Harikota (b) Sanchi Stupa (c) Gujari Mahal (d) Taj-ul-Masjid List-II 1. Bhopal 2. Raisen 3. Gwalior 4. Andhra Pradesh Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 2 3 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "MPPCS (Pre) 1994"
+      ]
+    }
+  ]
+}

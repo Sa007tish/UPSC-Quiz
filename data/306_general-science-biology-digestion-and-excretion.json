@@ -1,0 +1,1235 @@
+{
+  "bankId": "general-science-biology-digestion-and-excretion",
+  "subject": "Science",
+  "topic": "Digestion and Excretion",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-digestion-and-excretion-q1",
+      "type": "single-choice",
+      "text": "Cellulose and starch both are made up of",
+      "options": [
+        {
+          "id": "a",
+          "text": "(+) - glucose"
+        },
+        {
+          "id": "b",
+          "text": "(–) - fructose"
+        },
+        {
+          "id": "c",
+          "text": "Both (A) and (B)"
+        },
+        {
+          "id": "d",
+          "text": "(+) - galactose"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: (+) - glucose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q2",
+      "type": "single-choice",
+      "text": "The process by which blood is purified in human body is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dialysis"
+        },
+        {
+          "id": "b",
+          "text": "Haemolysis"
+        },
+        {
+          "id": "c",
+          "text": "Osmosis"
+        },
+        {
+          "id": "d",
+          "text": "Paralysis"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Dialysis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q3",
+      "type": "single-choice",
+      "text": "In human body most of the digestive process, takes place in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pancreas"
+        },
+        {
+          "id": "b",
+          "text": "Large intestine"
+        },
+        {
+          "id": "c",
+          "text": "Small intestine"
+        },
+        {
+          "id": "d",
+          "text": "Stomach"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Small intestine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1991",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q4",
+      "type": "single-choice",
+      "text": "The saliva helps in the digestion of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Starch"
+        },
+        {
+          "id": "b",
+          "text": "Proteins"
+        },
+        {
+          "id": "c",
+          "text": "Fibres"
+        },
+        {
+          "id": "d",
+          "text": "Fat"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Starch",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q5",
+      "type": "single-choice",
+      "text": "Which of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All the blood in the body is absorbed through the kidneys"
+        },
+        {
+          "id": "b",
+          "text": "All the blood in the body passes through the kidneys"
+        },
+        {
+          "id": "c",
+          "text": "All the blood in the body is filtered through the kidneys"
+        },
+        {
+          "id": "d",
+          "text": "All the blood in the body is made through the kidneys"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: All the blood in the body is filtered through the kidneys",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q6",
+      "type": "single-choice",
+      "text": "‘Dialysis’ is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Kidney"
+        },
+        {
+          "id": "c",
+          "text": "Eyes"
+        },
+        {
+          "id": "d",
+          "text": "Brain"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kidney",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q7",
+      "type": "single-choice",
+      "text": "Where is urea separated from the blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intestine"
+        },
+        {
+          "id": "b",
+          "text": "Stomach"
+        },
+        {
+          "id": "c",
+          "text": "Spleen"
+        },
+        {
+          "id": "d",
+          "text": "Kidney"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Kidney",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q8",
+      "type": "single-choice",
+      "text": "The kidneys in human beings are a part of system for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nutrition"
+        },
+        {
+          "id": "b",
+          "text": "Transportation"
+        },
+        {
+          "id": "c",
+          "text": "Excretion"
+        },
+        {
+          "id": "d",
+          "text": "Respiration"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Excretion",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q9",
+      "type": "single-choice",
+      "text": "Urea is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A nitrogen containing organic compound"
+        },
+        {
+          "id": "b",
+          "text": "A nitrogen containing in- organic compound"
+        },
+        {
+          "id": "c",
+          "text": "A plant hormone"
+        },
+        {
+          "id": "d",
+          "text": "An Endergonic compound"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A nitrogen containing organic compound",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q10",
+      "type": "single-choice",
+      "text": "The average blood flow through kidneys per minute is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1000 cc"
+        },
+        {
+          "id": "b",
+          "text": "1200 cc"
+        },
+        {
+          "id": "c",
+          "text": "200 cc"
+        },
+        {
+          "id": "d",
+          "text": "500 cc"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1200 cc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q11",
+      "type": "single-choice",
+      "text": "The dialyzer is used for the work of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart"
+        },
+        {
+          "id": "b",
+          "text": "Kidney"
+        },
+        {
+          "id": "c",
+          "text": "Liver"
+        },
+        {
+          "id": "d",
+          "text": "Lungs"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kidney",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q12",
+      "type": "single-choice",
+      "text": "When kidneys fail to function, there is accumulation of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fats in the body"
+        },
+        {
+          "id": "b",
+          "text": "Proteins in the body"
+        },
+        {
+          "id": "c",
+          "text": "Sugar in the blood"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogenous waste products in the blood"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nitrogenous waste products in the blood",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q13",
+      "type": "single-choice",
+      "text": "Which of the following is not the normal function of the human kidney?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regulation of water level in the blood"
+        },
+        {
+          "id": "b",
+          "text": "Regulation of sugar level in the blood"
+        },
+        {
+          "id": "c",
+          "text": "Filter out urea"
+        },
+        {
+          "id": "d",
+          "text": "Secretion of several hormones"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Regulation of sugar level in the blood",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q14",
+      "type": "single-choice",
+      "text": "The major chemical compound found in human kidney stones is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea"
+        },
+        {
+          "id": "b",
+          "text": "Calcium carbonate"
+        },
+        {
+          "id": "c",
+          "text": "Calcium oxalate"
+        },
+        {
+          "id": "d",
+          "text": "Calcium sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Calcium oxalate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q15",
+      "type": "single-choice",
+      "text": "What amongst the following is responsible for the formation of stone in the human kidney?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium acetate"
+        },
+        {
+          "id": "b",
+          "text": "Calcium oxalate"
+        },
+        {
+          "id": "c",
+          "text": "Sodium acetate"
+        },
+        {
+          "id": "d",
+          "text": "Sodium benzoate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Calcium oxalate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q16",
+      "type": "single-choice",
+      "text": "The stones present in the gall bladder affect the digestion of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protein"
+        },
+        {
+          "id": "b",
+          "text": "Fat"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "d",
+          "text": "Nucleic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q17",
+      "type": "single-choice",
+      "text": "Enzyme is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin"
+        },
+        {
+          "id": "b",
+          "text": "Bacterium"
+        },
+        {
+          "id": "c",
+          "text": "Bio-catalyst"
+        },
+        {
+          "id": "d",
+          "text": "Virus"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bio-catalyst",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2018 Uttarakhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q18",
+      "type": "single-choice",
+      "text": "Enzymes are basically",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fats"
+        },
+        {
+          "id": "b",
+          "text": "Sugars"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "Vitamins"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Proteins",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2013 UPPCS (Spl)(Mains) 2004 Uttarakhand PCS (Mains) 2002 Uttarakhand PCS (Pre) 2002 MPPCS (Pre) 1990 UPPCS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q19",
+      "type": "single-choice",
+      "text": "Which enzyme can catalyze the conversion of glucose to ethanol?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zymase"
+        },
+        {
+          "id": "b",
+          "text": "Invertase"
+        },
+        {
+          "id": "c",
+          "text": "Maltase"
+        },
+        {
+          "id": "d",
+          "text": "Diastase"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Zymase",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q20",
+      "type": "single-choice",
+      "text": "Substances which are responsible for catalysing chemical reactions in living systems are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacteria"
+        },
+        {
+          "id": "b",
+          "text": "DNA"
+        },
+        {
+          "id": "c",
+          "text": "Enzymes"
+        },
+        {
+          "id": "d",
+          "text": "Proteins"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Enzymes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q21",
+      "type": "single-choice",
+      "text": "Production of which one of the following is a function of the liver?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lipase"
+        },
+        {
+          "id": "b",
+          "text": "Urea"
+        },
+        {
+          "id": "c",
+          "text": "Mucus"
+        },
+        {
+          "id": "d",
+          "text": "Hydrochloric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Urea",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2019 IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q22",
+      "type": "single-choice",
+      "text": "Which one of the following is not a digestive enzyme in the human system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trypsin"
+        },
+        {
+          "id": "b",
+          "text": "Gastrin"
+        },
+        {
+          "id": "c",
+          "text": "Ptyalin"
+        },
+        {
+          "id": "d",
+          "text": "Pepsin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gastrin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q23",
+      "type": "single-choice",
+      "text": "An enzyme which helps in the digestion of protein is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urease"
+        },
+        {
+          "id": "b",
+          "text": "Sulfatase"
+        },
+        {
+          "id": "c",
+          "text": "Trypsin"
+        },
+        {
+          "id": "d",
+          "text": "Protease"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Trypsin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q24",
+      "type": "single-choice",
+      "text": "Enzyme that is formed by the hydrolysis of starch to glucose is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Invertase"
+        },
+        {
+          "id": "b",
+          "text": "Amylase"
+        },
+        {
+          "id": "c",
+          "text": "Dehydrogenase"
+        },
+        {
+          "id": "d",
+          "text": "Anhydrase"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Amylase",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q25",
+      "type": "single-choice",
+      "text": "Which of the following changes is catalyzed by the enzyme trypsin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Proteins to peptones"
+        },
+        {
+          "id": "b",
+          "text": "Proteins to peptides"
+        },
+        {
+          "id": "c",
+          "text": "Proteins to amino acids"
+        },
+        {
+          "id": "d",
+          "text": "Starch to glucose"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Proteins to amino acids",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q26",
+      "type": "single-choice",
+      "text": "In the human body, which structure is the appendix attached to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The large intestine"
+        },
+        {
+          "id": "b",
+          "text": "The small intestine"
+        },
+        {
+          "id": "c",
+          "text": "The gall bladder"
+        },
+        {
+          "id": "d",
+          "text": "The stomach"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The large intestine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q27",
+      "type": "single-choice",
+      "text": "Which one of the following is the correct sequence in the order decreasing the length of the three structural part given below, of the small intestine in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jejunum - Duodenum - Ileum"
+        },
+        {
+          "id": "b",
+          "text": "Ileum - Duodenum - Jejunum"
+        },
+        {
+          "id": "c",
+          "text": "Jejunum - Ileum - Duodenum"
+        },
+        {
+          "id": "d",
+          "text": "Ileum - Jejunum - Duodenum"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ileum - Jejunum - Duodenum",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "Kerala PSC (Pre) 2018 IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q28",
+      "type": "single-choice",
+      "text": "Which of the following foods will provide the nutrient for the growth of new tissues in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fruit"
+        },
+        {
+          "id": "b",
+          "text": "Vegetables"
+        },
+        {
+          "id": "c",
+          "text": "Cheese"
+        },
+        {
+          "id": "d",
+          "text": "Sweets"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cheese",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jammu & Kashmir PSC (Pre) 2019 RAS/RTS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q29",
+      "type": "single-choice",
+      "text": "Nutraceuticals are products which have",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nutrients vitamin and minerals"
+        },
+        {
+          "id": "b",
+          "text": "Nutrients protein and fatty acids"
+        },
+        {
+          "id": "c",
+          "text": "Nutrient and toxic effect"
+        },
+        {
+          "id": "d",
+          "text": "Nutrient and medicinal effect"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nutrient and medicinal effect",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2017 UPPCS (Pre) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q30",
+      "type": "single-choice",
+      "text": "Identify the correct pair of enzyme and its function.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acid phosphatase - Mitochon- drial marker enzymes related to oxidative functions"
+        },
+        {
+          "id": "b",
+          "text": "E. coli restriction endonuclease- II - Cuts DNA at specific places"
+        },
+        {
+          "id": "c",
+          "text": "Acrosin - Cortical granules of ovum secrete it to prevent polyspermic fertilization"
+        },
+        {
+          "id": "d",
+          "text": "Succinic dehydrogenase - Lysosomal marker enzyme, hydrolyses metabolites"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: E. coli restriction endonuclease- II - Cuts DNA at specific places",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "RAS/RTS (Pre)(Re. Exam) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q31",
+      "type": "single-choice",
+      "text": "With reference to the work of human kidney, consider the following statements. 1. After the waste is removed in the kidney, the cleaner blood is sent back through renal artery. 2. From Bowman’s capsule, the filtered liquid passes through tiny tubes where much of the glucose is reabsorbed and sent back to the blood in the renal vein. Which of these statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q32",
+      "type": "assertion-reason",
+      "text": "Assertion (A): In human body, the liver has an important role in fat digestion. Reason (R): Liver produces two important fat-digesting enzymes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q33",
+      "type": "assertion-reason",
+      "text": "Given below are two statements. Assertion (A): Human body is incapable of digesting cellulose. Reason (R): Starch degrading enzyme, diastase, is found in human body. Choose the correct answer from the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q34",
+      "type": "single-choice",
+      "text": "Digestion of Lipids takes place in the presence of some of the following. 1. Bile acids 2. Lipases 3. Pepsin Of these",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 is correct"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 3 are correct"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 2 are correct"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 are correct"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Only 1 and 2 are correct",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q35",
+      "type": "assertion-reason",
+      "text": "Assertion (A): All the proteins in our food are digested in small intestine only. Reason (R): The protein- digesting enzyme from the pancreas are released into the small intestine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: (A) is false, but (R) is true",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-digestion-and-excretion-q36",
+      "type": "single-choice",
+      "text": "Consider the following statements about probiotic food. 1. The probiotic food contains live bacteria which are considered beneficial to humans. 2. Probiotic food helps in maintaining gut flora. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "Gujarat PSC (Pre) 2017 IAS (Pre) 2008",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

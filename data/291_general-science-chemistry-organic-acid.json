@@ -1,0 +1,521 @@
+{
+  "bankId": "general-science-chemistry-organic-acid",
+  "subject": "Science",
+  "topic": "Organic Acid",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-organic-acid-q1",
+      "type": "single-choice",
+      "text": "Lemon is citrus due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "id": "b",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "c",
+          "text": "Tartaric acid"
+        },
+        {
+          "id": "d",
+          "text": "Citric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Citric acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q2",
+      "type": "single-choice",
+      "text": "Which acid is used in lemons?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Ascorbic acid"
+        },
+        {
+          "id": "c",
+          "text": "Citric acid"
+        },
+        {
+          "id": "d",
+          "text": "Nitric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Citric acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q3",
+      "type": "single-choice",
+      "text": "The sensation of fatigue in the muscles after prolonged strenuous physical work is caused by",
+      "options": [
+        {
+          "id": "a",
+          "text": "A decrease in the supply of oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Minor wear and tear of muscle fibres"
+        },
+        {
+          "id": "c",
+          "text": "The depletion of glucose"
+        },
+        {
+          "id": "d",
+          "text": "The accumulation of lactic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: The accumulation of lactic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q4",
+      "type": "single-choice",
+      "text": "Accumulation of which one of the following in the muscles leads to fatigue?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "b",
+          "text": "Benzoic acid"
+        },
+        {
+          "id": "c",
+          "text": "Pyruvic acid"
+        },
+        {
+          "id": "d",
+          "text": "Uric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Lactic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010, 1992 UP Lower Sub. (Spl)(Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q5",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ascorbic acid - Lemon"
+        },
+        {
+          "id": "b",
+          "text": "Maltose - Malt"
+        },
+        {
+          "id": "c",
+          "text": "Acetic acid - Curd"
+        },
+        {
+          "id": "d",
+          "text": "Formic acid - Red Ant"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Acetic acid - Curd",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q6",
+      "type": "single-choice",
+      "text": "Which one of the following organic acids is abundant in grapes, tamarind and banana?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Citric acid"
+        },
+        {
+          "id": "c",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "d",
+          "text": "Tartaric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Tartaric acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017 UPPCS (Spl)(Mains) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q7",
+      "type": "single-choice",
+      "text": "Which acid is used in photography?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formic acid"
+        },
+        {
+          "id": "b",
+          "text": "Oxalic acid"
+        },
+        {
+          "id": "c",
+          "text": "Citric acid"
+        },
+        {
+          "id": "d",
+          "text": "Acetic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Oxalic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q8",
+      "type": "single-choice",
+      "text": "Which one of the following acids is used in the manufacturing of baking powder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxalic acid"
+        },
+        {
+          "id": "b",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "c",
+          "text": "Tartaric acid"
+        },
+        {
+          "id": "d",
+          "text": "Benzoic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Tartaric acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q9",
+      "type": "single-choice",
+      "text": "Which of the following acid is found in molasses?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxalic acid"
+        },
+        {
+          "id": "b",
+          "text": "Citric acid"
+        },
+        {
+          "id": "c",
+          "text": "Hydrochloric acid"
+        },
+        {
+          "id": "d",
+          "text": "Acetic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Acetic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2009 42nd BPSC (Pre) 1997 IAS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q10",
+      "type": "single-choice",
+      "text": "Which acid is found in Vinegar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "b",
+          "text": "Citric acid"
+        },
+        {
+          "id": "c",
+          "text": "Malic acid"
+        },
+        {
+          "id": "d",
+          "text": "Acetic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Acetic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q11",
+      "type": "single-choice",
+      "text": "Vinegar is chemically known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Butyric acid"
+        },
+        {
+          "id": "c",
+          "text": "Formic acid"
+        },
+        {
+          "id": "d",
+          "text": "Tartaric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Acetic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q12",
+      "type": "single-choice",
+      "text": "Which of the following statements is correct? 1. Sugarcane juice is fermented to form vinegar. 2. Vinegar has acetic acid. 3. Benzoic acid is the acid present in Vinegar. 4. Vinegar is used as a preservative.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1, 2 and 3",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "RAS/RTS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q13",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Formic acid is a stronger acid that Acetic acid. Reason (R): Formic acid is an organic acid.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q14",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Acid) (a) Lactic acid (b) Acetic acid (c) Citric acid (d) Butyric acid List-II (Source) 1. Lemon 2. Rancid butter 3. Milk 4. Vinegar Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "b",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 3 4 1 2",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-organic-acid-q15",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Pickle (b) Sour milk (c) Apple (d) Cold drinks and soda water List-II 1. Carbonic acid 2. Acetic acid 3. Lactic acid 4. Malic acid Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 3 4 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Mains) 2003",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

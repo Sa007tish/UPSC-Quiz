@@ -1,0 +1,3079 @@
+{
+  "bankId": "general-awareness-space-and-satellite",
+  "subject": "General Awareness",
+  "topic": "Space and Satellite",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-space-and-satellite-q1",
+      "type": "single-choice",
+      "text": "Aryabhatta was launched on",
+      "options": [
+        {
+          "id": "a",
+          "text": "19th April, 1975"
+        },
+        {
+          "id": "b",
+          "text": "6th December, 1957"
+        },
+        {
+          "id": "c",
+          "text": "31st January, 1958"
+        },
+        {
+          "id": "d",
+          "text": "2nd October, 1980"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 19th April, 1975",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q2",
+      "type": "single-choice",
+      "text": "INSAT-3C was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hassan"
+        },
+        {
+          "id": "b",
+          "text": "Kaurou"
+        },
+        {
+          "id": "c",
+          "text": "Sriharikota"
+        },
+        {
+          "id": "d",
+          "text": "Thumba"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kaurou",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2016 UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q3",
+      "type": "single-choice",
+      "text": "The First Satellite of India sent to space, was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhaskar"
+        },
+        {
+          "id": "b",
+          "text": "Rohini"
+        },
+        {
+          "id": "c",
+          "text": "Aryabhatta"
+        },
+        {
+          "id": "d",
+          "text": "Apple"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Aryabhatta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009 MPPCS (Pre) 1992 UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q4",
+      "type": "single-choice",
+      "text": "India entered space age by launching",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhaskara I"
+        },
+        {
+          "id": "b",
+          "text": "Aryabhatta"
+        },
+        {
+          "id": "c",
+          "text": "Apple"
+        },
+        {
+          "id": "d",
+          "text": "Agni"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aryabhatta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q5",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cosmic Background Explorer (COBE) - Satellite programme"
+        },
+        {
+          "id": "b",
+          "text": "Falcon - Under-sea cable system"
+        },
+        {
+          "id": "c",
+          "text": "Discovery - Space shuttle"
+        },
+        {
+          "id": "d",
+          "text": "Atlantis - Space station"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Atlantis - Space station",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q6",
+      "type": "single-choice",
+      "text": "Which one of the following is NASA’s last Space Shuttle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atlantis"
+        },
+        {
+          "id": "b",
+          "text": "Colombia"
+        },
+        {
+          "id": "c",
+          "text": "Discovery"
+        },
+        {
+          "id": "d",
+          "text": "Endeavor"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Atlantis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q7",
+      "type": "single-choice",
+      "text": "NASA’s ‘Cassini’ spacecraft is on mission for which planet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jupiter"
+        },
+        {
+          "id": "b",
+          "text": "Mars"
+        },
+        {
+          "id": "c",
+          "text": "Saturn"
+        },
+        {
+          "id": "d",
+          "text": "Venus"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Saturn",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q8",
+      "type": "single-choice",
+      "text": "Tim Peake is known as which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Writer"
+        },
+        {
+          "id": "b",
+          "text": "Physicist"
+        },
+        {
+          "id": "c",
+          "text": "Astronaut"
+        },
+        {
+          "id": "d",
+          "text": "Politician"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Astronaut",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q9",
+      "type": "single-choice",
+      "text": "Kalpana-I is the new name given to one of the following.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insat-1A"
+        },
+        {
+          "id": "b",
+          "text": "Metsat"
+        },
+        {
+          "id": "c",
+          "text": "Insat-2B"
+        },
+        {
+          "id": "d",
+          "text": "Agni-III"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Metsat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q10",
+      "type": "single-choice",
+      "text": "Which one of the following satellites was successfully launched by India on 29th September, 2012?",
+      "options": [
+        {
+          "id": "a",
+          "text": "GSAT-6"
+        },
+        {
+          "id": "b",
+          "text": "GSAT-9"
+        },
+        {
+          "id": "c",
+          "text": "GSAT-10"
+        },
+        {
+          "id": "d",
+          "text": "GSAT-12"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: GSAT-10",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q11",
+      "type": "single-choice",
+      "text": "Electrically charged particles from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Earth’s magnetic field diverts them towards its poles"
+        },
+        {
+          "id": "b",
+          "text": "Ozone layer around the Earth reflects them back to outer space"
+        },
+        {
+          "id": "c",
+          "text": "Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth"
+        },
+        {
+          "id": "d",
+          "text": "None of the statement (A), (B) and (C) given above is correct"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The Earth’s magnetic field diverts them towards its poles",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "Manipur PSC (Pre) 2019 IAS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q12",
+      "type": "single-choice",
+      "text": "What is the geostatic position?",
+      "options": [
+        {
+          "id": "a",
+          "text": "When the Earth would stop moving around the Sun"
+        },
+        {
+          "id": "b",
+          "text": "When an object lies in between the Moon and the Earth"
+        },
+        {
+          "id": "c",
+          "text": "When the object moves around the Earth with the velocity commensurate with the velocity of the Earth such that it maintain a fixed position in relation to some place on the Earth"
+        },
+        {
+          "id": "d",
+          "text": "When an object occupies a fixed distance from the Earth"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: When the object moves around the Earth with the velocity commensurate with the velocity of the Earth such that it maintain a fixed position in relation to some place on the Earth",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "UPPCS (Mains) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q13",
+      "type": "single-choice",
+      "text": "In which atmospheric layer, the communication satellites are located?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stratosphere"
+        },
+        {
+          "id": "b",
+          "text": "Ionosphere"
+        },
+        {
+          "id": "c",
+          "text": "Troposphere"
+        },
+        {
+          "id": "d",
+          "text": "Exosphere"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Exosphere",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2018 UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q14",
+      "type": "single-choice",
+      "text": "A geostationary satellite has a period of",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 hours"
+        },
+        {
+          "id": "b",
+          "text": "12 hours"
+        },
+        {
+          "id": "c",
+          "text": "18 hours"
+        },
+        {
+          "id": "d",
+          "text": "24 hours"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 24 hours",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q15",
+      "type": "single-choice",
+      "text": "The time period of revolution of a geostationary satellite is",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 hrs"
+        },
+        {
+          "id": "b",
+          "text": "24 hrs"
+        },
+        {
+          "id": "c",
+          "text": "48 hrs"
+        },
+        {
+          "id": "d",
+          "text": "6 hrs"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 24 hrs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Maharashtra PSC (Pre) 2018 Uttarakhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q17",
+      "type": "single-choice",
+      "text": "NASA-U.S. space agency, has launched a telescope named Kepler to find",
+      "options": [
+        {
+          "id": "a",
+          "text": "Distant stars"
+        },
+        {
+          "id": "b",
+          "text": "Distant planets"
+        },
+        {
+          "id": "c",
+          "text": "Distant satellites"
+        },
+        {
+          "id": "d",
+          "text": "Earth like Planets"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Earth like Planets",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q18",
+      "type": "single-choice",
+      "text": "Who amongst the following was the Chairman of I.S.R.O. when INSAT-3B was launched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anil Kakodkar"
+        },
+        {
+          "id": "b",
+          "text": "Abdul Kalam"
+        },
+        {
+          "id": "c",
+          "text": "K. Kasturirangan"
+        },
+        {
+          "id": "d",
+          "text": "U.R. Rao"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: K. Kasturirangan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q19",
+      "type": "single-choice",
+      "text": "In the context of space technology, what is ‘BHUVAN’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The name of the space vehicle proposed to be sent to the Moon to probe possible human habitation there"
+        },
+        {
+          "id": "b",
+          "text": "A satellite launched by ISRO for promoting distant education in India"
+        },
+        {
+          "id": "c",
+          "text": "A space telescope developed by India"
+        },
+        {
+          "id": "d",
+          "text": "A geoportal of ISRO with 3-D imaging capabilities"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: A geoportal of ISRO with 3-D imaging capabilities",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "UP Lower Sub. (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q20",
+      "type": "single-choice",
+      "text": "Indian Satellite series which is being used for telecommunication system is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rohini"
+        },
+        {
+          "id": "b",
+          "text": "I.R.S."
+        },
+        {
+          "id": "c",
+          "text": "CARTOSAT"
+        },
+        {
+          "id": "d",
+          "text": "INSAT"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: INSAT",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q21",
+      "type": "single-choice",
+      "text": "Television transmission is an example of which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simplex communication"
+        },
+        {
+          "id": "b",
+          "text": "Half-duplex communication"
+        },
+        {
+          "id": "c",
+          "text": "Full-duplex communication"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Simplex communication",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q22",
+      "type": "single-choice",
+      "text": "India’s first remote sensing satellite (I.R.S.-IA) was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baikanour"
+        },
+        {
+          "id": "b",
+          "text": "Cape Kennedy"
+        },
+        {
+          "id": "c",
+          "text": "French Guana"
+        },
+        {
+          "id": "d",
+          "text": "Sriharikota"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Baikanour",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2019 UPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q23",
+      "type": "single-choice",
+      "text": "The Indian GSAT-7 satellite is exclusively meant for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weather forecast"
+        },
+        {
+          "id": "b",
+          "text": "Military communication"
+        },
+        {
+          "id": "c",
+          "text": "Mars mission"
+        },
+        {
+          "id": "d",
+          "text": "Special coverage of Moon"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Military communication",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q24",
+      "type": "single-choice",
+      "text": "India’s advanced communication satellite GSAT-8 was launched on May 21, 2011 from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hassan"
+        },
+        {
+          "id": "b",
+          "text": "Kourou"
+        },
+        {
+          "id": "c",
+          "text": "Sriharikota"
+        },
+        {
+          "id": "d",
+          "text": "Thiruvananthapuram"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kourou",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q25",
+      "type": "single-choice",
+      "text": "Which one of the following is a spacecraft?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apophis"
+        },
+        {
+          "id": "b",
+          "text": "Cassini"
+        },
+        {
+          "id": "c",
+          "text": "Spitzer"
+        },
+        {
+          "id": "d",
+          "text": "Tech Sar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cassini",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q26",
+      "type": "single-choice",
+      "text": "What is the name of the world’s first private flight plan to go on the Moon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moon Express"
+        },
+        {
+          "id": "b",
+          "text": "Moon Flight"
+        },
+        {
+          "id": "c",
+          "text": "Chandrayaan"
+        },
+        {
+          "id": "d",
+          "text": "Moon Mail"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Moon Express",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q27",
+      "type": "single-choice",
+      "text": "Apple was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kourou (French Guiana)"
+        },
+        {
+          "id": "b",
+          "text": "Sriharikota (India)"
+        },
+        {
+          "id": "c",
+          "text": "Baikanoor (Russia)"
+        },
+        {
+          "id": "d",
+          "text": "Cape Canaveral (U.S.A.)"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Kourou (French Guiana)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q28",
+      "type": "single-choice",
+      "text": "The first Indian Communication Satellite APPLE was launched on",
+      "options": [
+        {
+          "id": "a",
+          "text": "27 February, 1982"
+        },
+        {
+          "id": "b",
+          "text": "18 September, 1981"
+        },
+        {
+          "id": "c",
+          "text": "19 June, 1981"
+        },
+        {
+          "id": "d",
+          "text": "25 December, 1981"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 19 June, 1981",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q29",
+      "type": "single-choice",
+      "text": "When INSAT-1D of India was launched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10th June, 1990"
+        },
+        {
+          "id": "b",
+          "text": "12th June, 1990"
+        },
+        {
+          "id": "c",
+          "text": "13th June, 1990"
+        },
+        {
+          "id": "d",
+          "text": "15th June, 1990"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 12th June, 1990",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q30",
+      "type": "single-choice",
+      "text": "When was ‘INSAT-2A’ launched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4th February, 1975"
+        },
+        {
+          "id": "b",
+          "text": "18th May, 1974"
+        },
+        {
+          "id": "c",
+          "text": "10th July, 1992"
+        },
+        {
+          "id": "d",
+          "text": "19th April, 1975"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 10th July, 1992",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2014 44th BPSC (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q31",
+      "type": "single-choice",
+      "text": "Heaviest Indian Satellite INSAT- 4C, which failed to go into orbit recently weighted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1568 kg"
+        },
+        {
+          "id": "b",
+          "text": "2168 kg"
+        },
+        {
+          "id": "c",
+          "text": "2568 kg"
+        },
+        {
+          "id": "d",
+          "text": "3068 kg"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2168 kg",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2019 UPPCS (Mains) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q32",
+      "type": "single-choice",
+      "text": "India’s first dedicated navigation satellite IRNSS-1A was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sriharikota"
+        },
+        {
+          "id": "b",
+          "text": "Ahmedabad"
+        },
+        {
+          "id": "c",
+          "text": "Thiruvananthapuram"
+        },
+        {
+          "id": "d",
+          "text": "Bengaluru"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sriharikota",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q33",
+      "type": "single-choice",
+      "text": "ISRO’s Master Control Facility is at Hasan, which is located",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Gujarat"
+        },
+        {
+          "id": "c",
+          "text": "Orissa"
+        },
+        {
+          "id": "d",
+          "text": "Karnataka"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Karnataka",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q34",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Space Application Centre - Ahmedabad"
+        },
+        {
+          "id": "b",
+          "text": "National Remote Sensing Centre - Hyderabad"
+        },
+        {
+          "id": "c",
+          "text": "Indian Space Research Organisation Satellite Centre - Sriharikota"
+        },
+        {
+          "id": "d",
+          "text": "Vikram Sarabhai Space Centre - Thiruvananthapuram"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Indian Space Research Organisation Satellite Centre - Sriharikota",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "Tripura PSC (Pre) 2017 UP UDA/LDA (Spl)(Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q35",
+      "type": "single-choice",
+      "text": "The ‘Black Box’ of an aeroplane is of",
+      "options": [
+        {
+          "id": "a",
+          "text": "White colour"
+        },
+        {
+          "id": "b",
+          "text": "Red colour"
+        },
+        {
+          "id": "c",
+          "text": "Black colour"
+        },
+        {
+          "id": "d",
+          "text": "Orange colour"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Orange colour",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010 UPPCS (Mains) 2009 UPPCS (Spl)(Mains) 2004 UPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q36",
+      "type": "single-choice",
+      "text": "On which date did Chandrayaan enter the lunar orbit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 November"
+        },
+        {
+          "id": "b",
+          "text": "6 November"
+        },
+        {
+          "id": "c",
+          "text": "8 November"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 8 November",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q37",
+      "type": "single-choice",
+      "text": "Name of the spacecraft for India’s mission Moon is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandrayaan-I"
+        },
+        {
+          "id": "b",
+          "text": "Chandrayaan-II"
+        },
+        {
+          "id": "c",
+          "text": "Antariksha"
+        },
+        {
+          "id": "d",
+          "text": "Change-I"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chandrayaan-I",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q38",
+      "type": "single-choice",
+      "text": "Chandrayaan-I was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orissa"
+        },
+        {
+          "id": "b",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "c",
+          "text": "Karnataka"
+        },
+        {
+          "id": "d",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Andhra Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2018 RAS/RTS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q39",
+      "type": "single-choice",
+      "text": "The Project Director of Chandrayaan-II was",
+      "options": [
+        {
+          "id": "a",
+          "text": "C. Rangarajan"
+        },
+        {
+          "id": "b",
+          "text": "A.P.J. Kalam"
+        },
+        {
+          "id": "c",
+          "text": "P. Chidambaram"
+        },
+        {
+          "id": "d",
+          "text": "Dr. M. Annadurai"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dr. M. Annadurai",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2016 UPPSC (GIC) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q40",
+      "type": "single-choice",
+      "text": "Which of the following statement is not correct about Chinese space shuttle ‘Shenzhou-7’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was manned by four astronauts"
+        },
+        {
+          "id": "b",
+          "text": "It was launched by long March 2F rocket"
+        },
+        {
+          "id": "c",
+          "text": "For the first time, the Chinese astronauts performed a spacecraft"
+        },
+        {
+          "id": "d",
+          "text": "The astronauts returned safely to Earth"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: It was manned by four astronauts",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2018 UPPCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q41",
+      "type": "single-choice",
+      "text": "China developed a system nicknamed ‘Micius’ which is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An ancient Chinese musical system"
+        },
+        {
+          "id": "b",
+          "text": "A quantum satellite communi- cation system"
+        },
+        {
+          "id": "c",
+          "text": "A computer game"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: A quantum satellite communi- cation system",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q42",
+      "type": "single-choice",
+      "text": "NASA’s Jet Propulsion Laboratory is located in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Houston"
+        },
+        {
+          "id": "b",
+          "text": "Los Angeles"
+        },
+        {
+          "id": "c",
+          "text": "Pasadena"
+        },
+        {
+          "id": "d",
+          "text": "Cape Kennedy"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pasadena",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2019 Uttarakhand PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q43",
+      "type": "single-choice",
+      "text": "What is ‘Greased Lightning-10 (GL- 10)’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electric plane tested by NASA"
+        },
+        {
+          "id": "b",
+          "text": "Solar-powered two-seater aircraft designed by Japan"
+        },
+        {
+          "id": "c",
+          "text": "Space observatory launched by China"
+        },
+        {
+          "id": "d",
+          "text": "Reusable rocket designed by ISRO"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Electric plane tested by NASA",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q44",
+      "type": "single-choice",
+      "text": "NASA’s Deep Impact space mission was employed to take detailed pictures of which comet nucleus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Halley’s Comet"
+        },
+        {
+          "id": "b",
+          "text": "Hale-Bopp"
+        },
+        {
+          "id": "c",
+          "text": "Hyakutake"
+        },
+        {
+          "id": "d",
+          "text": "Temple-1"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Temple-1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016 IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q45",
+      "type": "single-choice",
+      "text": "What is the name of NASA vehicle on Mars?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Phoenix"
+        },
+        {
+          "id": "b",
+          "text": "Roger"
+        },
+        {
+          "id": "c",
+          "text": "Florida"
+        },
+        {
+          "id": "d",
+          "text": "John Canaday"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Phoenix",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2019 MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q46",
+      "type": "single-choice",
+      "text": "The first U.S. rover which reached Mars in January 2004 was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Discovery"
+        },
+        {
+          "id": "b",
+          "text": "Pioneer"
+        },
+        {
+          "id": "c",
+          "text": "Spirit"
+        },
+        {
+          "id": "d",
+          "text": "Vanguard"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Spirit",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Orissa PSC (Pre) 2017 Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q47",
+      "type": "single-choice",
+      "text": "According to NASA, the evidence for the presence of life on Mars found till today include",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water alone"
+        },
+        {
+          "id": "b",
+          "text": "Water and gypsum alone"
+        },
+        {
+          "id": "c",
+          "text": "Water, gypsum and methane"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Water, gypsum and methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q48",
+      "type": "single-choice",
+      "text": "Methane is present in the atmosphere of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moon"
+        },
+        {
+          "id": "b",
+          "text": "Sun"
+        },
+        {
+          "id": "c",
+          "text": "Mars"
+        },
+        {
+          "id": "d",
+          "text": "Jupiter"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jupiter",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q49",
+      "type": "single-choice",
+      "text": "The fuel tanks of the spacecraft ‘Discovery’ that was launched into space on 4 July, 2006 was filled with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid hydrogen only"
+        },
+        {
+          "id": "b",
+          "text": "Liquid oxygen only"
+        },
+        {
+          "id": "c",
+          "text": "Mixture of liquid hydrogen and liquid oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Mixture of liquid hydrogen, liquid oxygen and liquid helium"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mixture of liquid hydrogen and liquid oxygen",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q50",
+      "type": "single-choice",
+      "text": "Which of the following names of animals was sent to space on 3rd November, 1957?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otolith"
+        },
+        {
+          "id": "b",
+          "text": "Laika"
+        },
+        {
+          "id": "c",
+          "text": "Baker"
+        },
+        {
+          "id": "d",
+          "text": "Belka"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Laika",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q51",
+      "type": "single-choice",
+      "text": "Apollo-8 was launched for space exploration on",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 January, 1998"
+        },
+        {
+          "id": "b",
+          "text": "7 February, 1998"
+        },
+        {
+          "id": "c",
+          "text": "8 March, 1998"
+        },
+        {
+          "id": "d",
+          "text": "21 December, 1968"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 21 December, 1968",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q52",
+      "type": "single-choice",
+      "text": "Selene-1, the lunar orbiter mission belongs to which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "China"
+        },
+        {
+          "id": "b",
+          "text": "European Union"
+        },
+        {
+          "id": "c",
+          "text": "Japan"
+        },
+        {
+          "id": "d",
+          "text": "USA"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Japan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q53",
+      "type": "single-choice",
+      "text": "On which principle, a Jet Engine works?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conservation of linear momentum"
+        },
+        {
+          "id": "b",
+          "text": "Conservation of angular momentum"
+        },
+        {
+          "id": "c",
+          "text": "Conservation of energy"
+        },
+        {
+          "id": "d",
+          "text": "Conservation of mass"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Conservation of linear momentum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q54",
+      "type": "single-choice",
+      "text": "Stratellite is the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uppermost band of stratosphere"
+        },
+        {
+          "id": "b",
+          "text": "Lowermost band of stratosphere"
+        },
+        {
+          "id": "c",
+          "text": "High altitude airship positioned in the stratosphere"
+        },
+        {
+          "id": "d",
+          "text": "Natural satellite of Saturn"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: High altitude airship positioned in the stratosphere",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q55",
+      "type": "single-choice",
+      "text": "Thumba known as rocket launching station is situated in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Bihar"
+        },
+        {
+          "id": "c",
+          "text": "Jharkhand"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Kerala",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q56",
+      "type": "single-choice",
+      "text": "Sriharikota Island lies near",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chika lake"
+        },
+        {
+          "id": "b",
+          "text": "Pulicat lake"
+        },
+        {
+          "id": "c",
+          "text": "Mahanadi"
+        },
+        {
+          "id": "d",
+          "text": "Godavari Mouth"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pulicat lake",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q57",
+      "type": "single-choice",
+      "text": "In which of the following States lies Sriharikota, the spaceport of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "b",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "d",
+          "text": "Kerala"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Andhra Pradesh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002 MPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q58",
+      "type": "single-choice",
+      "text": "In February, 2004 a blast occurred in India’s Space Centre at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ahmedabad"
+        },
+        {
+          "id": "b",
+          "text": "Bangalore"
+        },
+        {
+          "id": "c",
+          "text": "Sriharikota"
+        },
+        {
+          "id": "d",
+          "text": "Thumba"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sriharikota",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q59",
+      "type": "single-choice",
+      "text": "What is the Galileo Project?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An inter-country programme of missile shield developed by the United States of America"
+        },
+        {
+          "id": "b",
+          "text": "A project developed by India with assistance from Canada"
+        },
+        {
+          "id": "c",
+          "text": "An environmental protection project being developed by Japan"
+        },
+        {
+          "id": "d",
+          "text": "A multi-satellite navigation project being developed by the European Union"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: A multi-satellite navigation project being developed by the European Union",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2016 IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q60",
+      "type": "single-choice",
+      "text": "Cryogenic temperature stands for temperatures",
+      "options": [
+        {
+          "id": "a",
+          "text": "Below 150ºC"
+        },
+        {
+          "id": "b",
+          "text": "Above 150ºC"
+        },
+        {
+          "id": "c",
+          "text": "Below –150ºC"
+        },
+        {
+          "id": "d",
+          "text": "–273ºC"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Below –150ºC",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2016 Chhattisgarh PCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q61",
+      "type": "single-choice",
+      "text": "Low temperatures (cryogenics) find application in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Space travel, surgery and magnetic levitation"
+        },
+        {
+          "id": "b",
+          "text": "Surgery, magnetic levitation and telemetry"
+        },
+        {
+          "id": "c",
+          "text": "Space travel, surgery and telemetry"
+        },
+        {
+          "id": "d",
+          "text": "Space travel, magnetic levitation and telemetry"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Space travel, magnetic levitation and telemetry",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q62",
+      "type": "single-choice",
+      "text": "Cryogenic engines final application in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sub-marine propulsion"
+        },
+        {
+          "id": "b",
+          "text": "Frost-free refrigerators"
+        },
+        {
+          "id": "c",
+          "text": "Rocket technology"
+        },
+        {
+          "id": "d",
+          "text": "Researches in superconduc- tivity"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Rocket technology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006 IAS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q63",
+      "type": "single-choice",
+      "text": "Cryogenic engines use",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid chlorine as the oxidizer and liquid hydrogen as the fuel"
+        },
+        {
+          "id": "b",
+          "text": "Liquid oxygen as the oxidizer and liquid hydrogen as the fuel"
+        },
+        {
+          "id": "c",
+          "text": "Liquid fluorine as the oxidizer and liquid hydrogen as the fuel"
+        },
+        {
+          "id": "d",
+          "text": "Liquid sulphur dioxide as the oxidizer and liquid hydrogen as the fuel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Liquid oxygen as the oxidizer and liquid hydrogen as the fuel",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q64",
+      "type": "single-choice",
+      "text": "The Cryogenic engine is used in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boeing"
+        },
+        {
+          "id": "b",
+          "text": "Rapid rail engines"
+        },
+        {
+          "id": "c",
+          "text": "Space shuttle"
+        },
+        {
+          "id": "d",
+          "text": "Nuclear reactor"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Space shuttle",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q65",
+      "type": "single-choice",
+      "text": "Which of the following is not used as rocket propellant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Liquid oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Liquid hydrazine"
+        },
+        {
+          "id": "d",
+          "text": "Kerosene oil"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Liquid hydrazine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q66",
+      "type": "single-choice",
+      "text": "Rocket works on the principle of the following.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Avogadro’s concept"
+        },
+        {
+          "id": "b",
+          "text": "Energy conservation"
+        },
+        {
+          "id": "c",
+          "text": "Momentum conservation"
+        },
+        {
+          "id": "d",
+          "text": "Bernoulli’s theorem"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Momentum conservation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q67",
+      "type": "single-choice",
+      "text": "An artificial satellite can be tracked very precisely from the Earth by using",
+      "options": [
+        {
+          "id": "a",
+          "text": "Doppler effect"
+        },
+        {
+          "id": "b",
+          "text": "Radar"
+        },
+        {
+          "id": "c",
+          "text": "Sonar"
+        },
+        {
+          "id": "d",
+          "text": "Pulsar"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Doppler effect",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017 Karnataka PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q68",
+      "type": "single-choice",
+      "text": "Which one of the following is not a space satellite?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SLV-3"
+        },
+        {
+          "id": "b",
+          "text": "RS-D1"
+        },
+        {
+          "id": "c",
+          "text": "IRS-1D"
+        },
+        {
+          "id": "d",
+          "text": "INSAT-2D"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: SLV-3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010 UP Lower Sub. (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q69",
+      "type": "single-choice",
+      "text": "India became the first country to send Educational Services Satellite in space, Edusat. When was the sat- ellite launched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "20th September, 2003"
+        },
+        {
+          "id": "b",
+          "text": "20th September, 2004"
+        },
+        {
+          "id": "c",
+          "text": "4th July, 2004"
+        },
+        {
+          "id": "d",
+          "text": "20th December, 2003"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 20th September, 2004",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q70",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Curiosity Rover (b) Messenger (c) Rustam-1 (d) Akash-2 List-II 1. Tablet 2. Unmanned Aerial vehicle of DRDO 3. Mars probe space vehicle of U.S.A. 4. Mercury probe space vehicle of NASA Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 4 2 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Pre) 2013 UP UDA/LDA (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q71",
+      "type": "single-choice",
+      "text": "Which of the following pairs is/are correctly matched? Spacecraft Purpose 1. Cassini-Huygens - Orbiting the Venus and transmitting data to the Earth 2. Messenger - Mapping and investigating the Mercury 3. Voyager 1 and 2 - Exploring the outer solar system Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 2 and 3",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q72",
+      "type": "single-choice",
+      "text": "Which of the following is/are cited by the scientists as evidence/ evidences for the continued expansion of the universe? 1. Detection of microwaves in space. 2. Observation of redshift phenomenon in space. 3. Movement of asteroids in space. 4. Occurrence of supernova explosions in space. Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 and 2",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q73",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. India launches its first full- fledged meteorological satellite (METSAT) in September, 2002. 2. For the first time, the space vehicle PSLV C-4 carried a payload of more than 1000 kg into a geosynchronous orbit. Which of these statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q74",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. A geostationary satellite is at an approximate height of 10000 km. 2. FM transmission of music is of very good quality because the atmospheric or man-made noises which are generally frequency variations can do little harm. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 2",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q75",
+      "type": "single-choice",
+      "text": "The satellite used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when 1. The orbit is geosynchronous. 2. The orbit is circular. 3. The orbit lies in the plane of the Earth’s equator. 4. The orbit is at an altitude of 22,236 km. Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1, 2 and 3",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q76",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Vigyan Rail is a Science Exhibition on wheels organized by the Council of Scientific and Industrial Research. 2. Vigyan Prasar is an autonomous body under the ministry of human resources development. 3. The educational satellite of ISRO (EDUSAT) was launched in 2004 from French Guiana. Which of the above statement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2018 IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q77",
+      "type": "single-choice",
+      "text": "With reference to ‘Astrosat’, the astronomical observatory launched by India, which of the following statements is/are correct? 1. Other than USA and Russia, India is the only country to have launched a similar observatory into space. 2. Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth. Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Neither 1 nor 2",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2016 Kerala PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q78",
+      "type": "assertion-reason",
+      "text": "Assertion (A): India’s telecomm- unication has been linked to a satellite. Reason (R): India is preparing for starwar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Sikkim PSC (Pre) 2017 UPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q79",
+      "type": "single-choice",
+      "text": "In which of the following activities are Indian Remote Sensing (IRS) satellites used? 1. Assessment of crop productivity 2. Locating groundwater resou- rces. 3. Mineral exploration 4. Telecommunication 5. Traffic studies Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "Only 4 and 5"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3, 4 and 5"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1, 2 and 3",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q80",
+      "type": "assertion-reason",
+      "text": "Assertion (A): A space shuttle loses radio contact with ground station for a while during landing on the Earth. Reason (R): As a space shuttle enters Earth’s atmosphere, the shuttle’s surface temperature increases which ionize the surrou- nding air. In the context of the above statements, which of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UP UDA/LDA (Pre) 2002 UPPCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q81",
+      "type": "single-choice",
+      "text": "Which is the correct chronological order of the following space programmes? 1. APPLE 2. IGMD 3. STEP 4. SITE",
+      "options": [
+        {
+          "id": "a",
+          "text": "2, 3, 4, 1"
+        },
+        {
+          "id": "b",
+          "text": "4, 3, 1, 2"
+        },
+        {
+          "id": "c",
+          "text": "3, 1, 4, 2"
+        },
+        {
+          "id": "d",
+          "text": "1, 3, 4, 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4, 3, 1, 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2017 UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q82",
+      "type": "single-choice",
+      "text": "India developed the Satellite launch vehicles over a period of few decades. Which is the correct chronological order of development of the following vehicles A, B, C and D? 1. PSLV 2. ASLV 3. SLV 4. GSLV Select correct answer from code below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3, 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4, 1"
+        },
+        {
+          "id": "c",
+          "text": "4, 3, 1, 2"
+        },
+        {
+          "id": "d",
+          "text": "3, 2, 1, 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 3, 2, 1, 4",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q83",
+      "type": "single-choice",
+      "text": "Match the following pairs. Launch Vehicle (a) Satellite Launch Vehicle-3 (SLV-3) (b) Augmented Satellite Launch Vehicle (ASLV) (c) Polar Satellite Launch Vehicle (PSLV) (d) Geosynchronous Satellite Launch Vehicle (GSLV) Satellite 1. Chandrayaan-1 2. Rohini 3. SROSS-C 4. EDUSAT Which of the following codes are correctly matched? Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 3 1 4",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "RAS/RTS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q84",
+      "type": "single-choice",
+      "text": "In the given picture/map 1, 2, 3 and 4 has marked to show the location of space organization units. Match these units with the list given below and select the correct answer using the codes given below. 1 2 3 4 List (a) I.S.R.O. (b) I.I.R.S. (c) N.R.S.A. (d) S.A.C. Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "b",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 1 3 2",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q85",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Organisations) (a) ISRO (b) IUCA (c) IUAC (d) VSSC List-II (Location) 1. Thiruvananthapuram 2. Pune 3. Bengaluru 4. New Delhi Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "c",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 2 4 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Karnataka PSC (Pre) 2018 UP UDA/LDA (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q86",
+      "type": "single-choice",
+      "text": "The Vikram Sarabhai Space Centre at Trivandrum is mainly concerned with 1. Research in propellants for launching rockets. 2. To launched sounding rockets to investigate problems of meteorology. 3. Design and fabrication of spacecraft. 4. Development of satellite launch. Select the answer from the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 4"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "Only 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1 and 4",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "Gujarat PSC (Pre) 2018 Sikkim PSC (Pre) 2016 UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q87",
+      "type": "assertion-reason",
+      "text": "Consider the following Assertion (A) and Reason (R) and choose your answer from given code. Assertion (A): The upper surface of the wings of an aeroplane is made convex and the lower surface is made concave. Reason (R): The air current at the top has less velocity and thus less pressure at the bottom than at the top.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "Meghalaya PSC (Pre) 2018 UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q88",
+      "type": "single-choice",
+      "text": "Consider the following statements. The Mangalyaan launched by ISRO 1. is also called the Mars Orbiter Mission. 2. made India the second country to have a spacecraft orbit the Mars after the USA. 3. made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Only 1 and 3",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q89",
+      "type": "single-choice",
+      "text": "Consider the following statements in respect of a jet engine and a rocket. 1. A jet engine uses the surrounding air for its oxygen supply and so is unsuitable for motion in space. 2. A rocket carries its own supply of oxygen in the gas form and fuel. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2008 UPPCS (Pre) 2009 UPPCS (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q90",
+      "type": "single-choice",
+      "text": "The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation? 1. There are no clouds or water-vapour in the lower stratosphere. 2. There are no vertical winds in the lower stratosphere. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 2011 UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q91",
+      "type": "single-choice",
+      "text": "Consider the following statements and find the correct answer from the codes given below. 1. RISAT-2 Satellite was put in orbit by PSLV-C12 in April 2009 from Sriharikota. 2. Another satellite ANUSAT was also put in orbit by the PSLV-C12. This was built by Anna University, Chennai. 3. ANUSAT is an experimental communication satellite. 4. RISAT-2 is surveillance satellite and can keep a watch on country’s borders.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017 UPPCS (Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q92",
+      "type": "single-choice",
+      "text": "With reference to Indian satellites and their launchers, consider the following statements. 1. All the INSAT series of satellites were launched abroad. 2. PSLV’s were used to launch IRS-series of satellites. 3. India used the indigenously built cryogenic engines for the first time for powering the third stage of GSLV. 4. GSAT, launched in the year 2001, had payloads to demonstrate digital broadcast and Internet services. Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2, 3 and 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q93",
+      "type": "single-choice",
+      "text": "List of few satellites manufactured by ISRO is given below along with the date of their launch. Which two of the following satellites failed to reach the orbit? Satellite Launch Date 1. GSAT-2 - 8th May, 2003 2. GSAT-4 - 15th April, 2010 3. GSAT-5P - 25th December, 2010 4. GSAT-12 - 15th July, 2011",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 and 3",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-space-and-satellite-q94",
+      "type": "single-choice",
+      "text": "Television viewers using dish antenna to receive satellite signals do not receive signals during rain because 1. of small size of antenna. 2. rain droplets absorb the energy of radio waves. 3. rain droplets disperse the energy of radio waves from their original direction. Which of the above statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2 and 3",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "UPPCS (Pre) 2017"
+      ]
+    }
+  ]
+}

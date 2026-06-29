@@ -1,0 +1,1473 @@
+{
+  "bankId": "general-science-biology-human-anatomy",
+  "subject": "Science",
+  "topic": "Human Anatomy",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-human-anatomy-q1",
+      "type": "single-choice",
+      "text": "The most abundant element found in the human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Sodium"
+        },
+        {
+          "id": "c",
+          "text": "Oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Iodine"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q2",
+      "type": "single-choice",
+      "text": "The maximum amount of element found in human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Sodium"
+        },
+        {
+          "id": "c",
+          "text": "Phosphorus"
+        },
+        {
+          "id": "d",
+          "text": "Calcium"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Calcium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q3",
+      "type": "single-choice",
+      "text": "Weight of our body is mostly made of",
+      "options": [
+        {
+          "id": "a",
+          "text": "From bones"
+        },
+        {
+          "id": "b",
+          "text": "Parts of body"
+        },
+        {
+          "id": "c",
+          "text": "Parts of skin"
+        },
+        {
+          "id": "d",
+          "text": "From water"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: From water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q4",
+      "type": "single-choice",
+      "text": "The percentage of water in an adult human body is around",
+      "options": [
+        {
+          "id": "a",
+          "text": "10%"
+        },
+        {
+          "id": "b",
+          "text": "30%"
+        },
+        {
+          "id": "c",
+          "text": "65%"
+        },
+        {
+          "id": "d",
+          "text": "75%"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 65%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q5",
+      "type": "single-choice",
+      "text": "The number of bones in an adult human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "204"
+        },
+        {
+          "id": "b",
+          "text": "206"
+        },
+        {
+          "id": "c",
+          "text": "208"
+        },
+        {
+          "id": "d",
+          "text": "210"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 206",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010 UP Lower Sub. (Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q6",
+      "type": "single-choice",
+      "text": "The total volume of blood in a normal adult human being is",
+      "options": [
+        {
+          "id": "a",
+          "text": "5-6 litres"
+        },
+        {
+          "id": "b",
+          "text": "3-4 litres"
+        },
+        {
+          "id": "c",
+          "text": "8-10 litres"
+        },
+        {
+          "id": "d",
+          "text": "10-12 litres"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 5-6 litres",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q7",
+      "type": "single-choice",
+      "text": "At the age of 20 years, the number of bones in human body is approxi- mately",
+      "options": [
+        {
+          "id": "a",
+          "text": "100"
+        },
+        {
+          "id": "b",
+          "text": "200"
+        },
+        {
+          "id": "c",
+          "text": "300"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "41st BPSC (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q8",
+      "type": "single-choice",
+      "text": "Which of the following is the smallest bone in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vomer"
+        },
+        {
+          "id": "b",
+          "text": "Stapes"
+        },
+        {
+          "id": "c",
+          "text": "Malleus"
+        },
+        {
+          "id": "d",
+          "text": "Incus"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Stapes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Pre) 2010 UP Lower Sub. (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q9",
+      "type": "single-choice",
+      "text": "The smallest bone in our body is found in our",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ear"
+        },
+        {
+          "id": "b",
+          "text": "Nose"
+        },
+        {
+          "id": "c",
+          "text": "Eye"
+        },
+        {
+          "id": "d",
+          "text": "Toe"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ear",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q10",
+      "type": "single-choice",
+      "text": "The number of bones in human skull is",
+      "options": [
+        {
+          "id": "a",
+          "text": "28"
+        },
+        {
+          "id": "b",
+          "text": "30"
+        },
+        {
+          "id": "c",
+          "text": "32"
+        },
+        {
+          "id": "d",
+          "text": "40"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 28",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2017 39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q11",
+      "type": "single-choice",
+      "text": "Which one of the following salts is found in maximum amount in the human bones?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magnesium Chloride"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "c",
+          "text": "Calcium Phosphate"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Calcium Phosphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q12",
+      "type": "single-choice",
+      "text": "How many pairs of ribs are there in a human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "14"
+        },
+        {
+          "id": "d",
+          "text": "11"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 12",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q13",
+      "type": "single-choice",
+      "text": "In human body, leg bone is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hollow"
+        },
+        {
+          "id": "b",
+          "text": "Porous"
+        },
+        {
+          "id": "c",
+          "text": "Solid"
+        },
+        {
+          "id": "d",
+          "text": "Rivet"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Solid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q14",
+      "type": "single-choice",
+      "text": "What is arthroplasty in surgery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Open heart surgery"
+        },
+        {
+          "id": "b",
+          "text": "Kidney transplant"
+        },
+        {
+          "id": "c",
+          "text": "Hipjoint replacement"
+        },
+        {
+          "id": "d",
+          "text": "Blood transfusion"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hipjoint replacement",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2001 UP UDA/LDA (Pre) 2002 Uttarakhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q15",
+      "type": "single-choice",
+      "text": "How many pairs of nerves arise from the spinal cord?",
+      "options": [
+        {
+          "id": "a",
+          "text": "13"
+        },
+        {
+          "id": "b",
+          "text": "31"
+        },
+        {
+          "id": "c",
+          "text": "33"
+        },
+        {
+          "id": "d",
+          "text": "12"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 31",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "45th BPSC (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q16",
+      "type": "single-choice",
+      "text": "A healthy human being excretes the following litres of urine in 24 hours.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1.5"
+        },
+        {
+          "id": "b",
+          "text": "3.0"
+        },
+        {
+          "id": "c",
+          "text": "6.0"
+        },
+        {
+          "id": "d",
+          "text": "9.0"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1.5",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q17",
+      "type": "single-choice",
+      "text": "The bones are held together by elastic tissues are called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ligaments"
+        },
+        {
+          "id": "b",
+          "text": "Fibrous tissues"
+        },
+        {
+          "id": "c",
+          "text": "Fibrin"
+        },
+        {
+          "id": "d",
+          "text": "Muscular tissues"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ligaments",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q18",
+      "type": "single-choice",
+      "text": "Plaques formed on teeth are made up of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food particles only"
+        },
+        {
+          "id": "b",
+          "text": "Food particles plus saliva"
+        },
+        {
+          "id": "c",
+          "text": "Food particles plus saliva plus mouth acids"
+        },
+        {
+          "id": "d",
+          "text": "Food particles plus saliva plus mouth acids plus bacteria"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Food particles plus saliva plus mouth acids plus bacteria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q19",
+      "type": "single-choice",
+      "text": "No pain is felt while cutting the nails because",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nails are made of the material of dead cells in which there is no blood circulation"
+        },
+        {
+          "id": "b",
+          "text": "Nails are a useless part of the body"
+        },
+        {
+          "id": "c",
+          "text": "Nails are made of calcium phosphate"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nails are made of the material of dead cells in which there is no blood circulation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q20",
+      "type": "single-choice",
+      "text": "Which of the following are required for the formation of bones and teeth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium and Potassium"
+        },
+        {
+          "id": "b",
+          "text": "Iron and Calcium"
+        },
+        {
+          "id": "c",
+          "text": "Sodium and Calcium"
+        },
+        {
+          "id": "d",
+          "text": "Calcium and Phosphorus"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Calcium and Phosphorus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q21",
+      "type": "single-choice",
+      "text": "Which one of the following nutritional elements is not essential for the formation and strengthening of bones and teeth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium"
+        },
+        {
+          "id": "b",
+          "text": "Phosphorus"
+        },
+        {
+          "id": "c",
+          "text": "Fluorine"
+        },
+        {
+          "id": "d",
+          "text": "Iodine"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Iodine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q22",
+      "type": "single-choice",
+      "text": "The number of teeth that are developed twice in the lifetime of human being is",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        },
+        {
+          "id": "c",
+          "text": "20"
+        },
+        {
+          "id": "d",
+          "text": "28"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 20",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q23",
+      "type": "single-choice",
+      "text": "Which of the following is the strongest part of our body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bone"
+        },
+        {
+          "id": "b",
+          "text": "Enamel"
+        },
+        {
+          "id": "c",
+          "text": "Dentin"
+        },
+        {
+          "id": "d",
+          "text": "Cementum"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Enamel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q24",
+      "type": "single-choice",
+      "text": "The strongest muscle in human body is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jaws"
+        },
+        {
+          "id": "b",
+          "text": "Thighs"
+        },
+        {
+          "id": "c",
+          "text": "Neck"
+        },
+        {
+          "id": "d",
+          "text": "Hands"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Jaws",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q25",
+      "type": "single-choice",
+      "text": "The temperature of the human body",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decreases in winters"
+        },
+        {
+          "id": "b",
+          "text": "Increases in summers"
+        },
+        {
+          "id": "c",
+          "text": "Neither decreases in winters nor increases in summers"
+        },
+        {
+          "id": "d",
+          "text": "Increases in winters"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Neither decreases in winters nor increases in summers",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q26",
+      "type": "single-choice",
+      "text": "The pulse in the human wrist beats",
+      "options": [
+        {
+          "id": "a",
+          "text": "Faster than the heart"
+        },
+        {
+          "id": "b",
+          "text": "Slower than the heart"
+        },
+        {
+          "id": "c",
+          "text": "At the same rate as the heart"
+        },
+        {
+          "id": "d",
+          "text": "Independently of the heart"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: At the same rate as the heart",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010, 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q27",
+      "type": "single-choice",
+      "text": "The brain is responsible for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thinking"
+        },
+        {
+          "id": "b",
+          "text": "Regulating the heartbeat"
+        },
+        {
+          "id": "c",
+          "text": "Balancing the body"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: All of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q28",
+      "type": "single-choice",
+      "text": "Where is the governing centre of reflex action located?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In cerebrum"
+        },
+        {
+          "id": "b",
+          "text": "In cerebellum"
+        },
+        {
+          "id": "c",
+          "text": "In spinal cord"
+        },
+        {
+          "id": "d",
+          "text": "In nerve cells"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: In spinal cord",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2017 45th BPSC (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q29",
+      "type": "single-choice",
+      "text": "In a human brain memory power is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Medulla oblongata"
+        },
+        {
+          "id": "b",
+          "text": "Cerebrum"
+        },
+        {
+          "id": "c",
+          "text": "Brain cavity"
+        },
+        {
+          "id": "d",
+          "text": "Cerebellum"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cerebrum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q30",
+      "type": "single-choice",
+      "text": "Where does fertilization occur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In Uterus"
+        },
+        {
+          "id": "b",
+          "text": "In Oviduct"
+        },
+        {
+          "id": "c",
+          "text": "In Ovary"
+        },
+        {
+          "id": "d",
+          "text": "In Vagina"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: In Oviduct",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2019 45th BPSC (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q31",
+      "type": "single-choice",
+      "text": "In human beings, normally in which one of the following parts, does the sperm fertilize the ovum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cervix"
+        },
+        {
+          "id": "b",
+          "text": "Fallopian tube"
+        },
+        {
+          "id": "c",
+          "text": "Lower part of uterus"
+        },
+        {
+          "id": "d",
+          "text": "Upper part of uterus"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fallopian tube",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Mizoram PSC (Pre) 2015 IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q32",
+      "type": "single-choice",
+      "text": "After reaching the female genital tract, human sperms retain their fertilizing capacity for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two minutes"
+        },
+        {
+          "id": "b",
+          "text": "Twenty minutes"
+        },
+        {
+          "id": "c",
+          "text": "Ninety minutes"
+        },
+        {
+          "id": "d",
+          "text": "One to two days"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: One to two days",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q33",
+      "type": "single-choice",
+      "text": "The heart of human embryo starts beating",
+      "options": [
+        {
+          "id": "a",
+          "text": "In the first week of development"
+        },
+        {
+          "id": "b",
+          "text": "In the third week of its development"
+        },
+        {
+          "id": "c",
+          "text": "In the fourth week of its development"
+        },
+        {
+          "id": "d",
+          "text": "In the sixth week of its development"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: In the fourth week of its development",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016 IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q34",
+      "type": "single-choice",
+      "text": "Which one of the following is a membrane that protects the devel- oping embryo from desiccation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amnion"
+        },
+        {
+          "id": "b",
+          "text": "Allantois"
+        },
+        {
+          "id": "c",
+          "text": "Chorion"
+        },
+        {
+          "id": "d",
+          "text": "Yolk sac"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Amnion",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2019 IAS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q35",
+      "type": "single-choice",
+      "text": "Mammals respire by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gills"
+        },
+        {
+          "id": "b",
+          "text": "Trachea"
+        },
+        {
+          "id": "c",
+          "text": "Skin"
+        },
+        {
+          "id": "d",
+          "text": "Lungs"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lungs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q36",
+      "type": "single-choice",
+      "text": "The amount of which of the following components in the air does not change in the process of respiration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide (CO ) 2"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Water vapours"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q37",
+      "type": "single-choice",
+      "text": "How many times, a healthy person’s average heart beats in a minute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "86 times"
+        },
+        {
+          "id": "b",
+          "text": "98 times"
+        },
+        {
+          "id": "c",
+          "text": "72 times"
+        },
+        {
+          "id": "d",
+          "text": "64 times"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 72 times",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007 MPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q38",
+      "type": "single-choice",
+      "text": "When does heart rest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Never"
+        },
+        {
+          "id": "b",
+          "text": "While sleeping"
+        },
+        {
+          "id": "c",
+          "text": "Between two beats"
+        },
+        {
+          "id": "d",
+          "text": "While doing yoga"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Between two beats",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2008 UP Lower Sub. (Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q39",
+      "type": "single-choice",
+      "text": "Which of the following is not a symptom of a heart attack?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chest pain"
+        },
+        {
+          "id": "b",
+          "text": "Nausea and sweating"
+        },
+        {
+          "id": "c",
+          "text": "Numbness and aching of arms"
+        },
+        {
+          "id": "d",
+          "text": "Pain in legs"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Pain in legs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q40",
+      "type": "single-choice",
+      "text": "How many chambers are there in heart?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2019 MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q41",
+      "type": "single-choice",
+      "text": "Heart beats are caused by an electrical current that originates in the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brain"
+        },
+        {
+          "id": "b",
+          "text": "Blood"
+        },
+        {
+          "id": "c",
+          "text": "Heart"
+        },
+        {
+          "id": "d",
+          "text": "Spinal cord"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Heart",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2019 Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q42",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Bones) (a) Breastbone (b) Collarbone (c) Knee cap (d) Shoulder blade List-II (Names) 1. Clavicle 2. Patella 3. Scapula 4. Sternum Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "b",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 1 2 3",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-human-anatomy-q43",
+      "type": "single-choice",
+      "text": "Which of these are typical signs of heart attack? 1. Nausea 2. Severe perspiration 3. Headache 4. Severe chest pain Select the correct answer from the given code.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3, 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

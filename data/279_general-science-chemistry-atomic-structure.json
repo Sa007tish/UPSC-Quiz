@@ -1,0 +1,725 @@
+{
+  "bankId": "general-science-chemistry-atomic-structure",
+  "subject": "Science",
+  "topic": "Atomic Structure",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-atomic-structure-q1",
+      "type": "single-choice",
+      "text": "Which of the following is not a part of an atom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electron"
+        },
+        {
+          "id": "b",
+          "text": "Proton"
+        },
+        {
+          "id": "c",
+          "text": "Neutron"
+        },
+        {
+          "id": "d",
+          "text": "Photon"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Photon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q2",
+      "type": "single-choice",
+      "text": "A single type of atom is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compounds of minerals"
+        },
+        {
+          "id": "b",
+          "text": "Mixture of minerals"
+        },
+        {
+          "id": "c",
+          "text": "Native elements"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Native elements",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q3",
+      "type": "single-choice",
+      "text": "Constituents of atomic nucleus are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electron and proton"
+        },
+        {
+          "id": "b",
+          "text": "Electron and neutron"
+        },
+        {
+          "id": "c",
+          "text": "Proton and neutron"
+        },
+        {
+          "id": "d",
+          "text": "Proton, neutron and electron"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Proton and neutron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996 41st BPSC (Pre) 1996 43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q4",
+      "type": "single-choice",
+      "text": "Which of the following statement about molecular structure is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neutron and electron are found inside the nucleus and protons revolves around the nucleus"
+        },
+        {
+          "id": "b",
+          "text": "Electron and proton are inside the nucleus and neutron revolve around the nucleus"
+        },
+        {
+          "id": "c",
+          "text": "Proton and neutron are inside the nucleus and electrons revolve around the nucleus"
+        },
+        {
+          "id": "d",
+          "text": "Proton, neutron and electron all are inside the nucleus"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Proton and neutron are inside the nucleus and electrons revolve around the nucleus",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q5",
+      "type": "single-choice",
+      "text": "The atomic nucleus was discovered by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rutherford"
+        },
+        {
+          "id": "b",
+          "text": "Dalton"
+        },
+        {
+          "id": "c",
+          "text": "Einstein"
+        },
+        {
+          "id": "d",
+          "text": "Thomson"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Rutherford",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q6",
+      "type": "single-choice",
+      "text": "In atom, neutron was discovered by",
+      "options": [
+        {
+          "id": "a",
+          "text": "J.J. Thomson"
+        },
+        {
+          "id": "b",
+          "text": "Chadwick"
+        },
+        {
+          "id": "c",
+          "text": "Rutherford"
+        },
+        {
+          "id": "d",
+          "text": "Newton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chadwick",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003 UPPCS (Pre) 1996, 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q7",
+      "type": "single-choice",
+      "text": "Which of the following is not a subatomic particle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neutron"
+        },
+        {
+          "id": "b",
+          "text": "Proton"
+        },
+        {
+          "id": "c",
+          "text": "Deuteron"
+        },
+        {
+          "id": "d",
+          "text": "Electron"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Deuteron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q8",
+      "type": "single-choice",
+      "text": "Which one of the following pairs constitutes particle-antiparticle pair?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electron-Positron"
+        },
+        {
+          "id": "b",
+          "text": "Proton-Neutron"
+        },
+        {
+          "id": "c",
+          "text": "Photon-Electron"
+        },
+        {
+          "id": "d",
+          "text": "Neutron-Neutrino"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Electron-Positron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q9",
+      "type": "single-choice",
+      "text": "The alpha particle carries two positive charges. Its mass is very nearly equal to that of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two protons"
+        },
+        {
+          "id": "b",
+          "text": "An atom of helium"
+        },
+        {
+          "id": "c",
+          "text": "Sum of masses of two positrons and two neutrons"
+        },
+        {
+          "id": "d",
+          "text": "Two positrons are each positron carries a single positive charge"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: An atom of helium",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q10",
+      "type": "single-choice",
+      "text": "The Nucleus of Helium has",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only one neutron"
+        },
+        {
+          "id": "b",
+          "text": "Two protons"
+        },
+        {
+          "id": "c",
+          "text": "Two protons and two neutrons"
+        },
+        {
+          "id": "d",
+          "text": "One proton and two neutrons"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Two protons and two neutrons",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q11",
+      "type": "single-choice",
+      "text": "Which of the following carries a negative charge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "X-rays"
+        },
+        {
+          "id": "b",
+          "text": "Alpha particles"
+        },
+        {
+          "id": "c",
+          "text": "Beta particles"
+        },
+        {
+          "id": "d",
+          "text": "Gamma rays"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Beta particles",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "45th BPSC (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q12",
+      "type": "single-choice",
+      "text": "In an atom, the order of filling up of the orbitals is governed by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufbau’s principle"
+        },
+        {
+          "id": "b",
+          "text": "Heisenberg’s uncertainty principle"
+        },
+        {
+          "id": "c",
+          "text": "Hund’s rule"
+        },
+        {
+          "id": "d",
+          "text": "Pauli’s exclusion principle"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Aufbau’s principle",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q13",
+      "type": "single-choice",
+      "text": "Regarding the atom of a chemical element, the magnetic quantum number refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientation"
+        },
+        {
+          "id": "b",
+          "text": "Shape"
+        },
+        {
+          "id": "c",
+          "text": "Size"
+        },
+        {
+          "id": "d",
+          "text": "Spin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Orientation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q14",
+      "type": "single-choice",
+      "text": "What is the mass number of an element, the atom of which contains two protons, two neutrons and two electrons?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q15",
+      "type": "single-choice",
+      "text": "The atoms, in which the number of protons is same but the number of neutrons is different, are known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Isobars"
+        },
+        {
+          "id": "b",
+          "text": "Isomers"
+        },
+        {
+          "id": "c",
+          "text": "Isotones"
+        },
+        {
+          "id": "d",
+          "text": "Isotopes"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Isotopes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009 Chhattisgarh PCS (Pre) 2005 Uttarakhand UDA/LDA (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q16",
+      "type": "single-choice",
+      "text": "Radioactivity was discovered by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rutherford"
+        },
+        {
+          "id": "b",
+          "text": "Becquerel"
+        },
+        {
+          "id": "c",
+          "text": "Bohr"
+        },
+        {
+          "id": "d",
+          "text": "Madam Curie"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Becquerel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q17",
+      "type": "single-choice",
+      "text": "Isotopes are those atoms of the same element which have",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atomic mass is same but atomic number is different"
+        },
+        {
+          "id": "b",
+          "text": "Atomic mass is different but atomic number is same"
+        },
+        {
+          "id": "c",
+          "text": "Atomic number and atoms mass both are same"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Atomic mass is different but atomic number is same",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q18",
+      "type": "single-choice",
+      "text": "Isotopes is that nuclei of atomic nucleus in which",
+      "options": [
+        {
+          "id": "a",
+          "text": "Number of neutrons is same but number of protons is different"
+        },
+        {
+          "id": "b",
+          "text": "Number of protons is same but number of neutrons is different"
+        },
+        {
+          "id": "c",
+          "text": "Number of both protons and neutrons is same"
+        },
+        {
+          "id": "d",
+          "text": "Number of both protons and neutrons is different"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Number of protons is same but number of neutrons is different",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "41st BPSC (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q19",
+      "type": "single-choice",
+      "text": "The isoneutronic group, in the following is",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 C , 7 N , 8 O 12 14 16"
+        },
+        {
+          "id": "b",
+          "text": "6 C , 7 N , 8 N 12 14 18"
+        },
+        {
+          "id": "c",
+          "text": "6 C , 7 N , 8 O 14 14 16"
+        },
+        {
+          "id": "d",
+          "text": "6 C , 7 N , 8 O 14 15 16"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 6 C , 7 N , 8 O 14 15 16",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q20",
+      "type": "single-choice",
+      "text": "Radioactivity is measured by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrometer"
+        },
+        {
+          "id": "b",
+          "text": "Geiger Counter"
+        },
+        {
+          "id": "c",
+          "text": "Seismometer"
+        },
+        {
+          "id": "d",
+          "text": "Ammeter"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Geiger Counter",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-atomic-structure-q21",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Characteristic) (a) Zero mass (b) Fractional charge (c) Fractional spin (d) Integral spin List-II (Particle) 1. Positron 2. Neutrino 3. Quark 4. Photon Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "b",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "3 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 3 1 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

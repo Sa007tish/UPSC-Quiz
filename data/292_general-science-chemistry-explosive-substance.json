@@ -1,0 +1,351 @@
+{
+  "bankId": "general-science-chemistry-explosive-substance",
+  "subject": "Science",
+  "topic": "Explosive Substance",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-explosive-substance-q1",
+      "type": "single-choice",
+      "text": "‘Nobel Oil’ is the name of which one of the following explosives?",
+      "options": [
+        {
+          "id": "a",
+          "text": "TNG"
+        },
+        {
+          "id": "b",
+          "text": "TNP"
+        },
+        {
+          "id": "c",
+          "text": "TNA"
+        },
+        {
+          "id": "d",
+          "text": "TNT"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: TNG",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2017 UP Lower Sub. (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q2",
+      "type": "single-choice",
+      "text": "RDX was invented by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alfred Nobel"
+        },
+        {
+          "id": "b",
+          "text": "Soddy"
+        },
+        {
+          "id": "c",
+          "text": "Bergillins"
+        },
+        {
+          "id": "d",
+          "text": "Henning"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Henning",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q3",
+      "type": "single-choice",
+      "text": "A mixture of which one of the following pairs of gases is the cause of occurrence of most of the explosions in mines?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen and Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen and Acetylene"
+        },
+        {
+          "id": "c",
+          "text": "Methane and Air"
+        },
+        {
+          "id": "d",
+          "text": "Carbon dioxide and Methane"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Methane and Air",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008 Uttarakhand PCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q4",
+      "type": "single-choice",
+      "text": "Which one of the following is not an explosive?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trinitrotoluene (TNT)"
+        },
+        {
+          "id": "b",
+          "text": "Trinitroglycerine"
+        },
+        {
+          "id": "c",
+          "text": "Cyclotrimethylene Trinitramine (RDX)"
+        },
+        {
+          "id": "d",
+          "text": "Nitrochloroform"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nitrochloroform",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014, 2003, 2001 UP UDA/LDA (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q5",
+      "type": "single-choice",
+      "text": "Which one of the following statement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DDT is antibacterial compound"
+        },
+        {
+          "id": "b",
+          "text": "TNT is an insecticide"
+        },
+        {
+          "id": "c",
+          "text": "RDX is an explosive"
+        },
+        {
+          "id": "d",
+          "text": "LSD is an antiviral compound"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: RDX is an explosive",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q6",
+      "type": "single-choice",
+      "text": "Which one of the following is another name of RDX?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cyanohydrin"
+        },
+        {
+          "id": "b",
+          "text": "Dextran"
+        },
+        {
+          "id": "c",
+          "text": "Cyclohexane"
+        },
+        {
+          "id": "d",
+          "text": "Cyclonite"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Cyclonite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007 UPPCS (Mains) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q7",
+      "type": "single-choice",
+      "text": "Which one of the following is used as an explosive?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Phosphorus Trichloride"
+        },
+        {
+          "id": "b",
+          "text": "Mercuric Oxide"
+        },
+        {
+          "id": "c",
+          "text": "Graphite"
+        },
+        {
+          "id": "d",
+          "text": "Nitroglycerine"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nitroglycerine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2019 IAS (Pre) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q8",
+      "type": "single-choice",
+      "text": "Which one of the following explosives does not contain nitroglycerine as an essential constituent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cordite"
+        },
+        {
+          "id": "b",
+          "text": "Blasting Gelatine"
+        },
+        {
+          "id": "c",
+          "text": "Dynamite"
+        },
+        {
+          "id": "d",
+          "text": "Amatol"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Amatol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2019 UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q9",
+      "type": "single-choice",
+      "text": "Which one of the following is used in the production of explosives?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycerol"
+        },
+        {
+          "id": "b",
+          "text": "Methanol"
+        },
+        {
+          "id": "c",
+          "text": "Urea"
+        },
+        {
+          "id": "d",
+          "text": "Oxalic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Glycerol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-explosive-substance-q10",
+      "type": "single-choice",
+      "text": "The chemical used in manufactur- ing of dynamite is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycerol"
+        },
+        {
+          "id": "b",
+          "text": "Glycerol triacetate"
+        },
+        {
+          "id": "c",
+          "text": "Glycerol trinitrate"
+        },
+        {
+          "id": "d",
+          "text": "Glycerol tri-iodate"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Glycerol trinitrate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

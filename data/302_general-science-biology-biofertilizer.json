@@ -1,0 +1,555 @@
+{
+  "bankId": "general-science-biology-biofertilizer",
+  "subject": "Science",
+  "topic": "Biofertilizer",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-biofertilizer-q1",
+      "type": "single-choice",
+      "text": "Which of the following is a source of biofertilizer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yeast"
+        },
+        {
+          "id": "b",
+          "text": "Chlorella"
+        },
+        {
+          "id": "c",
+          "text": "Azolla"
+        },
+        {
+          "id": "d",
+          "text": "Mold"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Azolla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009 UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q2",
+      "type": "single-choice",
+      "text": "Which of the following is a biofertilizer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea"
+        },
+        {
+          "id": "b",
+          "text": "2,4-D"
+        },
+        {
+          "id": "c",
+          "text": "Streptocycline"
+        },
+        {
+          "id": "d",
+          "text": "Azolla"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Azolla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q3",
+      "type": "single-choice",
+      "text": "The biofertilizer used as a supple- menatry food for the cattle, especially for milking bovinces is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Azospirillum"
+        },
+        {
+          "id": "b",
+          "text": "Azolla"
+        },
+        {
+          "id": "c",
+          "text": "Azotobacter"
+        },
+        {
+          "id": "d",
+          "text": "Rhizobium"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Azolla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2016 RAS/RTS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q4",
+      "type": "single-choice",
+      "text": "Which of these is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue-green algae - Biofertilizer"
+        },
+        {
+          "id": "b",
+          "text": "Chrysopa - Maho-control"
+        },
+        {
+          "id": "c",
+          "text": "Bio 902 - Variety of mustard"
+        },
+        {
+          "id": "d",
+          "text": "Azotobacter - Bioinsecticide"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Azotobacter - Bioinsecticide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2003, 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q5",
+      "type": "single-choice",
+      "text": "Which bacteria is responsible for nitrogen fixation in soyabean?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rhizobium leguminosarum"
+        },
+        {
+          "id": "b",
+          "text": "Rhizobium japonicum"
+        },
+        {
+          "id": "c",
+          "text": "Rhizobium fajioleai"
+        },
+        {
+          "id": "d",
+          "text": "Rhizobium traitolai"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rhizobium japonicum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q6",
+      "type": "single-choice",
+      "text": "2, 4-D is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An insecticide"
+        },
+        {
+          "id": "b",
+          "text": "An explosive"
+        },
+        {
+          "id": "c",
+          "text": "A fungicide"
+        },
+        {
+          "id": "d",
+          "text": "A herbicide"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: A herbicide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q7",
+      "type": "single-choice",
+      "text": "Blue-green algae are chiefly used as biofertilizer in the crop of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wheat"
+        },
+        {
+          "id": "b",
+          "text": "Gram"
+        },
+        {
+          "id": "c",
+          "text": "Paddy"
+        },
+        {
+          "id": "d",
+          "text": "Mustard"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Paddy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q8",
+      "type": "single-choice",
+      "text": "Blue-green algae is used to supply nitrogen to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bajra"
+        },
+        {
+          "id": "b",
+          "text": "Maize"
+        },
+        {
+          "id": "c",
+          "text": "Paddy"
+        },
+        {
+          "id": "d",
+          "text": "Wheat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Paddy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q9",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched? Nitrogen fixing Crop agent",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue-green algae - Paddy"
+        },
+        {
+          "id": "b",
+          "text": "Rhizobium - Pea Leguminisarum"
+        },
+        {
+          "id": "c",
+          "text": "Azotobacter - Wheat"
+        },
+        {
+          "id": "d",
+          "text": "Azolla - Maize"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Azolla - Maize",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q10",
+      "type": "single-choice",
+      "text": "Azolla gives a good biofertilizer when mixed with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue-green algae"
+        },
+        {
+          "id": "b",
+          "text": "Bone meal"
+        },
+        {
+          "id": "c",
+          "text": "Cow dung"
+        },
+        {
+          "id": "d",
+          "text": "Urea"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Blue-green algae",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q11",
+      "type": "single-choice",
+      "text": "Azolla is often used as biofertilizer because it is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue-green algae"
+        },
+        {
+          "id": "b",
+          "text": "Red algae"
+        },
+        {
+          "id": "c",
+          "text": "Fungus"
+        },
+        {
+          "id": "d",
+          "text": "Moss"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Blue-green algae",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q12",
+      "type": "single-choice",
+      "text": "Azolla is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aquatic Fern"
+        },
+        {
+          "id": "b",
+          "text": "Aquatic algae"
+        },
+        {
+          "id": "c",
+          "text": "Aquatic bacteria"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Aquatic Fern",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016 UP UDA/LDA (Spl)(Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q13",
+      "type": "single-choice",
+      "text": "Aquatic Fern, which is used as a bio- fertilizer is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Salvinia"
+        },
+        {
+          "id": "b",
+          "text": "Azolla"
+        },
+        {
+          "id": "c",
+          "text": "Marsilia"
+        },
+        {
+          "id": "d",
+          "text": "Pteridium"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Azolla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q14",
+      "type": "single-choice",
+      "text": "Which of the following micro- organisms are used as biofertilizer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cyanobacteria"
+        },
+        {
+          "id": "b",
+          "text": "Protozoa"
+        },
+        {
+          "id": "c",
+          "text": "Virus"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Cyanobacteria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q15",
+      "type": "single-choice",
+      "text": "The capability of nitrogen use efficiency can be increased in crop production by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use of split application"
+        },
+        {
+          "id": "b",
+          "text": "Use of nitrogen inhibitors"
+        },
+        {
+          "id": "c",
+          "text": "Using the slow release of nitrogen fertilizer"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: All of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-biofertilizer-q16",
+      "type": "single-choice",
+      "text": "Which of the following is/are used as biofertilizers? 1. Azolla 2. Blue-green algae 3. Alfalfa Choose the correct answer by the given codes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 2"
+        },
+        {
+          "id": "b",
+          "text": "1 and 2"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1 and 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

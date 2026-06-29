@@ -1,0 +1,2419 @@
+{
+  "bankId": "general-awareness-defence",
+  "subject": "General Awareness",
+  "topic": "Defence",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-defence-q1",
+      "type": "single-choice",
+      "text": "Which of the following is India’s surface-to-surface defence missile?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nag"
+        },
+        {
+          "id": "b",
+          "text": "Trishul"
+        },
+        {
+          "id": "c",
+          "text": "Akash"
+        },
+        {
+          "id": "d",
+          "text": "Prithvi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Prithvi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q2",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trishul - Surface-to-surface missile"
+        },
+        {
+          "id": "b",
+          "text": "Prithvi - Surface to air missile"
+        },
+        {
+          "id": "c",
+          "text": "NAG - Anti-tank missile"
+        },
+        {
+          "id": "d",
+          "text": "Pinaka - Light combat aircraft"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: NAG - Anti-tank missile",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013 UPPCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q3",
+      "type": "single-choice",
+      "text": "India’s Antitank missile is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nag"
+        },
+        {
+          "id": "b",
+          "text": "Agni"
+        },
+        {
+          "id": "c",
+          "text": "Vajra"
+        },
+        {
+          "id": "d",
+          "text": "Akash"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nag",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991, 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q4",
+      "type": "single-choice",
+      "text": "India’s surface to air missile is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agni"
+        },
+        {
+          "id": "b",
+          "text": "Nag"
+        },
+        {
+          "id": "c",
+          "text": "Trishul"
+        },
+        {
+          "id": "d",
+          "text": "Prithvi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Trishul",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q5",
+      "type": "single-choice",
+      "text": "Which of the following is not a missile?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agni"
+        },
+        {
+          "id": "b",
+          "text": "Akash"
+        },
+        {
+          "id": "c",
+          "text": "Pinaka"
+        },
+        {
+          "id": "d",
+          "text": "Nag"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pinaka",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q6",
+      "type": "single-choice",
+      "text": "Which one of the following statements is not correct about Astra missile?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is an air-to-air ballistic missile"
+        },
+        {
+          "id": "b",
+          "text": "It has been indigenously built by the DRDO"
+        },
+        {
+          "id": "c",
+          "text": "It was successfully test-fired on 20 May, 2011 from Chandipur"
+        },
+        {
+          "id": "d",
+          "text": "It has the capacity to destroy the enemy plane up to a distance of 90 km"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: It has the capacity to destroy the enemy plane up to a distance of 90 km",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q7",
+      "type": "single-choice",
+      "text": "Missile ‘Astra’ is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Land-to-land missile"
+        },
+        {
+          "id": "b",
+          "text": "Land to air missile"
+        },
+        {
+          "id": "c",
+          "text": "Air-to-air missile"
+        },
+        {
+          "id": "d",
+          "text": "Water to land missile"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Air-to-air missile",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q8",
+      "type": "single-choice",
+      "text": "Which missile programme has been shelved by the DRDO?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nag"
+        },
+        {
+          "id": "b",
+          "text": "Trishul"
+        },
+        {
+          "id": "c",
+          "text": "Agni"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Trishul",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q9",
+      "type": "single-choice",
+      "text": "The short-range missile - TRISHUL, test fired from Chandipur is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subsonic missile"
+        },
+        {
+          "id": "b",
+          "text": "Supersonic missile"
+        },
+        {
+          "id": "c",
+          "text": "Hypersonic missile"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Supersonic missile",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q10",
+      "type": "single-choice",
+      "text": "India’s short-range missile is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agni"
+        },
+        {
+          "id": "b",
+          "text": "Arjun"
+        },
+        {
+          "id": "c",
+          "text": "Nag"
+        },
+        {
+          "id": "d",
+          "text": "Prithvi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Nag",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q11",
+      "type": "single-choice",
+      "text": "The name ‘Agni’ is related with",
+      "options": [
+        {
+          "id": "a",
+          "text": "A machine to fight with fire"
+        },
+        {
+          "id": "b",
+          "text": "A warfare tank"
+        },
+        {
+          "id": "c",
+          "text": "An aeroplane"
+        },
+        {
+          "id": "d",
+          "text": "The missile prepared by India"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: The missile prepared by India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q12",
+      "type": "single-choice",
+      "text": "Which one of the following statements is incorrect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "INFACT-82 is Indian Naval Fast Attack Craft"
+        },
+        {
+          "id": "b",
+          "text": "A virus cannot reduce environmental pollution"
+        },
+        {
+          "id": "c",
+          "text": "Typha is a computer virus"
+        },
+        {
+          "id": "d",
+          "text": "Brahmos is a supersonic cruise missile"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: A virus cannot reduce environmental pollution",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q13",
+      "type": "single-choice",
+      "text": "In the context of Indian defence which one of the following state- ments is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "With the induction of Prithvi- II, the IAF is the only Air Force in the world with surface-to- surface ballistic missiles under its command"
+        },
+        {
+          "id": "b",
+          "text": "Sukhoi-30 MKJ jet fighters can launch Air-to-Air and Air-to- Surface precision missiles"
+        },
+        {
+          "id": "c",
+          "text": "Trishul is a supersonic Surface to Air missile with a range of 30 km"
+        },
+        {
+          "id": "d",
+          "text": "The indigenously built INS Prabal can launch Surface-to- Surface missiles"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Trishul is a supersonic Surface to Air missile with a range of 30 km",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q14",
+      "type": "single-choice",
+      "text": "C-130J Super Hercules is world’s most advanced air lifter being used by Indian Air Force. These air lifters (Aircraft) are made by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Israel"
+        },
+        {
+          "id": "b",
+          "text": "U.S.A."
+        },
+        {
+          "id": "c",
+          "text": "Russia"
+        },
+        {
+          "id": "d",
+          "text": "France"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: U.S.A.",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q15",
+      "type": "single-choice",
+      "text": "Which of the following aircraft is an air-to-air refueller of the Indian Air Force?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ilyushin II-76"
+        },
+        {
+          "id": "b",
+          "text": "C-130 J Super Hercules"
+        },
+        {
+          "id": "c",
+          "text": "C-17 Globemaster III"
+        },
+        {
+          "id": "d",
+          "text": "Ilyushin II-78"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ilyushin II-78",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q16",
+      "type": "single-choice",
+      "text": "Which among the following is a nuclear-powered submarine of Indian Navy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "INS Shalki"
+        },
+        {
+          "id": "b",
+          "text": "INS Sindhuvir"
+        },
+        {
+          "id": "c",
+          "text": "INS Shishumar"
+        },
+        {
+          "id": "d",
+          "text": "INS Chakra"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: INS Chakra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q17",
+      "type": "single-choice",
+      "text": "Which of the following is a submarine of Indian Navy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "INS Virat"
+        },
+        {
+          "id": "b",
+          "text": "INS Sindhurakshak"
+        },
+        {
+          "id": "c",
+          "text": "INS Rajali"
+        },
+        {
+          "id": "d",
+          "text": "INS Vikrant"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: INS Sindhurakshak",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q18",
+      "type": "single-choice",
+      "text": "India’s first armed nuclear submarine is",
+      "options": [
+        {
+          "id": "a",
+          "text": "INS Tihayu"
+        },
+        {
+          "id": "b",
+          "text": "INS Virat"
+        },
+        {
+          "id": "c",
+          "text": "INS Arihant"
+        },
+        {
+          "id": "d",
+          "text": "INS Astradharini"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: INS Arihant",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q19",
+      "type": "single-choice",
+      "text": "The effective range of Angi-I missile test fired in July 2004, is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Above 700 km but less than 2000 km"
+        },
+        {
+          "id": "b",
+          "text": "300 km"
+        },
+        {
+          "id": "c",
+          "text": "400 km"
+        },
+        {
+          "id": "d",
+          "text": "2500 km"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Above 700 km but less than 2000 km",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q20",
+      "type": "single-choice",
+      "text": "An indigenously manufactured missile with a range of 700 km was successfully tested by India in March, 2010. How is the known?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prithvi-I"
+        },
+        {
+          "id": "b",
+          "text": "Prithvi-II"
+        },
+        {
+          "id": "c",
+          "text": "Agni-I"
+        },
+        {
+          "id": "d",
+          "text": "Agni-II"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Agni-I",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q21",
+      "type": "single-choice",
+      "text": "What is the range of ‘Dhanush’ missile tested successfully by India in March, 2010?",
+      "options": [
+        {
+          "id": "a",
+          "text": "250 km"
+        },
+        {
+          "id": "b",
+          "text": "300 km"
+        },
+        {
+          "id": "c",
+          "text": "350 km"
+        },
+        {
+          "id": "d",
+          "text": "400 km"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 350 km",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q22",
+      "type": "single-choice",
+      "text": "The ICBM developed by India, with a strike range of more than 2000 km, is given the name",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prithvi"
+        },
+        {
+          "id": "b",
+          "text": "Trishul"
+        },
+        {
+          "id": "c",
+          "text": "Akash"
+        },
+        {
+          "id": "d",
+          "text": "Agni-II"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Agni-II",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011, 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q23",
+      "type": "single-choice",
+      "text": "Which one of the following is named ‘Hansa-2’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Satellite"
+        },
+        {
+          "id": "b",
+          "text": "A Trainer Aircraft"
+        },
+        {
+          "id": "c",
+          "text": "A Submarine"
+        },
+        {
+          "id": "d",
+          "text": "Surface-to-Surface Missile"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: A Trainer Aircraft",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q24",
+      "type": "single-choice",
+      "text": "Which one of the following pair is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arjun - Indigenously produced Main Battle Tank (MBT)"
+        },
+        {
+          "id": "b",
+          "text": "Phalcon - Cruise missile supplied by Russia to India"
+        },
+        {
+          "id": "c",
+          "text": "Saras - Indigenously developed civilian passenger Aircraft"
+        },
+        {
+          "id": "d",
+          "text": "Operation Seabird - New Indian naval base at Karwar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Phalcon - Cruise missile supplied by Russia to India",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2019 IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q25",
+      "type": "single-choice",
+      "text": "From which country of the world will Indian obtain ‘Phalcon Radar’ system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "United States of America"
+        },
+        {
+          "id": "b",
+          "text": "Israel"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Russia"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Israel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q26",
+      "type": "single-choice",
+      "text": "From which one of the following did India buy the Barak anti-missile defence system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Israel"
+        },
+        {
+          "id": "b",
+          "text": "France"
+        },
+        {
+          "id": "c",
+          "text": "Russia"
+        },
+        {
+          "id": "d",
+          "text": "USA"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Israel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q27",
+      "type": "single-choice",
+      "text": "Barak-8 Missile (next generation) has been developed by India in collaboration with which of the following countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Russia"
+        },
+        {
+          "id": "b",
+          "text": "U.S.A."
+        },
+        {
+          "id": "c",
+          "text": "Israel"
+        },
+        {
+          "id": "d",
+          "text": "France"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Israel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2018 UPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q28",
+      "type": "single-choice",
+      "text": "With the co-operation of which one of the following countries, a pilotless helicopter is being developed for Indian Navy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "China"
+        },
+        {
+          "id": "b",
+          "text": "France"
+        },
+        {
+          "id": "c",
+          "text": "Israel"
+        },
+        {
+          "id": "d",
+          "text": "U.S.A."
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Israel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q29",
+      "type": "single-choice",
+      "text": "Which of the following is a modern tank?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhim"
+        },
+        {
+          "id": "b",
+          "text": "Akash"
+        },
+        {
+          "id": "c",
+          "text": "Arjun"
+        },
+        {
+          "id": "d",
+          "text": "Prithvi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Arjun",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q30",
+      "type": "single-choice",
+      "text": "The first indigenously assembled T-90 S battle tank has been named",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arjun"
+        },
+        {
+          "id": "b",
+          "text": "Bhima"
+        },
+        {
+          "id": "c",
+          "text": "Bhishma"
+        },
+        {
+          "id": "d",
+          "text": "Tarang"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bhishma",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q31",
+      "type": "single-choice",
+      "text": "Agni-II missile was launched from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sriharikota"
+        },
+        {
+          "id": "b",
+          "text": "Chandipur"
+        },
+        {
+          "id": "c",
+          "text": "Thumba"
+        },
+        {
+          "id": "d",
+          "text": "Pokharan"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chandipur",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q32",
+      "type": "single-choice",
+      "text": "The approx. range of AGNI-II missile is",
+      "options": [
+        {
+          "id": "a",
+          "text": "500 km"
+        },
+        {
+          "id": "b",
+          "text": "2000 km"
+        },
+        {
+          "id": "c",
+          "text": "3500 km"
+        },
+        {
+          "id": "d",
+          "text": "5000 km"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2000 km",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q33",
+      "type": "single-choice",
+      "text": "Which one of the following facts about Agni-5 missile is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can be fired from any place"
+        },
+        {
+          "id": "b",
+          "text": "It has a firing range of up to 5000 km"
+        },
+        {
+          "id": "c",
+          "text": "It cannot be captured by Radar of enemies"
+        },
+        {
+          "id": "d",
+          "text": "It is not exclusively indigenous"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: It is not exclusively indigenous",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q34",
+      "type": "single-choice",
+      "text": "‘INDRA’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Missile"
+        },
+        {
+          "id": "b",
+          "text": "Unmanned aircraft"
+        },
+        {
+          "id": "c",
+          "text": "Radar"
+        },
+        {
+          "id": "d",
+          "text": "Tank"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Radar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2018 UP Lower Sub. (Pre) 2004, 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q35",
+      "type": "single-choice",
+      "text": "The name of successfully tested air- to-air missile in Balasore, in May 2003.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Astra"
+        },
+        {
+          "id": "b",
+          "text": "Akash"
+        },
+        {
+          "id": "c",
+          "text": "Tejas"
+        },
+        {
+          "id": "d",
+          "text": "Vajra"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Astra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q36",
+      "type": "single-choice",
+      "text": "Name the missile tested by Indian scientists and defence personnel on 27.1.96 at Chandipur.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prithvi-I"
+        },
+        {
+          "id": "b",
+          "text": "Prithvi-II"
+        },
+        {
+          "id": "c",
+          "text": "Akash"
+        },
+        {
+          "id": "d",
+          "text": "PSLVD-2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Prithvi-II",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2006 UPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q37",
+      "type": "single-choice",
+      "text": "Which of the following fighter aircraft was flown by former President Abdul Kalam?",
+      "options": [
+        {
+          "id": "a",
+          "text": "F-16"
+        },
+        {
+          "id": "b",
+          "text": "MI-30"
+        },
+        {
+          "id": "c",
+          "text": "Jaguar"
+        },
+        {
+          "id": "d",
+          "text": "Sukhoi-30 MKI"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sukhoi-30 MKI",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q38",
+      "type": "single-choice",
+      "text": "To whom America is put on hold for two years under missile technology control Regime",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indian Nuclear Organization"
+        },
+        {
+          "id": "b",
+          "text": "Indian Space Research Organization"
+        },
+        {
+          "id": "c",
+          "text": "Indian Ocean Development Institute"
+        },
+        {
+          "id": "d",
+          "text": "Bhabha Atomic Research Centre"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Indian Space Research Organization",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2019 MPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q39",
+      "type": "single-choice",
+      "text": "From the following options who is called the manufacturer of fully indigenous Indian missile programme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dr. Raja Ramanna"
+        },
+        {
+          "id": "b",
+          "text": "Dr. U.S. Rao"
+        },
+        {
+          "id": "c",
+          "text": "Prof. M.G.K. Menon"
+        },
+        {
+          "id": "d",
+          "text": "Dr. Abdul Kalam"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dr. Abdul Kalam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q40",
+      "type": "single-choice",
+      "text": "‘Shaurya’ which has been successfully tested by the Defence Research and Development Organization on November 12, 2008 is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Surface to air ballistic missile"
+        },
+        {
+          "id": "b",
+          "text": "Surface to water ballistic missile"
+        },
+        {
+          "id": "c",
+          "text": "Surface-to-surface ballistic missile"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Surface-to-surface ballistic missile",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Spl)(Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q41",
+      "type": "single-choice",
+      "text": "Which one of the following statement is not correct about ‘Shaurya’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a Hypersonic Missile"
+        },
+        {
+          "id": "b",
+          "text": "It is a Surface-to-Surface Missile"
+        },
+        {
+          "id": "c",
+          "text": "It was a Striking Range of 900 km"
+        },
+        {
+          "id": "d",
+          "text": "It was successfully Test Fired on 24 September, 2011"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: It was a Striking Range of 900 km",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Mizoram PSC (Pre) 2019 UPPCS (Mains) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q42",
+      "type": "single-choice",
+      "text": "Tejas, developed with indigenous technologies is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A submarine"
+        },
+        {
+          "id": "b",
+          "text": "A medium-range missile"
+        },
+        {
+          "id": "c",
+          "text": "A light-combat aircraft"
+        },
+        {
+          "id": "d",
+          "text": "An aircraft carrier"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: A light-combat aircraft",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q43",
+      "type": "single-choice",
+      "text": "Which one of the following is an indigenously built light combat aircraft?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akash"
+        },
+        {
+          "id": "b",
+          "text": "Tejas"
+        },
+        {
+          "id": "c",
+          "text": "Vikrant"
+        },
+        {
+          "id": "d",
+          "text": "Arjun"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tejas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q44",
+      "type": "single-choice",
+      "text": "What is Tejas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "First Indian made fighter plane"
+        },
+        {
+          "id": "b",
+          "text": "Air-to-air missile"
+        },
+        {
+          "id": "c",
+          "text": "Remote operated aircraft"
+        },
+        {
+          "id": "d",
+          "text": "Fastest aeroplane"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: First Indian made fighter plane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q45",
+      "type": "single-choice",
+      "text": "The first indigenous fighting plane of Indian Air Force is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tejas"
+        },
+        {
+          "id": "b",
+          "text": "Vinashak"
+        },
+        {
+          "id": "c",
+          "text": "Ojas"
+        },
+        {
+          "id": "d",
+          "text": "Agni"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Tejas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q46",
+      "type": "single-choice",
+      "text": "Admiral Gorshkov",
+      "options": [
+        {
+          "id": "a",
+          "text": "Russian Navy Chief"
+        },
+        {
+          "id": "b",
+          "text": "Naval aircraft carrier ship"
+        },
+        {
+          "id": "c",
+          "text": "Air Force headquarter"
+        },
+        {
+          "id": "d",
+          "text": "Naval Organization"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Naval aircraft carrier ship",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q47",
+      "type": "single-choice",
+      "text": "On March, 2010 an offshore patrol vessel has been included into the coast Guard Group. It’s name is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eagle"
+        },
+        {
+          "id": "b",
+          "text": "Vishwast"
+        },
+        {
+          "id": "c",
+          "text": "Jatayu"
+        },
+        {
+          "id": "d",
+          "text": "Ashwast"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vishwast",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q48",
+      "type": "single-choice",
+      "text": "INS-Deepak is India’s first indige- nously built",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fleet tanker"
+        },
+        {
+          "id": "b",
+          "text": "Submarine"
+        },
+        {
+          "id": "c",
+          "text": "Destroyer"
+        },
+        {
+          "id": "d",
+          "text": "Rocket launcher"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fleet tanker",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q49",
+      "type": "single-choice",
+      "text": "Which one of the following is the best description of ‘INS Astradharini’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amphibious warfare ship"
+        },
+        {
+          "id": "b",
+          "text": "Nuclear-powered submarine"
+        },
+        {
+          "id": "c",
+          "text": "Torpedo launch and recovery vessel"
+        },
+        {
+          "id": "d",
+          "text": "Nuclear-powered aircraft carrier"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Torpedo launch and recovery vessel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q50",
+      "type": "single-choice",
+      "text": "Which of the following countries has joined the Hague Code of Conduct (HCoC), a global initiative to prevent ballistic missile proliferation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palestine"
+        },
+        {
+          "id": "b",
+          "text": "Israel"
+        },
+        {
+          "id": "c",
+          "text": "India"
+        },
+        {
+          "id": "d",
+          "text": "Iran"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2018 60th to 62nd BPSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q51",
+      "type": "single-choice",
+      "text": "Missile ‘Brahmos’ was developed jointly by",
+      "options": [
+        {
+          "id": "a",
+          "text": "India and USA"
+        },
+        {
+          "id": "b",
+          "text": "India and Russia"
+        },
+        {
+          "id": "c",
+          "text": "India and Israel"
+        },
+        {
+          "id": "d",
+          "text": "India and Great Britain"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: India and Russia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004 UPPCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q52",
+      "type": "single-choice",
+      "text": "Modern technology like Brahmos Supersonic missile by India is jointly developed by",
+      "options": [
+        {
+          "id": "a",
+          "text": "The United States of America"
+        },
+        {
+          "id": "b",
+          "text": "Russia"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Japan"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Russia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q53",
+      "type": "single-choice",
+      "text": "Brahmos is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An aircraft"
+        },
+        {
+          "id": "b",
+          "text": "A computer virus"
+        },
+        {
+          "id": "c",
+          "text": "A missile"
+        },
+        {
+          "id": "d",
+          "text": "A submarine"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: A missile",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q54",
+      "type": "single-choice",
+      "text": "Which one of the following statements about Brahmos is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a supersonic cruise missile"
+        },
+        {
+          "id": "b",
+          "text": "It has been built in India in collaboration with Russia"
+        },
+        {
+          "id": "c",
+          "text": "It was successfully test fired from Bay of Bengal 22 March, 2010"
+        },
+        {
+          "id": "d",
+          "text": "Its flight range is 400 km"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Its flight range is 400 km",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Mains) 2009 UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q55",
+      "type": "single-choice",
+      "text": "In March 2009, the ‘Brahmos Missile’ was tested at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pokharan"
+        },
+        {
+          "id": "b",
+          "text": "Chandipur"
+        },
+        {
+          "id": "c",
+          "text": "Cape Canaveral"
+        },
+        {
+          "id": "d",
+          "text": "Sriharikota"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Pokharan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q56",
+      "type": "single-choice",
+      "text": "The name of unmanned aircraft developed by Defence Research Organization (D.R.D.O.) is",
+      "options": [
+        {
+          "id": "a",
+          "text": "INS Virat"
+        },
+        {
+          "id": "b",
+          "text": "Shalki"
+        },
+        {
+          "id": "c",
+          "text": "Lakshya"
+        },
+        {
+          "id": "d",
+          "text": "Shukoi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lakshya",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q57",
+      "type": "single-choice",
+      "text": "Which one of the following statements is true about Technology device called ‘NETRA’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a device which permits a blind man to read"
+        },
+        {
+          "id": "b",
+          "text": "It is a device which allows the army to undertake a right reconnaissance"
+        },
+        {
+          "id": "c",
+          "text": "It is an unmanned aerial vehicle which can travel up to 300 metres high"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: It is an unmanned aerial vehicle which can travel up to 300 metres high",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q58",
+      "type": "single-choice",
+      "text": "Which of the following statements is not true with regard to the F-18 Super Hornet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is fighter plane, which is built by U.S. aerospace company"
+        },
+        {
+          "id": "b",
+          "text": "It can be used during both night and day"
+        },
+        {
+          "id": "c",
+          "text": "Worldwide eight countries are using it in Air Force"
+        },
+        {
+          "id": "d",
+          "text": "It is built with the help of HAL Boeing Company"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: It is fighter plane, which is built by U.S. aerospace company",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q59",
+      "type": "single-choice",
+      "text": "‘Operation Shakti-98’ is the name",
+      "options": [
+        {
+          "id": "a",
+          "text": "Given to the nuclear test carried out a Pokharan in 1998"
+        },
+        {
+          "id": "b",
+          "text": "Given to air exercises carried out by Indian Air Force SU30 planes"
+        },
+        {
+          "id": "c",
+          "text": "Given to the pro-active programme of the Union Home Minister to contain terrorism in J&K"
+        },
+        {
+          "id": "d",
+          "text": "Given to military action against terrorists in Tripura"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Given to the nuclear test carried out a Pokharan in 1998",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "UPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q60",
+      "type": "single-choice",
+      "text": "What is SLINEX II?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An atomic submarine"
+        },
+        {
+          "id": "b",
+          "text": "Joint Naval Exercise Conducted by India and Sri Lanka"
+        },
+        {
+          "id": "c",
+          "text": "A battleship indigenously built in India"
+        },
+        {
+          "id": "d",
+          "text": "A most Modern Army Tank"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Joint Naval Exercise Conducted by India and Sri Lanka",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q61",
+      "type": "single-choice",
+      "text": "What is ‘New START’ treaty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation"
+        },
+        {
+          "id": "b",
+          "text": "It is a multilateral energy security co-operation treaty among the members of the East Asia Summit"
+        },
+        {
+          "id": "c",
+          "text": "It is a treaty between the Russian Federation and the European Union for the energy security co-operation"
+        },
+        {
+          "id": "d",
+          "text": "It is a multilateral co-operation treaty among the BRICS countries for the promotion of trade"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q62",
+      "type": "single-choice",
+      "text": "What is Friendship-2016?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Joint military exercise by the soliders of Russia and Pakistan"
+        },
+        {
+          "id": "b",
+          "text": "The Joint military exercise by the soldiers of America and India"
+        },
+        {
+          "id": "c",
+          "text": "The Joint military exercise by the soldiers of India and Afghanistan"
+        },
+        {
+          "id": "d",
+          "text": "The Joint military exercise by the soldiers of India and Kajhakhastan"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The Joint military exercise by the soliders of Russia and Pakistan",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q63",
+      "type": "single-choice",
+      "text": "‘Operation Pawan’ is connected with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Establishing peace in Punjab"
+        },
+        {
+          "id": "b",
+          "text": "Creating more air services in India"
+        },
+        {
+          "id": "c",
+          "text": "Cleansing environmental pollutions in Indian cities"
+        },
+        {
+          "id": "d",
+          "text": "Operation of IPKF in Jaffna of Sri Lanka"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Operation of IPKF in Jaffna of Sri Lanka",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q64",
+      "type": "single-choice",
+      "text": "Which one of the following countries joined India and USA in the Malabar naval exercise held in July 2017?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Japan"
+        },
+        {
+          "id": "b",
+          "text": "South Korea"
+        },
+        {
+          "id": "c",
+          "text": "France"
+        },
+        {
+          "id": "d",
+          "text": "Philippines"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Japan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q65",
+      "type": "single-choice",
+      "text": "The 2016 joint military exercise ‘Maitree’ has been conducted between India and which of the following countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indonesia"
+        },
+        {
+          "id": "b",
+          "text": "Thailand"
+        },
+        {
+          "id": "c",
+          "text": "Malaysia"
+        },
+        {
+          "id": "d",
+          "text": "Maldives"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Thailand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2019 60th to 62nd BPSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q66",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Prithvi (b) Trishul (c) Pinaka (d) Nishant List-II 1. Multi-barrel rocket launcher 2. A remote operated battlefield inspection vehicle 3. Surface-to-surface missile 4. Surface to air missile Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 4 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Nagaland PSC (Pre) 2015 UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q67",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Trishul (b) Prithvi (c) Agni (d) NAG List-II 1. Anti-tank missile 2. Intermediate range ballistic system 3. Short range surface to air missile 4. Surface-to-surface missile Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "2 1 4 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 2 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UP UDA/LDA (Pre) 2007 UPPCS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q68",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. In the year 2006, India successfully tested a full- fledged cryogenic stage in rocketry. 2. After USA, Russia and China, India is the only country to have acquired the capability for use of cryogenic stage in rocketry. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q69",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. In November, 2006, DRDO successfully conducted the interception test using a Prithvi-II missile. 2. Prithvi-II is a surface-to-surface missile and can be deployed to guard the metros against air attacks. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "Punjab PSC (Pre) 2018 IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q70",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Arihant (b) Awacs (c) Atlas Centaur (d) Nag List-II 1. American Cryogenic Rocket 2. Anti-tank missile 3. Israel developed Falcon for Air Force 4. Atomic submarine Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 3 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q71",
+      "type": "single-choice",
+      "text": "With reference to Agni-IV Missile, which of the following statements is/are correct? 1. It is a surface-to-surface missile. 2. It is fueled by liquid propellant only. 3. It can deliver one-tonne nuclear warheads about 7500 km away. Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "Orissa PSC (Pre) 2018 IAS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q72",
+      "type": "single-choice",
+      "text": "In the context of Indian defence, consider the following statements. 1. The Shaurya missile flies with a speed of more than 8 Mach. 2. The range of Shaurya missile is more than 1600 km. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Neither 1 nor 2",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017 IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-defence-q73",
+      "type": "single-choice",
+      "text": "Consider the following in respect of Indian Ocean Naval Symposium (IONS). 1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy. 2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region. Which of the above statements is/ are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 2",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "Mizoram PSC (Pre) 2019 IAS (Pre) 2017"
+      ]
+    }
+  ]
+}

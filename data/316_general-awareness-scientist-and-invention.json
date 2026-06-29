@@ -1,0 +1,1726 @@
+{
+  "bankId": "general-awareness-scientist-and-invention",
+  "subject": "General Awareness",
+  "topic": "Scientist and Invention",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-scientist-and-invention-q1",
+      "type": "single-choice",
+      "text": "Telescope was invented by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Galileo"
+        },
+        {
+          "id": "b",
+          "text": "Gutenberg"
+        },
+        {
+          "id": "c",
+          "text": "Edison"
+        },
+        {
+          "id": "d",
+          "text": "Graham Bell"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Galileo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q2",
+      "type": "single-choice",
+      "text": "The microscope is used for the study of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Distant objects"
+        },
+        {
+          "id": "b",
+          "text": "Nearby objects"
+        },
+        {
+          "id": "c",
+          "text": "Small objects"
+        },
+        {
+          "id": "d",
+          "text": "Micro and nearby objects"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Micro and nearby objects",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q3",
+      "type": "single-choice",
+      "text": "The machine-Gun was invented by",
+      "options": [
+        {
+          "id": "a",
+          "text": "J.L. Beared"
+        },
+        {
+          "id": "b",
+          "text": "G. Brousa"
+        },
+        {
+          "id": "c",
+          "text": "Karl Benz"
+        },
+        {
+          "id": "d",
+          "text": "James Puckle"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: James Puckle",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q4",
+      "type": "single-choice",
+      "text": "Who invented thermoscope, an early form of thermometer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sir Christopher Wren"
+        },
+        {
+          "id": "b",
+          "text": "Charles F. Richter"
+        },
+        {
+          "id": "c",
+          "text": "Galileo"
+        },
+        {
+          "id": "d",
+          "text": "Beno Gutenberg"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Galileo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q5",
+      "type": "single-choice",
+      "text": "Which is the biggest telescope of the world?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Galileo"
+        },
+        {
+          "id": "b",
+          "text": "Ice Cube"
+        },
+        {
+          "id": "c",
+          "text": "Discovery"
+        },
+        {
+          "id": "d",
+          "text": "Challenger"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ice Cube",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q6",
+      "type": "single-choice",
+      "text": "Wilhelm Roentgen invented",
+      "options": [
+        {
+          "id": "a",
+          "text": "Radio"
+        },
+        {
+          "id": "b",
+          "text": "X-Ray Machine"
+        },
+        {
+          "id": "c",
+          "text": "Electric Bulb"
+        },
+        {
+          "id": "d",
+          "text": "Electric Motor"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: X-Ray Machine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2016 UPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q7",
+      "type": "single-choice",
+      "text": "Who among the following scientists shared the Nobel Prize in Physics with his son?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Max Plank"
+        },
+        {
+          "id": "b",
+          "text": "Albert Einstein"
+        },
+        {
+          "id": "c",
+          "text": "William Henry Bragg"
+        },
+        {
+          "id": "d",
+          "text": "Enrico Fermi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: William Henry Bragg",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q8",
+      "type": "single-choice",
+      "text": "Who invented Steam Engine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Robert Watson"
+        },
+        {
+          "id": "b",
+          "text": "James Watt"
+        },
+        {
+          "id": "c",
+          "text": "William Harvey"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: James Watt",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q9",
+      "type": "single-choice",
+      "text": "‘Telephone’ was invented by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Graham Bell"
+        },
+        {
+          "id": "b",
+          "text": "Hoffman"
+        },
+        {
+          "id": "c",
+          "text": "Wilson"
+        },
+        {
+          "id": "d",
+          "text": "George Stephenson"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Graham Bell",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q10",
+      "type": "single-choice",
+      "text": "Who discovered electric bulb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thomas Edison"
+        },
+        {
+          "id": "b",
+          "text": "Alexander Graham Bell"
+        },
+        {
+          "id": "c",
+          "text": "William Cooke"
+        },
+        {
+          "id": "d",
+          "text": "Terry Addison"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Thomas Edison",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q11",
+      "type": "single-choice",
+      "text": "Gas engine was invented by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diesel"
+        },
+        {
+          "id": "b",
+          "text": "Davy"
+        },
+        {
+          "id": "c",
+          "text": "Daimler"
+        },
+        {
+          "id": "d",
+          "text": "Charles"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Daimler",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q12",
+      "type": "single-choice",
+      "text": "Who was the inventor of the fountain pen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Waterman"
+        },
+        {
+          "id": "b",
+          "text": "Parker"
+        },
+        {
+          "id": "c",
+          "text": "Chelpark"
+        },
+        {
+          "id": "d",
+          "text": "Shaeffers"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Waterman",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q13",
+      "type": "single-choice",
+      "text": "Who was the inventor of Radar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Robert Watson"
+        },
+        {
+          "id": "b",
+          "text": "Fleming"
+        },
+        {
+          "id": "c",
+          "text": "Bush Wall"
+        },
+        {
+          "id": "d",
+          "text": "Austin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Robert Watson",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2018 48th to 52nd BPSC (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q14",
+      "type": "single-choice",
+      "text": "Alfred Nobel invented",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microphone"
+        },
+        {
+          "id": "b",
+          "text": "Typewriter"
+        },
+        {
+          "id": "c",
+          "text": "Dynamite"
+        },
+        {
+          "id": "d",
+          "text": "Gramophone"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Dynamite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q15",
+      "type": "single-choice",
+      "text": "Who discovered Television?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Edison"
+        },
+        {
+          "id": "b",
+          "text": "Galileo"
+        },
+        {
+          "id": "c",
+          "text": "Baird"
+        },
+        {
+          "id": "d",
+          "text": "Franklin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Baird",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q16",
+      "type": "single-choice",
+      "text": "With what invention is the name of J.L. Baird associated with?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barometer"
+        },
+        {
+          "id": "b",
+          "text": "Helicopter"
+        },
+        {
+          "id": "c",
+          "text": "Television"
+        },
+        {
+          "id": "d",
+          "text": "Telephone"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Television",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q17",
+      "type": "single-choice",
+      "text": "Who among the following invented Lasers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Theodore Maiman"
+        },
+        {
+          "id": "b",
+          "text": "Denis Papin"
+        },
+        {
+          "id": "c",
+          "text": "William Morton"
+        },
+        {
+          "id": "d",
+          "text": "Francis Crick"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Theodore Maiman",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010 IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q18",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "James Watt - Steam Engine"
+        },
+        {
+          "id": "b",
+          "text": "A.G. Bell - Telephone"
+        },
+        {
+          "id": "c",
+          "text": "J.L. Baird - Television"
+        },
+        {
+          "id": "d",
+          "text": "J. Perkins - Penicillin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: J. Perkins - Penicillin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q19",
+      "type": "single-choice",
+      "text": "Who is the discoverer of Penicillin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alexander Graham Bell"
+        },
+        {
+          "id": "b",
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": "c",
+          "text": "Christopher Macdonald"
+        },
+        {
+          "id": "d",
+          "text": "Albert Einstein"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Alexander Fleming",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q20",
+      "type": "single-choice",
+      "text": "Alexander Fleming discovered",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penicillin"
+        },
+        {
+          "id": "b",
+          "text": "X-ray"
+        },
+        {
+          "id": "c",
+          "text": "Streptomycin"
+        },
+        {
+          "id": "d",
+          "text": "Telephone"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Penicillin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2016 MPPCS (Pre) 2015, 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q21",
+      "type": "single-choice",
+      "text": "Who among the following is the inventor of ‘X’ rays?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rutherford"
+        },
+        {
+          "id": "b",
+          "text": "Roentgen"
+        },
+        {
+          "id": "c",
+          "text": "Maxwell"
+        },
+        {
+          "id": "d",
+          "text": "Torricelli"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Roentgen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2017 Uttarakhand UDA/LDA (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q22",
+      "type": "single-choice",
+      "text": "Who among the following gave the term ‘Nanotechnology’ and when?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richard Feynman - 1959"
+        },
+        {
+          "id": "b",
+          "text": "Norio Taniguchi - 1974"
+        },
+        {
+          "id": "c",
+          "text": "Eric Drexler - 1986"
+        },
+        {
+          "id": "d",
+          "text": "Sumiolijima - 1991"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Norio Taniguchi - 1974",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q23",
+      "type": "single-choice",
+      "text": "The principle of ‘Black hole’ was enunciated by",
+      "options": [
+        {
+          "id": "a",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "b",
+          "text": "H.J. Bhabha"
+        },
+        {
+          "id": "c",
+          "text": "S. Chandrashekhar"
+        },
+        {
+          "id": "d",
+          "text": "H. Khurana"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: S. Chandrashekhar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q24",
+      "type": "single-choice",
+      "text": "Scientist S. Chandrashekhar got Nobel Prize for which field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Astrophysics"
+        },
+        {
+          "id": "b",
+          "text": "Micro-electronics in Satellites"
+        },
+        {
+          "id": "c",
+          "text": "Super conductivity at low temperatures"
+        },
+        {
+          "id": "d",
+          "text": "Studies of Core of the Sun"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Astrophysics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q25",
+      "type": "single-choice",
+      "text": "Who of the following scientists proved that the stars with mass less than 1.44 times the mass of the Sun end up as White Dwarfs when they die?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Edwin Hubble"
+        },
+        {
+          "id": "b",
+          "text": "S. Chandrashekhar"
+        },
+        {
+          "id": "c",
+          "text": "Stephen Hawking"
+        },
+        {
+          "id": "d",
+          "text": "Steven Weinberg"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: S. Chandrashekhar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q26",
+      "type": "single-choice",
+      "text": "The photoelectric effect was discovered by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hertz"
+        },
+        {
+          "id": "b",
+          "text": "Einstein"
+        },
+        {
+          "id": "c",
+          "text": "Plank"
+        },
+        {
+          "id": "d",
+          "text": "Bohr"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hertz",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q27",
+      "type": "single-choice",
+      "text": "Scientist Albert Einstein is famous for",
+      "options": [
+        {
+          "id": "a",
+          "text": "The interpretation of atomic structure of hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "The photoelectric effect"
+        },
+        {
+          "id": "c",
+          "text": "Planting first Nuclear Reactor"
+        },
+        {
+          "id": "d",
+          "text": "The prediction of the existence of neutrons"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: The photoelectric effect",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2019 UPPCS (Pre) 2011, 2016 38th BPSC (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q28",
+      "type": "single-choice",
+      "text": "In Einstein’s equation E = mc 2 , c denotes",
+      "options": [
+        {
+          "id": "a",
+          "text": "Velocity of sound"
+        },
+        {
+          "id": "b",
+          "text": "Speed of light"
+        },
+        {
+          "id": "c",
+          "text": "Wavelength"
+        },
+        {
+          "id": "d",
+          "text": "A constant"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Speed of light",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Manipur PSC (Pre) 2017 Uttarakhand PCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q29",
+      "type": "single-choice",
+      "text": "Albert Einstein was proficient in playing which musical instrument?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Guitar"
+        },
+        {
+          "id": "b",
+          "text": "Flute"
+        },
+        {
+          "id": "c",
+          "text": "Violin"
+        },
+        {
+          "id": "d",
+          "text": "Sitar"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Violin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q30",
+      "type": "single-choice",
+      "text": "The fourth dimension in Physics was introduced by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Newton"
+        },
+        {
+          "id": "b",
+          "text": "Einstein"
+        },
+        {
+          "id": "c",
+          "text": "Galileo"
+        },
+        {
+          "id": "d",
+          "text": "Neil Bohr"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Einstein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q31",
+      "type": "single-choice",
+      "text": "The Nobel Prize for deciphering the language of bee was awarded to",
+      "options": [
+        {
+          "id": "a",
+          "text": "H.G. Khurana"
+        },
+        {
+          "id": "b",
+          "text": "K.V. Frisch"
+        },
+        {
+          "id": "c",
+          "text": "Julian Huxley"
+        },
+        {
+          "id": "d",
+          "text": "Dorothy Hodgkins"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: K.V. Frisch",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q32",
+      "type": "single-choice",
+      "text": "Sir C.V. Raman received Nobel Prize for Physics in the year",
+      "options": [
+        {
+          "id": "a",
+          "text": "1928"
+        },
+        {
+          "id": "b",
+          "text": "1930"
+        },
+        {
+          "id": "c",
+          "text": "1932"
+        },
+        {
+          "id": "d",
+          "text": "1950"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1930",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2016 42nd BPSC (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q33",
+      "type": "single-choice",
+      "text": "The National Science Day is observed on February 28 every year to commemorate",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raman-effect day"
+        },
+        {
+          "id": "b",
+          "text": "The launch of the first artificial satellite Aryabhatta"
+        },
+        {
+          "id": "c",
+          "text": "The successful launch of ASLV"
+        },
+        {
+          "id": "d",
+          "text": "Homi J. Bhabha’s birthday"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Raman-effect day",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003, 1993, 1990 UP UDA/LDA (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q34",
+      "type": "single-choice",
+      "text": "The ‘National Science Day’ is observed on",
+      "options": [
+        {
+          "id": "a",
+          "text": "28 January"
+        },
+        {
+          "id": "b",
+          "text": "28 February"
+        },
+        {
+          "id": "c",
+          "text": "28 March"
+        },
+        {
+          "id": "d",
+          "text": "28 April"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 28 February",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006 UP Lower Sub. (Spl)(Pre) 2004, 02, 03"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q35",
+      "type": "single-choice",
+      "text": "The principle of Thermal Ionisation is an outstanding contribution of",
+      "options": [
+        {
+          "id": "a",
+          "text": "H.J. Bhabha"
+        },
+        {
+          "id": "b",
+          "text": "M.N. Saha"
+        },
+        {
+          "id": "c",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "d",
+          "text": "J.C. Bose"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: M.N. Saha",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q36",
+      "type": "single-choice",
+      "text": "Whose birth centenary was celebrated in the year 1988?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Charles Darwin"
+        },
+        {
+          "id": "b",
+          "text": "Einstein’s theory of relativity"
+        },
+        {
+          "id": "c",
+          "text": "Mathematician Ramajunan"
+        },
+        {
+          "id": "d",
+          "text": "C.V. Raman"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: C.V. Raman",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016 UPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q37",
+      "type": "single-choice",
+      "text": "A recent movie titled The Man Who Knew Infinity is based on the biography of",
+      "options": [
+        {
+          "id": "a",
+          "text": "S. Ramanujan"
+        },
+        {
+          "id": "b",
+          "text": "S. Chandrashekhar"
+        },
+        {
+          "id": "c",
+          "text": "S.N. Bose"
+        },
+        {
+          "id": "d",
+          "text": "C.V. Raman"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: S. Ramanujan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q38",
+      "type": "single-choice",
+      "text": "Who among the following scientists propounded the New Theory of Relativity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "J.V. Narlikar"
+        },
+        {
+          "id": "b",
+          "text": "M.M. Krishnan"
+        },
+        {
+          "id": "c",
+          "text": "S. Chandrashekhar"
+        },
+        {
+          "id": "d",
+          "text": "B.D. Nag Choudhary"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: J.V. Narlikar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q39",
+      "type": "single-choice",
+      "text": "Who is called the Father of Atomic Energy in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Prof. Satish Dhawan"
+        },
+        {
+          "id": "b",
+          "text": "Homi J. Bhabha"
+        },
+        {
+          "id": "c",
+          "text": "Dr. K.S. Krishna"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Homi J. Bhabha",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q40",
+      "type": "single-choice",
+      "text": "Homi Bhabha Award is given for special contribution in the field of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Theoretical Physics"
+        },
+        {
+          "id": "b",
+          "text": "Nuclear Energy"
+        },
+        {
+          "id": "c",
+          "text": "Laser Physics"
+        },
+        {
+          "id": "d",
+          "text": "Space Research"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nuclear Energy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q41",
+      "type": "single-choice",
+      "text": "Stephen Hawking is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pianist"
+        },
+        {
+          "id": "b",
+          "text": "Guitarist"
+        },
+        {
+          "id": "c",
+          "text": "Scientist"
+        },
+        {
+          "id": "d",
+          "text": "American politician"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Scientist",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q42",
+      "type": "single-choice",
+      "text": "Which one of the following scientists has carried out researches both in the field of Biology and Physics?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jagdish Chandra Bose"
+        },
+        {
+          "id": "b",
+          "text": "Har Govind Khurana"
+        },
+        {
+          "id": "c",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "d",
+          "text": "Homi J. Bhabha"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Jagdish Chandra Bose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q43",
+      "type": "single-choice",
+      "text": "Who is associated with the development of India’s Atomic Bomb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A.P.J. Abdul Kalam"
+        },
+        {
+          "id": "b",
+          "text": "Homi Bhabha"
+        },
+        {
+          "id": "c",
+          "text": "Raja Ramanna"
+        },
+        {
+          "id": "d",
+          "text": "Kastoorirangan"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Raja Ramanna",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004 UPPCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q44",
+      "type": "single-choice",
+      "text": "Who is not a Nobel Prize winner among the following scientists?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Har Govind Khurana"
+        },
+        {
+          "id": "b",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "c",
+          "text": "S. Chandrashekhar"
+        },
+        {
+          "id": "d",
+          "text": "Jagdish Chandra Bose"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jagdish Chandra Bose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q45",
+      "type": "single-choice",
+      "text": "An eminent Indian physicist Dr. C.V. Raman was given Nobel Prize for his work in the year",
+      "options": [
+        {
+          "id": "a",
+          "text": "1925"
+        },
+        {
+          "id": "b",
+          "text": "1930"
+        },
+        {
+          "id": "c",
+          "text": "1935"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1930",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q46",
+      "type": "single-choice",
+      "text": "Har Govind Khorana is credited for the discovery of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synthesis of Protein"
+        },
+        {
+          "id": "b",
+          "text": "Synthesis of Gene"
+        },
+        {
+          "id": "c",
+          "text": "Synthesis of Nitrogenous"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Synthesis of Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q47",
+      "type": "single-choice",
+      "text": "In laboratory, who did the synthesis of DNA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miller"
+        },
+        {
+          "id": "b",
+          "text": "Khorana"
+        },
+        {
+          "id": "c",
+          "text": "D. Weris"
+        },
+        {
+          "id": "d",
+          "text": "Kelvin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Khorana",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q48",
+      "type": "single-choice",
+      "text": "Match the following. (a) Typewriter 1. Davy (b) X-ray 2. Sholes (c) Radio 3. Roentgen (d) Safety lamp 4. Marconi Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "b",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 1 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 3 4 1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q49",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) John Guttenberg (b) W.K. Roentgen (c) Michael Faraday (d) Alexander Graham Bell List-II 1. Telephone 2. Printing Press 3. X-Ray 4. Dynamo Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 2 3 4 1",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q50",
+      "type": "match-the-following",
+      "text": "Match the following in the correct order. List-I (a) Radium (b) Penicillin (c) X-Ray (d) Measles List-II 1. Alexander Fleming 2. Madam Curie 3. Edward Jenner 4. W.K. Roentgen Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 1 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 4 3",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Haryana PSC (Pre) 2017 UPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q51",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Alferd Nobel (b) Alexander Fleming (c) Charles Darwin (d) Madam Curie List-II 1. Theory of Evolution 2. Dynamite 3. Penicillin 4. Isolation of radium Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "c",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "d",
+          "text": "1 4 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 3 1 4",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Telangana PSC (Pre) 2016 UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-scientist-and-invention-q52",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Dr. Raja Ramanna (b) Dr. M.S. Swaminathan (c) Prof. U.R. Rao (d) Prof. Meghnad Saha List-II 1. Plant Chemistry 2. Nuclear Physics 3. Thermodynamics and astrophysics 4. Space research 5. Agricultural science Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 5 2 1"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "2 5 4 3"
+        },
+        {
+          "id": "d",
+          "text": "2 1 4 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 5 4 3",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 1998"
+      ]
+    }
+  ]
+}

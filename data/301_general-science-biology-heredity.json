@@ -1,0 +1,419 @@
+{
+  "bankId": "general-science-biology-heredity",
+  "subject": "Science",
+  "topic": "Heredity",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-heredity-q1",
+      "type": "single-choice",
+      "text": "Mendel’s principle of inheritance is based on",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vegetative reproduction"
+        },
+        {
+          "id": "b",
+          "text": "Asexual reproduction"
+        },
+        {
+          "id": "c",
+          "text": "Sexual reproduction"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sexual reproduction",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 53rd to 55th BPSC (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q2",
+      "type": "single-choice",
+      "text": "Genome mapping relates to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blood grouping"
+        },
+        {
+          "id": "b",
+          "text": "Mapping of genes"
+        },
+        {
+          "id": "c",
+          "text": "Mapping of nerve centres"
+        },
+        {
+          "id": "d",
+          "text": "Mapping of brain"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mapping of genes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2019 UPPCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q3",
+      "type": "single-choice",
+      "text": "Who is the father of modern genetics?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gregor Johann Mendel"
+        },
+        {
+          "id": "b",
+          "text": "Hugo De Vries"
+        },
+        {
+          "id": "c",
+          "text": "Charles Darwin"
+        },
+        {
+          "id": "d",
+          "text": "Thomas Hunt Morgan"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Gregor Johann Mendel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011 Uttarakhand Lower Sub. (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q4",
+      "type": "single-choice",
+      "text": "The classical Mendel’s work on his ‘laws of inheritance’ was performed on the organism",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drosophila"
+        },
+        {
+          "id": "b",
+          "text": "Snapdragon"
+        },
+        {
+          "id": "c",
+          "text": "Garden pea"
+        },
+        {
+          "id": "d",
+          "text": "Sweet pea"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Garden pea",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q5",
+      "type": "single-choice",
+      "text": "The sugar present in DNA is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glucose"
+        },
+        {
+          "id": "b",
+          "text": "Fructose"
+        },
+        {
+          "id": "c",
+          "text": "Deoxyribose"
+        },
+        {
+          "id": "d",
+          "text": "Ribose"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Deoxyribose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q6",
+      "type": "single-choice",
+      "text": "Hereditary symptoms are moved in the descendant of creatures by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ribosome"
+        },
+        {
+          "id": "b",
+          "text": "Chromosome"
+        },
+        {
+          "id": "c",
+          "text": "Plasma"
+        },
+        {
+          "id": "d",
+          "text": "Lysosome"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chromosome",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2019 RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q7",
+      "type": "single-choice",
+      "text": "Which of the following is respons- ible for controlling hereditary characters of the living cells?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Enzyme"
+        },
+        {
+          "id": "b",
+          "text": "Hormone"
+        },
+        {
+          "id": "c",
+          "text": "RNA"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q8",
+      "type": "single-choice",
+      "text": "The unit of heredity in our body is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chromosome"
+        },
+        {
+          "id": "b",
+          "text": "DNA"
+        },
+        {
+          "id": "c",
+          "text": "Gene"
+        },
+        {
+          "id": "d",
+          "text": "Nucleus"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Gene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q9",
+      "type": "single-choice",
+      "text": "Gene is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A segment of DNA"
+        },
+        {
+          "id": "b",
+          "text": "A segment of DNA and histone"
+        },
+        {
+          "id": "c",
+          "text": "A segment of DNA, RNA and histone"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A segment of DNA",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q10",
+      "type": "single-choice",
+      "text": "Who delivered the principle of ‘jumping gene’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gregor Johann Mendel"
+        },
+        {
+          "id": "b",
+          "text": "Tomas Hunt Morgan"
+        },
+        {
+          "id": "c",
+          "text": "Barbara Mc Clintock"
+        },
+        {
+          "id": "d",
+          "text": "Watson and Crick"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Barbara Mc Clintock",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2019 IAS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q11",
+      "type": "single-choice",
+      "text": "Which compound present in D.N.A. does not form amino acid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adenine"
+        },
+        {
+          "id": "b",
+          "text": "Tyrosine"
+        },
+        {
+          "id": "c",
+          "text": "Guanine"
+        },
+        {
+          "id": "d",
+          "text": "Cytosine"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tyrosine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2019 UPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-heredity-q12",
+      "type": "single-choice",
+      "text": "Which of the following profession- al(s) are more likely to run the risk of a permanent change in their cell’s DNA? 1. Researchers using carbon 14 isotope 2. X-ray technician 3. Coal miner 4. Dyer and painter Select the correct answer by using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 2"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 2",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Sikkim PSC (Pre) 2015 IAS (Pre) 1996",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

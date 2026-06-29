@@ -1,0 +1,1507 @@
+{
+  "bankId": "general-science-chemistry-metals-minerals-ores-properties-uses",
+  "subject": "Science",
+  "topic": "Metals, Minerals, Ores : Properties, Uses",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q1",
+      "type": "single-choice",
+      "text": "Which one of the following pairs of metals constitutes the lightest metal and heaviest metal, respectively?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lithium and Mercury"
+        },
+        {
+          "id": "b",
+          "text": "Lithium and Osmium"
+        },
+        {
+          "id": "c",
+          "text": "Aluminium and Osmium"
+        },
+        {
+          "id": "d",
+          "text": "Aluminium and Mercury"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lithium and Osmium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q2",
+      "type": "single-choice",
+      "text": "Which is the hardest in the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Glass"
+        },
+        {
+          "id": "c",
+          "text": "Quartz"
+        },
+        {
+          "id": "d",
+          "text": "Platinum"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Diamond",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000 MPPCS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q3",
+      "type": "single-choice",
+      "text": "Which of the following is the electron configuration of a metallic element?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2, 8"
+        },
+        {
+          "id": "b",
+          "text": "2, 8, 7"
+        },
+        {
+          "id": "c",
+          "text": "2, 8, 8"
+        },
+        {
+          "id": "d",
+          "text": "2, 8, 8, 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 2, 8, 8, 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "45th BPSC (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q4",
+      "type": "single-choice",
+      "text": "Which is the most reactive metal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium"
+        },
+        {
+          "id": "b",
+          "text": "Calcium"
+        },
+        {
+          "id": "c",
+          "text": "Iron"
+        },
+        {
+          "id": "d",
+          "text": "Potassium"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Potassium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q5",
+      "type": "single-choice",
+      "text": "Which one of the following is the hardest metal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gold"
+        },
+        {
+          "id": "b",
+          "text": "Iron"
+        },
+        {
+          "id": "c",
+          "text": "Platinum"
+        },
+        {
+          "id": "d",
+          "text": "Tungsten"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Platinum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q6",
+      "type": "single-choice",
+      "text": "Which one of the following materials is very hard and very ductile?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carborundum"
+        },
+        {
+          "id": "b",
+          "text": "Tungsten"
+        },
+        {
+          "id": "c",
+          "text": "Cast iron"
+        },
+        {
+          "id": "d",
+          "text": "Nichrome"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nichrome",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q7",
+      "type": "single-choice",
+      "text": "The heaviest natural element is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uranium"
+        },
+        {
+          "id": "b",
+          "text": "Mercury"
+        },
+        {
+          "id": "c",
+          "text": "Gold"
+        },
+        {
+          "id": "d",
+          "text": "Calcium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Uranium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q8",
+      "type": "single-choice",
+      "text": "Heaviest metal of the following is made of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper"
+        },
+        {
+          "id": "b",
+          "text": "Uranium"
+        },
+        {
+          "id": "c",
+          "text": "Aluminium"
+        },
+        {
+          "id": "d",
+          "text": "Silver"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Uranium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "40th BPSC (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q9",
+      "type": "single-choice",
+      "text": "Which of the following is lighter than water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Sodium"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium"
+        },
+        {
+          "id": "d",
+          "text": "Manganese"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sodium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q10",
+      "type": "single-choice",
+      "text": "The chemical structure of the pearl is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Carbonate & Magnesium Carbonate"
+        },
+        {
+          "id": "c",
+          "text": "Calcium Chloride"
+        },
+        {
+          "id": "d",
+          "text": "Calcium Sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Calcium Carbonate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q11",
+      "type": "single-choice",
+      "text": "The main constituents of pearl are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Carbonate and Magnesium Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Aragonite and Conchiolin"
+        },
+        {
+          "id": "c",
+          "text": "Ammonium Sulphate and Sodium Carbonate"
+        },
+        {
+          "id": "d",
+          "text": "Calcium Oxide and Ammonium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aragonite and Conchiolin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q12",
+      "type": "single-choice",
+      "text": "Pearl is mainly constituted of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Oxalate"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Sulphate"
+        },
+        {
+          "id": "c",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "d",
+          "text": "Calcium Oxide"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Calcium Carbonate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q13",
+      "type": "single-choice",
+      "text": "What are Rubies and Sapphires chemically known as?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silicon Dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Aluminium Oxide"
+        },
+        {
+          "id": "c",
+          "text": "Lead Tetroxide"
+        },
+        {
+          "id": "d",
+          "text": "Boron Nitride"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aluminium Oxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q14",
+      "type": "single-choice",
+      "text": "These days yellow lamps are frequently used as street light. Which one of the following is used in these lamps?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium"
+        },
+        {
+          "id": "b",
+          "text": "Neon"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sodium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q15",
+      "type": "single-choice",
+      "text": "Sodium Vapour Lamp is usually used as street light, because",
+      "options": [
+        {
+          "id": "a",
+          "text": "These are cheap"
+        },
+        {
+          "id": "b",
+          "text": "Light from this is monochro- matic and will not split through water droplets"
+        },
+        {
+          "id": "c",
+          "text": "It is pleasing to the eyes"
+        },
+        {
+          "id": "d",
+          "text": "It is brightly illuminating"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Light from this is monochro- matic and will not split through water droplets",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q16",
+      "type": "single-choice",
+      "text": "The most commonly used substance in fluorescent tubes are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium Oxide and Argon"
+        },
+        {
+          "id": "b",
+          "text": "Sodium Vapour and Neon"
+        },
+        {
+          "id": "c",
+          "text": "Mercury Vapour and Argon"
+        },
+        {
+          "id": "d",
+          "text": "Mercuric Oxide and Neon"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mercury Vapour and Argon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q17",
+      "type": "single-choice",
+      "text": "Which one of the following metals is accessed in the native state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Gold"
+        },
+        {
+          "id": "c",
+          "text": "Chromium"
+        },
+        {
+          "id": "d",
+          "text": "Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gold",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q18",
+      "type": "single-choice",
+      "text": "Which one of the following is the correct sequence of the given substances in the decreasing order of their densities?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steel > Mercury > Gold"
+        },
+        {
+          "id": "b",
+          "text": "Gold > Mercury > Steel"
+        },
+        {
+          "id": "c",
+          "text": "Steel > Gold > Mercury"
+        },
+        {
+          "id": "d",
+          "text": "Gold > Steel > Mercury"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gold > Mercury > Steel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q19",
+      "type": "single-choice",
+      "text": "Of how many carats is the pure gold?",
+      "options": [
+        {
+          "id": "a",
+          "text": "22"
+        },
+        {
+          "id": "b",
+          "text": "24"
+        },
+        {
+          "id": "c",
+          "text": "28"
+        },
+        {
+          "id": "d",
+          "text": "20"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 24",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q20",
+      "type": "single-choice",
+      "text": "The softest mineral, Talc (Soapstone) is mainly",
+      "options": [
+        {
+          "id": "a",
+          "text": "Manganese Silicate"
+        },
+        {
+          "id": "b",
+          "text": "Sodium Silicate"
+        },
+        {
+          "id": "c",
+          "text": "Sodium Phosphate"
+        },
+        {
+          "id": "d",
+          "text": "Magnesium Silicate"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Magnesium Silicate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q21",
+      "type": "single-choice",
+      "text": "The chemical name of limestone is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Magnesium Chloride"
+        },
+        {
+          "id": "c",
+          "text": "Sodium Chloride"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Calcium Carbonate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q22",
+      "type": "single-choice",
+      "text": "Chemically ‘Plaster of Paris’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Sulphate"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "c",
+          "text": "Calcium Oxide"
+        },
+        {
+          "id": "d",
+          "text": "Calcium Oxalate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Calcium Sulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q23",
+      "type": "single-choice",
+      "text": "The chemical formula of the Plaster of Paris is",
+      "options": [
+        {
+          "id": "a",
+          "text": "CaSO"
+        },
+        {
+          "id": "b",
+          "text": "CaSO ·½H O 4 4 2"
+        },
+        {
+          "id": "c",
+          "text": "CaSO ·H O"
+        },
+        {
+          "id": "d",
+          "text": "CaSO ·2H O 4 2 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: CaSO ·½H O 4 4 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997 39th BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q24",
+      "type": "single-choice",
+      "text": "Doctors, Artists and Sculptors use Calcium Sulphate which is popularly known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quick lime"
+        },
+        {
+          "id": "b",
+          "text": "Limestone"
+        },
+        {
+          "id": "c",
+          "text": "Bleaching powder"
+        },
+        {
+          "id": "d",
+          "text": "Plaster of Paris"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Plaster of Paris",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q25",
+      "type": "single-choice",
+      "text": "Monazite is an ore of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zirconium"
+        },
+        {
+          "id": "b",
+          "text": "Thorium"
+        },
+        {
+          "id": "c",
+          "text": "Titanium"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Thorium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q26",
+      "type": "single-choice",
+      "text": "Mica is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Good conductor of heat and bad conductor of electricity"
+        },
+        {
+          "id": "b",
+          "text": "Bad conductor of both heat and electricity"
+        },
+        {
+          "id": "c",
+          "text": "Good conductor of heat and electricity both"
+        },
+        {
+          "id": "d",
+          "text": "Bad conductor of heat and good conductor of electricity"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Good conductor of heat and bad conductor of electricity",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q27",
+      "type": "single-choice",
+      "text": "In which of the following industries is mica used as a raw material?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron and steel"
+        },
+        {
+          "id": "b",
+          "text": "Toys"
+        },
+        {
+          "id": "c",
+          "text": "Glass and pottery"
+        },
+        {
+          "id": "d",
+          "text": "Electrical"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Electrical",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q28",
+      "type": "single-choice",
+      "text": "Which one of the following liquids is very good conductor of heat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mercury"
+        },
+        {
+          "id": "b",
+          "text": "Water"
+        },
+        {
+          "id": "c",
+          "text": "Ether"
+        },
+        {
+          "id": "d",
+          "text": "Benzene"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Mercury",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q29",
+      "type": "single-choice",
+      "text": "Which one of the following metals is liquid at room temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lead"
+        },
+        {
+          "id": "b",
+          "text": "Mercury"
+        },
+        {
+          "id": "c",
+          "text": "Nickel"
+        },
+        {
+          "id": "d",
+          "text": "Tin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mercury",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q30",
+      "type": "single-choice",
+      "text": "Which one of the following metals is liquid at ordinary temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lead"
+        },
+        {
+          "id": "b",
+          "text": "Nickel"
+        },
+        {
+          "id": "c",
+          "text": "Mercury"
+        },
+        {
+          "id": "d",
+          "text": "Tin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mercury",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q31",
+      "type": "single-choice",
+      "text": "Mercury is basically used in thermometer devices because its especiality is",
+      "options": [
+        {
+          "id": "a",
+          "text": "High density"
+        },
+        {
+          "id": "b",
+          "text": "High liquidity"
+        },
+        {
+          "id": "c",
+          "text": "High circulation power"
+        },
+        {
+          "id": "d",
+          "text": "High specific heat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: High circulation power",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q32",
+      "type": "single-choice",
+      "text": "Which of the following do not react with water at all?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Lead"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q33",
+      "type": "single-choice",
+      "text": "There is no reaction when steam passes over",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Copper"
+        },
+        {
+          "id": "c",
+          "text": "Carbon"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Aluminium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "38th BPSC (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q34",
+      "type": "single-choice",
+      "text": "Iron is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Limestone"
+        },
+        {
+          "id": "b",
+          "text": "Pitch-blende"
+        },
+        {
+          "id": "c",
+          "text": "Monazite Sand"
+        },
+        {
+          "id": "d",
+          "text": "Hematite"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Hematite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q35",
+      "type": "single-choice",
+      "text": "Which of the following materials has the highest electrical conduc- tivity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Silver"
+        },
+        {
+          "id": "c",
+          "text": "Graphite"
+        },
+        {
+          "id": "d",
+          "text": "Wood"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Silver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Mains) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q36",
+      "type": "single-choice",
+      "text": "Which of the following is mainly used for the production of Aluminium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hematite"
+        },
+        {
+          "id": "b",
+          "text": "Lignite"
+        },
+        {
+          "id": "c",
+          "text": "Bauxite"
+        },
+        {
+          "id": "d",
+          "text": "Magnetite"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bauxite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q37",
+      "type": "single-choice",
+      "text": "Bauxite is an ore of which of the following metals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Copper"
+        },
+        {
+          "id": "c",
+          "text": "Aluminium"
+        },
+        {
+          "id": "d",
+          "text": "Silver"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Aluminium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007 UP UDA/LDA (Pre) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q38",
+      "type": "single-choice",
+      "text": "Bauxite is the ore of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Aluminium"
+        },
+        {
+          "id": "c",
+          "text": "Copper"
+        },
+        {
+          "id": "d",
+          "text": "Gold"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aluminium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) (Re. Exam) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q39",
+      "type": "single-choice",
+      "text": "Aluminium metal is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pitch blende"
+        },
+        {
+          "id": "b",
+          "text": "Graphite"
+        },
+        {
+          "id": "c",
+          "text": "Bauxite"
+        },
+        {
+          "id": "d",
+          "text": "Argentite"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bauxite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Mains) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q40",
+      "type": "single-choice",
+      "text": "Which one of the following state- ments is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid sodium is employed as a coolant in nuclear reactors"
+        },
+        {
+          "id": "b",
+          "text": "Calcium carbonate is an ingredient of toothpaste"
+        },
+        {
+          "id": "c",
+          "text": "Bordeaux mixture consists of sodium sulphate and lime"
+        },
+        {
+          "id": "d",
+          "text": "Zinc amalgams are used as a dental filling"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Calcium carbonate is an ingredient of toothpaste",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q41",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Sodium metal is stored under kerosene. Reason (R): Metallic sodium melts when exposed to air.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q42",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Best conductors of heat and electricity (b) The highest amount of metal is found (c) Most flexible and able to increase by bang metal (d) Minimum heat conducting List-II 1. Gold 2. Lead 3. Aluminium 4. Silver Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "d",
+          "text": "4 3 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 3 1 2",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q43",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Industrial Process) (a) Cracking (b) Smelting (c) Hydrogenation (d) Vulcanization List-II (Industry) 1. Rubber 2. Petroleum 3. Copper 4. Edible Fats Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "d",
+          "text": "3 2 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 3 4 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-metals-minerals-ores-properties-uses-q44",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Naturally occurring substance) (a) Diamond (b) Marble (c) Sand (d) Ruby List-II (Elements present) 1. Calcium 2. Silicon 3. Aluminium 4. Carbon Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 1 2 4"
+        },
+        {
+          "id": "b",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "c",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "d",
+          "text": "4 1 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 1 2 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 1999 UPPCS (Pre) 2010 UP UDA/LDA (Pre) 2010",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

@@ -1,0 +1,215 @@
+{
+  "bankId": "general-science-chemistry-detergents",
+  "subject": "Science",
+  "topic": "Detergents",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-detergents-q1",
+      "type": "single-choice",
+      "text": "What is detergent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soap"
+        },
+        {
+          "id": "b",
+          "text": "Medicine"
+        },
+        {
+          "id": "c",
+          "text": "Catalyst"
+        },
+        {
+          "id": "d",
+          "text": "Refining agent"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Refining agent",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2019 40th BPSC (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-detergents-q2",
+      "type": "single-choice",
+      "text": "Which one of the following is used in the manufacture of soaps?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vegetable oil"
+        },
+        {
+          "id": "b",
+          "text": "Mobil oil"
+        },
+        {
+          "id": "c",
+          "text": "Kerosene oil"
+        },
+        {
+          "id": "d",
+          "text": "Cutting oil"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vegetable oil",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2019 44th BPSC (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-detergents-q3",
+      "type": "single-choice",
+      "text": "Soap removes grease by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coagulation"
+        },
+        {
+          "id": "b",
+          "text": "Adsorption"
+        },
+        {
+          "id": "c",
+          "text": "Emulsification"
+        },
+        {
+          "id": "d",
+          "text": "Osmosis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Emulsification",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-detergents-q4",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Detergent easily removes oil and dirt from dirty garments. Reason (R): Detergent increases the surface tension of water.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-detergents-q5",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Synthetic deter- gents can make more lather in hard water. Reason (R): Synthetic detergents form soluble calcium and magne- sium salts with hard water.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-detergents-q6",
+      "type": "single-choice",
+      "text": "Consider the following statements. Sodium silicate and sodium sulphate are mixed as detergents in washing powders so that 1. To maintain dryness of the powder. 2. To maintain the basicity of powder. Which of the following statement is correc?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

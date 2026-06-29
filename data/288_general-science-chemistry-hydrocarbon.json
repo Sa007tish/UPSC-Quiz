@@ -1,0 +1,827 @@
+{
+  "bankId": "general-science-chemistry-hydrocarbon",
+  "subject": "Science",
+  "topic": "Hydrocarbon",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-hydrocarbon-q1",
+      "type": "single-choice",
+      "text": "In all bio-compounds the most necessary fundamental element is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulphur"
+        },
+        {
+          "id": "b",
+          "text": "Carbon"
+        },
+        {
+          "id": "c",
+          "text": "Oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q2",
+      "type": "single-choice",
+      "text": "Which one of the following sets of elements was primarily responsible for the origin of life on the Earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen, Oxygen, Sodium"
+        },
+        {
+          "id": "b",
+          "text": "Carbon, Hydrogen, Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Oxygen, Calcium, Phosphorus"
+        },
+        {
+          "id": "d",
+          "text": "Carbon, Hydrogen, Potassium"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carbon, Hydrogen, Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q3",
+      "type": "single-choice",
+      "text": "Which one of the following is the correct sequential order in which these appeared under simulated primitive earth condition?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane, Hydrogen, Cyanide, Nitrile, Amino Acid"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen Cyanide, Methane, Nitrile, Amino Acid"
+        },
+        {
+          "id": "c",
+          "text": "Amino Acid, Nitrile, Hydrogen Cyanide, Methane"
+        },
+        {
+          "id": "d",
+          "text": "Nitrile, Amino Acid, Methane, Hydrogen Cyanide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methane, Hydrogen, Cyanide, Nitrile, Amino Acid",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q4",
+      "type": "single-choice",
+      "text": "Which is the fundamental element of all organic compounds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Carbon"
+        },
+        {
+          "id": "d",
+          "text": "Brimstone"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015 UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q5",
+      "type": "single-choice",
+      "text": "Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane, Ethane, Propane and Butane"
+        },
+        {
+          "id": "b",
+          "text": "Propane, Butane, Ethane and Methane"
+        },
+        {
+          "id": "c",
+          "text": "Butane, Ethane, Propane and Methane"
+        },
+        {
+          "id": "d",
+          "text": "Butane, Propane, Ethane and Methane"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methane, Ethane, Propane and Butane",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q6",
+      "type": "single-choice",
+      "text": "Which one of the following was used as a chemical weapon in the First World War?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon monoxide"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen cyanide"
+        },
+        {
+          "id": "c",
+          "text": "Mustard gas"
+        },
+        {
+          "id": "d",
+          "text": "Water gas"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mustard gas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2019 IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q7",
+      "type": "single-choice",
+      "text": "Mustard gas is used",
+      "options": [
+        {
+          "id": "a",
+          "text": "As a fuel gas"
+        },
+        {
+          "id": "b",
+          "text": "In chemical warfare"
+        },
+        {
+          "id": "c",
+          "text": "As a source of mustard oil"
+        },
+        {
+          "id": "d",
+          "text": "As a deodorant"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: In chemical warfare",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2017 UPPCS (Spl)(Mains) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q8",
+      "type": "single-choice",
+      "text": "Poisonous mustard gas is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gas"
+        },
+        {
+          "id": "b",
+          "text": "Liquid"
+        },
+        {
+          "id": "c",
+          "text": "Solid"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Liquid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q9",
+      "type": "single-choice",
+      "text": "Which of the following gases is used in cigarette lighters?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Butane"
+        },
+        {
+          "id": "b",
+          "text": "Methane"
+        },
+        {
+          "id": "c",
+          "text": "Propane"
+        },
+        {
+          "id": "d",
+          "text": "Radon"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Butane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q10",
+      "type": "single-choice",
+      "text": "Leakage of which of the following gases had caused the Bhopal Gas Tragedy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methyl isocyanate"
+        },
+        {
+          "id": "b",
+          "text": "Carbon mono-oxide"
+        },
+        {
+          "id": "c",
+          "text": "Nitric oxide"
+        },
+        {
+          "id": "d",
+          "text": "Sulphur dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methyl isocyanate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2018 Uttarakhand PCS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q11",
+      "type": "single-choice",
+      "text": "From the decomposition of which of the following printing ink is formed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetylene"
+        },
+        {
+          "id": "b",
+          "text": "Methane"
+        },
+        {
+          "id": "c",
+          "text": "Carbon tetrachloride"
+        },
+        {
+          "id": "d",
+          "text": "Benzene"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2017 Jharkhand PCS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q12",
+      "type": "single-choice",
+      "text": "Methane gas producing field is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wheat field"
+        },
+        {
+          "id": "b",
+          "text": "Paddy field"
+        },
+        {
+          "id": "c",
+          "text": "Cotton field"
+        },
+        {
+          "id": "d",
+          "text": "Groundnut field"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Paddy field",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017 UPPCS (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q13",
+      "type": "single-choice",
+      "text": "For benzene which of the following statements is true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It has six sigma and six pi bonds"
+        },
+        {
+          "id": "b",
+          "text": "It has twelve sigma and six pi bonds"
+        },
+        {
+          "id": "c",
+          "text": "It has twelve sigma and three pi bonds"
+        },
+        {
+          "id": "d",
+          "text": "It has six sigma and three pi bonds"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: It has twelve sigma and three pi bonds",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q14",
+      "type": "single-choice",
+      "text": "Which one of the following catalysts is used for hydrogenation of vegetable oils?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zinc dust"
+        },
+        {
+          "id": "b",
+          "text": "Nickel"
+        },
+        {
+          "id": "c",
+          "text": "Platinum"
+        },
+        {
+          "id": "d",
+          "text": "Copper"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nickel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q15",
+      "type": "single-choice",
+      "text": "Which one of the following chemicals help in fruit ripening?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethephon"
+        },
+        {
+          "id": "b",
+          "text": "Atrazine"
+        },
+        {
+          "id": "c",
+          "text": "Isoproturan"
+        },
+        {
+          "id": "d",
+          "text": "Malathion"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ethephon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2010 UPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q16",
+      "type": "single-choice",
+      "text": "Which of the following chemicals is used for ripening?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium Chloride"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Carbide"
+        },
+        {
+          "id": "c",
+          "text": "Potassium Chloride"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Calcium Carbide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q17",
+      "type": "single-choice",
+      "text": "Calcium Carbide is used for artificial ripening of green fruits because it produces",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methylene"
+        },
+        {
+          "id": "b",
+          "text": "Auxin"
+        },
+        {
+          "id": "c",
+          "text": "Acetylene"
+        },
+        {
+          "id": "d",
+          "text": "Florigen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Acetylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q18",
+      "type": "single-choice",
+      "text": "Fruit ripening is promoted by which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Sulphur dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Ethylene"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q19",
+      "type": "single-choice",
+      "text": "Which of the following gas mixture is used in welding gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetylene and Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen and Acetylene"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogen and Oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Hydrogen and Helium"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Oxygen and Acetylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q20",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is incorrectly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pyrene - Fire extinguisher"
+        },
+        {
+          "id": "b",
+          "text": "Sulphur - Acid rain Dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Freon - Refrigerant"
+        },
+        {
+          "id": "d",
+          "text": "Fullerene - Fluorine containing polymer"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Fullerene - Fluorine containing polymer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q21",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fullerene - Organic compounds containing fluorine"
+        },
+        {
+          "id": "b",
+          "text": "Dry Ice - Solid carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Keratin - Protein found in the outer layer of human skin"
+        },
+        {
+          "id": "d",
+          "text": "Mustard gas - Poisonous liquid used in chemical warfare"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fullerene - Organic compounds containing fluorine",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2001, 2003 UP Lower Sub. (Pre) 2003, 2002 UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q22",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dry Ice - Solid carbon dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Mustard gas - Poisonous liquid used in chemical warfare"
+        },
+        {
+          "id": "c",
+          "text": "Teflon - Polymer containing fluorine"
+        },
+        {
+          "id": "d",
+          "text": "Fullerene - Organic compounds containing fluorine"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Fullerene - Organic compounds containing fluorine",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q23",
+      "type": "single-choice",
+      "text": "Which of the following is correctly matched? 1. Biogas - Insecticide 2. Electro- - Heart cardiography disorder 3. D.D.T. - Cow dung 4. Nicotine - Tobacco",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 2 and 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2019 UP Lower Sub. (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrocarbon-q24",
+      "type": "single-choice",
+      "text": "Consider the following statements about acetylene. 1. It is used in welding industry. 2. It is a raw material for preparing plastics. 3. It is easily obtained by mixing silicon carbide and water. Of these statements.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 are correct"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 are correct"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 are correct"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3 are correct"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 and 2 are correct",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "Maharashtra PSC (Pre) 2017 IAS (Pre) 1998",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

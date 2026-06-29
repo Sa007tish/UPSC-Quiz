@@ -1,0 +1,1983 @@
+{
+  "bankId": "general-science-biology-endocrine-glands-hormones",
+  "subject": "Science",
+  "topic": "Endocrine Glands, Hormones",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q1",
+      "type": "single-choice",
+      "text": "Even though an animal is fed with carbohydrates rich diet, its blood sugar concentration tends to remain constant. This is on account of the fact that is the case of an animal",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hormones of pituitary glands control metabolic process"
+        },
+        {
+          "id": "b",
+          "text": "Hormones of pancreas cause such a condition"
+        },
+        {
+          "id": "c",
+          "text": "Blood sugar is readily absorbed by the liver"
+        },
+        {
+          "id": "d",
+          "text": "Glucose undergoes autolysis"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hormones of pancreas cause such a condition",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q2",
+      "type": "single-choice",
+      "text": "What would happen if the pancreas is defective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Digestion will not take properly"
+        },
+        {
+          "id": "b",
+          "text": "Insulin and glucagon are not formed"
+        },
+        {
+          "id": "c",
+          "text": "Blood formation will stop"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure will increase"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Insulin and glucagon are not formed",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q3",
+      "type": "single-choice",
+      "text": "Which one of the following hormones stimulates pancreas for the production of digestive juice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Renin"
+        },
+        {
+          "id": "b",
+          "text": "Trypsin"
+        },
+        {
+          "id": "c",
+          "text": "Secretin"
+        },
+        {
+          "id": "d",
+          "text": "Pepsin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Secretin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q4",
+      "type": "single-choice",
+      "text": "Insulin hormone is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycolipid"
+        },
+        {
+          "id": "b",
+          "text": "Fatty acid"
+        },
+        {
+          "id": "c",
+          "text": "Peptide"
+        },
+        {
+          "id": "d",
+          "text": "Sterol"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Peptide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q5",
+      "type": "single-choice",
+      "text": "Insulin is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steroid"
+        },
+        {
+          "id": "b",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "c",
+          "text": "Protein"
+        },
+        {
+          "id": "d",
+          "text": "Fat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q6",
+      "type": "single-choice",
+      "text": "Which metal is present in insulin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tin"
+        },
+        {
+          "id": "b",
+          "text": "Copper"
+        },
+        {
+          "id": "c",
+          "text": "Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Aluminium"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Zinc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q7",
+      "type": "single-choice",
+      "text": "Lack of which substance causes diabetes in a person?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycine"
+        },
+        {
+          "id": "b",
+          "text": "Haemoglobin"
+        },
+        {
+          "id": "c",
+          "text": "Histamine"
+        },
+        {
+          "id": "d",
+          "text": "Insulin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Insulin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q8",
+      "type": "single-choice",
+      "text": "Insulin is produced by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Islets of Langerhans"
+        },
+        {
+          "id": "b",
+          "text": "Pituitary gland"
+        },
+        {
+          "id": "c",
+          "text": "Thyroid gland"
+        },
+        {
+          "id": "d",
+          "text": "Adrenal gland"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Islets of Langerhans",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q9",
+      "type": "single-choice",
+      "text": "The human hormone ‘insulin’ is produced in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Pancreas"
+        },
+        {
+          "id": "c",
+          "text": "Kidney"
+        },
+        {
+          "id": "d",
+          "text": "Pituitary"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pancreas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q10",
+      "type": "single-choice",
+      "text": "Insulin is a type of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hormone"
+        },
+        {
+          "id": "b",
+          "text": "Enzyme"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin"
+        },
+        {
+          "id": "d",
+          "text": "Salt"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hormone",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q11",
+      "type": "single-choice",
+      "text": "Insulin is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fat"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "d",
+          "text": "Protein"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q12",
+      "type": "single-choice",
+      "text": "Which one of the following is not a plant hormone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cytokinin"
+        },
+        {
+          "id": "b",
+          "text": "Ethylene"
+        },
+        {
+          "id": "c",
+          "text": "Insulin"
+        },
+        {
+          "id": "d",
+          "text": "Gibberellin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Insulin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q13",
+      "type": "single-choice",
+      "text": "Which one of the following is a plant hormone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulin"
+        },
+        {
+          "id": "b",
+          "text": "Thyroxine"
+        },
+        {
+          "id": "c",
+          "text": "Estrogen"
+        },
+        {
+          "id": "d",
+          "text": "Cytokinin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Cytokinin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016 UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q14",
+      "type": "single-choice",
+      "text": "Insulin is received from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rhizome of ginger"
+        },
+        {
+          "id": "b",
+          "text": "Roots of dahlia"
+        },
+        {
+          "id": "c",
+          "text": "Balsam flower"
+        },
+        {
+          "id": "d",
+          "text": "Potatoes tuber"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Roots of dahlia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q15",
+      "type": "single-choice",
+      "text": "Extra glucose in body gets converted into glycogen and is stored in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stomach"
+        },
+        {
+          "id": "b",
+          "text": "Liver"
+        },
+        {
+          "id": "c",
+          "text": "Pancreas"
+        },
+        {
+          "id": "d",
+          "text": "Bile"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Liver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q16",
+      "type": "single-choice",
+      "text": "Energy is stored in liver and muscles in the form of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "b",
+          "text": "Fat"
+        },
+        {
+          "id": "c",
+          "text": "Protein"
+        },
+        {
+          "id": "d",
+          "text": "Glycogen"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Glycogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q17",
+      "type": "single-choice",
+      "text": "Hugging and kissing of mother to her baby initiates, which of the following hormone for secretion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulin"
+        },
+        {
+          "id": "b",
+          "text": "Noradrenaline"
+        },
+        {
+          "id": "c",
+          "text": "Follicular hormone"
+        },
+        {
+          "id": "d",
+          "text": "Oxytocin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Oxytocin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2015 UP Lower PCS (Pre) 2003, 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q18",
+      "type": "single-choice",
+      "text": "Which one of the following is not a protein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keratin"
+        },
+        {
+          "id": "b",
+          "text": "Fibroin"
+        },
+        {
+          "id": "c",
+          "text": "Oxytocin"
+        },
+        {
+          "id": "d",
+          "text": "Collagen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Oxytocin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2019 UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q19",
+      "type": "single-choice",
+      "text": "Which gland secretes the milk ejection hormone oxytocin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pituitary gland"
+        },
+        {
+          "id": "b",
+          "text": "Thyroid gland"
+        },
+        {
+          "id": "c",
+          "text": "Parathyroid gland"
+        },
+        {
+          "id": "d",
+          "text": "Adernal gland"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Pituitary gland",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2018 RAS/RTS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q20",
+      "type": "single-choice",
+      "text": "The pituitary gland by virtue of its tropic hormones controls the secretion activity of other endocrine glands. Which one of the following endocrine gland can function independent of the pituitary gland?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thyroid"
+        },
+        {
+          "id": "b",
+          "text": "Gonads"
+        },
+        {
+          "id": "c",
+          "text": "Adernals"
+        },
+        {
+          "id": "d",
+          "text": "Parathyroid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Parathyroid",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "Goa PSC (Pre) 2019 IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q21",
+      "type": "single-choice",
+      "text": "Which hormone is injected to cows and buffaloes to make the milk descend to the udders?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Somatotropin"
+        },
+        {
+          "id": "b",
+          "text": "Oxytocin"
+        },
+        {
+          "id": "c",
+          "text": "Interferon"
+        },
+        {
+          "id": "d",
+          "text": "Insulin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Oxytocin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2018 UPPCS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q22",
+      "type": "single-choice",
+      "text": "The hormone related to drought tolerance is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abscisic acid"
+        },
+        {
+          "id": "b",
+          "text": "Gibberellin"
+        },
+        {
+          "id": "c",
+          "text": "Indole acetic acid"
+        },
+        {
+          "id": "d",
+          "text": "Cytokinin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Abscisic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q23",
+      "type": "single-choice",
+      "text": "What is thyroxine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin"
+        },
+        {
+          "id": "b",
+          "text": "Hormone"
+        },
+        {
+          "id": "c",
+          "text": "Enzyme"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hormone",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q24",
+      "type": "single-choice",
+      "text": "Iodine containing hormone is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thyroxine"
+        },
+        {
+          "id": "b",
+          "text": "Insulin"
+        },
+        {
+          "id": "c",
+          "text": "Adrenaline"
+        },
+        {
+          "id": "d",
+          "text": "Testrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Thyroxine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Nagaland PSC (Pre) 2018 RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q25",
+      "type": "single-choice",
+      "text": "Iodised salt is useful because it",
+      "options": [
+        {
+          "id": "a",
+          "text": "Improves digestion"
+        },
+        {
+          "id": "b",
+          "text": "Increases resistance to diseases"
+        },
+        {
+          "id": "c",
+          "text": "Controls the thyroid gland"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Controls the thyroid gland",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q26",
+      "type": "single-choice",
+      "text": "Iodine containing, thyroxine hormone is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glucose"
+        },
+        {
+          "id": "b",
+          "text": "Amino acid"
+        },
+        {
+          "id": "c",
+          "text": "Ester"
+        },
+        {
+          "id": "d",
+          "text": "Peptides"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Amino acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q27",
+      "type": "single-choice",
+      "text": "Which hormone stimulates the thyroid gland to secrete thyroxine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "TSH"
+        },
+        {
+          "id": "b",
+          "text": "FSH"
+        },
+        {
+          "id": "c",
+          "text": "LTH"
+        },
+        {
+          "id": "d",
+          "text": "ACTH"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: TSH",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Orissa PSC (Pre) 2017 45th BPSC (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q28",
+      "type": "single-choice",
+      "text": "Which one of the following hormones contains iodine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thyroxine"
+        },
+        {
+          "id": "b",
+          "text": "Testosterone"
+        },
+        {
+          "id": "c",
+          "text": "Insulin"
+        },
+        {
+          "id": "d",
+          "text": "Adrenaline"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Thyroxine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2017 IAS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q29",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched? Hormone Function",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulin - regulation of blood glucose"
+        },
+        {
+          "id": "b",
+          "text": "Melatopin - regulation of sleep"
+        },
+        {
+          "id": "c",
+          "text": "Oxytocin - release of milk from mammary glands"
+        },
+        {
+          "id": "d",
+          "text": "Gastrin - regulation of blood pressure"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Gastrin - regulation of blood pressure",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q30",
+      "type": "single-choice",
+      "text": "Of the following which hormone is associated with ‘fight or flight’ concept?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulin"
+        },
+        {
+          "id": "b",
+          "text": "Adrenaline"
+        },
+        {
+          "id": "c",
+          "text": "Estrogen"
+        },
+        {
+          "id": "d",
+          "text": "Oxytocin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Adrenaline",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010 UPPCS (Spl)(Mains) 2004 UPPCS (Pre) 2003, 2001 UP UDA/LDA (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q31",
+      "type": "single-choice",
+      "text": "Secretion of which hormone increases heart beat and produces a feeling of excitement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cortisone"
+        },
+        {
+          "id": "b",
+          "text": "Insulin"
+        },
+        {
+          "id": "c",
+          "text": "Adrenaline"
+        },
+        {
+          "id": "d",
+          "text": "Testosterone"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Adrenaline",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q32",
+      "type": "single-choice",
+      "text": "‘Satiety’ and ‘thirst’ centres in humans are located in which of the following parts of the brain?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fore-brain"
+        },
+        {
+          "id": "b",
+          "text": "Hypothalamus"
+        },
+        {
+          "id": "c",
+          "text": "Medulla"
+        },
+        {
+          "id": "d",
+          "text": "Optic lobe"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hypothalamus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q33",
+      "type": "single-choice",
+      "text": "By whom estrogen is produced?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Egg"
+        },
+        {
+          "id": "b",
+          "text": "Follicles"
+        },
+        {
+          "id": "c",
+          "text": "Corpus luteum"
+        },
+        {
+          "id": "d",
+          "text": "Uterus"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Follicles",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q34",
+      "type": "single-choice",
+      "text": "What is estrogen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bone"
+        },
+        {
+          "id": "b",
+          "text": "Hormone"
+        },
+        {
+          "id": "c",
+          "text": "Enzyme"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hormone",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q35",
+      "type": "single-choice",
+      "text": "After menopause, production of which of the following hormones does not take place in women?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Progesterone"
+        },
+        {
+          "id": "b",
+          "text": "Testosterone"
+        },
+        {
+          "id": "c",
+          "text": "Estrogen"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Progesterone",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2017 UPPCS (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q36",
+      "type": "single-choice",
+      "text": "Which of the following hormones play a role in release of milk from mammary glands?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Andrenaline"
+        },
+        {
+          "id": "b",
+          "text": "Thyroxine"
+        },
+        {
+          "id": "c",
+          "text": "Progesterone"
+        },
+        {
+          "id": "d",
+          "text": "Oxytocin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Oxytocin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Nagaland PSC (Pre) 2017 60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q37",
+      "type": "single-choice",
+      "text": "In the human body, which of the following is ductless gland?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Sweat gland"
+        },
+        {
+          "id": "c",
+          "text": "Endocrine glands"
+        },
+        {
+          "id": "d",
+          "text": "Kidney"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Endocrine glands",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q38",
+      "type": "single-choice",
+      "text": "In human body, which one of the following hormones regulates blood calcium and phosphate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glucagon"
+        },
+        {
+          "id": "b",
+          "text": "Growth hormone"
+        },
+        {
+          "id": "c",
+          "text": "Parathyroid hormone"
+        },
+        {
+          "id": "d",
+          "text": "Thyroxine"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Parathyroid hormone",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q39",
+      "type": "single-choice",
+      "text": "The cause of sweet taste in fruits is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maltose"
+        },
+        {
+          "id": "b",
+          "text": "Ribose"
+        },
+        {
+          "id": "c",
+          "text": "Lactose"
+        },
+        {
+          "id": "d",
+          "text": "Fructose"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Fructose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q40",
+      "type": "single-choice",
+      "text": "Which is the largest gland in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Pancreas"
+        },
+        {
+          "id": "c",
+          "text": "Thyroid gland"
+        },
+        {
+          "id": "d",
+          "text": "Stomach"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Liver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q41",
+      "type": "single-choice",
+      "text": "The largest gland in human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pancreas"
+        },
+        {
+          "id": "b",
+          "text": "Liver"
+        },
+        {
+          "id": "c",
+          "text": "Salivary gland"
+        },
+        {
+          "id": "d",
+          "text": "Adernal gland"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Liver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q42",
+      "type": "single-choice",
+      "text": "Which is the smallest gland in the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adrenal"
+        },
+        {
+          "id": "b",
+          "text": "Thyroid"
+        },
+        {
+          "id": "c",
+          "text": "Pancreas"
+        },
+        {
+          "id": "d",
+          "text": "Pituitary"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Pituitary",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q43",
+      "type": "single-choice",
+      "text": "Bile is stored in which of the following organ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spleen"
+        },
+        {
+          "id": "b",
+          "text": "Pancreas"
+        },
+        {
+          "id": "c",
+          "text": "Appendix"
+        },
+        {
+          "id": "d",
+          "text": "Gall bladder"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Gall bladder",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q44",
+      "type": "single-choice",
+      "text": "Bile is produced in which part of the body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Spleen"
+        },
+        {
+          "id": "c",
+          "text": "Gall bladder"
+        },
+        {
+          "id": "d",
+          "text": "Pancreas"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Liver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q45",
+      "type": "single-choice",
+      "text": "Scientists of the Chandra Shekhar Azad University of Agricultural and Technology have developed a substance that can reduce the percentage of flower droppings in pulses so as to enhance pulse production. Which is that substance?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An insecticide called TIVA"
+        },
+        {
+          "id": "b",
+          "text": "A fertilizer called TIVA"
+        },
+        {
+          "id": "c",
+          "text": "A nutrient mixture called TIVA"
+        },
+        {
+          "id": "d",
+          "text": "A growth hormone called TIVA"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: A growth hormone called TIVA",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "UPPCS (Mains) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q46",
+      "type": "single-choice",
+      "text": "Which hormone is found in the gaseous form?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abscisic acid"
+        },
+        {
+          "id": "b",
+          "text": "Ethylene"
+        },
+        {
+          "id": "c",
+          "text": "Gibberellins"
+        },
+        {
+          "id": "d",
+          "text": "Auxins"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q47",
+      "type": "single-choice",
+      "text": "The gas used for artificial ripening of green fruit is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethane"
+        },
+        {
+          "id": "b",
+          "text": "Acetylene"
+        },
+        {
+          "id": "c",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "d",
+          "text": "Oxytocin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Acetylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010 UP Lower Sub. (Pre) 2008 UPPCS (Mains) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q48",
+      "type": "single-choice",
+      "text": "Which of the following phytohor- mone is mainly responsible for fruit ripening?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cytokinin"
+        },
+        {
+          "id": "b",
+          "text": "Abscisic acid"
+        },
+        {
+          "id": "c",
+          "text": "Ethylene"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009 UPPCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q49",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Gonads (b) Pituitary (c) Pancreas (d) Adernal List-II 1. Insulin 2. Progesterone 3. Growth hormones 4. Cortisone Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "d",
+          "text": "3 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 3 1 4",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2005 IAS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q50",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Hormones) (a) Progesterone (b) Testosterone (c) Thyroxine (d) Insulin List-II (Secreting Gland) 1. Thyroid 2. Pancreas 3. Ovaries (Females) 4. Testes (Males) Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 4 1 2",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Kerala PSC (Pre) 2018 UP UDA/LDA (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q51",
+      "type": "assertion-reason",
+      "text": "Assertion (A): The person with diabetes insipidus feels thirsty. Reason (R): A person with diabetes insipidus suffers from excess secretion of vasopressin.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q52",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Drinking of whiskey increases the frequency of urination. Reason (R): Alcohol intake speeds up the secretion of vasopres- sin in the body.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q53",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Goitre is a general disease. Reason (R): People consume a low amount of iodine in food in the hilly area. Which of the following is correct answer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q54",
+      "type": "match-the-following",
+      "text": "Match the hormones in List-I with items in List-II and select the correct answer using the codes given below. List-I (a) Adrenaline (b) Estrogen (c) Insulin (d) Pheromones List-II 1. Anger, fear, danger 2. Attracting partners through sense of smell 3. Females 4. Glucose Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "b",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "c",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1 3 4 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Manipur PSC (Pre) 2016 West Bengal PSC (Pre) 2018 IAS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q55",
+      "type": "single-choice",
+      "text": "With reference to the human body, consider the following statements. 1. The production of somatotr- opin goes up when a person exercises. 2. Men’s testes produce progest- erone. 3. Women’s adrenal gland secrete testosterone. 4. Stress causes the adrenals to release very less amount of cortisol than usual. Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3 and 4"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1 and 4",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017 IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q56",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Hormone (b) Enzyme (c) Phospholipid (d) Polymer List-II 1. Lipase 2. Testrogen 3. Lecithin 4. Polythene Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "b",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "c",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 3 4",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q57",
+      "type": "single-choice",
+      "text": "Consider the following. 1. This is the second largest gland of the human body. 2. Its secretion comes out from a characteristic type of cells and is alkaline. 3. Its secretion is said to be complete digestive juice. These characteristics are of",
+      "options": [
+        {
+          "id": "a",
+          "text": "liver"
+        },
+        {
+          "id": "b",
+          "text": "spleen"
+        },
+        {
+          "id": "c",
+          "text": "pancreas"
+        },
+        {
+          "id": "d",
+          "text": "salivary glands"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: pancreas",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-endocrine-glands-hormones-q58",
+      "type": "single-choice",
+      "text": "With reference to normal human beings, consider the following statements. 1. In response to the presence of HCl, secretion is produced from the duodenum. 2. Enterogastrone is produced in the small intestine in response to the presence of fatty acids. Which of these statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2003",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

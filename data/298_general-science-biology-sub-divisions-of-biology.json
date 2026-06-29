@@ -1,0 +1,997 @@
+{
+  "bankId": "general-science-biology-sub-divisions-of-biology",
+  "subject": "Science",
+  "topic": "Sub-divisions of Biology",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q1",
+      "type": "single-choice",
+      "text": "The scientific study of insects is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ichthyology"
+        },
+        {
+          "id": "b",
+          "text": "Entomology"
+        },
+        {
+          "id": "c",
+          "text": "Parasitology"
+        },
+        {
+          "id": "d",
+          "text": "Malacology"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Entomology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q2",
+      "type": "single-choice",
+      "text": "Which of the following subjects of data set is associated with the study of concerning population and humanity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ecology"
+        },
+        {
+          "id": "b",
+          "text": "Genetics"
+        },
+        {
+          "id": "c",
+          "text": "Demography"
+        },
+        {
+          "id": "d",
+          "text": "Virology"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Demography",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q3",
+      "type": "single-choice",
+      "text": "Study of Zoology deals with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Living animals only"
+        },
+        {
+          "id": "b",
+          "text": "Living plants only"
+        },
+        {
+          "id": "c",
+          "text": "Both living and dead animals"
+        },
+        {
+          "id": "d",
+          "text": "Both living and dead plants"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both living and dead animals",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q4",
+      "type": "single-choice",
+      "text": "The study of the flower is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Phrenology"
+        },
+        {
+          "id": "b",
+          "text": "Anthology"
+        },
+        {
+          "id": "c",
+          "text": "Agrostology"
+        },
+        {
+          "id": "d",
+          "text": "Palynology"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Anthology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q5",
+      "type": "single-choice",
+      "text": "The comparative study of the different cultures and the scientific explanation is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethnology"
+        },
+        {
+          "id": "b",
+          "text": "Ethnography"
+        },
+        {
+          "id": "c",
+          "text": "Ethology"
+        },
+        {
+          "id": "d",
+          "text": "Ethics"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ethnology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q6",
+      "type": "single-choice",
+      "text": "The study of porperties and method of biological systems found in nature and use of this knowledge in mechanical world is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bionics"
+        },
+        {
+          "id": "b",
+          "text": "Bionomics"
+        },
+        {
+          "id": "c",
+          "text": "Bionomy"
+        },
+        {
+          "id": "d",
+          "text": "Biometry"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bionics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q7",
+      "type": "single-choice",
+      "text": "Under Palaeobotany, one studies",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fossil of animals"
+        },
+        {
+          "id": "b",
+          "text": "Algae"
+        },
+        {
+          "id": "c",
+          "text": "Fungi"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q8",
+      "type": "single-choice",
+      "text": "Rearing silk worms is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apiculture"
+        },
+        {
+          "id": "b",
+          "text": "Horticulture"
+        },
+        {
+          "id": "c",
+          "text": "Sericulture"
+        },
+        {
+          "id": "d",
+          "text": "Floriculture"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sericulture",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q9",
+      "type": "single-choice",
+      "text": "Honey bees are used in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sericulture"
+        },
+        {
+          "id": "b",
+          "text": "Tissue culture"
+        },
+        {
+          "id": "c",
+          "text": "Apiculture"
+        },
+        {
+          "id": "d",
+          "text": "Pisciculture"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Apiculture",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q10",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower - Floriculture Cultivation"
+        },
+        {
+          "id": "b",
+          "text": "Crop - Agronomy Cultivation"
+        },
+        {
+          "id": "c",
+          "text": "Vegetable - Horticulture Cultivation"
+        },
+        {
+          "id": "d",
+          "text": "Fruit’s - Pomology Cultivation"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vegetable - Horticulture Cultivation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q11",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apiculture - Honey bee"
+        },
+        {
+          "id": "b",
+          "text": "Sericulture - Silk worm"
+        },
+        {
+          "id": "c",
+          "text": "Pisciculture - Insect of lakh"
+        },
+        {
+          "id": "d",
+          "text": "Horticulture - Flower"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pisciculture - Insect of lakh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q12",
+      "type": "single-choice",
+      "text": "Which of the following pairs is cor- rectly matched? (word and mean- ing)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lexicography - Compilation of dictionary"
+        },
+        {
+          "id": "b",
+          "text": "Philology - Collection of postal stamps"
+        },
+        {
+          "id": "c",
+          "text": "Entomology - Study of human body"
+        },
+        {
+          "id": "d",
+          "text": "Iconography - Study of insects"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Lexicography - Compilation of dictionary",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q13",
+      "type": "single-choice",
+      "text": "Lexicography is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Structure of human body"
+        },
+        {
+          "id": "b",
+          "text": "Compilation of dictionary"
+        },
+        {
+          "id": "c",
+          "text": "Secret of handwriting"
+        },
+        {
+          "id": "d",
+          "text": "Teaching of pictures and models"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Compilation of dictionary",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q14",
+      "type": "single-choice",
+      "text": "The study related to the plants being used as vegetable is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Floriculture"
+        },
+        {
+          "id": "b",
+          "text": "Pomology"
+        },
+        {
+          "id": "c",
+          "text": "Horticulture"
+        },
+        {
+          "id": "d",
+          "text": "Olericulture"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Olericulture",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q15",
+      "type": "single-choice",
+      "text": "Which one of the following is produced through Viticulture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silk"
+        },
+        {
+          "id": "b",
+          "text": "Earthworm"
+        },
+        {
+          "id": "c",
+          "text": "Honey"
+        },
+        {
+          "id": "d",
+          "text": "Grapes"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Grapes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q16",
+      "type": "single-choice",
+      "text": "What is Vermiculture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The science of raising worms"
+        },
+        {
+          "id": "b",
+          "text": "The science of studying animals"
+        },
+        {
+          "id": "c",
+          "text": "The science of studying fishes"
+        },
+        {
+          "id": "d",
+          "text": "The science of killing worms"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The science of raising worms",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q17",
+      "type": "single-choice",
+      "text": "In Vermiculture, the worm used is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tapeworm"
+        },
+        {
+          "id": "b",
+          "text": "Silkworm"
+        },
+        {
+          "id": "c",
+          "text": "Threadworm"
+        },
+        {
+          "id": "d",
+          "text": "Earthworm"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Earthworm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q18",
+      "type": "single-choice",
+      "text": "The study of Gerontology, is related to which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Child infant"
+        },
+        {
+          "id": "b",
+          "text": "Female"
+        },
+        {
+          "id": "c",
+          "text": "Disease of skin"
+        },
+        {
+          "id": "d",
+          "text": "Old age"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Old age",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q19",
+      "type": "single-choice",
+      "text": "Genetics deals with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mendel’s law"
+        },
+        {
+          "id": "b",
+          "text": "Organic evolution"
+        },
+        {
+          "id": "c",
+          "text": "DNA structure"
+        },
+        {
+          "id": "d",
+          "text": "Heredity and variations"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Heredity and variations",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q20",
+      "type": "single-choice",
+      "text": "The branch of study dealing with old age and ageing is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oncology"
+        },
+        {
+          "id": "b",
+          "text": "Gerontology"
+        },
+        {
+          "id": "c",
+          "text": "Teratology"
+        },
+        {
+          "id": "d",
+          "text": "Ornithology"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gerontology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q21",
+      "type": "single-choice",
+      "text": "The study of ageing is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gerontology"
+        },
+        {
+          "id": "b",
+          "text": "Ethnology"
+        },
+        {
+          "id": "c",
+          "text": "Anthropology"
+        },
+        {
+          "id": "d",
+          "text": "Thanatology"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Gerontology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q22",
+      "type": "single-choice",
+      "text": "Pedology is the science related to the study of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atmosphere"
+        },
+        {
+          "id": "b",
+          "text": "Soil"
+        },
+        {
+          "id": "c",
+          "text": "Pollutants"
+        },
+        {
+          "id": "d",
+          "text": "Seeds"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Soil",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q23",
+      "type": "single-choice",
+      "text": "Study of bones are under which branch of science?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Osteology"
+        },
+        {
+          "id": "b",
+          "text": "Orology"
+        },
+        {
+          "id": "c",
+          "text": "Serology"
+        },
+        {
+          "id": "d",
+          "text": "Geology"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Osteology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q24",
+      "type": "single-choice",
+      "text": "The study of snakes is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serpentology"
+        },
+        {
+          "id": "b",
+          "text": "Ornithology"
+        },
+        {
+          "id": "c",
+          "text": "Herpetology"
+        },
+        {
+          "id": "d",
+          "text": "Ichthyology"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Serpentology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q25",
+      "type": "single-choice",
+      "text": "What does the philatelist do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Collects the coins"
+        },
+        {
+          "id": "b",
+          "text": "Collects stamps"
+        },
+        {
+          "id": "c",
+          "text": "Collects the pictures of birds"
+        },
+        {
+          "id": "d",
+          "text": "Collects the feathers"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Collects stamps",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q26",
+      "type": "single-choice",
+      "text": "Find out the odd one out from the following.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physiology"
+        },
+        {
+          "id": "b",
+          "text": "Psychology"
+        },
+        {
+          "id": "c",
+          "text": "Pathology"
+        },
+        {
+          "id": "d",
+          "text": "Bacteriology"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Psychology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q27",
+      "type": "single-choice",
+      "text": "What is hydroponics?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plant without soil enrichment"
+        },
+        {
+          "id": "b",
+          "text": "Grafting plant"
+        },
+        {
+          "id": "c",
+          "text": "Study of vegetables"
+        },
+        {
+          "id": "d",
+          "text": "Soil conservation"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Plant without soil enrichment",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q28",
+      "type": "single-choice",
+      "text": "What is lithotripsy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art of writing on stones"
+        },
+        {
+          "id": "b",
+          "text": "Breaking of kidney stone through rays"
+        },
+        {
+          "id": "c",
+          "text": "Carbon dating of stones"
+        },
+        {
+          "id": "d",
+          "text": "Trimming stones for household use"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Breaking of kidney stone through rays",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-sub-divisions-of-biology-q29",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Birds (b) Inheritance (c) Environment (d) Fossil List-II 1. Palaeobiology 2. Ecology 3. Ornithology 4. Genetics Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "c",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "d",
+          "text": "2 4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 4 2 1",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

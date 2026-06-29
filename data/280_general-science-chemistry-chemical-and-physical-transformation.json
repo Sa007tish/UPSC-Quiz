@@ -1,0 +1,623 @@
+{
+  "bankId": "general-science-chemistry-chemical-and-physical-transformation",
+  "subject": "Science",
+  "topic": "Chemical and Physical Transformation",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q1",
+      "type": "single-choice",
+      "text": "Which of the following is an example of chemical change?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dispersion of white light into the light of 7 colours when passed through a prism"
+        },
+        {
+          "id": "b",
+          "text": "Softening of vegetable when cooked"
+        },
+        {
+          "id": "c",
+          "text": "Wet soil lamp, when dried, get fragile"
+        },
+        {
+          "id": "d",
+          "text": "Dissolving of salt in water"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Softening of vegetable when cooked",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q2",
+      "type": "single-choice",
+      "text": "What form of energy is produced in the decomposition of water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Light"
+        },
+        {
+          "id": "b",
+          "text": "Heat"
+        },
+        {
+          "id": "c",
+          "text": "Sound"
+        },
+        {
+          "id": "d",
+          "text": "Acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Heat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q3",
+      "type": "single-choice",
+      "text": "An example of physical change",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blackening of silverware"
+        },
+        {
+          "id": "b",
+          "text": "Burning of candle"
+        },
+        {
+          "id": "c",
+          "text": "Making of curd from milk"
+        },
+        {
+          "id": "d",
+          "text": "Dissolving of sugar in water"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dissolving of sugar in water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "38th BPSC (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q4",
+      "type": "single-choice",
+      "text": "Change of water into the vapour is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Natural"
+        },
+        {
+          "id": "b",
+          "text": "Physical"
+        },
+        {
+          "id": "c",
+          "text": "Chemical"
+        },
+        {
+          "id": "d",
+          "text": "Biological"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Physical",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q5",
+      "type": "single-choice",
+      "text": "Pasteurization is a process by which",
+      "options": [
+        {
+          "id": "a",
+          "text": "Milk is preserved at a very low temperature for 24 hours"
+        },
+        {
+          "id": "b",
+          "text": "Milk is heated for 8 hours"
+        },
+        {
+          "id": "c",
+          "text": "First milk is heated up to a longer time and then cooled suddenly within specified time"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: First milk is heated up to a longer time and then cooled suddenly within specified time",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "38th BPSC (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q6",
+      "type": "single-choice",
+      "text": "Pasteurization is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sterilization of milk"
+        },
+        {
+          "id": "b",
+          "text": "Dehydration of milk"
+        },
+        {
+          "id": "c",
+          "text": "Fermentation of milk"
+        },
+        {
+          "id": "d",
+          "text": "Distillation of milk"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sterilization of milk",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q7",
+      "type": "single-choice",
+      "text": "Which of the following statement is not true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boiling point of any water solution is higher than pure water"
+        },
+        {
+          "id": "b",
+          "text": "Addition of solute to a solution increases its water potential"
+        },
+        {
+          "id": "c",
+          "text": "Water vapour pressure of any solution is lower than vapour pressure of pure water"
+        },
+        {
+          "id": "d",
+          "text": "When a solution is separated with the help of semi- permeable membrane, then water flow can be stopped by giving pressure to the solution"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Addition of solute to a solution increases its water potential",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q8",
+      "type": "single-choice",
+      "text": "Because of impurities the boiling point of a liquid",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increases"
+        },
+        {
+          "id": "b",
+          "text": "Decreases"
+        },
+        {
+          "id": "c",
+          "text": "Remains constant"
+        },
+        {
+          "id": "d",
+          "text": "They are not related"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Increases",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q9",
+      "type": "single-choice",
+      "text": "Why does water boil at a temperature below 100ºC at higher altitudes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The atmospheric pressure decreases and hence boiling point is lowered"
+        },
+        {
+          "id": "b",
+          "text": "The gravitational attraction is less"
+        },
+        {
+          "id": "c",
+          "text": "Because of heavy winds in mountains"
+        },
+        {
+          "id": "d",
+          "text": "None of the above is correct"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The atmospheric pressure decreases and hence boiling point is lowered",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q10",
+      "type": "single-choice",
+      "text": "Which type of colloidal system is expressed in the fog?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid in a gas"
+        },
+        {
+          "id": "b",
+          "text": "Gas in a liquid"
+        },
+        {
+          "id": "c",
+          "text": "Solid in a gas"
+        },
+        {
+          "id": "d",
+          "text": "Liquid in liquid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Liquid in a gas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q11",
+      "type": "single-choice",
+      "text": "The technique of chromatography is used to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Identify colour substances"
+        },
+        {
+          "id": "b",
+          "text": "Determine the structure of substances"
+        },
+        {
+          "id": "c",
+          "text": "Dry distillation of colouring substances"
+        },
+        {
+          "id": "d",
+          "text": "Separate the substances from a mixture"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Separate the substances from a mixture",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2018 42nd BPSC (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q12",
+      "type": "single-choice",
+      "text": "Process of solid camphor into camphor vapour is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vaporisation"
+        },
+        {
+          "id": "b",
+          "text": "Freezing"
+        },
+        {
+          "id": "c",
+          "text": "Melting"
+        },
+        {
+          "id": "d",
+          "text": "Sublimation"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sublimation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 44th BPSC (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q13",
+      "type": "single-choice",
+      "text": "Example of corrosion is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Black coating on Silver"
+        },
+        {
+          "id": "b",
+          "text": "Green coating on Copper"
+        },
+        {
+          "id": "c",
+          "text": "Brown coating on Iron"
+        },
+        {
+          "id": "d",
+          "text": "Above three"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Above three",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2017 Chhattisgarh PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q14",
+      "type": "single-choice",
+      "text": "Which of the following is/are the example/examples of chemical change? 1. Crystallization of sodium chloride 2. Melting of ice 3. Souring of milk Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 3"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 3",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q15",
+      "type": "assertion-reason",
+      "text": "Assertion (A): A chemical reaction becomes faster at a higher temperature. Reason (R): At higher tempera- ture, molecular motion becomes more rapid.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q16",
+      "type": "assertion-reason",
+      "text": "Give a thought to these statements. Statement (A): Temperature below 0ºC is achieved by the mixture of salt and ice. Reason (R): Salt increases the freezing point of ice. In the context of above statements which one of the following is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998 IAS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q17",
+      "type": "single-choice",
+      "text": "Give thought to following statements. 1. In the process of osmosis, the solvent moves towards a dilute solution from the concentrated solution. 2. In reverse osmosis internal pressure but upon a dilute solution. Among above statements which is/ are correct.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Neither 1 nor 2",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-chemical-and-physical-transformation-q18",
+      "type": "match-the-following",
+      "text": "Match List-I (Oxidation number) with List-II (the element) and select the correct answer using the code given below the lists. List-I (a) 2 (b) 3 (c) 4 (d) 6 List-II 1. Oxidation number of Mn in MnO 2 2. Oxidation number of S in H SO 2 4 3. Oxidation number of Ca in CaO 4. Oxidation number of Al in NaAlH 4 Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 4 1 2",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "Maharashtra PSC (Pre) 2016 IAS (Pre) 2002",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

@@ -1,0 +1,623 @@
+{
+  "bankId": "general-science-chemistry-polymer",
+  "subject": "Science",
+  "topic": "Polymer",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-polymer-q1",
+      "type": "single-choice",
+      "text": "Which one of the following is a natural polymer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bakelite"
+        },
+        {
+          "id": "b",
+          "text": "Silk"
+        },
+        {
+          "id": "c",
+          "text": "Kevlar"
+        },
+        {
+          "id": "d",
+          "text": "Lexan"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Silk",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q2",
+      "type": "single-choice",
+      "text": "Which of the following is not a natural polymer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ghee"
+        },
+        {
+          "id": "b",
+          "text": "Starch"
+        },
+        {
+          "id": "c",
+          "text": "Protein"
+        },
+        {
+          "id": "d",
+          "text": "Cotton"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ghee",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q3",
+      "type": "single-choice",
+      "text": "Polymer of Natural Rubber is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethylene"
+        },
+        {
+          "id": "b",
+          "text": "Isoprene"
+        },
+        {
+          "id": "c",
+          "text": "Acetylene"
+        },
+        {
+          "id": "d",
+          "text": "Hexane"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Isoprene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013 UPPCS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q4",
+      "type": "single-choice",
+      "text": "Which of the following is not a Nat- ural polymer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wool"
+        },
+        {
+          "id": "b",
+          "text": "Silk"
+        },
+        {
+          "id": "c",
+          "text": "Leather"
+        },
+        {
+          "id": "d",
+          "text": "Nylon"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nylon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015 UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q5",
+      "type": "single-choice",
+      "text": "Bakelite is formed by the condensa- tion of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea and formaldehyde"
+        },
+        {
+          "id": "b",
+          "text": "Phenol and formaldehyde"
+        },
+        {
+          "id": "c",
+          "text": "Phenol and acetaldehyde"
+        },
+        {
+          "id": "d",
+          "text": "Melamine and formaldehyde"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Phenol and formaldehyde",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q6",
+      "type": "single-choice",
+      "text": "Which gas is obtained from plastic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polynitrogen"
+        },
+        {
+          "id": "b",
+          "text": "Polyhydrogen"
+        },
+        {
+          "id": "c",
+          "text": "Polychlorine"
+        },
+        {
+          "id": "d",
+          "text": "Polyethylene"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Polyethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q7",
+      "type": "single-choice",
+      "text": "Which one of the following polymer is widely used for making bulletproof materials?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polyvinyl chloride"
+        },
+        {
+          "id": "b",
+          "text": "Polyamides"
+        },
+        {
+          "id": "c",
+          "text": "Polyethylene"
+        },
+        {
+          "id": "d",
+          "text": "Polycarbonates"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Polyamides",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010 UPPCS (Spl)(Pre) 2005 IAS (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q8",
+      "type": "single-choice",
+      "text": "Which one of the following polymers is used for making bullet- proof windows?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polycarbonates"
+        },
+        {
+          "id": "b",
+          "text": "Polyurethanes"
+        },
+        {
+          "id": "c",
+          "text": "Polystyrene"
+        },
+        {
+          "id": "d",
+          "text": "Polyamides"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Polycarbonates",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q9",
+      "type": "single-choice",
+      "text": "Which of the following polymer is used in the manufacture of bulletproof material?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nylon 6, 6"
+        },
+        {
+          "id": "b",
+          "text": "Rayon"
+        },
+        {
+          "id": "c",
+          "text": "Kevlar"
+        },
+        {
+          "id": "d",
+          "text": "Dacron"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Kevlar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q10",
+      "type": "single-choice",
+      "text": "Which one of the following is used in making ‘Bulletproof Jacket’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fibrous glass"
+        },
+        {
+          "id": "b",
+          "text": "Gun metal"
+        },
+        {
+          "id": "c",
+          "text": "Lead"
+        },
+        {
+          "id": "d",
+          "text": "Laminated glass"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Laminated glass",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q11",
+      "type": "single-choice",
+      "text": "A polymer used for making non- stick surface coating for utensils is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polyvinyl chloride"
+        },
+        {
+          "id": "b",
+          "text": "Teflon"
+        },
+        {
+          "id": "c",
+          "text": "Polystyrene"
+        },
+        {
+          "id": "d",
+          "text": "Polypropylene"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Teflon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008 UPPCS (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q12",
+      "type": "single-choice",
+      "text": "What is Teflon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fluorocarbon"
+        },
+        {
+          "id": "b",
+          "text": "Hydrocarbon"
+        },
+        {
+          "id": "c",
+          "text": "Microbicides"
+        },
+        {
+          "id": "d",
+          "text": "Insecticide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fluorocarbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q13",
+      "type": "single-choice",
+      "text": "Teflon is a polymer of which of the following monomers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tetrafluoroethylene"
+        },
+        {
+          "id": "b",
+          "text": "Vinyl chloride"
+        },
+        {
+          "id": "c",
+          "text": "Chloroprene"
+        },
+        {
+          "id": "d",
+          "text": "Acetylene dichloride"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Tetrafluoroethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q14",
+      "type": "single-choice",
+      "text": "Teflon is the common name of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polytetrafluoro ethylene"
+        },
+        {
+          "id": "b",
+          "text": "Polyvinyl chloride"
+        },
+        {
+          "id": "c",
+          "text": "Polyvinyl fluoride"
+        },
+        {
+          "id": "d",
+          "text": "Dichlorodifluoro methane"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Polytetrafluoro ethylene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q15",
+      "type": "single-choice",
+      "text": "Which one of the following substances is used in glazing the pottery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alum"
+        },
+        {
+          "id": "b",
+          "text": "Calomel"
+        },
+        {
+          "id": "c",
+          "text": "Zinc chloride"
+        },
+        {
+          "id": "d",
+          "text": "Zinc oxide"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Zinc oxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q16",
+      "type": "single-choice",
+      "text": "Which among the following is not a polymer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nylon"
+        },
+        {
+          "id": "b",
+          "text": "Teflon"
+        },
+        {
+          "id": "c",
+          "text": "Caprolactam"
+        },
+        {
+          "id": "d",
+          "text": "Polystyrene"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Caprolactam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2018 Uttarakhand PCS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q17",
+      "type": "single-choice",
+      "text": "Phenol is used in the manufacture of which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P.V.C."
+        },
+        {
+          "id": "b",
+          "text": "Nylon"
+        },
+        {
+          "id": "c",
+          "text": "Polystyrene"
+        },
+        {
+          "id": "d",
+          "text": "Bakelite"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bakelite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-polymer-q18",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Teflon and Dacron are polymers. 2. Neoprene is synthetic rubber. 3. Polythene is polyethylene polymer. 4. Natural rubber is chloroprene. Which of the above statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1, 2 and 3",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "UPPCS (Pre) 2003 UP UDA/LDA (Pre) 2002",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

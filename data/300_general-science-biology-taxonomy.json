@@ -1,0 +1,4329 @@
+{
+  "bankId": "general-science-biology-taxonomy",
+  "subject": "Science",
+  "topic": "Taxonomy",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-taxonomy-q1",
+      "type": "single-choice",
+      "text": "Which one of the following statements is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All echinoderms are viviparous"
+        },
+        {
+          "id": "b",
+          "text": "Roundworm has no circulatory system"
+        },
+        {
+          "id": "c",
+          "text": "In bony fishes, swim bladder is usually present"
+        },
+        {
+          "id": "d",
+          "text": "In cartilaginous fishes, fertiliza- tion is internal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: All echinoderms are viviparous",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q2",
+      "type": "single-choice",
+      "text": "Of the following which one is not a fish?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Starfish"
+        },
+        {
+          "id": "b",
+          "text": "Sawfish"
+        },
+        {
+          "id": "c",
+          "text": "Pipefish"
+        },
+        {
+          "id": "d",
+          "text": "Guitarfish"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Starfish",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q3",
+      "type": "single-choice",
+      "text": "Biologists have so far known, found and identified a large number of species in the plant and animal kingdom. In terms of numbers, the largest found and identified so far is from among the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungi"
+        },
+        {
+          "id": "b",
+          "text": "Plants"
+        },
+        {
+          "id": "c",
+          "text": "Insects"
+        },
+        {
+          "id": "d",
+          "text": "Bacteria"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Insects",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q4",
+      "type": "single-choice",
+      "text": "Warm-blooded animals are those which are able to keep their body temperature",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lower than environment"
+        },
+        {
+          "id": "b",
+          "text": "Higher than environment"
+        },
+        {
+          "id": "c",
+          "text": "Constant temp. all time"
+        },
+        {
+          "id": "d",
+          "text": "Equal to the atmospheric temp."
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Constant temp. all time",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q5",
+      "type": "single-choice",
+      "text": "Of the following, which one is a true fish?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silverfish"
+        },
+        {
+          "id": "b",
+          "text": "Crayfish"
+        },
+        {
+          "id": "c",
+          "text": "Jellyfish"
+        },
+        {
+          "id": "d",
+          "text": "Catfish"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Catfish",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q6",
+      "type": "single-choice",
+      "text": "Which one of the following is a true fish?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Starfish"
+        },
+        {
+          "id": "b",
+          "text": "Jellyfish"
+        },
+        {
+          "id": "c",
+          "text": "Dogfish"
+        },
+        {
+          "id": "d",
+          "text": "Seahorse"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Seahorse",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2008 RAS/RTS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q7",
+      "type": "single-choice",
+      "text": "Which is the largest mammal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Whale"
+        },
+        {
+          "id": "b",
+          "text": "African Elephant"
+        },
+        {
+          "id": "c",
+          "text": "Hippopotamus"
+        },
+        {
+          "id": "d",
+          "text": "Polar bear"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Whale",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q8",
+      "type": "single-choice",
+      "text": "From which of following groups does the whale belongs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fishes"
+        },
+        {
+          "id": "b",
+          "text": "Mammals"
+        },
+        {
+          "id": "c",
+          "text": "Reptiles"
+        },
+        {
+          "id": "d",
+          "text": "Amphibians"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mammals",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q9",
+      "type": "single-choice",
+      "text": "Which one is a mammal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shark"
+        },
+        {
+          "id": "b",
+          "text": "Squid"
+        },
+        {
+          "id": "c",
+          "text": "Octopus"
+        },
+        {
+          "id": "d",
+          "text": "Whale"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Whale",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q10",
+      "type": "single-choice",
+      "text": "Which of the following species is the largest of the ‘toothed-whales’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finback whale"
+        },
+        {
+          "id": "b",
+          "text": "Blue whale"
+        },
+        {
+          "id": "c",
+          "text": "Sperm whale"
+        },
+        {
+          "id": "d",
+          "text": "Humpback whale"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sperm whale",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q11",
+      "type": "single-choice",
+      "text": "Which among the following one lays eggs and does not produce young ones directly?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Echidna"
+        },
+        {
+          "id": "b",
+          "text": "Kangaroo"
+        },
+        {
+          "id": "c",
+          "text": "Porcupine"
+        },
+        {
+          "id": "d",
+          "text": "Whale"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Echidna",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q12",
+      "type": "single-choice",
+      "text": "Mammal capable in flying is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jaguar"
+        },
+        {
+          "id": "b",
+          "text": "Ostrich"
+        },
+        {
+          "id": "c",
+          "text": "Pellican"
+        },
+        {
+          "id": "d",
+          "text": "Bat"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q13",
+      "type": "single-choice",
+      "text": "Amongst the following flying organisms, which one does not belong to the group, Aves?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bat"
+        },
+        {
+          "id": "b",
+          "text": "Crow"
+        },
+        {
+          "id": "c",
+          "text": "Eagle"
+        },
+        {
+          "id": "d",
+          "text": "Parrot"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bat",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q14",
+      "type": "single-choice",
+      "text": "Dolphins are classified in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fish"
+        },
+        {
+          "id": "b",
+          "text": "Amphibians"
+        },
+        {
+          "id": "c",
+          "text": "Reptile"
+        },
+        {
+          "id": "d",
+          "text": "Mammals"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mammals",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "40th BPSC (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q15",
+      "type": "single-choice",
+      "text": "From the following option, seal is the species of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fish"
+        },
+        {
+          "id": "b",
+          "text": "Bird"
+        },
+        {
+          "id": "c",
+          "text": "Reptiles"
+        },
+        {
+          "id": "d",
+          "text": "Mammal"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mammal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q16",
+      "type": "single-choice",
+      "text": "Amphibia are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Very fastly moving boats"
+        },
+        {
+          "id": "b",
+          "text": "Animals living in water only"
+        },
+        {
+          "id": "c",
+          "text": "Animals living on land only"
+        },
+        {
+          "id": "d",
+          "text": "Animals living equally in water and on land both"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Animals living equally in water and on land both",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "38th BPSC (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q17",
+      "type": "single-choice",
+      "text": "Which of the following property separate a man/human from apes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Envice a desire to learn"
+        },
+        {
+          "id": "b",
+          "text": "By a rudimentry sense of smell"
+        },
+        {
+          "id": "c",
+          "text": "Contrary thumb"
+        },
+        {
+          "id": "d",
+          "text": "Broader chin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Envice a desire to learn",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q18",
+      "type": "single-choice",
+      "text": "Among the following, which one is not an ape?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gibbon"
+        },
+        {
+          "id": "b",
+          "text": "Gorilla"
+        },
+        {
+          "id": "c",
+          "text": "Langur"
+        },
+        {
+          "id": "d",
+          "text": "Orangutan"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Langur",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q19",
+      "type": "single-choice",
+      "text": "Smallest man-like ape is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gibbon"
+        },
+        {
+          "id": "b",
+          "text": "Chimpanzee"
+        },
+        {
+          "id": "c",
+          "text": "Gorilla"
+        },
+        {
+          "id": "d",
+          "text": "Orangutan"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Gibbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q20",
+      "type": "single-choice",
+      "text": "Nilgai belongs to the following family.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cow"
+        },
+        {
+          "id": "b",
+          "text": "Goat"
+        },
+        {
+          "id": "c",
+          "text": "Sheep"
+        },
+        {
+          "id": "d",
+          "text": "Deer"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Deer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q21",
+      "type": "single-choice",
+      "text": "Octopus is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An arthropod"
+        },
+        {
+          "id": "b",
+          "text": "An echinoderm"
+        },
+        {
+          "id": "c",
+          "text": "A hemichordate"
+        },
+        {
+          "id": "d",
+          "text": "A molluse"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: A molluse",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2003 UPPCS (Spl)(Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q22",
+      "type": "single-choice",
+      "text": "The largest invertebrate is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Octopus"
+        },
+        {
+          "id": "b",
+          "text": "Squid"
+        },
+        {
+          "id": "c",
+          "text": "Coral"
+        },
+        {
+          "id": "d",
+          "text": "Jellyfish"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Squid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q23",
+      "type": "single-choice",
+      "text": "Among the following organisms, which one does not belong to the class of other three?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Crab"
+        },
+        {
+          "id": "b",
+          "text": "Mite"
+        },
+        {
+          "id": "c",
+          "text": "Scorpion"
+        },
+        {
+          "id": "d",
+          "text": "Spider"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Crab",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q24",
+      "type": "single-choice",
+      "text": "White leg-horn is a variety of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parrot"
+        },
+        {
+          "id": "b",
+          "text": "Peacock"
+        },
+        {
+          "id": "c",
+          "text": "Fowl"
+        },
+        {
+          "id": "d",
+          "text": "Owl"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Fowl",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q25",
+      "type": "single-choice",
+      "text": "Ticks and mites are actually",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arachnids"
+        },
+        {
+          "id": "b",
+          "text": "Crustaceans"
+        },
+        {
+          "id": "c",
+          "text": "Insects"
+        },
+        {
+          "id": "d",
+          "text": "Myriapods"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Arachnids",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q26",
+      "type": "single-choice",
+      "text": "Glow worm is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A mollusca"
+        },
+        {
+          "id": "b",
+          "text": "An insect"
+        },
+        {
+          "id": "c",
+          "text": "A worm"
+        },
+        {
+          "id": "d",
+          "text": "A nematode"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: An insect",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q27",
+      "type": "single-choice",
+      "text": "Which one of the following is not an insect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bed bug"
+        },
+        {
+          "id": "b",
+          "text": "Spider"
+        },
+        {
+          "id": "c",
+          "text": "House fly"
+        },
+        {
+          "id": "d",
+          "text": "Mosquito"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Spider",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Pre) 2008 UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q28",
+      "type": "single-choice",
+      "text": "Spiders are different from insects because they have",
+      "options": [
+        {
+          "id": "a",
+          "text": "Six legs"
+        },
+        {
+          "id": "b",
+          "text": "Eight legs"
+        },
+        {
+          "id": "c",
+          "text": "Ten legs"
+        },
+        {
+          "id": "d",
+          "text": "Twelve legs"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Eight legs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q29",
+      "type": "single-choice",
+      "text": "Which is not insect amongst following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Butterfly"
+        },
+        {
+          "id": "b",
+          "text": "Cockroach"
+        },
+        {
+          "id": "c",
+          "text": "Mosquito"
+        },
+        {
+          "id": "d",
+          "text": "Spider"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Spider",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q30",
+      "type": "single-choice",
+      "text": "Which of the following group of animals are nocturnal animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Housefly, Bed bug, Parrot"
+        },
+        {
+          "id": "b",
+          "text": "Mosquito, Bats, Owl"
+        },
+        {
+          "id": "c",
+          "text": "Mosquito, Sparrow, Deer"
+        },
+        {
+          "id": "d",
+          "text": "Owl, Bats, Dog"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mosquito, Bats, Owl",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q31",
+      "type": "single-choice",
+      "text": "Which one of the following animals stores water in the intestine?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moloch"
+        },
+        {
+          "id": "b",
+          "text": "Camel"
+        },
+        {
+          "id": "c",
+          "text": "Zebra"
+        },
+        {
+          "id": "d",
+          "text": "Uromastix"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Camel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q32",
+      "type": "single-choice",
+      "text": "Poison gland of snakes is homologous to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electric organ of fishes"
+        },
+        {
+          "id": "b",
+          "text": "Stings of rays"
+        },
+        {
+          "id": "c",
+          "text": "Sebaceous glands of mammals"
+        },
+        {
+          "id": "d",
+          "text": "Salivary gland of vertebrates"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Salivary gland of vertebrates",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q33",
+      "type": "single-choice",
+      "text": "Poisonous fangs of a snake are modified form of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mandibular teeth"
+        },
+        {
+          "id": "b",
+          "text": "Palatine teeth"
+        },
+        {
+          "id": "c",
+          "text": "Canine teeth"
+        },
+        {
+          "id": "d",
+          "text": "Maxillary teeth"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Maxillary teeth",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q34",
+      "type": "single-choice",
+      "text": "Plants growing on rocks are called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Epiphytes"
+        },
+        {
+          "id": "b",
+          "text": "Halophytes"
+        },
+        {
+          "id": "c",
+          "text": "Xerophytes"
+        },
+        {
+          "id": "d",
+          "text": "Lithophytes"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lithophytes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q35",
+      "type": "single-choice",
+      "text": "Which one of the following is an insectivorous plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Passion flower plant"
+        },
+        {
+          "id": "b",
+          "text": "Pitcher plant"
+        },
+        {
+          "id": "c",
+          "text": "Night queen"
+        },
+        {
+          "id": "d",
+          "text": "Flame of the forest"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pitcher plant",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q36",
+      "type": "single-choice",
+      "text": "Which one of the following parts of the pitcher plants becomes modified into a pitcher?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stem"
+        },
+        {
+          "id": "b",
+          "text": "Leaf"
+        },
+        {
+          "id": "c",
+          "text": "Stipule"
+        },
+        {
+          "id": "d",
+          "text": "Petiole"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Leaf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q37",
+      "type": "single-choice",
+      "text": "To study meiosis in plants, the best part would be",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shoot apex"
+        },
+        {
+          "id": "b",
+          "text": "Root apex"
+        },
+        {
+          "id": "c",
+          "text": "Anthers"
+        },
+        {
+          "id": "d",
+          "text": "Leaf cells"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Anthers",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q38",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yeast - Fermentation"
+        },
+        {
+          "id": "b",
+          "text": "Casein - Milk protein"
+        },
+        {
+          "id": "c",
+          "text": "Aloe Vera - Angiosperm"
+        },
+        {
+          "id": "d",
+          "text": "Nepenthes - Parasitic angiosperm"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nepenthes - Parasitic angiosperm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q39",
+      "type": "single-choice",
+      "text": "Nependthes khasiana a rare and endangered plant is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Himachal Pradesh"
+        },
+        {
+          "id": "b",
+          "text": "Madhya Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Meghalaya"
+        },
+        {
+          "id": "d",
+          "text": "Uttar Pradesh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Meghalaya",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q40",
+      "type": "single-choice",
+      "text": "Turmeric is obtained from which part of the plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root"
+        },
+        {
+          "id": "b",
+          "text": "Stem"
+        },
+        {
+          "id": "c",
+          "text": "Fruit"
+        },
+        {
+          "id": "d",
+          "text": "Flower bud"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Stem",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006 RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q41",
+      "type": "single-choice",
+      "text": "Which of the following is the eatable part of turmeric plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root"
+        },
+        {
+          "id": "b",
+          "text": "Stem"
+        },
+        {
+          "id": "c",
+          "text": "Fruit"
+        },
+        {
+          "id": "d",
+          "text": "Flower"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Stem",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q42",
+      "type": "single-choice",
+      "text": "The type of fruit in which litchi can be placed in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Drupe"
+        },
+        {
+          "id": "b",
+          "text": "Hesperidium"
+        },
+        {
+          "id": "c",
+          "text": "Nut"
+        },
+        {
+          "id": "d",
+          "text": "One seeded berry"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Nut",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q43",
+      "type": "single-choice",
+      "text": "What is the botanical name of opium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Emblica officinalis"
+        },
+        {
+          "id": "b",
+          "text": "Papaver Somniferum"
+        },
+        {
+          "id": "c",
+          "text": "Rauwolfia Serpentina"
+        },
+        {
+          "id": "d",
+          "text": "Cinchona Species"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Papaver Somniferum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q44",
+      "type": "single-choice",
+      "text": "In a bisexual flower, if androecium and gynoecium mature at different times, the phenomenon is known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dichogamy"
+        },
+        {
+          "id": "b",
+          "text": "Herkogamy"
+        },
+        {
+          "id": "c",
+          "text": "Heterogamy"
+        },
+        {
+          "id": "d",
+          "text": "Monogamy"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Dichogamy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q45",
+      "type": "single-choice",
+      "text": "Which of the following under- ground produced vegetables is a modified root?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potato"
+        },
+        {
+          "id": "b",
+          "text": "Sweet potato"
+        },
+        {
+          "id": "c",
+          "text": "Bandda"
+        },
+        {
+          "id": "d",
+          "text": "Jimikand"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sweet potato",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q46",
+      "type": "single-choice",
+      "text": "The storage organ of which of the following plants is not a stem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cane sugar"
+        },
+        {
+          "id": "b",
+          "text": "Ginger"
+        },
+        {
+          "id": "c",
+          "text": "Potato"
+        },
+        {
+          "id": "d",
+          "text": "Sweet potato"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sweet potato",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q47",
+      "type": "single-choice",
+      "text": "Which of the following is a stem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Turnip"
+        },
+        {
+          "id": "b",
+          "text": "Ginger"
+        },
+        {
+          "id": "c",
+          "text": "Carrot"
+        },
+        {
+          "id": "d",
+          "text": "Sweet potato"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ginger",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q48",
+      "type": "single-choice",
+      "text": "Which one of the following is a modified stem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carrot"
+        },
+        {
+          "id": "b",
+          "text": "Sweet potato"
+        },
+        {
+          "id": "c",
+          "text": "Coconut"
+        },
+        {
+          "id": "d",
+          "text": "Potato"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Potato",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q49",
+      "type": "single-choice",
+      "text": "Potato is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root"
+        },
+        {
+          "id": "b",
+          "text": "Fruit"
+        },
+        {
+          "id": "c",
+          "text": "Tuber"
+        },
+        {
+          "id": "d",
+          "text": "Bulb"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Tuber",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q50",
+      "type": "single-choice",
+      "text": "Which one of the following is a useful functional association between fungi and the roots of higher plants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Biofertilizer"
+        },
+        {
+          "id": "b",
+          "text": "Coralloid root"
+        },
+        {
+          "id": "c",
+          "text": "Lichens"
+        },
+        {
+          "id": "d",
+          "text": "Mycorrhiza"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mycorrhiza",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q51",
+      "type": "single-choice",
+      "text": "Nitrogen fixing bacteria present in the nodules of the root of leguminous plant are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Symbiotic"
+        },
+        {
+          "id": "b",
+          "text": "Protolytic"
+        },
+        {
+          "id": "c",
+          "text": "Saprophytic"
+        },
+        {
+          "id": "d",
+          "text": "Parasitic"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Symbiotic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q52",
+      "type": "single-choice",
+      "text": "Peanut plant is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herb"
+        },
+        {
+          "id": "b",
+          "text": "Flower"
+        },
+        {
+          "id": "c",
+          "text": "Bush"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Herb",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q53",
+      "type": "single-choice",
+      "text": "Stem cutting is done generally to grow",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banana"
+        },
+        {
+          "id": "b",
+          "text": "Sugarcane"
+        },
+        {
+          "id": "c",
+          "text": "Mango"
+        },
+        {
+          "id": "d",
+          "text": "Cotton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sugarcane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2017 39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q54",
+      "type": "single-choice",
+      "text": "Clove is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buds of stem"
+        },
+        {
+          "id": "b",
+          "text": "Bales of root"
+        },
+        {
+          "id": "c",
+          "text": "Closed buds"
+        },
+        {
+          "id": "d",
+          "text": "Seed"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Closed buds",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2002, 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q55",
+      "type": "single-choice",
+      "text": "Which one of the following spices is a flower bud?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cumin"
+        },
+        {
+          "id": "b",
+          "text": "Clove"
+        },
+        {
+          "id": "c",
+          "text": "Pepper"
+        },
+        {
+          "id": "d",
+          "text": "Turmeric"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Clove",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2019 UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q56",
+      "type": "single-choice",
+      "text": "‘Cloves’ are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nodules of stem"
+        },
+        {
+          "id": "b",
+          "text": "Nodules of roots"
+        },
+        {
+          "id": "c",
+          "text": "Leaves"
+        },
+        {
+          "id": "d",
+          "text": "Dried flowers"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dried flowers",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q57",
+      "type": "single-choice",
+      "text": "Cloves are obtained from which of the following parts of the plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dried leaves"
+        },
+        {
+          "id": "b",
+          "text": "Dried stems"
+        },
+        {
+          "id": "c",
+          "text": "Dried seeds"
+        },
+        {
+          "id": "d",
+          "text": "Dried flower buds"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dried flower buds",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q58",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ginger - Rhizome"
+        },
+        {
+          "id": "b",
+          "text": "Saffron - Seed"
+        },
+        {
+          "id": "c",
+          "text": "Opium - Opium capsule"
+        },
+        {
+          "id": "d",
+          "text": "Jute - Stem"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Saffron - Seed",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q59",
+      "type": "single-choice",
+      "text": "Saffron is dried mixture of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leaf and stem"
+        },
+        {
+          "id": "b",
+          "text": "Petals and roots"
+        },
+        {
+          "id": "c",
+          "text": "Seed forming parts of flower"
+        },
+        {
+          "id": "d",
+          "text": "Seeds and buds"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Seed forming parts of flower",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q60",
+      "type": "single-choice",
+      "text": "In the following pairs of plants and their edible parts, which pair is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ginger - Rhizome"
+        },
+        {
+          "id": "b",
+          "text": "Onion - Fleshy leaves"
+        },
+        {
+          "id": "c",
+          "text": "Potato - Roots"
+        },
+        {
+          "id": "d",
+          "text": "Coconut - Endosperm"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Potato - Roots",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q61",
+      "type": "single-choice",
+      "text": "Which of the following parts of potato is edible?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stem"
+        },
+        {
+          "id": "b",
+          "text": "Seed"
+        },
+        {
+          "id": "c",
+          "text": "Root"
+        },
+        {
+          "id": "d",
+          "text": "Fruit"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Stem",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q62",
+      "type": "single-choice",
+      "text": "Which one of the following is a fruit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potato"
+        },
+        {
+          "id": "b",
+          "text": "Radish"
+        },
+        {
+          "id": "c",
+          "text": "Lady finger"
+        },
+        {
+          "id": "d",
+          "text": "Sweet potato"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lady finger",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q63",
+      "type": "single-choice",
+      "text": "A plant bud is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An embryonic shoot"
+        },
+        {
+          "id": "b",
+          "text": "An embryonic leaf"
+        },
+        {
+          "id": "c",
+          "text": "An endosperm"
+        },
+        {
+          "id": "d",
+          "text": "A seed"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: An embryonic shoot",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q64",
+      "type": "single-choice",
+      "text": "Cork is obtained from which of the following plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dalbergia"
+        },
+        {
+          "id": "b",
+          "text": "Cedrus"
+        },
+        {
+          "id": "c",
+          "text": "Quercus"
+        },
+        {
+          "id": "d",
+          "text": "Argemone"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Quercus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q65",
+      "type": "single-choice",
+      "text": "The characteristic odour of garlic is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "A chloro compound"
+        },
+        {
+          "id": "b",
+          "text": "A sulphur compound"
+        },
+        {
+          "id": "c",
+          "text": "A fluorine compound"
+        },
+        {
+          "id": "d",
+          "text": "Acetic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: A sulphur compound",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997 Chhattisgarh PCS (Pre) 2005 UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q66",
+      "type": "single-choice",
+      "text": "Peeling of onions causes tears as onions release",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulphonic acid"
+        },
+        {
+          "id": "b",
+          "text": "Sulfenic acid"
+        },
+        {
+          "id": "c",
+          "text": "Amino acid"
+        },
+        {
+          "id": "d",
+          "text": "Carbolic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sulfenic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q67",
+      "type": "single-choice",
+      "text": "The most important part of the plant in terms of life cycle",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower"
+        },
+        {
+          "id": "b",
+          "text": "Leaf"
+        },
+        {
+          "id": "c",
+          "text": "Stem"
+        },
+        {
+          "id": "d",
+          "text": "Root"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Flower",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "47th BPSC (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q68",
+      "type": "single-choice",
+      "text": "Pungency in chillies is due to the presence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lycopene"
+        },
+        {
+          "id": "b",
+          "text": "Capsaicin"
+        },
+        {
+          "id": "c",
+          "text": "Carotene"
+        },
+        {
+          "id": "d",
+          "text": "Anthocyanin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Capsaicin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q69",
+      "type": "single-choice",
+      "text": "Red chillies are hot because these contain",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ricin"
+        },
+        {
+          "id": "b",
+          "text": "Capsaicin"
+        },
+        {
+          "id": "c",
+          "text": "Arecoline"
+        },
+        {
+          "id": "d",
+          "text": "Caffeol"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Capsaicin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q70",
+      "type": "single-choice",
+      "text": "At which stage in its life cycle, does the silkworm yield the fibre of commerce?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Egg"
+        },
+        {
+          "id": "b",
+          "text": "Larva"
+        },
+        {
+          "id": "c",
+          "text": "Pupa"
+        },
+        {
+          "id": "d",
+          "text": "Imago"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pupa",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000 Chhattisgarh PCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q71",
+      "type": "single-choice",
+      "text": "Silkworm grows on",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reetha leaves"
+        },
+        {
+          "id": "b",
+          "text": "Ficus leaves"
+        },
+        {
+          "id": "c",
+          "text": "Peach leaves"
+        },
+        {
+          "id": "d",
+          "text": "Mulberry leaves"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mulberry leaves",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q72",
+      "type": "single-choice",
+      "text": "Quinine which is a major drug for malaria is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Angiosperm"
+        },
+        {
+          "id": "b",
+          "text": "Bacteria"
+        },
+        {
+          "id": "c",
+          "text": "Yeast"
+        },
+        {
+          "id": "d",
+          "text": "Algae"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Angiosperm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2016 RAS/RTS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q73",
+      "type": "single-choice",
+      "text": "Quinine, the effective medicine in the treatment of malaria, is extract- ed from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bark of Cinnamon"
+        },
+        {
+          "id": "b",
+          "text": "Bark of Cinchona"
+        },
+        {
+          "id": "c",
+          "text": "Leaves of Ocimum"
+        },
+        {
+          "id": "d",
+          "text": "Bark of Acacia Catechu"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bark of Cinchona",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q74",
+      "type": "single-choice",
+      "text": "Quinine, used to treat malaria is obtained from which plant’s part?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leaf"
+        },
+        {
+          "id": "b",
+          "text": "Root"
+        },
+        {
+          "id": "c",
+          "text": "Bark"
+        },
+        {
+          "id": "d",
+          "text": "Flower"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bark",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007 Uttarakhand PCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q75",
+      "type": "single-choice",
+      "text": "In which part of the cinchona plant quinine occurs naturally?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Root"
+        },
+        {
+          "id": "b",
+          "text": "Fruit"
+        },
+        {
+          "id": "c",
+          "text": "Seed"
+        },
+        {
+          "id": "d",
+          "text": "Bark"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bark",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q76",
+      "type": "single-choice",
+      "text": "The Arteether medicine which is used to cure malaria is obtained from a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seeded plant"
+        },
+        {
+          "id": "b",
+          "text": "Fungus"
+        },
+        {
+          "id": "c",
+          "text": "Bacteria"
+        },
+        {
+          "id": "d",
+          "text": "Algae"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Seeded plant",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q77",
+      "type": "single-choice",
+      "text": "The drug obtained from the bark of cinchona was used for treating malaria. The synthetic drug which replaced the natural product is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chloromycetin"
+        },
+        {
+          "id": "b",
+          "text": "Chloroquine"
+        },
+        {
+          "id": "c",
+          "text": "Tetracycline"
+        },
+        {
+          "id": "d",
+          "text": "Ampicillin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chloroquine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q78",
+      "type": "single-choice",
+      "text": "Which one of the following groups of organisms has significant in diagnosing the death by drowning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lichens"
+        },
+        {
+          "id": "b",
+          "text": "Protozoa"
+        },
+        {
+          "id": "c",
+          "text": "Cyanobacteria"
+        },
+        {
+          "id": "d",
+          "text": "Diatoms"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Diatoms",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q79",
+      "type": "single-choice",
+      "text": "The mulberry fruit is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sorosis"
+        },
+        {
+          "id": "b",
+          "text": "Syconus"
+        },
+        {
+          "id": "c",
+          "text": "Samara"
+        },
+        {
+          "id": "d",
+          "text": "Nut"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sorosis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q80",
+      "type": "single-choice",
+      "text": "Which one of the following fibre is not a product of plant stem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flax"
+        },
+        {
+          "id": "b",
+          "text": "Hemp"
+        },
+        {
+          "id": "c",
+          "text": "Jute"
+        },
+        {
+          "id": "d",
+          "text": "Cotton"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Cotton",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q81",
+      "type": "single-choice",
+      "text": "Leg-haemoglobin is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Human blood"
+        },
+        {
+          "id": "b",
+          "text": "Rabbit blood"
+        },
+        {
+          "id": "c",
+          "text": "Legume root nodules"
+        },
+        {
+          "id": "d",
+          "text": "Chicken blood"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Legume root nodules",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q82",
+      "type": "single-choice",
+      "text": "Which one of the following is a man-made cereal, not found in nature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dwarf wheat"
+        },
+        {
+          "id": "b",
+          "text": "Hybrid maize"
+        },
+        {
+          "id": "c",
+          "text": "Triticale"
+        },
+        {
+          "id": "d",
+          "text": "Soyabean"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Triticale",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q83",
+      "type": "single-choice",
+      "text": "Canola refers to a special type of oilseed mustard varieties breed for human consumption. The main characteristic of these varieties is that the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seeds have very high oil content"
+        },
+        {
+          "id": "b",
+          "text": "Oil is rich in unsaturated fatty acid"
+        },
+        {
+          "id": "c",
+          "text": "Oil has long shelf-life"
+        },
+        {
+          "id": "d",
+          "text": "Oil has very low uric acid content"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Oil has very low uric acid content",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q84",
+      "type": "single-choice",
+      "text": "Bacteria can be seen by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naked eye"
+        },
+        {
+          "id": "b",
+          "text": "Compound microscope"
+        },
+        {
+          "id": "c",
+          "text": "Hand lens"
+        },
+        {
+          "id": "d",
+          "text": "Electron microscope"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Compound microscope",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q85",
+      "type": "single-choice",
+      "text": "‘Spongy Tissue’ is a serious disorder hampering the export of mango variety. It is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alphonso"
+        },
+        {
+          "id": "b",
+          "text": "Dashehari"
+        },
+        {
+          "id": "c",
+          "text": "Neelum"
+        },
+        {
+          "id": "d",
+          "text": "Langra"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Alphonso",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q86",
+      "type": "single-choice",
+      "text": "Which of the following statement about bacteria is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They are on the borderline of living and non-living"
+        },
+        {
+          "id": "b",
+          "text": "They are on the borderline of plants and animals"
+        },
+        {
+          "id": "c",
+          "text": "They are on the borderline of flowering and non-flowering plants"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of the above",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q87",
+      "type": "single-choice",
+      "text": "Desert plants have longer root system because",
+      "options": [
+        {
+          "id": "a",
+          "text": "High temperature of the soil stimulates the growth of roots"
+        },
+        {
+          "id": "b",
+          "text": "Roots grow in search of water"
+        },
+        {
+          "id": "c",
+          "text": "Soil does not contain water, hence becomes compact and presses the roots to grow longer"
+        },
+        {
+          "id": "d",
+          "text": "Roots moves opposite to the solar heat"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Roots grow in search of water",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q88",
+      "type": "single-choice",
+      "text": "Deserts have phreatophytes i.e., plants that have",
+      "options": [
+        {
+          "id": "a",
+          "text": "Succulent stem (100-200 mm thick)"
+        },
+        {
+          "id": "b",
+          "text": "Lipid accumulation (20-30 mg) in leaves"
+        },
+        {
+          "id": "c",
+          "text": "Long (20-30 ft) tap roots"
+        },
+        {
+          "id": "d",
+          "text": "Small (2-3 mm) or spine-like leaves"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Long (20-30 ft) tap roots",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre)(Re. Exam) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q89",
+      "type": "single-choice",
+      "text": "Plants adapted to dry climate are known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Epiphyte"
+        },
+        {
+          "id": "b",
+          "text": "Xerophyte"
+        },
+        {
+          "id": "c",
+          "text": "Hydrophytes"
+        },
+        {
+          "id": "d",
+          "text": "Mean plants"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Xerophyte",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q90",
+      "type": "single-choice",
+      "text": "Desert plants are generally",
+      "options": [
+        {
+          "id": "a",
+          "text": "Viviparous"
+        },
+        {
+          "id": "b",
+          "text": "Succulent"
+        },
+        {
+          "id": "c",
+          "text": "Herbaceous"
+        },
+        {
+          "id": "d",
+          "text": "Heterophyllous"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Succulent",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q91",
+      "type": "single-choice",
+      "text": "Plants which grow on saline soils are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Xerophytes"
+        },
+        {
+          "id": "b",
+          "text": "Hydrophytes"
+        },
+        {
+          "id": "c",
+          "text": "Halophytes"
+        },
+        {
+          "id": "d",
+          "text": "Succulents"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Halophytes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q92",
+      "type": "single-choice",
+      "text": "Epiphytes are plants which depend on other plants for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food"
+        },
+        {
+          "id": "b",
+          "text": "Mechanical support"
+        },
+        {
+          "id": "c",
+          "text": "Shade"
+        },
+        {
+          "id": "d",
+          "text": "Water"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mechanical support",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q93",
+      "type": "single-choice",
+      "text": "The maximum amount of water, which plants need to grow that is absorbed by the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Embryonic zone"
+        },
+        {
+          "id": "b",
+          "text": "Growing point"
+        },
+        {
+          "id": "c",
+          "text": "Zone of elongation"
+        },
+        {
+          "id": "d",
+          "text": "Root hairs"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Root hairs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q94",
+      "type": "single-choice",
+      "text": "A hydrophyte is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A marine animal"
+        },
+        {
+          "id": "b",
+          "text": "An aquatic plant"
+        },
+        {
+          "id": "c",
+          "text": "A plant disease"
+        },
+        {
+          "id": "d",
+          "text": "A rootless plant"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: An aquatic plant",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994 RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q95",
+      "type": "single-choice",
+      "text": "The radiant energy absorbed by the plants results in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Photolysis of water"
+        },
+        {
+          "id": "b",
+          "text": "Oxidation of chlorophyll"
+        },
+        {
+          "id": "c",
+          "text": "Reduction of oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Oxidation of carbon dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Photolysis of water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q96",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Autotroph - Producer"
+        },
+        {
+          "id": "b",
+          "text": "Heterotroph - Consumer"
+        },
+        {
+          "id": "c",
+          "text": "Saprotroph - Decomposer"
+        },
+        {
+          "id": "d",
+          "text": "Herbivore - Secondary consumer"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Herbivore - Secondary consumer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q97",
+      "type": "single-choice",
+      "text": "Trophic level-I includes",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herbivorous animals"
+        },
+        {
+          "id": "b",
+          "text": "Carnivorous animals"
+        },
+        {
+          "id": "c",
+          "text": "Omnivorous animals"
+        },
+        {
+          "id": "d",
+          "text": "Green plants"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Green plants",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q98",
+      "type": "single-choice",
+      "text": "A group of archaebacteria is used in the production of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethane"
+        },
+        {
+          "id": "b",
+          "text": "Methane"
+        },
+        {
+          "id": "c",
+          "text": "Acids"
+        },
+        {
+          "id": "d",
+          "text": "Alchohols"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q99",
+      "type": "single-choice",
+      "text": "How do most insects respire?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Through skin"
+        },
+        {
+          "id": "b",
+          "text": "Through gills"
+        },
+        {
+          "id": "c",
+          "text": "By lungs"
+        },
+        {
+          "id": "d",
+          "text": "By tracheal system"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: By tracheal system",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q100",
+      "type": "single-choice",
+      "text": "Fishes survive under the frozen lake, because",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fishes have hot blood"
+        },
+        {
+          "id": "b",
+          "text": "Fishes are in hibernation under it"
+        },
+        {
+          "id": "c",
+          "text": "Water does not freeze near bottom"
+        },
+        {
+          "id": "d",
+          "text": "Ice is the conductor of heat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Water does not freeze near bottom",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q101",
+      "type": "single-choice",
+      "text": "After bringing out of water fishes die because",
+      "options": [
+        {
+          "id": "a",
+          "text": "They get excess quantity of oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Their body temperature increases"
+        },
+        {
+          "id": "c",
+          "text": "They cannot breathe"
+        },
+        {
+          "id": "d",
+          "text": "They cannot move in water"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: They cannot breathe",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2018 39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q102",
+      "type": "single-choice",
+      "text": "Fish generally breathe through",
+      "options": [
+        {
+          "id": "a",
+          "text": "Skin"
+        },
+        {
+          "id": "b",
+          "text": "Nose"
+        },
+        {
+          "id": "c",
+          "text": "Gills"
+        },
+        {
+          "id": "d",
+          "text": "Fins"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Gills",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q103",
+      "type": "single-choice",
+      "text": "Redness in apple is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anthocyanin"
+        },
+        {
+          "id": "b",
+          "text": "Lycopene"
+        },
+        {
+          "id": "c",
+          "text": "Carotene"
+        },
+        {
+          "id": "d",
+          "text": "Xanthophyll"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Anthocyanin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q104",
+      "type": "single-choice",
+      "text": "Red colour in tomato is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capsaicin"
+        },
+        {
+          "id": "b",
+          "text": "Lycopene"
+        },
+        {
+          "id": "c",
+          "text": "Xanthophyll"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lycopene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q105",
+      "type": "single-choice",
+      "text": "The yellow colour of papaya is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Papain"
+        },
+        {
+          "id": "b",
+          "text": "Lycopene"
+        },
+        {
+          "id": "c",
+          "text": "Caricaxznthin"
+        },
+        {
+          "id": "d",
+          "text": "Carotene"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Caricaxznthin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q106",
+      "type": "single-choice",
+      "text": "Opium is obtained from which part of the poppy plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower"
+        },
+        {
+          "id": "b",
+          "text": "Leaves"
+        },
+        {
+          "id": "c",
+          "text": "Unripe fruits"
+        },
+        {
+          "id": "d",
+          "text": "Roots"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Unripe fruits",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q107",
+      "type": "single-choice",
+      "text": "Which of the following groups of living beings belong to the same species?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chinese, American, Indians and Black Africans"
+        },
+        {
+          "id": "b",
+          "text": "Tigers, Lions and Cats"
+        },
+        {
+          "id": "c",
+          "text": "Pigeons, Doves and Partridges"
+        },
+        {
+          "id": "d",
+          "text": "Lizards, Crocodiles and Snakes"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chinese, American, Indians and Black Africans",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q108",
+      "type": "single-choice",
+      "text": "Yeast is an example of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Fungus"
+        },
+        {
+          "id": "c",
+          "text": "Virus"
+        },
+        {
+          "id": "d",
+          "text": "Algae"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fungus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q109",
+      "type": "single-choice",
+      "text": "Yeast and mushrooms are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Algae"
+        },
+        {
+          "id": "b",
+          "text": "Gymnosperm"
+        },
+        {
+          "id": "c",
+          "text": "Fungi"
+        },
+        {
+          "id": "d",
+          "text": "Tuberous Roots"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Fungi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q110",
+      "type": "single-choice",
+      "text": "What is a mushroom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungi"
+        },
+        {
+          "id": "b",
+          "text": "Plant"
+        },
+        {
+          "id": "c",
+          "text": "Animal"
+        },
+        {
+          "id": "d",
+          "text": "Bacteria"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fungi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q111",
+      "type": "single-choice",
+      "text": "Mushroom used in for making juicy vegetable is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungus"
+        },
+        {
+          "id": "b",
+          "text": "Algae"
+        },
+        {
+          "id": "c",
+          "text": "Green vegetable"
+        },
+        {
+          "id": "d",
+          "text": "Flesh of animal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fungus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q112",
+      "type": "single-choice",
+      "text": "Major component of cotton is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protein"
+        },
+        {
+          "id": "b",
+          "text": "Fatty acid"
+        },
+        {
+          "id": "c",
+          "text": "Cellulose"
+        },
+        {
+          "id": "d",
+          "text": "Glycerene"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cellulose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q113",
+      "type": "single-choice",
+      "text": "Lichen are the complex creature, made from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fungus and bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Fungus and algae"
+        },
+        {
+          "id": "c",
+          "text": "Fungus and bryophyta"
+        },
+        {
+          "id": "d",
+          "text": "Algae and bacteria"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fungus and algae",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q114",
+      "type": "single-choice",
+      "text": "Lichens, which are capable of intiating ecological succession even on a bare rock, are actually a symbiotic association of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Algae and bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Algae and fungi"
+        },
+        {
+          "id": "c",
+          "text": "Bacteria and fungi"
+        },
+        {
+          "id": "d",
+          "text": "Fungi and mosses"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Algae and fungi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q115",
+      "type": "single-choice",
+      "text": "Noscapine is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Poppy"
+        },
+        {
+          "id": "b",
+          "text": "Basii"
+        },
+        {
+          "id": "c",
+          "text": "Eucalyptus"
+        },
+        {
+          "id": "d",
+          "text": "Ephedra"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Poppy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q116",
+      "type": "single-choice",
+      "text": "Heroin is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indian hemp"
+        },
+        {
+          "id": "b",
+          "text": "Opium poppy"
+        },
+        {
+          "id": "c",
+          "text": "Tobacco"
+        },
+        {
+          "id": "d",
+          "text": "Areca nut"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Opium poppy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q117",
+      "type": "single-choice",
+      "text": "We get morphine from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flower"
+        },
+        {
+          "id": "b",
+          "text": "Leave"
+        },
+        {
+          "id": "c",
+          "text": "Fruit"
+        },
+        {
+          "id": "d",
+          "text": "Stem"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Fruit",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q118",
+      "type": "single-choice",
+      "text": "Opium is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dried leaves"
+        },
+        {
+          "id": "b",
+          "text": "Roots"
+        },
+        {
+          "id": "c",
+          "text": "Latex from unripe fruit"
+        },
+        {
+          "id": "d",
+          "text": "Latex from ripe fruit"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Latex from unripe fruit",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q119",
+      "type": "single-choice",
+      "text": "The main constituent of opium is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Morphine"
+        },
+        {
+          "id": "b",
+          "text": "Heroin"
+        },
+        {
+          "id": "c",
+          "text": "Atropine"
+        },
+        {
+          "id": "d",
+          "text": "Quinine"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Morphine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q120",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Amoeba reproduces by fission. Reason (R): All unicellular organisms reproduce by asexual methods.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "IAS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q121",
+      "type": "single-choice",
+      "text": "Consider the following animals. 1. Sea cow 2. Sea horse 3. Sea lion Which of the above is/are mammal/ mammals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "All of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1 and 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q122",
+      "type": "single-choice",
+      "text": "Consider the following statements about mosquitoes. 1. Only males suck blood. 2. Only females suck blood. 3. Females suck plant juices. 4. Males have bigger wings than females. 5. Females have bigger wings than males. Of these",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 2 and 4 are correct"
+        },
+        {
+          "id": "b",
+          "text": "Only 1 and 2 are correct"
+        },
+        {
+          "id": "c",
+          "text": "Only 3 and 5 are correct"
+        },
+        {
+          "id": "d",
+          "text": "Only 2 and 5 are correct"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Only 2 and 5 are correct",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "UPRO/ARO (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q123",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Rhizome (b) Tuber (c) Bulb (d) Corm List-II 1. Garlic 2. Jimmykand-suran 3. Ginger 4. Potato Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 1 2",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q124",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Product) (a) Opium (b) Hing (c) Rubber (d) Quinine List-II (Source) 1. Bark 2. Root 3. Fruit 4. Stem Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "c",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "d",
+          "text": "2 4 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 2 4 1",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "Punjab PSC (Pre) 2017 UPPCS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q125",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Some bacteria can synthesize their own food. Reason (R): These bacteria have green matter called chloroplasts.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q126",
+      "type": "assertion-reason",
+      "text": "Read the given statements. Assertion (A): The root systems of desert plants are longer. Reason (R): High temperature of soil encourages the growth of roots. Referencing above, which one is the right answer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-taxonomy-q127",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Weeping jelly is due to an excess of acid. 2. Biofertilizer most suited to sugarcane are Rhizobium. 3. Plants grown in salt water are called thallophytes. 4. Dormancy breaking hormone is cytokinin. Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "Only 4 and 1"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Only 4 and 1",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

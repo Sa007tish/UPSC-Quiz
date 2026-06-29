@@ -1,0 +1,4363 @@
+{
+  "bankId": "general-science-biology-vitamins-and-nutrition",
+  "subject": "Science",
+  "topic": "Vitamins and Nutrition",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q1",
+      "type": "single-choice",
+      "text": "Which one of the following groups of compounds is called ‘accessory dietary factor’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fats"
+        },
+        {
+          "id": "b",
+          "text": "Hormones"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "Vitamins"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamins",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q2",
+      "type": "single-choice",
+      "text": "Which of the following elements is not essential for plant growth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium"
+        },
+        {
+          "id": "b",
+          "text": "Potassium"
+        },
+        {
+          "id": "c",
+          "text": "Calcium"
+        },
+        {
+          "id": "d",
+          "text": "Magnesium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sodium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q3",
+      "type": "single-choice",
+      "text": "Funk invented",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamins"
+        },
+        {
+          "id": "b",
+          "text": "Hormones"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "Enzymes"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vitamins",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q4",
+      "type": "single-choice",
+      "text": "What are vitamins?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organic compound"
+        },
+        {
+          "id": "b",
+          "text": "Inorganic compound"
+        },
+        {
+          "id": "c",
+          "text": "Living organism"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Organic compound",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q5",
+      "type": "single-choice",
+      "text": "Which one of the following is not an essential micronutrients for plants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boron"
+        },
+        {
+          "id": "b",
+          "text": "Potassium"
+        },
+        {
+          "id": "c",
+          "text": "Sodium"
+        },
+        {
+          "id": "d",
+          "text": "Magnesium"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sodium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q6",
+      "type": "single-choice",
+      "text": "Living organisms require atleast 27 elements of which, 15 are metals. Among these, those required in major quantities, include",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potassium, manganese, molyb- denum and calcium"
+        },
+        {
+          "id": "b",
+          "text": "Potassium, molybdenum, cop- per and calcium"
+        },
+        {
+          "id": "c",
+          "text": "Potassium, sodium, magne- sium and calcium"
+        },
+        {
+          "id": "d",
+          "text": "Sodium, magnesium, copper and manganese"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Potassium, sodium, magne- sium and calcium",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q7",
+      "type": "single-choice",
+      "text": "In which category of food is the most amount of calories per unit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamins"
+        },
+        {
+          "id": "b",
+          "text": "Fats"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrates"
+        },
+        {
+          "id": "d",
+          "text": "Proteins"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fats",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1996 UPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q8",
+      "type": "single-choice",
+      "text": "Apples have special value for heart patients, because they are rich source of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium and potassium"
+        },
+        {
+          "id": "b",
+          "text": "Phosphorus and magnesium"
+        },
+        {
+          "id": "c",
+          "text": "Potassium and phosphorus"
+        },
+        {
+          "id": "d",
+          "text": "Potassium only"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Potassium only",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q9",
+      "type": "single-choice",
+      "text": "Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They activate the enzymes necessary for vitamin synthesis in the body and help prevent vitamin deficiency"
+        },
+        {
+          "id": "b",
+          "text": "They prevent excessive oxidation of carbohydrates, fats and proteins in the body and help avoid unnecessary wastage of energy"
+        },
+        {
+          "id": "c",
+          "text": "They neutralize the free radicals produced in the body during metabolism"
+        },
+        {
+          "id": "d",
+          "text": "They activate certain genes in the cells of the body and help delay the aging process"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: They neutralize the free radicals produced in the body during metabolism",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q10",
+      "type": "single-choice",
+      "text": "Which one of the following vitamins and deficiency diseases is wrongly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calciferol - Osteomalacia"
+        },
+        {
+          "id": "b",
+          "text": "Niacin - Pellagra"
+        },
+        {
+          "id": "c",
+          "text": "Cobalamin - Pernicious anaemia"
+        },
+        {
+          "id": "d",
+          "text": "Riboflavin - Beri-beri"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Riboflavin - Beri-beri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q11",
+      "type": "single-choice",
+      "text": "Among the following vegetables, the maximum Vitamin C is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chilli"
+        },
+        {
+          "id": "b",
+          "text": "Pumpkin"
+        },
+        {
+          "id": "c",
+          "text": "Pea"
+        },
+        {
+          "id": "d",
+          "text": "Radish"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chilli",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q12",
+      "type": "single-choice",
+      "text": "The vitamin which is found in citrus fruits and is necessary for maintaining healthy skin is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin D"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vitamin C",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q13",
+      "type": "single-choice",
+      "text": "The main source of vitamin ‘C’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raw and fresh fruits"
+        },
+        {
+          "id": "b",
+          "text": "Milk"
+        },
+        {
+          "id": "c",
+          "text": "Ghee"
+        },
+        {
+          "id": "d",
+          "text": "Pulses"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Raw and fresh fruits",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q14",
+      "type": "single-choice",
+      "text": "‘Kanchan’ is an improved variety of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grapes"
+        },
+        {
+          "id": "b",
+          "text": "Indian gooseberry"
+        },
+        {
+          "id": "c",
+          "text": "Guava"
+        },
+        {
+          "id": "d",
+          "text": "Mango"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Indian gooseberry",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q15",
+      "type": "single-choice",
+      "text": "The best source of Vitamin C is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apple"
+        },
+        {
+          "id": "b",
+          "text": "Mango"
+        },
+        {
+          "id": "c",
+          "text": "Gooseberry"
+        },
+        {
+          "id": "d",
+          "text": "Milk"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Gooseberry",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q16",
+      "type": "single-choice",
+      "text": "Which of the following has the highest content of Vitamin C?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carrot"
+        },
+        {
+          "id": "b",
+          "text": "Guava"
+        },
+        {
+          "id": "c",
+          "text": "Mango"
+        },
+        {
+          "id": "d",
+          "text": "Orange"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Orange",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q17",
+      "type": "single-choice",
+      "text": "The chemical name of Vitamin C is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ascorbic acid"
+        },
+        {
+          "id": "b",
+          "text": "Thyamine"
+        },
+        {
+          "id": "c",
+          "text": "Citric acid"
+        },
+        {
+          "id": "d",
+          "text": "Tartaric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ascorbic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q18",
+      "type": "single-choice",
+      "text": "Which vitamin helps in healing the wound?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin D"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin C",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q19",
+      "type": "single-choice",
+      "text": "Vitamin ‘C’ helps in absorption of which of following elements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Calcium"
+        },
+        {
+          "id": "c",
+          "text": "Iodine"
+        },
+        {
+          "id": "d",
+          "text": "Sodium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Iron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q20",
+      "type": "single-choice",
+      "text": "Which of the following vitamins does not get stored in the body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin E"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin C",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q21",
+      "type": "single-choice",
+      "text": "Which of the following vitamin’s deficiency causes disease of slow blood coagulation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin E"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin K",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q22",
+      "type": "single-choice",
+      "text": "Which one of the following vitamins is responsible for blood clotting?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C"
+        },
+        {
+          "id": "b",
+          "text": "K"
+        },
+        {
+          "id": "c",
+          "text": "E"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: K",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 1991, 2012 Uttarakhand PCS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q23",
+      "type": "single-choice",
+      "text": "Which of the following vitamin is used as an antidote to anticoagulant poisons?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin E"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin K"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin K",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q24",
+      "type": "single-choice",
+      "text": "Which of the following is synthesized by intestinal bacteria?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin B 12"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin K"
+        },
+        {
+          "id": "d",
+          "text": "Both (A) and (C)"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Both (A) and (C)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q25",
+      "type": "single-choice",
+      "text": "The source of Vitamin ‘D’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lemon"
+        },
+        {
+          "id": "b",
+          "text": "Sun rays"
+        },
+        {
+          "id": "c",
+          "text": "Orange"
+        },
+        {
+          "id": "d",
+          "text": "Cashewnut"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sun rays",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q26",
+      "type": "single-choice",
+      "text": "The vitamin available from sun rays is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin D"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin D",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006 MPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q27",
+      "type": "single-choice",
+      "text": "The deficiency of Vitamin D causes the disease",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rickets"
+        },
+        {
+          "id": "b",
+          "text": "Beri-beri"
+        },
+        {
+          "id": "c",
+          "text": "Osteoporosis"
+        },
+        {
+          "id": "d",
+          "text": "Both (A) and (C)"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Both (A) and (C)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q28",
+      "type": "single-choice",
+      "text": "Which of the following is found in the composition of Vitamin ‘D’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ascorbic acid"
+        },
+        {
+          "id": "b",
+          "text": "Calciferol"
+        },
+        {
+          "id": "c",
+          "text": "Folic acid"
+        },
+        {
+          "id": "d",
+          "text": "Retinol"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Calciferol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q29",
+      "type": "single-choice",
+      "text": "Which of the following vitamins is known as ergocalciferol?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D 2 3"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B 12 6"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vitamin D",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q30",
+      "type": "single-choice",
+      "text": "The common name of the chemical compound ‘Cholecalciferol’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bone Calcium"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin D",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q31",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niacin - Pellagra"
+        },
+        {
+          "id": "b",
+          "text": "Thiamine - Beri-beri"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin D - Rickets"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin K - Sterility"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin K - Sterility",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q32",
+      "type": "single-choice",
+      "text": "Deficiency of which vitamin can cause night blindness?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "C 1"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "E"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: A",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010 Uttarakhand UDA/LDA (Pre) 2007 UPPCS (Mains) 2006 RAS/RTS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q33",
+      "type": "single-choice",
+      "text": "In human body, Vitamin A is stored in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Skin"
+        },
+        {
+          "id": "c",
+          "text": "Lung"
+        },
+        {
+          "id": "d",
+          "text": "Kidney"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Liver",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016 UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q34",
+      "type": "single-choice",
+      "text": "Which one of the following contains more Vitamin A content?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cabbage"
+        },
+        {
+          "id": "b",
+          "text": "Carrot"
+        },
+        {
+          "id": "c",
+          "text": "Cauliflower"
+        },
+        {
+          "id": "d",
+          "text": "Spinach"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carrot",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q35",
+      "type": "single-choice",
+      "text": "Which of the following is the richest source of Vitamin A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apple"
+        },
+        {
+          "id": "b",
+          "text": "Papaya"
+        },
+        {
+          "id": "c",
+          "text": "Guava"
+        },
+        {
+          "id": "d",
+          "text": "Mango"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mango",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q36",
+      "type": "single-choice",
+      "text": "Which one of the following is an important source of Vitamin E?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palm oil"
+        },
+        {
+          "id": "b",
+          "text": "Coconut oil"
+        },
+        {
+          "id": "c",
+          "text": "Wheat germ oil"
+        },
+        {
+          "id": "d",
+          "text": "Mustard oil"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Wheat germ oil",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q37",
+      "type": "single-choice",
+      "text": "Which one of the following is not formed in our body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Protein"
+        },
+        {
+          "id": "c",
+          "text": "Enzyme"
+        },
+        {
+          "id": "d",
+          "text": "Hormone"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vitamin A",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2013 UPPCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q38",
+      "type": "single-choice",
+      "text": "Which of the following vitamins contain cobalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B 6 2"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B 1 12"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin B 1 12",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "48th to 52nd BPSC (Pre) 2008 UPPCS (Pre) 2001 UPPCS (Spl)(Mains) 2004 UPPCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q39",
+      "type": "single-choice",
+      "text": "Which one of the following metals is present in the Vitamin B ? 12",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cobalt"
+        },
+        {
+          "id": "b",
+          "text": "Iron"
+        },
+        {
+          "id": "c",
+          "text": "Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Magnesium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Cobalt",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q40",
+      "type": "single-choice",
+      "text": "Cyanocobalamin is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B 2"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B 6 12"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin B 6 12",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q41",
+      "type": "single-choice",
+      "text": "Thiamine is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B 2"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B 6 1"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin B 6 1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q42",
+      "type": "single-choice",
+      "text": "Water soluble vitamin is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin E"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin C",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q43",
+      "type": "single-choice",
+      "text": "Which vitamin is water soluble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin E"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin B",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q44",
+      "type": "single-choice",
+      "text": "Some vitamins are fat soluble while others are water soluble. Which of the following are water soluble?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A, B and D"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin A, D, E and K"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin A, B and K"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B and C"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vitamin B and C",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q45",
+      "type": "single-choice",
+      "text": "A person will suffer from beri-beri, rickets and scurvy if he is not taking adequate amounts of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin B , A and C 12"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B , D and C 1"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin A, B and E"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B , A and K 6"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin B , D and C 1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2017 Uttarakhand PCS (Mains) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q46",
+      "type": "single-choice",
+      "text": "Which one of the following vitamins is helpful in keeping a dream in memory for a longer duration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin C 6"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vitamin B",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013 UP UDA/LDA (Spl)(Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q47",
+      "type": "single-choice",
+      "text": "Which of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A - Oranges"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D - Cod-liver oil"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin E - Wheat germ oil"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin K - Alfalfa"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vitamin A - Oranges",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q48",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin A - Night blindness"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B - Pellagra 3"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin D - Colour blindness"
+        },
+        {
+          "id": "d",
+          "text": "Folic acid - Anaemia"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vitamin D - Colour blindness",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q49",
+      "type": "single-choice",
+      "text": "Which of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retinol - Xerophthalmia"
+        },
+        {
+          "id": "b",
+          "text": "Tocopherol - Beri-beri"
+        },
+        {
+          "id": "c",
+          "text": "Cyanocobalamin - Anaemia"
+        },
+        {
+          "id": "d",
+          "text": "Ergocalciferol - Rickets"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tocopherol - Beri-beri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q50",
+      "type": "single-choice",
+      "text": "Which among the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thiamine - Beri-beri"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin D - Rickets"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin K - Sterility"
+        },
+        {
+          "id": "d",
+          "text": "Niacin - Pellagra"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vitamin K - Sterility",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q51",
+      "type": "single-choice",
+      "text": "Banana accepted as most calories fruit has what amount of calories per 100 gm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "416 kcal"
+        },
+        {
+          "id": "b",
+          "text": "316 kcal"
+        },
+        {
+          "id": "c",
+          "text": "216 kcal"
+        },
+        {
+          "id": "d",
+          "text": "116 kcal"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 116 kcal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q52",
+      "type": "single-choice",
+      "text": "The higher protein content is found in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pigeon pea"
+        },
+        {
+          "id": "b",
+          "text": "Soyabean"
+        },
+        {
+          "id": "c",
+          "text": "Horse pea"
+        },
+        {
+          "id": "d",
+          "text": "Wheat"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Soyabean",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004 Uttarakhand PCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q53",
+      "type": "single-choice",
+      "text": "Which one of the following is the richest source of protein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rice"
+        },
+        {
+          "id": "b",
+          "text": "Groundnut"
+        },
+        {
+          "id": "c",
+          "text": "Apple"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Groundnut",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q54",
+      "type": "single-choice",
+      "text": "Hair is composed of protein called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Globulin"
+        },
+        {
+          "id": "b",
+          "text": "Mucin"
+        },
+        {
+          "id": "c",
+          "text": "Keratin"
+        },
+        {
+          "id": "d",
+          "text": "Casein"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Keratin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (RI) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q55",
+      "type": "single-choice",
+      "text": "Which one of the following proteins is present in human hair and nails?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxytocin"
+        },
+        {
+          "id": "b",
+          "text": "Keratin"
+        },
+        {
+          "id": "c",
+          "text": "Vasopressin"
+        },
+        {
+          "id": "d",
+          "text": "Trypsin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Keratin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q56",
+      "type": "single-choice",
+      "text": "Which one of the following statements is not correct regarding the amino acids, tyrosine, present in protein rich food?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can help increase energy levels"
+        },
+        {
+          "id": "b",
+          "text": "It can help with emotional & environmental stress"
+        },
+        {
+          "id": "c",
+          "text": "It can combat depression"
+        },
+        {
+          "id": "d",
+          "text": "It can protect against free radicals responsible for aging"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: It can protect against free radicals responsible for aging",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "Karnataka PSC (Pre) 2019 UPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q57",
+      "type": "single-choice",
+      "text": "The substance responsible for bread-making quality in wheat is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glutein"
+        },
+        {
+          "id": "b",
+          "text": "Globulin"
+        },
+        {
+          "id": "c",
+          "text": "Glycin"
+        },
+        {
+          "id": "d",
+          "text": "Lycine"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Glutein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q58",
+      "type": "single-choice",
+      "text": "Daily energy required by a hard worker man is",
+      "options": [
+        {
+          "id": "a",
+          "text": "3000 kilo calorie"
+        },
+        {
+          "id": "b",
+          "text": "2700 kilo calorie"
+        },
+        {
+          "id": "c",
+          "text": "4000 kilo calorie"
+        },
+        {
+          "id": "d",
+          "text": "6000 kilo calorie"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 4000 kilo calorie",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q59",
+      "type": "single-choice",
+      "text": "How many calories are gained by drinking a glass of water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zero"
+        },
+        {
+          "id": "b",
+          "text": "15"
+        },
+        {
+          "id": "c",
+          "text": "25"
+        },
+        {
+          "id": "d",
+          "text": "50"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Zero",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q60",
+      "type": "single-choice",
+      "text": "An essential constituent of diet is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Starch"
+        },
+        {
+          "id": "b",
+          "text": "Glucose"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "d",
+          "text": "Cellulose"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Carbohydrate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q61",
+      "type": "single-choice",
+      "text": "The major food fuel during exercise of long duration is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fat"
+        },
+        {
+          "id": "b",
+          "text": "Protein"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Carbohydrate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q62",
+      "type": "single-choice",
+      "text": "The element that maintains balance between acidity and alkalinity in our body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Phosphorus"
+        },
+        {
+          "id": "b",
+          "text": "Sodium"
+        },
+        {
+          "id": "c",
+          "text": "Potassium"
+        },
+        {
+          "id": "d",
+          "text": "Calcium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Phosphorus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q63",
+      "type": "single-choice",
+      "text": "Which one of the following compounds is not stored in human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycogen"
+        },
+        {
+          "id": "b",
+          "text": "Amino acids"
+        },
+        {
+          "id": "c",
+          "text": "Fat"
+        },
+        {
+          "id": "d",
+          "text": "Tocopherol"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Amino acids",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q64",
+      "type": "single-choice",
+      "text": "Among the following which fruit is rich source of iron?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jambo"
+        },
+        {
+          "id": "b",
+          "text": "Karonda"
+        },
+        {
+          "id": "c",
+          "text": "Loquat"
+        },
+        {
+          "id": "d",
+          "text": "Guava"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Karonda",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2006 Uttarakhand UDA/LDA (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q65",
+      "type": "single-choice",
+      "text": "Spinach leaves contains the highest amount of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin"
+        },
+        {
+          "id": "b",
+          "text": "Iron"
+        },
+        {
+          "id": "c",
+          "text": "Fat"
+        },
+        {
+          "id": "d",
+          "text": "Carbohydrate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Iron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q66",
+      "type": "single-choice",
+      "text": "Which one of the following is a rich source of iron?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carrot"
+        },
+        {
+          "id": "b",
+          "text": "Pea"
+        },
+        {
+          "id": "c",
+          "text": "Rice"
+        },
+        {
+          "id": "d",
+          "text": "Spinach"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Spinach",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q67",
+      "type": "single-choice",
+      "text": "Iron content is found maximum in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beans"
+        },
+        {
+          "id": "b",
+          "text": "Eggs"
+        },
+        {
+          "id": "c",
+          "text": "Green vegetables"
+        },
+        {
+          "id": "d",
+          "text": "Milk"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Green vegetables",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q68",
+      "type": "single-choice",
+      "text": "Grains of basmati rice get elongated on being cooked because of higher content of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lysine"
+        },
+        {
+          "id": "b",
+          "text": "Amylose"
+        },
+        {
+          "id": "c",
+          "text": "Sugar"
+        },
+        {
+          "id": "d",
+          "text": "Oil"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Amylose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q69",
+      "type": "single-choice",
+      "text": "Among the following presence of which brings sweetness in milk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microse"
+        },
+        {
+          "id": "b",
+          "text": "Lactose"
+        },
+        {
+          "id": "c",
+          "text": "Sucrose"
+        },
+        {
+          "id": "d",
+          "text": "Carotene"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lactose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (RI) 2014 UPPCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q70",
+      "type": "single-choice",
+      "text": "Which bacteria cause milk to spoil?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aspergillus"
+        },
+        {
+          "id": "b",
+          "text": "Staphylococcus"
+        },
+        {
+          "id": "c",
+          "text": "Pseudomonas"
+        },
+        {
+          "id": "d",
+          "text": "Lactobacillus"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lactobacillus",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003 Chhattisgarh PCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q71",
+      "type": "single-choice",
+      "text": "Which of the following converts milk into curd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin"
+        },
+        {
+          "id": "c",
+          "text": "Enzyme"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bacteria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q72",
+      "type": "single-choice",
+      "text": "Cow’s milk is slightly yellow in colour due to the presence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Xanthophyll"
+        },
+        {
+          "id": "b",
+          "text": "Riboflavin"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B"
+        },
+        {
+          "id": "d",
+          "text": "Carotene 12"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Carotene 12",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008 RAS/RTS (Pre) 1999 UPPCS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q73",
+      "type": "single-choice",
+      "text": "Cow milk is yellowish white in colour due to the presence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Casein"
+        },
+        {
+          "id": "b",
+          "text": "Lactose"
+        },
+        {
+          "id": "c",
+          "text": "Carotene together with casein"
+        },
+        {
+          "id": "d",
+          "text": "Butyric acid together with lactose"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Carotene together with casein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q74",
+      "type": "single-choice",
+      "text": "What is the average fat content of buffalo milk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7.2%"
+        },
+        {
+          "id": "b",
+          "text": "4.5%"
+        },
+        {
+          "id": "c",
+          "text": "9.0%"
+        },
+        {
+          "id": "d",
+          "text": "10.0%"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 7.2%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q75",
+      "type": "single-choice",
+      "text": "Which one of the following food materials does not contain all essential amino acids?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rice"
+        },
+        {
+          "id": "b",
+          "text": "Milk"
+        },
+        {
+          "id": "c",
+          "text": "Egg"
+        },
+        {
+          "id": "d",
+          "text": "Soyabean"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Rice",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q76",
+      "type": "single-choice",
+      "text": "Milk protein is digested by which of the following enzyme?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pepsin"
+        },
+        {
+          "id": "b",
+          "text": "Trypsin"
+        },
+        {
+          "id": "c",
+          "text": "Renin"
+        },
+        {
+          "id": "d",
+          "text": "Erepsin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Renin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q77",
+      "type": "single-choice",
+      "text": "Casein is milk",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacterium"
+        },
+        {
+          "id": "b",
+          "text": "Sugar"
+        },
+        {
+          "id": "c",
+          "text": "Protein"
+        },
+        {
+          "id": "d",
+          "text": "Fat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q78",
+      "type": "single-choice",
+      "text": "White colour of milk is due to the presence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lactose"
+        },
+        {
+          "id": "b",
+          "text": "Albumins"
+        },
+        {
+          "id": "c",
+          "text": "Carotene"
+        },
+        {
+          "id": "d",
+          "text": "Casein"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Casein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012 Jharkhand PCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q79",
+      "type": "single-choice",
+      "text": "Which of the following proteins is found in milk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agglutinin"
+        },
+        {
+          "id": "b",
+          "text": "Casein"
+        },
+        {
+          "id": "c",
+          "text": "Myosin"
+        },
+        {
+          "id": "d",
+          "text": "Haemoglobin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Casein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q80",
+      "type": "single-choice",
+      "text": "The tissues are formed in body by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fat"
+        },
+        {
+          "id": "b",
+          "text": "Carbohydrate"
+        },
+        {
+          "id": "c",
+          "text": "Protein"
+        },
+        {
+          "id": "d",
+          "text": "Vitamins"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q81",
+      "type": "single-choice",
+      "text": "The slow growth of the human body is caused due to the deficiency of which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fats"
+        },
+        {
+          "id": "b",
+          "text": "Vitamins"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Proteins",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q82",
+      "type": "single-choice",
+      "text": "Ribozymes are",
+      "options": [
+        {
+          "id": "a",
+          "text": "DNA"
+        },
+        {
+          "id": "b",
+          "text": "RNA"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: RNA",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q83",
+      "type": "single-choice",
+      "text": "Which one of the following bio- transformation provides maximum energy to the human body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ADP → AMP"
+        },
+        {
+          "id": "b",
+          "text": "ATP → ADP"
+        },
+        {
+          "id": "c",
+          "text": "ADP → ATP"
+        },
+        {
+          "id": "d",
+          "text": "AMP → ADP"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: ATP → ADP",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q84",
+      "type": "single-choice",
+      "text": "During respiration energy is produced in the form of",
+      "options": [
+        {
+          "id": "a",
+          "text": "ADP"
+        },
+        {
+          "id": "b",
+          "text": "ATP"
+        },
+        {
+          "id": "c",
+          "text": "NADP"
+        },
+        {
+          "id": "d",
+          "text": "CO 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: ATP",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q85",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chlorophyll - Magnesium"
+        },
+        {
+          "id": "b",
+          "text": "Haemoglobin - Iron"
+        },
+        {
+          "id": "c",
+          "text": "Table salt - Sodium"
+        },
+        {
+          "id": "d",
+          "text": "Washing soda - Potassium"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Washing soda - Potassium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q86",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin B - Retinol 1"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B - Riboflavin 2"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B - Niacin 6"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin C - Calciferol"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin B - Riboflavin 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q87",
+      "type": "single-choice",
+      "text": "Which one is not micronutrient?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iron"
+        },
+        {
+          "id": "b",
+          "text": "Zinc"
+        },
+        {
+          "id": "c",
+          "text": "Sulphur"
+        },
+        {
+          "id": "d",
+          "text": "Manganese"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sulphur",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q88",
+      "type": "single-choice",
+      "text": "Which is the main vitamin found in Papaya?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin ‘A’"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin ‘C’"
+        },
+        {
+          "id": "c",
+          "text": "Vitamin ‘B’"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin ‘K’"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vitamin ‘C’",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q89",
+      "type": "single-choice",
+      "text": "Which one of the following is not a natural source of Vitamin A?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mango"
+        },
+        {
+          "id": "b",
+          "text": "Papaya"
+        },
+        {
+          "id": "c",
+          "text": "Carrot"
+        },
+        {
+          "id": "d",
+          "text": "Milk"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Milk",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q90",
+      "type": "single-choice",
+      "text": "Alpha-keratin is a protein, present in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blood"
+        },
+        {
+          "id": "b",
+          "text": "Skin"
+        },
+        {
+          "id": "c",
+          "text": "Lymph"
+        },
+        {
+          "id": "d",
+          "text": "Eggs"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Skin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003 IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q91",
+      "type": "single-choice",
+      "text": "The Golden Rice contains b-carotene gene which comes from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carrot"
+        },
+        {
+          "id": "b",
+          "text": "Daffodil"
+        },
+        {
+          "id": "c",
+          "text": "Beetroot"
+        },
+        {
+          "id": "d",
+          "text": "Papaya"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Daffodil",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q92",
+      "type": "single-choice",
+      "text": "Which one of the following does not denature a protein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heat"
+        },
+        {
+          "id": "b",
+          "text": "Infra-red rays"
+        },
+        {
+          "id": "c",
+          "text": "X-rays"
+        },
+        {
+          "id": "d",
+          "text": "Heavy metal salts"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Infra-red rays",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q93",
+      "type": "single-choice",
+      "text": "Protein requirement of young and old person are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Almost the same"
+        },
+        {
+          "id": "b",
+          "text": "Higher in the young and lower in the old"
+        },
+        {
+          "id": "c",
+          "text": "Higher in the old and lower in the young"
+        },
+        {
+          "id": "d",
+          "text": "Very high in the young and low in the old"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Higher in the old and lower in the young",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q94",
+      "type": "single-choice",
+      "text": "Daily intake of proteins, recom- mended for a moderately acrtive woman is",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 g"
+        },
+        {
+          "id": "b",
+          "text": "37 g"
+        },
+        {
+          "id": "c",
+          "text": "40 g"
+        },
+        {
+          "id": "d",
+          "text": "45 g"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 45 g",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010 IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q95",
+      "type": "single-choice",
+      "text": "How much protein a lactating mother requires in a daily diet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30 grams"
+        },
+        {
+          "id": "b",
+          "text": "20 grams"
+        },
+        {
+          "id": "c",
+          "text": "70 grams"
+        },
+        {
+          "id": "d",
+          "text": "100 grams"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 70 grams",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q96",
+      "type": "single-choice",
+      "text": "Starch is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monosaccharide"
+        },
+        {
+          "id": "b",
+          "text": "Disaccharide"
+        },
+        {
+          "id": "c",
+          "text": "Polysaccharide"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Polysaccharide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q97",
+      "type": "single-choice",
+      "text": "Which one of the following statements regarding starch and cellulose is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both of them are of plant origin"
+        },
+        {
+          "id": "b",
+          "text": "Both of them are polymers"
+        },
+        {
+          "id": "c",
+          "text": "Both of them give colour with iodine"
+        },
+        {
+          "id": "d",
+          "text": "Both of them are made up of glucose molecules"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both of them give colour with iodine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2019 IAS (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q98",
+      "type": "single-choice",
+      "text": "Which of the following is digested with the help of saliva?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protein"
+        },
+        {
+          "id": "b",
+          "text": "Starch"
+        },
+        {
+          "id": "c",
+          "text": "Fibre"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Starch",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q99",
+      "type": "single-choice",
+      "text": "Which of the following vitamin is considered as hormone?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: D",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q100",
+      "type": "single-choice",
+      "text": "Which of the following is found in the composition of vitamin D?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retinol"
+        },
+        {
+          "id": "b",
+          "text": "Folic acid"
+        },
+        {
+          "id": "c",
+          "text": "Ascorbic acid"
+        },
+        {
+          "id": "d",
+          "text": "Calciferol"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Calciferol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q101",
+      "type": "single-choice",
+      "text": "Which one of the following statements is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Milk contains none of the B-vitamins"
+        },
+        {
+          "id": "b",
+          "text": "Vitamin-A (retinol) deficiency leads to the dry and scaly skin"
+        },
+        {
+          "id": "c",
+          "text": "One of the symptoms of scurvy is pain in the joints"
+        },
+        {
+          "id": "d",
+          "text": "Vitamin B (thiamine) 1 deficiency can lead to heart failure"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Milk contains none of the B-vitamins",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q102",
+      "type": "single-choice",
+      "text": "Linseed is a rich source of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vitamin C"
+        },
+        {
+          "id": "b",
+          "text": "Omega-3 fatty acid"
+        },
+        {
+          "id": "c",
+          "text": "Essential amino acids"
+        },
+        {
+          "id": "d",
+          "text": "Antioxidants"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Omega-3 fatty acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q103",
+      "type": "single-choice",
+      "text": "Which among the following is the richest source of alpha-linolenic acid (18-carbon omega-3 fatty acid)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moth bean"
+        },
+        {
+          "id": "b",
+          "text": "Oats"
+        },
+        {
+          "id": "c",
+          "text": "Mung bean"
+        },
+        {
+          "id": "d",
+          "text": "Flaxseed"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Flaxseed",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q104",
+      "type": "single-choice",
+      "text": "Besides proteins and carbohydrates, other elements of nutritional value found in milk, include",
+      "options": [
+        {
+          "id": "a",
+          "text": "calcium, potassium and iron"
+        },
+        {
+          "id": "b",
+          "text": "calcium and potassium"
+        },
+        {
+          "id": "c",
+          "text": "potassium and iron"
+        },
+        {
+          "id": "d",
+          "text": "calcium and iron"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: calcium and potassium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2018 IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q105",
+      "type": "single-choice",
+      "text": "Fat present below the skin surface in our body, acts as a barrier against",
+      "options": [
+        {
+          "id": "a",
+          "text": "Loss of heat from the body"
+        },
+        {
+          "id": "b",
+          "text": "Loss of essential body fluids"
+        },
+        {
+          "id": "c",
+          "text": "Loss of salts from the body"
+        },
+        {
+          "id": "d",
+          "text": "Entry of harmful micro-organ- isms from the environment"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Loss of heat from the body",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q106",
+      "type": "single-choice",
+      "text": "Which of the following gives maximum energy in metabolic processes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbohydrates"
+        },
+        {
+          "id": "b",
+          "text": "Fats"
+        },
+        {
+          "id": "c",
+          "text": "Proteins"
+        },
+        {
+          "id": "d",
+          "text": "Minerals"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fats",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2017 UPRO/ARO (Mains) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q107",
+      "type": "single-choice",
+      "text": "The substance which makes up about 80% of the living material in most organisms is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protein"
+        },
+        {
+          "id": "b",
+          "text": "Fats"
+        },
+        {
+          "id": "c",
+          "text": "Carbohydrates"
+        },
+        {
+          "id": "d",
+          "text": "Minerals"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Protein",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q108",
+      "type": "single-choice",
+      "text": "Consumption of fish is considered to be healthy when compared to the flesh of other animals because fish contains",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polyunsaturated fatty acids"
+        },
+        {
+          "id": "b",
+          "text": "Saturated fatty acids"
+        },
+        {
+          "id": "c",
+          "text": "Essential vitamins"
+        },
+        {
+          "id": "d",
+          "text": "More carbohydrates and proteins"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Polyunsaturated fatty acids",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Mizoram PSC (Pre) 2018 IAS (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q109",
+      "type": "assertion-reason",
+      "text": "Assertion (A): If somebody stops taking green vegetables he will suffer from night blindness. Reason (R): He will suffer from vitamin A deficiency. Select the correct answer from the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: (A) is false, but (R) is true",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Haryana PSC (Pre) 2017 UPPCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q110",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Disease) (a) Night blindness (b) Rickets (c) Scurvy (d) Beri-beri List-II (Cause) 1. Vitamin D 2. Vitamin C 3. Vitamin B 4. Vitamin A Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 4 1 2 3",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Orissa PSC (Pre) 2018 UP UDA/LDA (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q111",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Disease) (a) Rickets (b) Beri-beri (c) Nyctalopia (d) Scurvy List-II (Cause) 1. Vitamin D 2. Vitamin B 1 3. Vitamin A 4. Vitamin C Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 2 3 4",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q112",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Vitamin C (b) Folic acid (c) Vitamin A (d) Vitamin B 1 List-II 1. Night blindness 2. Beri-beri 3. Anaemia 4. Scurvy Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "b",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "1 2 4 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 4 3 1 2",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q113",
+      "type": "single-choice",
+      "text": "Consider the following pairs. Vitamin Deficiency disease 1. Vitamin C - Scurvy 2. Vitamin D - Rickets 3. Vitamin E - Night blindness Which of the pairs given above is/ are correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "Only 3"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1 and 2",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q114",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Retinol (b) Tocopherol (c) Cyanocobalamine (d) Pyridoxine List-II 1. Pernicious anaemia 2. Mental illness 3. Conjunctivitis 4. Sterility/infertility Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 3 4 1 2",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002 UP Lower Sub. (Spl)(Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q115",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Ptyalin (b) Pepsin (c) Renin (d) Oxytocin List-II 1. Converts angiotensinogen in blood into angiotensin 2. Digests starch 3. Digests proteins 4. Hydrolyses fats 5. Induces contraction of smooth muscles Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 1 5"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 5"
+        },
+        {
+          "id": "c",
+          "text": "2 3 5 1"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 3 1 5",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "Haryana PSC (Pre) 2019 IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q116",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Vitamin (b) Enzyme (c) Hormone (d) Protein List-II 1. Pepsin 2. Carotene 3. Keratin 4. Progesterone Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "d",
+          "text": "1 2 4 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 1 4 3",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998 IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q117",
+      "type": "single-choice",
+      "text": "Consider the following minerals. 1. Calcium 2. Iron 3. Sodium Which of the minerals given above is/are required by human body for the contruction of muscles?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "All of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: All of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2017 IAS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q118",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Molecules) (a) Vitamin B (b) Haemoglobin 12 (c) Chlorophyll (d) Brass List-II (Elements present) 1. Magnesium 2. Cobalt 3. Copper 4. Iron Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "b",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "c",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 4 1 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Pre) 2014, 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q119",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Molecules) (a) Vitamin B 12 (b) Haemoglobin (c) Chlorophyll (d) Chalco Pyrite List-II (Elements present) 1. Magnesium 2. Cobalt 3. Copper 4. Iron Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "b",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "c",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 4 1 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Mains) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q120",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Vitamin B (b) Vitamin B 1 2 (c) Vitamin B (d) Vitamin B 6 12 List-II 1. Cobalamine 2. Calciferol 3. Riboflavin 4. Thymine 5. Pyridoxine Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 5 4"
+        },
+        {
+          "id": "b",
+          "text": "4 3 5 1"
+        },
+        {
+          "id": "c",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 3 5 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPSC (GIC) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q121",
+      "type": "single-choice",
+      "text": "Which of the following elements are present in all proteins? 1. Carbon 2. Hydrogen 3. Oxygen 4. Nitrogen",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q122",
+      "type": "single-choice",
+      "text": "Which of the following are characteristics shown in a breast- fed baby when compared to a bottlefed baby? 1. It is less obese. 2. It shows, greater capacity to resist diseases. 3. It gets more vitamins and protein. 4. Its growth in height is abnormal.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1, 2 and 3",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q123",
+      "type": "single-choice",
+      "text": "Which of the following would lead to malnutrition? 1. Overnutrition 2. Undernutrition 3. Imbalanced nutrition Select the correct answer by using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 alone"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 and 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q124",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Fatty acids should be a part of human diet. 2. A normal diet should contain 75 gm of fat. 3. The cells of human body can not synthesize any fatty acids. 4. Deficiency diseases develop due to the absence of essential fatty acids. Which of the above statements is/ are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "c",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "Only 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1, 2 and 4",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Goa PSC (Pre) 2017 RAS/RTS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q125",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Vitamins are invigorating elements, whose small amount is required for good health. Reason (R): Vitamins helps to keep the body healthy by killing harmful bacteria.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Punjab PSC (Pre) 2017 UP Lower Sub. (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q126",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Human diet should compulsorily contain glycine, serine and tyrosin. Reason (R): Essential amino acids cannot be synthesized in the human body.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: (A) is false, but (R) is true",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q127",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Unsaturated fats are more reactive compared with the saturated fats. Reason (R): Unsaturated fats have only single bonds in their structure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "Sikkim PSC (Pre) 2019 IAS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-vitamins-and-nutrition-q128",
+      "type": "single-choice",
+      "text": "A company marketing food products advertises that its items do not contain trans-fats. What does this campaign signify to the customers? 1. The food products are not made out of hydrogenated oils. 2. The food products are not made out of animal fats/oil. 3. The oils used are not likely to damage the cardiovascular health of the consumers. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2 and 3",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2011",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

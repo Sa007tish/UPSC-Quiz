@@ -1,0 +1,1847 @@
+{
+  "bankId": "general-science-biology-blood-transport-system",
+  "subject": "Science",
+  "topic": "Blood Transport System",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-blood-transport-system-q1",
+      "type": "single-choice",
+      "text": "The function of haemoglobin in body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transport of Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Destruction of Bacteria"
+        },
+        {
+          "id": "c",
+          "text": "Prevention of Anaemia"
+        },
+        {
+          "id": "d",
+          "text": "Utilization of Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Transport of Oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q2",
+      "type": "single-choice",
+      "text": "In which of the following creatures haemoglobin is dissolved in protoplasm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frog"
+        },
+        {
+          "id": "b",
+          "text": "Fish"
+        },
+        {
+          "id": "c",
+          "text": "Human"
+        },
+        {
+          "id": "d",
+          "text": "Earthworm"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Earthworm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q3",
+      "type": "single-choice",
+      "text": "Blood is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Connective tissue"
+        },
+        {
+          "id": "b",
+          "text": "Epithelial tissue"
+        },
+        {
+          "id": "c",
+          "text": "Both of the above"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Connective tissue",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q4",
+      "type": "single-choice",
+      "text": "What is haemoglobin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Substance found in the leaves of plants"
+        },
+        {
+          "id": "b",
+          "text": "Substance found in the bone- marrow"
+        },
+        {
+          "id": "c",
+          "text": "Substance found in human blood"
+        },
+        {
+          "id": "d",
+          "text": "Secretion coming out from the pitiutary gland"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Substance found in human blood",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q5",
+      "type": "single-choice",
+      "text": "Due to which the blood has red colour?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plasma"
+        },
+        {
+          "id": "b",
+          "text": "Haemoglobin"
+        },
+        {
+          "id": "c",
+          "text": "Haemocynin"
+        },
+        {
+          "id": "d",
+          "text": "W.B.C."
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Haemoglobin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q6",
+      "type": "single-choice",
+      "text": "Red Blood Corpuscles (RBCs) has colour due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cutin"
+        },
+        {
+          "id": "b",
+          "text": "Chlorophyll"
+        },
+        {
+          "id": "c",
+          "text": "Haemocynin"
+        },
+        {
+          "id": "d",
+          "text": "Haemoglobin"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Haemoglobin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q7",
+      "type": "single-choice",
+      "text": "What function does blood perform in the body?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Takes oxygen to all parts"
+        },
+        {
+          "id": "b",
+          "text": "Maintains liquidity"
+        },
+        {
+          "id": "c",
+          "text": "Helps in digestion"
+        },
+        {
+          "id": "d",
+          "text": "Helps in erection"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Takes oxygen to all parts",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q8",
+      "type": "single-choice",
+      "text": "Average blood pressure of a human is",
+      "options": [
+        {
+          "id": "a",
+          "text": "60/100"
+        },
+        {
+          "id": "b",
+          "text": "20/80"
+        },
+        {
+          "id": "c",
+          "text": "60/140"
+        },
+        {
+          "id": "d",
+          "text": "120/80"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 120/80",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q9",
+      "type": "single-choice",
+      "text": "The blood pressure (systolic and diastolic) of a healthy man is",
+      "options": [
+        {
+          "id": "a",
+          "text": "120 mm and 80 mm"
+        },
+        {
+          "id": "b",
+          "text": "201 mm and 110 mm"
+        },
+        {
+          "id": "c",
+          "text": "90 mm and 60 mm"
+        },
+        {
+          "id": "d",
+          "text": "85 mm and 55 mm"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 120 mm and 80 mm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q10",
+      "type": "single-choice",
+      "text": "Which of the following instrument is used for measuring blood pressure?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrometer"
+        },
+        {
+          "id": "b",
+          "text": "Multimeter"
+        },
+        {
+          "id": "c",
+          "text": "Salinometer"
+        },
+        {
+          "id": "d",
+          "text": "Sphygmomanometer"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sphygmomanometer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q11",
+      "type": "single-choice",
+      "text": "The blood pressure of an individual is 140 mm Hg. In this statement, ‘Hg’ refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Mercury"
+        },
+        {
+          "id": "c",
+          "text": "Hygrometer"
+        },
+        {
+          "id": "d",
+          "text": "Heliograph"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mercury",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q12",
+      "type": "single-choice",
+      "text": "When a person becomes older, his blood pressure generally",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decreases"
+        },
+        {
+          "id": "b",
+          "text": "Increases"
+        },
+        {
+          "id": "c",
+          "text": "Remains the same"
+        },
+        {
+          "id": "d",
+          "text": "Varies widely"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Increases",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q13",
+      "type": "single-choice",
+      "text": "Blood pressure of four persons give belongs. Mrs. (X) - 90/60 Mr. (X) - 160/120 Mr. (Y) - 120/80 Mrs. (Y) - 140/100 Whose blood pressure is normal in the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mrs. (X)"
+        },
+        {
+          "id": "b",
+          "text": "Mr. (X)"
+        },
+        {
+          "id": "c",
+          "text": "Mrs. (Y)"
+        },
+        {
+          "id": "d",
+          "text": "Mr. (Y)"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mr. (Y)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q14",
+      "type": "single-choice",
+      "text": "The blood pressure in our body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lesser than the atmospheric pressure"
+        },
+        {
+          "id": "b",
+          "text": "Greater than the atmospheric pressure"
+        },
+        {
+          "id": "c",
+          "text": "Equal to the atmospheric pressure"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Greater than the atmospheric pressure",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q15",
+      "type": "single-choice",
+      "text": "For human blood transfusion, which blood group is known as a universal donor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B + Group"
+        },
+        {
+          "id": "b",
+          "text": "O Group"
+        },
+        {
+          "id": "c",
+          "text": "AB Group"
+        },
+        {
+          "id": "d",
+          "text": "A + Group"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: O Group",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016 43rd BPSC (Pre) 1999 MPPCS (Pre) 2000 UP UDA/LDA (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q16",
+      "type": "single-choice",
+      "text": "Blood group AB can accept blood from a person which blood group?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only A"
+        },
+        {
+          "id": "b",
+          "text": "Only B"
+        },
+        {
+          "id": "c",
+          "text": "Only AB"
+        },
+        {
+          "id": "d",
+          "text": "Any group"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Any group",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q17",
+      "type": "single-choice",
+      "text": "A person with ‘AB’ blood group is sometimes called a universal recipient because of the",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lack of antigen in his blood"
+        },
+        {
+          "id": "b",
+          "text": "Lack of antibodies in his blood"
+        },
+        {
+          "id": "c",
+          "text": "Lack of both antigens and antibodies in his blood"
+        },
+        {
+          "id": "d",
+          "text": "Presence of antibodies in his blood"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lack of antibodies in his blood",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q18",
+      "type": "single-choice",
+      "text": "A person meets with an accident and needs a blood transfusion but there is no time to check his blood group. Which of the following blood groups could be given to him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "O +"
+        },
+        {
+          "id": "b",
+          "text": "O –"
+        },
+        {
+          "id": "c",
+          "text": "AB +"
+        },
+        {
+          "id": "d",
+          "text": "AB –"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: O –",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q19",
+      "type": "single-choice",
+      "text": "A man whoose blood group is not known meets with a serious accident and needs blood transfusion immediately. Which one of the blood groups mentioned below and readily available in the hospital will be safe for transfusion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "O, Rh –"
+        },
+        {
+          "id": "b",
+          "text": "O, Rh +"
+        },
+        {
+          "id": "c",
+          "text": "AB, Rh –"
+        },
+        {
+          "id": "d",
+          "text": "AB, Rh +"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: O, Rh –",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q20",
+      "type": "single-choice",
+      "text": "A person met with an accident and there is no time to check his blood group, which of the following blood should be given to him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AB, Rh +"
+        },
+        {
+          "id": "b",
+          "text": "O, Rh +"
+        },
+        {
+          "id": "c",
+          "text": "O, Rh –"
+        },
+        {
+          "id": "d",
+          "text": "AB, Rh –"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: O, Rh –",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q21",
+      "type": "single-choice",
+      "text": "Blood grouping was discovered by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Louis Pasteur"
+        },
+        {
+          "id": "b",
+          "text": "William Harvey"
+        },
+        {
+          "id": "c",
+          "text": "Robert Koch"
+        },
+        {
+          "id": "d",
+          "text": "Landsteiner"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Landsteiner",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003, 2004 Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q22",
+      "type": "single-choice",
+      "text": "Rh factor derives its name from a type of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ape"
+        },
+        {
+          "id": "b",
+          "text": "Human"
+        },
+        {
+          "id": "c",
+          "text": "Monkey"
+        },
+        {
+          "id": "d",
+          "text": "Rat"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Monkey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q23",
+      "type": "single-choice",
+      "text": "A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive and O positive. The blood group of the adopted son is",
+      "options": [
+        {
+          "id": "a",
+          "text": "O positive"
+        },
+        {
+          "id": "b",
+          "text": "A positive"
+        },
+        {
+          "id": "c",
+          "text": "B positive"
+        },
+        {
+          "id": "d",
+          "text": "Cannot be determined on the basis of the given data"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: O positive",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q24",
+      "type": "single-choice",
+      "text": "If the blood group of father is ‘A’ and mother is ‘O’, then what will be the blood group of son?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B"
+        },
+        {
+          "id": "b",
+          "text": "AB"
+        },
+        {
+          "id": "c",
+          "text": "O"
+        },
+        {
+          "id": "d",
+          "text": "B, AB or O"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: O",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q25",
+      "type": "single-choice",
+      "text": "What is the pH level of blood of a normal person?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4.5-4.6"
+        },
+        {
+          "id": "b",
+          "text": "6.45-6.55"
+        },
+        {
+          "id": "c",
+          "text": "7.35-7.45"
+        },
+        {
+          "id": "d",
+          "text": "8.25-8.35"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 7.35-7.45",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007 IAS (Pre) 2008 MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q26",
+      "type": "single-choice",
+      "text": "The pH value of blood is",
+      "options": [
+        {
+          "id": "a",
+          "text": "5.0"
+        },
+        {
+          "id": "b",
+          "text": "6.4"
+        },
+        {
+          "id": "c",
+          "text": "7.4"
+        },
+        {
+          "id": "d",
+          "text": "8.0"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 7.4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013 Chhattisgarh PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q27",
+      "type": "single-choice",
+      "text": "An antigen is a substance which",
+      "options": [
+        {
+          "id": "a",
+          "text": "Destroys harmful bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Is used to treat poisoning"
+        },
+        {
+          "id": "c",
+          "text": "Lowers body temperature"
+        },
+        {
+          "id": "d",
+          "text": "Stimulates formation of antibody"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Stimulates formation of antibody",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q28",
+      "type": "single-choice",
+      "text": "An antigen is a substance which",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lowers body temperature"
+        },
+        {
+          "id": "b",
+          "text": "Destroys harmful bacteria"
+        },
+        {
+          "id": "c",
+          "text": "Triggers the immune system"
+        },
+        {
+          "id": "d",
+          "text": "Is used as an antidote to poison"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Triggers the immune system",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q29",
+      "type": "single-choice",
+      "text": "What is the basic feature of antigen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It induces formation of haemoglobin"
+        },
+        {
+          "id": "b",
+          "text": "It induces formation of antibodies"
+        },
+        {
+          "id": "c",
+          "text": "It destroys insulin"
+        },
+        {
+          "id": "d",
+          "text": "It acts against the antibodies"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: It induces formation of antibodies",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q30",
+      "type": "single-choice",
+      "text": "Which of the following helps us in protecting from infection?",
+      "options": [
+        {
+          "id": "a",
+          "text": "R.B.C."
+        },
+        {
+          "id": "b",
+          "text": "W.B.C."
+        },
+        {
+          "id": "c",
+          "text": "Blood Plasma"
+        },
+        {
+          "id": "d",
+          "text": "Haemoglobin"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: W.B.C.",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q31",
+      "type": "single-choice",
+      "text": "The main function of white blood cells is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transport of oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Transport of carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "To develop resistance towards disease"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: To develop resistance towards disease",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q32",
+      "type": "single-choice",
+      "text": "By which of the following antibodies are formed in blood plasma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monocytes"
+        },
+        {
+          "id": "b",
+          "text": "Lymphocytes"
+        },
+        {
+          "id": "c",
+          "text": "Eosionoophils"
+        },
+        {
+          "id": "d",
+          "text": "Neutrophils"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lymphocytes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q33",
+      "type": "single-choice",
+      "text": "The Immunity (Defence) is mostly related with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lymphocytes"
+        },
+        {
+          "id": "b",
+          "text": "Monocytes"
+        },
+        {
+          "id": "c",
+          "text": "Red blood cells"
+        },
+        {
+          "id": "d",
+          "text": "Thrombocytes"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Lymphocytes",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1993",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q34",
+      "type": "single-choice",
+      "text": "The viscous nature of human blood is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Proteins in blood"
+        },
+        {
+          "id": "b",
+          "text": "Platelets in plasma"
+        },
+        {
+          "id": "c",
+          "text": "RBC and WBC in blood"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Proteins in blood",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q35",
+      "type": "single-choice",
+      "text": "The diameter of white blood corpuscles in human body is, about",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.007 mm"
+        },
+        {
+          "id": "b",
+          "text": "0.7 mm"
+        },
+        {
+          "id": "c",
+          "text": "0.07 mm"
+        },
+        {
+          "id": "d",
+          "text": "0.0007 mm"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 0.007 mm",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q36",
+      "type": "single-choice",
+      "text": "In pathology excess of white corpuscles in the blood is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anoxia"
+        },
+        {
+          "id": "b",
+          "text": "Leukaemia"
+        },
+        {
+          "id": "c",
+          "text": "Anaemia"
+        },
+        {
+          "id": "d",
+          "text": "Septicemia"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Leukaemia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q37",
+      "type": "single-choice",
+      "text": "In which part of our body are formed Red Blood Cells?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liver"
+        },
+        {
+          "id": "b",
+          "text": "Heart"
+        },
+        {
+          "id": "c",
+          "text": "Kidney"
+        },
+        {
+          "id": "d",
+          "text": "Bone Marrow"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bone Marrow",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010 Uttarakhand UDA/LDA (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q38",
+      "type": "single-choice",
+      "text": "Formation of WBC and destruction of RBC takes place in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lymph gland"
+        },
+        {
+          "id": "b",
+          "text": "Spleen"
+        },
+        {
+          "id": "c",
+          "text": "Pancreas"
+        },
+        {
+          "id": "d",
+          "text": "Liver"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Spleen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2019 UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q39",
+      "type": "single-choice",
+      "text": "The blood glucose level is comm- only expressed as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mm. of Hg"
+        },
+        {
+          "id": "b",
+          "text": "Milligram per decilitre"
+        },
+        {
+          "id": "c",
+          "text": "Parts per million"
+        },
+        {
+          "id": "d",
+          "text": "Gram (mg/dl) per litre"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Milligram per decilitre",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q40",
+      "type": "single-choice",
+      "text": "Arteries supplying blood to the heart are called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carotid arteries"
+        },
+        {
+          "id": "b",
+          "text": "Hepatic arteries"
+        },
+        {
+          "id": "c",
+          "text": "Coronary arteries"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary arteries"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Coronary arteries",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q41",
+      "type": "single-choice",
+      "text": "The enzyme which takes part in changing fibrinogen to fibrin when blood clots are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pepsin"
+        },
+        {
+          "id": "b",
+          "text": "Maltase"
+        },
+        {
+          "id": "c",
+          "text": "Thrombin"
+        },
+        {
+          "id": "d",
+          "text": "Prothrombin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Thrombin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q42",
+      "type": "single-choice",
+      "text": "With which of the physiological process thrombin is associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Excretion"
+        },
+        {
+          "id": "b",
+          "text": "Blood clotting"
+        },
+        {
+          "id": "c",
+          "text": "Reproduction"
+        },
+        {
+          "id": "d",
+          "text": "Growth"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Blood clotting",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q43",
+      "type": "single-choice",
+      "text": "Percentage of water in plasma is",
+      "options": [
+        {
+          "id": "a",
+          "text": "60%"
+        },
+        {
+          "id": "b",
+          "text": "70%"
+        },
+        {
+          "id": "c",
+          "text": "80%"
+        },
+        {
+          "id": "d",
+          "text": "90%"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 90%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q44",
+      "type": "single-choice",
+      "text": "Biological Oxygen Demand (BOD) is a standard criterion for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuing oxygen levels in blood"
+        },
+        {
+          "id": "b",
+          "text": "Computing oxygen levels in forest ecosystems"
+        },
+        {
+          "id": "c",
+          "text": "Pollution assay in aquatic ecosystems"
+        },
+        {
+          "id": "d",
+          "text": "Assessing oxygen levels in high altitude regions"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pollution assay in aquatic ecosystems",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2017",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q45",
+      "type": "single-choice",
+      "text": "With reference to the blood in a normal person, which one of the following statements is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compared to arteries, veins are less numerous and hold less of the body’s blood at any given time"
+        },
+        {
+          "id": "b",
+          "text": "Blood cells constitute about 70 percent of the total volume of the blood"
+        },
+        {
+          "id": "c",
+          "text": "White Blood Cells (WBCs) are made by lymph nodes only"
+        },
+        {
+          "id": "d",
+          "text": "The blood has more platelets than WBC"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: The blood has more platelets than WBC",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2016 IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q46",
+      "type": "single-choice",
+      "text": "When there is a decrease in the concentration of oxygen in the blood, the rate of breathing",
+      "options": [
+        {
+          "id": "a",
+          "text": "Decreases"
+        },
+        {
+          "id": "b",
+          "text": "Increases"
+        },
+        {
+          "id": "c",
+          "text": "Does not change"
+        },
+        {
+          "id": "d",
+          "text": "First decreases, then increases"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Increases",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2017 UPPCS (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q47",
+      "type": "single-choice",
+      "text": "Carbon monoxide poisoning affects mainly which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Digestive activity"
+        },
+        {
+          "id": "b",
+          "text": "Liver functioning"
+        },
+        {
+          "id": "c",
+          "text": "Kidney functioning"
+        },
+        {
+          "id": "d",
+          "text": "Oxygen carrying capacity of blood"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Oxygen carrying capacity of blood",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2012",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q48",
+      "type": "single-choice",
+      "text": "Scientists of which country have developed an artificial blood that is a kind of plastic blood which could be given to any patient regardless of his blood group?",
+      "options": [
+        {
+          "id": "a",
+          "text": "U.S.A."
+        },
+        {
+          "id": "b",
+          "text": "Britain"
+        },
+        {
+          "id": "c",
+          "text": "China"
+        },
+        {
+          "id": "d",
+          "text": "Norway"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Britain",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2018 UPPCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q49",
+      "type": "single-choice",
+      "text": "Read the following statements in connection with red blood corpuscles and with the help, the code given below find out the correct answer. 1. They have iron. 2. They provide red colour to the blood. 3. They provide immunity against certain diseases. 4. They are the carrier of oxygen in the blood.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1, 2 and 4",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001 UPPCS (Pre) 2001, 2005 UPPCS (Spl)(Mains) 2004",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q50",
+      "type": "single-choice",
+      "text": "Consider the following statements about haemoglobin. 1. It carries oxygen in the blood. 2. It is iron-containing compound. 3. It provides a immunity against certain diseases. 4. It imparts a red colour to the blood. The correct statements out of these are",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2 and 4",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q51",
+      "type": "assertion-reason",
+      "text": "Assertion (A): People with AB blood groups are universal recipients. Reason (R): Red blood cell of blood group AB has no antigen and so agglutination does not occur with any other blood group.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "MPPCS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q52",
+      "type": "single-choice",
+      "text": "A man having ‘A’ blood group met a serious road accident and the doctors advised for blood transfusion. The relatives were asked to donate blood, whose blood group were found to be as follows 1. Wife – ‘O’ 2. Brother – ‘AB’ 3. Son – ‘A’ 4. Daughter – ‘O’ Who among the above relations could donate blood to the injured man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 3 and 4",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "RAS/RTS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q53",
+      "type": "single-choice",
+      "text": "Oxygen transportation in a human body takes place through. 1. Blood 2. Lungs 3. Tissue The correct sequence of transporta- tion is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3"
+        },
+        {
+          "id": "b",
+          "text": "3, 1, 2"
+        },
+        {
+          "id": "c",
+          "text": "2, 1, 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 3, 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2, 1, 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-blood-transport-system-q54",
+      "type": "assertion-reason",
+      "text": "Consider the following. Assertion (A): Alum is applied to stop bleeding from cuts. Reason (R): Blood is a colloidal system containing colloidal particles. The aluminium ions of alum have high coagulating power so the blood gets coagulated. Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

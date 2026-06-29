@@ -1,0 +1,4630 @@
+{
+  "bankId": "general-awareness-sports",
+  "subject": "General Awareness",
+  "topic": "Sports",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-sports-q1",
+      "type": "single-choice",
+      "text": "With which game is the Agha Khan Cup associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Basketball"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q2",
+      "type": "single-choice",
+      "text": "The term ‘Grand Slam’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Chess"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Bridge"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bridge",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q3",
+      "type": "single-choice",
+      "text": "With which sports is Sushma Saroelker associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Basketball"
+        },
+        {
+          "id": "b",
+          "text": "Kho-kho"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Handball"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kho-kho",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttaranchal PSC (Pre) 2017 RAS/RTS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q4",
+      "type": "single-choice",
+      "text": "Champion Trophy is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Chess"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q5",
+      "type": "single-choice",
+      "text": "With which game is Ashok Shandilya associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Billiards"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Billiards",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q6",
+      "type": "single-choice",
+      "text": "Shiny Wilson is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Swimming"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Athletics"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Athletics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q7",
+      "type": "single-choice",
+      "text": "Yasin Merchant is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Snooker"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Snooker",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q8",
+      "type": "single-choice",
+      "text": "Chris Event’s name is associated with which of the following sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Skating"
+        },
+        {
+          "id": "c",
+          "text": "Shooting"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q9",
+      "type": "single-choice",
+      "text": "Wimbledon Trophy is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Lawn Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lawn Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q10",
+      "type": "single-choice",
+      "text": "The term ‘Steeplechase’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Horse Racing"
+        },
+        {
+          "id": "b",
+          "text": "Boxing"
+        },
+        {
+          "id": "c",
+          "text": "Polo"
+        },
+        {
+          "id": "d",
+          "text": "Rowing"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Horse Racing",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q11",
+      "type": "single-choice",
+      "text": "Konica Cup is associated with which of the following sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Chess"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Chess",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q12",
+      "type": "single-choice",
+      "text": "The Reliance Cup was earlier known by the name of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rothmans Cup"
+        },
+        {
+          "id": "b",
+          "text": "Prudential Cup"
+        },
+        {
+          "id": "c",
+          "text": "Benson and Hedges Cup"
+        },
+        {
+          "id": "d",
+          "text": "Mc Dowells Challenge Cup"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Prudential Cup",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q13",
+      "type": "single-choice",
+      "text": "Which of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket - Gully"
+        },
+        {
+          "id": "b",
+          "text": "Boxing - Punch"
+        },
+        {
+          "id": "c",
+          "text": "Chess - Checkmate"
+        },
+        {
+          "id": "d",
+          "text": "Tennis - Bully"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Tennis - Bully",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PSC (Mains) 2017 Chhattisgarh PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q14",
+      "type": "single-choice",
+      "text": "Commonwealth games are held once in ..... years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2"
+        },
+        {
+          "id": "b",
+          "text": "4"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "8"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q15",
+      "type": "single-choice",
+      "text": "Rangaswami Cup is associated with which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Polo"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Basketball"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q16",
+      "type": "single-choice",
+      "text": "Bahadur Singh is a distinguished athlete of which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weightlifting"
+        },
+        {
+          "id": "b",
+          "text": "Swimming"
+        },
+        {
+          "id": "c",
+          "text": "Boxing"
+        },
+        {
+          "id": "d",
+          "text": "Athletics"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Athletics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q17",
+      "type": "single-choice",
+      "text": "Which of the following is called a ‘Grand Slam’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Winning the Wimbeldon singles title successively for 2 years"
+        },
+        {
+          "id": "b",
+          "text": "Winning the highest number of medals in the Olympic Games"
+        },
+        {
+          "id": "c",
+          "text": "Taking 100 wickets and scoring 1000 runs in cricket"
+        },
+        {
+          "id": "d",
+          "text": "Winning all thirteen tricks of a deal at one time in the card game of Bridge"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Winning all thirteen tricks of a deal at one time in the card game of Bridge",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Haryana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q18",
+      "type": "single-choice",
+      "text": "Aswini Nachappa distinguished herself in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Athletics"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Athletics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q19",
+      "type": "single-choice",
+      "text": "Leander Paes is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Orissa PSC (Pre) 2017 Uttarakhand PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q20",
+      "type": "single-choice",
+      "text": "Monica Seles is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Athletics"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Basketball"
+        },
+        {
+          "id": "d",
+          "text": "Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q21",
+      "type": "single-choice",
+      "text": "Ramesh Krishnan is a distinguished personality in the field of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Lawn Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lawn Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q22",
+      "type": "single-choice",
+      "text": "Limba Ram is known for his outstanding performance in which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boxing"
+        },
+        {
+          "id": "b",
+          "text": "Shooting"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Archery"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Archery",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q23",
+      "type": "single-choice",
+      "text": "Rovers Cup is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Volleyball"
+        },
+        {
+          "id": "c",
+          "text": "Football"
+        },
+        {
+          "id": "d",
+          "text": "Basketball"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q24",
+      "type": "single-choice",
+      "text": "Jaspal Rana is a distinguished athlete in which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Archery"
+        },
+        {
+          "id": "b",
+          "text": "Shooting"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Weightlifting"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Shooting",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q25",
+      "type": "single-choice",
+      "text": "The Summer Olympic Games were normally held at intervals of",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 years"
+        },
+        {
+          "id": "b",
+          "text": "3 years"
+        },
+        {
+          "id": "c",
+          "text": "4 years"
+        },
+        {
+          "id": "d",
+          "text": "5 years"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 4 years",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q26",
+      "type": "single-choice",
+      "text": "The Winter Olympics came into being in",
+      "options": [
+        {
+          "id": "a",
+          "text": "1912"
+        },
+        {
+          "id": "b",
+          "text": "1916"
+        },
+        {
+          "id": "c",
+          "text": "1920"
+        },
+        {
+          "id": "d",
+          "text": "1924"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1924",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q27",
+      "type": "single-choice",
+      "text": "Match the following. Player (a) Monica Seles (b) Steffi Graf (c) Gabriela Sebatini Country 1. Italy 2. Germany 3. Argentina 4. Yugoslavia (a) (b) (c)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 4"
+        },
+        {
+          "id": "b",
+          "text": "4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 4 2 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q28",
+      "type": "single-choice",
+      "text": "The headquarters of International Olympic Committee is at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lausanne (Switzerland)"
+        },
+        {
+          "id": "b",
+          "text": "Moscow"
+        },
+        {
+          "id": "c",
+          "text": "Los Angles"
+        },
+        {
+          "id": "d",
+          "text": "New York"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Lausanne (Switzerland)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2019 RAS/RTS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q29",
+      "type": "single-choice",
+      "text": "The Asian games are organised after every",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 years"
+        },
+        {
+          "id": "b",
+          "text": "4 years"
+        },
+        {
+          "id": "c",
+          "text": "5 years"
+        },
+        {
+          "id": "d",
+          "text": "6 years"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 years",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q30",
+      "type": "single-choice",
+      "text": "The term ‘Butterfly Stroke’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kabaddi"
+        },
+        {
+          "id": "b",
+          "text": "Wrestling"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Boxing"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Swimming",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q31",
+      "type": "single-choice",
+      "text": "Sergei Bubka is related to which sport?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golf"
+        },
+        {
+          "id": "b",
+          "text": "Swimming"
+        },
+        {
+          "id": "c",
+          "text": "Polo"
+        },
+        {
+          "id": "d",
+          "text": "Pole Vault"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Pole Vault",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q32",
+      "type": "single-choice",
+      "text": "Beighton Cup and Agha Khan Cup are associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Volleyball"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q33",
+      "type": "single-choice",
+      "text": "The name of Prakash Padukone is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Lawn Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Badminton",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q34",
+      "type": "single-choice",
+      "text": "The Commonwealth completed its 70 years in",
+      "options": [
+        {
+          "id": "a",
+          "text": "December, 2019"
+        },
+        {
+          "id": "b",
+          "text": "September, 2019"
+        },
+        {
+          "id": "c",
+          "text": "November, 2019"
+        },
+        {
+          "id": "d",
+          "text": "October, 2019"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: November, 2019",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018 MPPCS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q35",
+      "type": "single-choice",
+      "text": "Match the following. (a) Grand Slam 1. Chess (b) Grand Prix 2. Polo (c) Grand Master 3. Bridge 4. International race (a) (b) (c)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3"
+        },
+        {
+          "id": "b",
+          "text": "2 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1"
+        },
+        {
+          "id": "d",
+          "text": "4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q36",
+      "type": "single-choice",
+      "text": "Dibyendu Barua associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Chess"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Chess",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q37",
+      "type": "single-choice",
+      "text": "The term ‘Duck’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soccer"
+        },
+        {
+          "id": "b",
+          "text": "Volleyball"
+        },
+        {
+          "id": "c",
+          "text": "Golf"
+        },
+        {
+          "id": "d",
+          "text": "Cricket"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q38",
+      "type": "match-the-following",
+      "text": "Match List-I (Sportsmen) with List-II (Sports/Games) and select the correct answer using the codes given below the lists. List-I (a) Abhijit Kunte (b) Arjun Singh (c) Nitin Kirtane (d) Rennedy Singh List-II 1. Tennis 2. Golf 3. Football 4. Chess Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "b",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "c",
+          "text": "2 4 3 1"
+        },
+        {
+          "id": "d",
+          "text": "4 2 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 2 1 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Sikkim PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q39",
+      "type": "single-choice",
+      "text": "India made her debut in Olympic football at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helsinki in 1952"
+        },
+        {
+          "id": "b",
+          "text": "Melbourne in 1956"
+        },
+        {
+          "id": "c",
+          "text": "London in 1948"
+        },
+        {
+          "id": "d",
+          "text": "Tokyo in 1964"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: London in 1948",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q40",
+      "type": "single-choice",
+      "text": "The term L.B.W. is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Golf"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q41",
+      "type": "single-choice",
+      "text": "The first Commonwealth Games were held in 1930. Which country hosted the games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Australia"
+        },
+        {
+          "id": "b",
+          "text": "England"
+        },
+        {
+          "id": "c",
+          "text": "New Zealand"
+        },
+        {
+          "id": "d",
+          "text": "Canada"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Canada",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q42",
+      "type": "single-choice",
+      "text": "India first took part in the Olympic Games in the year",
+      "options": [
+        {
+          "id": "a",
+          "text": "1920"
+        },
+        {
+          "id": "b",
+          "text": "1928"
+        },
+        {
+          "id": "c",
+          "text": "1972"
+        },
+        {
+          "id": "d",
+          "text": "1974"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1920",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q43",
+      "type": "single-choice",
+      "text": "India first won the Olympic Hockey gold at",
+      "options": [
+        {
+          "id": "a",
+          "text": "London"
+        },
+        {
+          "id": "b",
+          "text": "Berlin"
+        },
+        {
+          "id": "c",
+          "text": "Amsterdam"
+        },
+        {
+          "id": "d",
+          "text": "Los Angeles"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Amsterdam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q44",
+      "type": "single-choice",
+      "text": "What is the length of each stump in cricket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "28 inches"
+        },
+        {
+          "id": "b",
+          "text": "32 inches"
+        },
+        {
+          "id": "c",
+          "text": "2 ft"
+        },
+        {
+          "id": "d",
+          "text": "2½ ft"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 28 inches",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q45",
+      "type": "single-choice",
+      "text": "The first SAARC Gold Cup Football tournaments were organised by which of the following countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India"
+        },
+        {
+          "id": "b",
+          "text": "Pakistan"
+        },
+        {
+          "id": "c",
+          "text": "Bangladesh"
+        },
+        {
+          "id": "d",
+          "text": "Nepal"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pakistan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q46",
+      "type": "single-choice",
+      "text": "‘Chinaman’ refers to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chess"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Bridge"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q47",
+      "type": "single-choice",
+      "text": "Subramanyam Raman plays for which of the following sports/ games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Football"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Table Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2018 MPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q48",
+      "type": "single-choice",
+      "text": "Major Dhyan Chand was a ..... wizard.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Basketball"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q49",
+      "type": "single-choice",
+      "text": "‘Queens berry Rules’ is the name given to the rules in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Boxing"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Boxing",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q50",
+      "type": "single-choice",
+      "text": "Misha Grewal is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swimming"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Squash"
+        },
+        {
+          "id": "d",
+          "text": "Chess"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Squash",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q51",
+      "type": "single-choice",
+      "text": "The term ‘Tee’ is connected with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polo"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Bridge"
+        },
+        {
+          "id": "d",
+          "text": "Billiards"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Golf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q52",
+      "type": "single-choice",
+      "text": "Ben Johnson, the well-known athlete belongs to which of the following countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "South Africa"
+        },
+        {
+          "id": "b",
+          "text": "Germany"
+        },
+        {
+          "id": "c",
+          "text": "Canada"
+        },
+        {
+          "id": "d",
+          "text": "U.S.A."
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Canada",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q53",
+      "type": "single-choice",
+      "text": "Karni Singh was associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swimming"
+        },
+        {
+          "id": "b",
+          "text": "Archery"
+        },
+        {
+          "id": "c",
+          "text": "Horse race"
+        },
+        {
+          "id": "d",
+          "text": "Shooting"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Shooting",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q54",
+      "type": "single-choice",
+      "text": "Regatta is associated with which of the following sports events?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Waterpolo"
+        },
+        {
+          "id": "b",
+          "text": "Rowing"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Bridge"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rowing",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP RO/ARO (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q55",
+      "type": "single-choice",
+      "text": "Which of the following pairs of sports and trophies is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Basketball - Basalat Jha Trophy"
+        },
+        {
+          "id": "b",
+          "text": "Lacrosse - Durand Cup"
+        },
+        {
+          "id": "c",
+          "text": "Cricket - Rangaswami Cup"
+        },
+        {
+          "id": "d",
+          "text": "Polo - Walker Cup"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Basketball - Basalat Jha Trophy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q56",
+      "type": "single-choice",
+      "text": "Which Indian Cricketer was given the title ‘Tiger’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mansur Ali Khan Pataudi"
+        },
+        {
+          "id": "b",
+          "text": "B.S. Bedi"
+        },
+        {
+          "id": "c",
+          "text": "Sunil Gavaskar"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Mansur Ali Khan Pataudi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q57",
+      "type": "single-choice",
+      "text": "Which of the following trophies is not associated with cricket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Duleep Trophy"
+        },
+        {
+          "id": "b",
+          "text": "Rohinton Baria Trophy"
+        },
+        {
+          "id": "c",
+          "text": "Charminar Challenge Cup"
+        },
+        {
+          "id": "d",
+          "text": "Champions Trophy"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Champions Trophy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q58",
+      "type": "single-choice",
+      "text": "Which of the following is wrongly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey - 100 yards × 55 yards"
+        },
+        {
+          "id": "b",
+          "text": "Badminton (Single) - 10 ft × 44 ft"
+        },
+        {
+          "id": "c",
+          "text": "Lawn Tennis - 78 ft × 36 ft"
+        },
+        {
+          "id": "d",
+          "text": "Volleyball - 30 ft × 30 ft"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Badminton (Single) - 10 ft × 44 ft",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q59",
+      "type": "single-choice",
+      "text": "The Wimbledon Championship is played in",
+      "options": [
+        {
+          "id": "a",
+          "text": "France"
+        },
+        {
+          "id": "b",
+          "text": "U.K."
+        },
+        {
+          "id": "c",
+          "text": "Sweden"
+        },
+        {
+          "id": "d",
+          "text": "Australia"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: U.K.",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q60",
+      "type": "single-choice",
+      "text": "What is the meaning of term ‘Ace’ in Tennis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The serve has made a double fault"
+        },
+        {
+          "id": "b",
+          "text": "Successful serve that the opponent fails to touch"
+        },
+        {
+          "id": "c",
+          "text": "A situation when the ball has landed up in the wrong court at the time of service"
+        },
+        {
+          "id": "d",
+          "text": "A state of score when either party must gain two consecutive points to win the game"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Successful serve that the opponent fails to touch",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Sikkim PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q61",
+      "type": "single-choice",
+      "text": "The term ‘bully’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Volleyball"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hockey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q62",
+      "type": "single-choice",
+      "text": "Googly is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Billiards"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q63",
+      "type": "single-choice",
+      "text": "Ranji Trophy is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q64",
+      "type": "single-choice",
+      "text": "‘Gambit’ is the term associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chess"
+        },
+        {
+          "id": "b",
+          "text": "Billiards"
+        },
+        {
+          "id": "c",
+          "text": "Carrom"
+        },
+        {
+          "id": "d",
+          "text": "Snooker"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chess",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q65",
+      "type": "single-choice",
+      "text": "Michael Ferreira is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Billiards"
+        },
+        {
+          "id": "d",
+          "text": "Chess"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Billiards",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q66",
+      "type": "single-choice",
+      "text": "Merdeka Cup is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP RO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q67",
+      "type": "single-choice",
+      "text": "First Olympic Games were held in",
+      "options": [
+        {
+          "id": "a",
+          "text": "776 BC"
+        },
+        {
+          "id": "b",
+          "text": "798 BC"
+        },
+        {
+          "id": "c",
+          "text": "876 BC"
+        },
+        {
+          "id": "d",
+          "text": "898 BC"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 776 BC",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q68",
+      "type": "single-choice",
+      "text": "Which of the following places is not associated with cricket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Melbourne"
+        },
+        {
+          "id": "b",
+          "text": "Merdeka Stadium"
+        },
+        {
+          "id": "c",
+          "text": "Eden Gardens"
+        },
+        {
+          "id": "d",
+          "text": "Old Trafford"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Merdeka Stadium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q69",
+      "type": "single-choice",
+      "text": "Pete Sampras is related with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q70",
+      "type": "single-choice",
+      "text": "Which of the following cups is not associated with Hockey?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rangaswami Cup"
+        },
+        {
+          "id": "b",
+          "text": "European Cup"
+        },
+        {
+          "id": "c",
+          "text": "Esanda Champions"
+        },
+        {
+          "id": "d",
+          "text": "Emirates Cup"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: European Cup",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q71",
+      "type": "single-choice",
+      "text": "Who among the following is known as ‘Best Asian Woman Athlete’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P.T. Usha"
+        },
+        {
+          "id": "b",
+          "text": "Vandana Rao"
+        },
+        {
+          "id": "c",
+          "text": "K. Saramma"
+        },
+        {
+          "id": "d",
+          "text": "Mercy Kuttan"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: P.T. Usha",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q72",
+      "type": "single-choice",
+      "text": "Kamlesh Mehta has distinguished himself in which of the following games/sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golf"
+        },
+        {
+          "id": "b",
+          "text": "Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Billiards"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Table Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q73",
+      "type": "single-choice",
+      "text": "With which of the following games is the term ‘Deuce’ connected?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boxing"
+        },
+        {
+          "id": "b",
+          "text": "Wrestling"
+        },
+        {
+          "id": "c",
+          "text": "Bridge"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Badminton",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q74",
+      "type": "single-choice",
+      "text": "Which of the following cups/ trophies is not associated with Lawn Tennis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Davis Cup"
+        },
+        {
+          "id": "b",
+          "text": "Nations’ Cup"
+        },
+        {
+          "id": "c",
+          "text": "Asian Cup"
+        },
+        {
+          "id": "d",
+          "text": "Dr. Rajendra Prasad Cup"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Asian Cup",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q75",
+      "type": "single-choice",
+      "text": "The name of Geoffrey Boycott is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boxing"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Golf"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q76",
+      "type": "single-choice",
+      "text": "The term ‘Silly Point’ is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chess"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Football"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q77",
+      "type": "single-choice",
+      "text": "Geet Sethi has made a mark in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golf"
+        },
+        {
+          "id": "b",
+          "text": "Billiards"
+        },
+        {
+          "id": "c",
+          "text": "Chess"
+        },
+        {
+          "id": "d",
+          "text": "Shooting"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Billiards",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q78",
+      "type": "single-choice",
+      "text": "Irani Trophy is associated with which of the following sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q79",
+      "type": "single-choice",
+      "text": "International tournaments of which of the following Indian games have been held so far?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kho-Kho"
+        },
+        {
+          "id": "b",
+          "text": "Kabaddi"
+        },
+        {
+          "id": "c",
+          "text": "Atyapatya"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Kabaddi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2017 Chhattisgarh PSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q80",
+      "type": "single-choice",
+      "text": "The Olympic Museum was opened at which of the following places?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Istanbul"
+        },
+        {
+          "id": "b",
+          "text": "Rome"
+        },
+        {
+          "id": "c",
+          "text": "Lausanne"
+        },
+        {
+          "id": "d",
+          "text": "Athens"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lausanne",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q81",
+      "type": "single-choice",
+      "text": "Who among the following was the first bowler to have got hat-trick in World Cup Cricket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joel Garner"
+        },
+        {
+          "id": "b",
+          "text": "Lance Gibbs"
+        },
+        {
+          "id": "c",
+          "text": "Chetan Sharma"
+        },
+        {
+          "id": "d",
+          "text": "Jalalludin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Chetan Sharma",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q82",
+      "type": "single-choice",
+      "text": "With which of the following games/sports is ‘Popping crease’ associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swimming"
+        },
+        {
+          "id": "b",
+          "text": "Water Polo"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Lawn Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q83",
+      "type": "single-choice",
+      "text": "Nirupama Vaidyanathan is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Shooting"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Table Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q84",
+      "type": "single-choice",
+      "text": "Rohinton Baria Trophy is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q85",
+      "type": "single-choice",
+      "text": "Grand Slam in Tennis means a player has to win",
+      "options": [
+        {
+          "id": "a",
+          "text": "Australian open, French open and Wimbledon"
+        },
+        {
+          "id": "b",
+          "text": "Australian open, U.S. open and Wimbledon"
+        },
+        {
+          "id": "c",
+          "text": "Australian open, French open, U.S. open and Wimbledon"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Australian open, French open, U.S. open and Wimbledon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q86",
+      "type": "single-choice",
+      "text": "Jennifer Capriati is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Athletics"
+        },
+        {
+          "id": "b",
+          "text": "Tennis"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q87",
+      "type": "single-choice",
+      "text": "With which sport the term ‘caddle’ is associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polo"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Bridge"
+        },
+        {
+          "id": "d",
+          "text": "Billiards"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Golf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q88",
+      "type": "single-choice",
+      "text": "Which of the following terms is associated with chess?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gambit"
+        },
+        {
+          "id": "b",
+          "text": "Deuce"
+        },
+        {
+          "id": "c",
+          "text": "Vulnerable"
+        },
+        {
+          "id": "d",
+          "text": "Pitcher"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Gambit",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q89",
+      "type": "single-choice",
+      "text": "Olympic Games after 4th century A.D. restarted from",
+      "options": [
+        {
+          "id": "a",
+          "text": "1896"
+        },
+        {
+          "id": "b",
+          "text": "1904"
+        },
+        {
+          "id": "c",
+          "text": "1912"
+        },
+        {
+          "id": "d",
+          "text": "1916"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1896",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q90",
+      "type": "single-choice",
+      "text": "Which of the following is a pair of names of the same game?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golf-Polo"
+        },
+        {
+          "id": "b",
+          "text": "Billiards - Snooker"
+        },
+        {
+          "id": "c",
+          "text": "Volleyball - Squash"
+        },
+        {
+          "id": "d",
+          "text": "Soccer - Football"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Soccer - Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2018 Andhra Pradesh PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q91",
+      "type": "single-choice",
+      "text": "The Golf player Vijay Singh represents",
+      "options": [
+        {
+          "id": "a",
+          "text": "Canada"
+        },
+        {
+          "id": "b",
+          "text": "Fiji"
+        },
+        {
+          "id": "c",
+          "text": "Mauritius"
+        },
+        {
+          "id": "d",
+          "text": "Trinidad and Tatago"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Fiji",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q92",
+      "type": "single-choice",
+      "text": "Mercy Kuttan is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Athletics"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Athletics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q93",
+      "type": "single-choice",
+      "text": "In which city the Asian Games first took place?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beijing"
+        },
+        {
+          "id": "b",
+          "text": "Kuala Lumpur"
+        },
+        {
+          "id": "c",
+          "text": "Tokyo"
+        },
+        {
+          "id": "d",
+          "text": "New Delhi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: New Delhi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q94",
+      "type": "single-choice",
+      "text": "Who is the best Indian to win the International Grand Masters title in Chess?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D.V. Prasad"
+        },
+        {
+          "id": "b",
+          "text": "Anupama Abhyankar"
+        },
+        {
+          "id": "c",
+          "text": "Vishwanathan Anand"
+        },
+        {
+          "id": "d",
+          "text": "Bhagyashree Sathe Thipsay"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vishwanathan Anand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q95",
+      "type": "single-choice",
+      "text": "Which of the following pairs is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rangaswami Cup - Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Federation Cup - Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Deodhar Trophy - Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Rovers Cup - Football"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Federation Cup - Badminton",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q96",
+      "type": "single-choice",
+      "text": "Ali Sher is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Yatching"
+        },
+        {
+          "id": "d",
+          "text": "Equestrian"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Golf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q97",
+      "type": "single-choice",
+      "text": "How many players are there in a Kabaddi team?",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "11"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "5"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 7",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q98",
+      "type": "single-choice",
+      "text": "Prince of Wales Cup is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rugby"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Polo"
+        },
+        {
+          "id": "d",
+          "text": "Chess"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Golf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q99",
+      "type": "single-choice",
+      "text": "With which of the following sports is Harsh Mankad associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Athletics"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Tennis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q100",
+      "type": "single-choice",
+      "text": "Which of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nehru Trophy - Table Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Holkar Trophy - Bridge"
+        },
+        {
+          "id": "c",
+          "text": "Ruia Trophy - Kabaddi"
+        },
+        {
+          "id": "d",
+          "text": "B.C. Roy Trophy - Lawn Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Holkar Trophy - Bridge",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q101",
+      "type": "single-choice",
+      "text": "Which of the following terms is associated with cricket?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penalty"
+        },
+        {
+          "id": "b",
+          "text": "Muzzle"
+        },
+        {
+          "id": "c",
+          "text": "Googly"
+        },
+        {
+          "id": "d",
+          "text": "Bully"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Googly",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q102",
+      "type": "single-choice",
+      "text": "Who among the following cricketers of Australia is called ‘Tornado’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lillee"
+        },
+        {
+          "id": "b",
+          "text": "Miller"
+        },
+        {
+          "id": "c",
+          "text": "Lindwall"
+        },
+        {
+          "id": "d",
+          "text": "Thomson"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Thomson",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q103",
+      "type": "single-choice",
+      "text": "‘Ashes’ is the term associated with which of the following sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Basketball"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q104",
+      "type": "single-choice",
+      "text": "What does ‘Deuce’ mean in the game of tennis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The state of scores where one player is ahead of the other by two sets"
+        },
+        {
+          "id": "b",
+          "text": "The state of scores at which ei- ther party must gain two con- secutive points to win a game"
+        },
+        {
+          "id": "c",
+          "text": "The state of scores when in a set one player is ahead of the other by two points"
+        },
+        {
+          "id": "d",
+          "text": "A situation when a player has made double fault while serving"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: The state of scores at which ei- ther party must gain two con- secutive points to win a game",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "MPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q105",
+      "type": "single-choice",
+      "text": "Sergei Bubkha, an athlete of international repute, belongs to which of the following countries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "U.S.A."
+        },
+        {
+          "id": "b",
+          "text": "Brazil"
+        },
+        {
+          "id": "c",
+          "text": "Russia"
+        },
+        {
+          "id": "d",
+          "text": "Ukraine"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ukraine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q106",
+      "type": "single-choice",
+      "text": "The term ‘Chukker’ is used in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rifle shooting"
+        },
+        {
+          "id": "b",
+          "text": "Horse racing"
+        },
+        {
+          "id": "c",
+          "text": "Wrestling"
+        },
+        {
+          "id": "d",
+          "text": "Polo"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Polo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q107",
+      "type": "single-choice",
+      "text": "Which of the following tourna- ments is not included in the Grand Slam in Tennis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "French Open Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Wimbledon Tennis Championship"
+        },
+        {
+          "id": "c",
+          "text": "US Open Tennis"
+        },
+        {
+          "id": "d",
+          "text": "New Zealand Championship"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: New Zealand Championship",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q108",
+      "type": "single-choice",
+      "text": "Taranath Shenoy is the first deaf and dumb swimmer in the world to swim across",
+      "options": [
+        {
+          "id": "a",
+          "text": "English Channel"
+        },
+        {
+          "id": "b",
+          "text": "Palk Strait"
+        },
+        {
+          "id": "c",
+          "text": "Strait of Gibralter"
+        },
+        {
+          "id": "d",
+          "text": "Malacca Strait"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Strait of Gibralter",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q109",
+      "type": "single-choice",
+      "text": "With which of the following sports, Nadia Comaneci is associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Chess"
+        },
+        {
+          "id": "d",
+          "text": "Gymnastics"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Gymnastics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q110",
+      "type": "single-choice",
+      "text": "Uber Cup is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey (Women)"
+        },
+        {
+          "id": "b",
+          "text": "Table Tennis (Men)"
+        },
+        {
+          "id": "c",
+          "text": "International Badminton (Men)"
+        },
+        {
+          "id": "d",
+          "text": "International Badminton (Women)"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: International Badminton (Women)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q111",
+      "type": "single-choice",
+      "text": "Which of the following is a set of five events included in Modern Pentathlon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cycling, Skating, Shooting, Gymnastics, Running"
+        },
+        {
+          "id": "b",
+          "text": "Judo, Shooting, Swimming, Cycling, Running"
+        },
+        {
+          "id": "c",
+          "text": "Horse riding, Fencing, Shooting, Gymnastics, Running"
+        },
+        {
+          "id": "d",
+          "text": "Horse riding, Fencing, Shooting, Swimming, Running"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Horse riding, Fencing, Shooting, Swimming, Running",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q112",
+      "type": "single-choice",
+      "text": "Attapal Puspkom is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chess"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Football"
+        },
+        {
+          "id": "d",
+          "text": "Volleyball"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q113",
+      "type": "single-choice",
+      "text": "The famous player Pele is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Volleyball"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q114",
+      "type": "single-choice",
+      "text": "Jansher Khan is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Table Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Badminton"
+        },
+        {
+          "id": "d",
+          "text": "Squash"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Squash",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q115",
+      "type": "single-choice",
+      "text": "The first Asian Games were held in",
+      "options": [
+        {
+          "id": "a",
+          "text": "China"
+        },
+        {
+          "id": "b",
+          "text": "India"
+        },
+        {
+          "id": "c",
+          "text": "Pakistan"
+        },
+        {
+          "id": "d",
+          "text": "Iran"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q116",
+      "type": "single-choice",
+      "text": "Which of the following games is not included in the Olympic Games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cycling"
+        },
+        {
+          "id": "b",
+          "text": "Archery"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Skiing"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q117",
+      "type": "single-choice",
+      "text": "If you scored a cannon, which game would you be playing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Football"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Billiards"
+        },
+        {
+          "id": "d",
+          "text": "Hockey"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Billiards",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q118",
+      "type": "single-choice",
+      "text": "Subroto Cup is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Hockey"
+        },
+        {
+          "id": "d",
+          "text": "Badminton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q119",
+      "type": "single-choice",
+      "text": "Tripping is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Snooker"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Lawn Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q120",
+      "type": "single-choice",
+      "text": "The term ‘auxiliary point system’, ‘upper cut’ and ‘punch’ are associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Football"
+        },
+        {
+          "id": "c",
+          "text": "Boxing"
+        },
+        {
+          "id": "d",
+          "text": "Cricket"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Boxing",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q121",
+      "type": "single-choice",
+      "text": "Rajeev Bagga is associated with which of the following games?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Golf"
+        },
+        {
+          "id": "c",
+          "text": "Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Football"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Badminton",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q122",
+      "type": "single-choice",
+      "text": "Which of the following places is known as the ‘Mecca of Indian Football’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Bombay"
+        },
+        {
+          "id": "c",
+          "text": "Calcutta"
+        },
+        {
+          "id": "d",
+          "text": "Ambala"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Calcutta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q123",
+      "type": "single-choice",
+      "text": "With which of the following sports is Jeev Milkha Singh associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Athletics"
+        },
+        {
+          "id": "c",
+          "text": "Golf"
+        },
+        {
+          "id": "d",
+          "text": "Wrestling"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Golf",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q124",
+      "type": "single-choice",
+      "text": "The five intertwined rings or circles on the Olympic Flag made of white (from left to right) are",
+      "options": [
+        {
+          "id": "a",
+          "text": "blue, yellow, black, green and red"
+        },
+        {
+          "id": "b",
+          "text": "yellow, red, green, black and blue"
+        },
+        {
+          "id": "c",
+          "text": "red, green, black, yellow and blue"
+        },
+        {
+          "id": "d",
+          "text": "yellow, green, black, blue and red"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: blue, yellow, black, green and red",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "Gujarat PSC (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q125",
+      "type": "single-choice",
+      "text": "Maradona is a famous player associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cricket"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Football"
+        },
+        {
+          "id": "d",
+          "text": "Golf"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Football",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q126",
+      "type": "single-choice",
+      "text": "India first won the Olympic Hockey gold at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rome"
+        },
+        {
+          "id": "b",
+          "text": "London"
+        },
+        {
+          "id": "c",
+          "text": "Berlin"
+        },
+        {
+          "id": "d",
+          "text": "Amsterdam"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Amsterdam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q127",
+      "type": "single-choice",
+      "text": "Which of the following countries was readmitted to the Olympics after her suspension for about 21 years ago?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iran"
+        },
+        {
+          "id": "b",
+          "text": "Iraq"
+        },
+        {
+          "id": "c",
+          "text": "Burma"
+        },
+        {
+          "id": "d",
+          "text": "South Africa"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: South Africa",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q128",
+      "type": "single-choice",
+      "text": "Which of the following games originated in England?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Baseball"
+        },
+        {
+          "id": "c",
+          "text": "Cricket"
+        },
+        {
+          "id": "d",
+          "text": "Archery"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q129",
+      "type": "single-choice",
+      "text": "Amar Singh Sokhi is remembered for his performance in which of the following sports events?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Athletics"
+        },
+        {
+          "id": "b",
+          "text": "Cycling"
+        },
+        {
+          "id": "c",
+          "text": "Archery"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cycling",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q130",
+      "type": "single-choice",
+      "text": "Anita Sood is associated with which of the following games/sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Badminton"
+        },
+        {
+          "id": "b",
+          "text": "Hockey"
+        },
+        {
+          "id": "c",
+          "text": "Swimming"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Swimming",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "West Bengal PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q131",
+      "type": "single-choice",
+      "text": "How many players are there in a water polo team?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "6"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 7",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q132",
+      "type": "single-choice",
+      "text": "Which of the following countries was re-admitted to the International Cricket Council after a gap of several years?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pakistan"
+        },
+        {
+          "id": "b",
+          "text": "Sri Lanka"
+        },
+        {
+          "id": "c",
+          "text": "New Zealand"
+        },
+        {
+          "id": "d",
+          "text": "South Africa"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: South Africa",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q133",
+      "type": "single-choice",
+      "text": "With which of the following sports is Levoy Burrell associated?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Swimming"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Athletics"
+        },
+        {
+          "id": "d",
+          "text": "Boxing"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Athletics",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q134",
+      "type": "single-choice",
+      "text": "S. Vijayalakshmi and Nisha Mohita are associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tennis"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Chess"
+        },
+        {
+          "id": "d",
+          "text": "Table Tennis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Chess",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q135",
+      "type": "single-choice",
+      "text": "Which of the following pairs of sports and countries of their origin is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey - U.S.A."
+        },
+        {
+          "id": "b",
+          "text": "Cricket - Australia"
+        },
+        {
+          "id": "c",
+          "text": "Basketball - Canada"
+        },
+        {
+          "id": "d",
+          "text": "Polo - India"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Polo - India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q136",
+      "type": "single-choice",
+      "text": "Harbhajan Singh is the first Indian to take a hat-trick in Test Cricket. The first in the world was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chaminda Vaas (Sri Lanka)"
+        },
+        {
+          "id": "b",
+          "text": "Huge Trumble (Australia)"
+        },
+        {
+          "id": "c",
+          "text": "Fredrick Robert Spofforth (Australia)"
+        },
+        {
+          "id": "d",
+          "text": "Muttiah Muralitharan (Sri Lanka)"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Fredrick Robert Spofforth (Australia)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q137",
+      "type": "single-choice",
+      "text": "Which of the following cups/ trophies is associated with football?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Davis Cup"
+        },
+        {
+          "id": "b",
+          "text": "Deodhar Trophy"
+        },
+        {
+          "id": "c",
+          "text": "Champions Trophy"
+        },
+        {
+          "id": "d",
+          "text": "Santosh Trophy"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Santosh Trophy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q138",
+      "type": "single-choice",
+      "text": "Sandhya Aggarwal is associated with which of the following games/ sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hockey"
+        },
+        {
+          "id": "b",
+          "text": "Cricket"
+        },
+        {
+          "id": "c",
+          "text": "Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Swimming"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cricket",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q139",
+      "type": "single-choice",
+      "text": "The Olympic Symbol comprises of five rings or circles linked together to represent",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sporting friendship of all people"
+        },
+        {
+          "id": "b",
+          "text": "five continents"
+        },
+        {
+          "id": "c",
+          "text": "Both (A) and (B)"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both (A) and (B)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-sports-q140",
+      "type": "single-choice",
+      "text": "Major R.S. Brar is associated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Golf"
+        },
+        {
+          "id": "b",
+          "text": "Boxing"
+        },
+        {
+          "id": "c",
+          "text": "Tennis"
+        },
+        {
+          "id": "d",
+          "text": "Equestrian"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Equestrian",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 1998"
+      ]
+    }
+  ]
+}

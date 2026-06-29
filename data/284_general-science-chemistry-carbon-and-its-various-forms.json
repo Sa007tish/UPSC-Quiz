@@ -1,0 +1,725 @@
+{
+  "bankId": "general-science-chemistry-carbon-and-its-various-forms",
+  "subject": "Science",
+  "topic": "Carbon and its Various Forms",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q1",
+      "type": "single-choice",
+      "text": "Which of the following is made up of Carbon only?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kevlar"
+        },
+        {
+          "id": "b",
+          "text": "Lexan"
+        },
+        {
+          "id": "c",
+          "text": "Graphene"
+        },
+        {
+          "id": "d",
+          "text": "Spider silk"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Graphene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q2",
+      "type": "single-choice",
+      "text": "Which of these is not an additional form of Carbon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Graphite"
+        },
+        {
+          "id": "c",
+          "text": "Oxocarbon"
+        },
+        {
+          "id": "d",
+          "text": "Fullerenes"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Oxocarbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q3",
+      "type": "single-choice",
+      "text": "Which one of the following elements forms the maximum number of compounds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Carbon"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q4",
+      "type": "single-choice",
+      "text": "Which of the following do not consist carbon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Graphite"
+        },
+        {
+          "id": "c",
+          "text": "Coal"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q5",
+      "type": "single-choice",
+      "text": "Pencil lead is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Graphite"
+        },
+        {
+          "id": "b",
+          "text": "Charcoal"
+        },
+        {
+          "id": "c",
+          "text": "Lamp black"
+        },
+        {
+          "id": "d",
+          "text": "Coal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Graphite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011 UPPCS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q6",
+      "type": "single-choice",
+      "text": "Third allotrope of Carbon was discovered by three scientists, who were awarded the Nobel Prize for Chemistry. Find out who was not on that team.",
+      "options": [
+        {
+          "id": "a",
+          "text": "H.W. Kroto"
+        },
+        {
+          "id": "b",
+          "text": "R.F. Curl"
+        },
+        {
+          "id": "c",
+          "text": "R.E. Smalley"
+        },
+        {
+          "id": "d",
+          "text": "Faimen"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Faimen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q7",
+      "type": "single-choice",
+      "text": "Buckminster Fullerene is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A form of carbon compound of clusters of 60 carbon atoms bond together in polyhedral structure composed of pentagons or hexagons"
+        },
+        {
+          "id": "b",
+          "text": "A polymer of fluorine"
+        },
+        {
+          "id": "c",
+          "text": "An isotope of carbon heavier than C 14"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A form of carbon compound of clusters of 60 carbon atoms bond together in polyhedral structure composed of pentagons or hexagons",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q8",
+      "type": "single-choice",
+      "text": "Which of the following do not contain carbon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Graphite"
+        },
+        {
+          "id": "c",
+          "text": "Coal"
+        },
+        {
+          "id": "d",
+          "text": "Sand"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2017 UP Lower Sub. (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q9",
+      "type": "single-choice",
+      "text": "Which of these consists carbon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lignite"
+        },
+        {
+          "id": "b",
+          "text": "Tin"
+        },
+        {
+          "id": "c",
+          "text": "Silver"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Lignite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2018 UPPCS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q10",
+      "type": "single-choice",
+      "text": "Which one of the following types of coal contains a higher percentage of Carbon than the rest type of ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bituminous coal"
+        },
+        {
+          "id": "b",
+          "text": "Lignite"
+        },
+        {
+          "id": "c",
+          "text": "Peat"
+        },
+        {
+          "id": "d",
+          "text": "Anthracite"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Anthracite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001 IAS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q11",
+      "type": "single-choice",
+      "text": "The highest amount of carbon is in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pig Iron"
+        },
+        {
+          "id": "b",
+          "text": "Wrought Iron"
+        },
+        {
+          "id": "c",
+          "text": "Steel"
+        },
+        {
+          "id": "d",
+          "text": "Alloy Steel"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Pig Iron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q12",
+      "type": "single-choice",
+      "text": "Which of the following is not in the form of crystal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diamond"
+        },
+        {
+          "id": "b",
+          "text": "Quartz"
+        },
+        {
+          "id": "c",
+          "text": "Sulphur"
+        },
+        {
+          "id": "d",
+          "text": "Graphite"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sulphur",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q13",
+      "type": "single-choice",
+      "text": "For the ceiling of diamonds, the unit of weight is carat. One carat is equal to",
+      "options": [
+        {
+          "id": "a",
+          "text": "100 mg"
+        },
+        {
+          "id": "b",
+          "text": "200 mg"
+        },
+        {
+          "id": "c",
+          "text": "300 mg"
+        },
+        {
+          "id": "d",
+          "text": "400 mg"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 200 mg",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q14",
+      "type": "single-choice",
+      "text": "Which one of the following materials is strongest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "German Silver"
+        },
+        {
+          "id": "b",
+          "text": "Brass"
+        },
+        {
+          "id": "c",
+          "text": "Steel"
+        },
+        {
+          "id": "d",
+          "text": "Graphene"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Graphene",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q15",
+      "type": "single-choice",
+      "text": "Which lubricant is used for heavy machines?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bauxite"
+        },
+        {
+          "id": "b",
+          "text": "Phosphorus"
+        },
+        {
+          "id": "c",
+          "text": "Graphite"
+        },
+        {
+          "id": "d",
+          "text": "Silicon oil"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Graphite",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017 RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q16",
+      "type": "single-choice",
+      "text": "Chemically Dry Ice is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solid sulphur"
+        },
+        {
+          "id": "b",
+          "text": "Ice made from distilled water"
+        },
+        {
+          "id": "c",
+          "text": "Mixture of ice and common salt"
+        },
+        {
+          "id": "d",
+          "text": "Solid carbon dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Solid carbon dioxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Mains) 2006 UPPCS (Mains) 2009 Jharkhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q17",
+      "type": "single-choice",
+      "text": "Which one of the following non- metals is not a poor conductor of electricity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulphur"
+        },
+        {
+          "id": "b",
+          "text": "Selenium"
+        },
+        {
+          "id": "c",
+          "text": "Bromine"
+        },
+        {
+          "id": "d",
+          "text": "Phosphorus"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Selenium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q18",
+      "type": "single-choice",
+      "text": "Water gas is",
+      "options": [
+        {
+          "id": "a",
+          "text": "CO + H"
+        },
+        {
+          "id": "b",
+          "text": "CO + H O 2 2"
+        },
+        {
+          "id": "c",
+          "text": "CO + H"
+        },
+        {
+          "id": "d",
+          "text": "CO + H O 2 2 2 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: CO + H",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q19",
+      "type": "single-choice",
+      "text": "Consider the following statements. Glass can be etched or scratched by 1. Diamond 2. Hydrofluoric Acid 3. Aquarregia 4. Conc. Sulphuric Acid Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 4"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1 and 2",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q20",
+      "type": "single-choice",
+      "text": "Graphite was in news recently. What is its importance? 1. It is a two-dimensional material and has good electrical conductivity. 2. It is one of the thinnest but strongest materials tested so far. 3. It is entirely made of silicon and has high optical transparency. 4. It can be used as conducting electrodes required for touch screens, LCD’s and organic LED’s. Which of the statement(s) given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1, 2 and 4",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-carbon-and-its-various-forms-q21",
+      "type": "single-choice",
+      "text": "Consider the following statements and select the correct answer from given codes below. 1. Water becomes harder due to the presence of Calcium Sulphate and it is not usable. 2. Diamond is harder than copper and iron. 3. Oxygen is the main component of air. 4. Nitrogen is used in the manufacture of vegetable ghee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 and 2",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

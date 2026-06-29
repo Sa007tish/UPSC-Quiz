@@ -1,0 +1,1231 @@
+{
+  "bankId": "general-awareness-awards",
+  "subject": "General Awareness",
+  "topic": "Awards",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-awards-q1",
+      "type": "single-choice",
+      "text": "Who was the first Indian to receive the Magsaysay award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indira Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "T.N. Seshan"
+        },
+        {
+          "id": "c",
+          "text": "Kiran Bedi"
+        },
+        {
+          "id": "d",
+          "text": "Vinoba Bhave"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vinoba Bhave",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002 UPPCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q2",
+      "type": "single-choice",
+      "text": "‘Dronacharya’ Award is given in recognition of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Best coaching in sports"
+        },
+        {
+          "id": "b",
+          "text": "Best research work in medicines"
+        },
+        {
+          "id": "c",
+          "text": "Best N.C.C. cadet"
+        },
+        {
+          "id": "d",
+          "text": "Best wrestler"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Best coaching in sports",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996 Nagaland PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q3",
+      "type": "single-choice",
+      "text": "‘Kalidas Samman’ is given for the contribution in which of the following fields?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art"
+        },
+        {
+          "id": "b",
+          "text": "Games"
+        },
+        {
+          "id": "c",
+          "text": "Medicine"
+        },
+        {
+          "id": "d",
+          "text": "Peace"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Art",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q4",
+      "type": "single-choice",
+      "text": "Shanti Swarup Bhatnagar award is given for the contribution in which of the following field?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art and Handicraft"
+        },
+        {
+          "id": "b",
+          "text": "Literature"
+        },
+        {
+          "id": "c",
+          "text": "Science and Technology"
+        },
+        {
+          "id": "d",
+          "text": "Sports"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Science and Technology",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006 Punjab PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q5",
+      "type": "single-choice",
+      "text": "Which award is given for excellence in sports?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jamnalal Bajaj Award"
+        },
+        {
+          "id": "b",
+          "text": "Arjuna Award"
+        },
+        {
+          "id": "c",
+          "text": "Tagore Award"
+        },
+        {
+          "id": "d",
+          "text": "Moortidevi Award"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Arjuna Award",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "56th to 59th BPSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q6",
+      "type": "single-choice",
+      "text": "What amount goes with Arjuna Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "₹1.5 lakh"
+        },
+        {
+          "id": "b",
+          "text": "₹5.0 lakh"
+        },
+        {
+          "id": "c",
+          "text": "₹3.0 lakh"
+        },
+        {
+          "id": "d",
+          "text": "₹7.5 lakh"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: ₹5.0 lakh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q7",
+      "type": "single-choice",
+      "text": "Who among the following is not awarded with Nobel Prize?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "b",
+          "text": "H.J. Bhabha"
+        },
+        {
+          "id": "c",
+          "text": "R.N. Tagore"
+        },
+        {
+          "id": "d",
+          "text": "Mother Teresa"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: H.J. Bhabha",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Orissa PSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q8",
+      "type": "single-choice",
+      "text": "Who among the following Nobel Prize winner was not an Indian citizen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subrahmanyam Chandrasekhar"
+        },
+        {
+          "id": "b",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "c",
+          "text": "Mother Teresa"
+        },
+        {
+          "id": "d",
+          "text": "Rabindra Nath Tagore"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Subrahmanyam Chandrasekhar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q9",
+      "type": "single-choice",
+      "text": "Which agricultural scientist was awarded with Nobel Prize for Peace?",
+      "options": [
+        {
+          "id": "a",
+          "text": "M.S. Swaminathan"
+        },
+        {
+          "id": "b",
+          "text": "Norman Borlaug"
+        },
+        {
+          "id": "c",
+          "text": "S. Chandrasekhar"
+        },
+        {
+          "id": "d",
+          "text": "Hargovind Khurana"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Norman Borlaug",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q10",
+      "type": "single-choice",
+      "text": "Who is the first Indian actress to receive the ‘Padma Shree’ Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smita Patil"
+        },
+        {
+          "id": "b",
+          "text": "Nargis Dutt"
+        },
+        {
+          "id": "c",
+          "text": "Meena Kumari"
+        },
+        {
+          "id": "d",
+          "text": "Madhubala"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nargis Dutt",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007 Manipur PSC (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q11",
+      "type": "single-choice",
+      "text": "Who among the following is not the recipient of the Bharat Ratna Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ustad Bismillah Khan"
+        },
+        {
+          "id": "b",
+          "text": "Satyajit Ray"
+        },
+        {
+          "id": "c",
+          "text": "Lata Mangeshkar"
+        },
+        {
+          "id": "d",
+          "text": "Raj Kapoor"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Raj Kapoor",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q12",
+      "type": "single-choice",
+      "text": "Who among the following is not awarded with ‘Bharat Ratna’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lata Mangeshkar"
+        },
+        {
+          "id": "b",
+          "text": "Pandit Jasraj"
+        },
+        {
+          "id": "c",
+          "text": "Pandit Ravi Shankar"
+        },
+        {
+          "id": "d",
+          "text": "Ustad Bismillah Khan"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pandit Jasraj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q13",
+      "type": "single-choice",
+      "text": "The first lady to receive ‘Gyanpeeth’ Award is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ashapurna Devi"
+        },
+        {
+          "id": "b",
+          "text": "Mahashweta Devi"
+        },
+        {
+          "id": "c",
+          "text": "Mahadevi Verma"
+        },
+        {
+          "id": "d",
+          "text": "Amrita Pritam"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ashapurna Devi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997 UPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q14",
+      "type": "single-choice",
+      "text": "Who among the following Pakistani National was awarded the ‘Bharat Ratna’ by the Indian Government?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Khan Abdul Ghaffar Khan"
+        },
+        {
+          "id": "b",
+          "text": "Liaqat Ali Khan"
+        },
+        {
+          "id": "c",
+          "text": "M.A. Jinnah"
+        },
+        {
+          "id": "d",
+          "text": "Muhammad Iqbal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Khan Abdul Ghaffar Khan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010 UPPCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q15",
+      "type": "single-choice",
+      "text": "To which foreigner was ‘Bharat Ratna’ awarded in 1990?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nelson Mandela"
+        },
+        {
+          "id": "b",
+          "text": "Mikhail Gorbachov"
+        },
+        {
+          "id": "c",
+          "text": "Abdul Ghaffar"
+        },
+        {
+          "id": "d",
+          "text": "Yasir Arafat"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nelson Mandela",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994 MPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q16",
+      "type": "single-choice",
+      "text": "Which of the following foreigner citizen has been awarded ‘Bharat Ratna’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nelson Mandela"
+        },
+        {
+          "id": "b",
+          "text": "Bill Clinton"
+        },
+        {
+          "id": "c",
+          "text": "Adolf Hitler"
+        },
+        {
+          "id": "d",
+          "text": "Boris Yeltstin"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nelson Mandela",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "48th to 52nd BPSC (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q17",
+      "type": "single-choice",
+      "text": "Who has been awarded ‘Bharat Ratna’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amjad Ali Khan"
+        },
+        {
+          "id": "b",
+          "text": "Dr. Kurien"
+        },
+        {
+          "id": "c",
+          "text": "Ravi Shankar"
+        },
+        {
+          "id": "d",
+          "text": "Dr. Sarvapalli Gopal"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ravi Shankar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q18",
+      "type": "single-choice",
+      "text": "In which year, the first ‘Bharat Ratna’ was awarded?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1951"
+        },
+        {
+          "id": "b",
+          "text": "1953"
+        },
+        {
+          "id": "c",
+          "text": "1954"
+        },
+        {
+          "id": "d",
+          "text": "1956"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1954",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q19",
+      "type": "single-choice",
+      "text": "Bharat Ratna is the highest Civilian Award of India which was first giv- en in the year and to the person.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The year 1948 - C.V. Raman"
+        },
+        {
+          "id": "b",
+          "text": "The year 1952 - Lata Mangeshkar"
+        },
+        {
+          "id": "c",
+          "text": "The year 1953 - V. Krishna- murthy"
+        },
+        {
+          "id": "d",
+          "text": "The year 1954 - Dr. Radha- krishnan"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: The year 1954 - Dr. Radha- krishnan",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q20",
+      "type": "single-choice",
+      "text": "Who among the following was the first to receive ‘Bharat Ratna’ Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Govind Ballabh Pant"
+        },
+        {
+          "id": "b",
+          "text": "S. Radhakrishnan"
+        },
+        {
+          "id": "c",
+          "text": "Rajendra Prasad"
+        },
+        {
+          "id": "d",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: S. Radhakrishnan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q21",
+      "type": "single-choice",
+      "text": "Who among the following was the first recipient of Bharat Ratna?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S. Radhakrishnan"
+        },
+        {
+          "id": "b",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "c",
+          "text": "C. Rajagopalachari"
+        },
+        {
+          "id": "d",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jawaharlal Nehru",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q22",
+      "type": "single-choice",
+      "text": "Who is not the recipient of ‘Bharat Ratna’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rahul Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "Lata Mangeshkar"
+        },
+        {
+          "id": "c",
+          "text": "Atal Bihari Vajpayee"
+        },
+        {
+          "id": "d",
+          "text": "Satyajit Ray"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Rahul Gandhi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q23",
+      "type": "single-choice",
+      "text": "Who among the following has not beet awarded ‘Bharat Ratna’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "J.R.D. Tata"
+        },
+        {
+          "id": "b",
+          "text": "Acharya Narendra Dev"
+        },
+        {
+          "id": "c",
+          "text": "Satyajit Ray"
+        },
+        {
+          "id": "d",
+          "text": "C. Subramaniam"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Acharya Narendra Dev",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q24",
+      "type": "single-choice",
+      "text": "In 1992, J.R.D. Tata was awarded which of the following awards?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bharat Ratna"
+        },
+        {
+          "id": "b",
+          "text": "Padma Vibhushan"
+        },
+        {
+          "id": "c",
+          "text": "Padmabhushan"
+        },
+        {
+          "id": "d",
+          "text": "Padmashree"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bharat Ratna",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q25",
+      "type": "single-choice",
+      "text": "Who was the first recipient woman of Vyas Samman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chitra Mudgal"
+        },
+        {
+          "id": "b",
+          "text": "Prabha Khetan"
+        },
+        {
+          "id": "c",
+          "text": "Malti Joshi"
+        },
+        {
+          "id": "d",
+          "text": "Mannu Bhandari"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chitra Mudgal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q26",
+      "type": "single-choice",
+      "text": "In which field is the ‘Swarna Kamal’ award given?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Literature"
+        },
+        {
+          "id": "b",
+          "text": "Cinema"
+        },
+        {
+          "id": "c",
+          "text": "Classical Music"
+        },
+        {
+          "id": "d",
+          "text": "Theatre"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cinema",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q27",
+      "type": "single-choice",
+      "text": "Who is the first person of Indian origin to win the ‘Booker Prize’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arundhati Roy"
+        },
+        {
+          "id": "b",
+          "text": "Salman Rushdie"
+        },
+        {
+          "id": "c",
+          "text": "V.S. Naipaul"
+        },
+        {
+          "id": "d",
+          "text": "Jhumpa Lahiri"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: V.S. Naipaul",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q28",
+      "type": "single-choice",
+      "text": "Nobel Prizes are given by",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Government of Norway"
+        },
+        {
+          "id": "b",
+          "text": "The Government of Switzerland"
+        },
+        {
+          "id": "c",
+          "text": "The Government of Sweden"
+        },
+        {
+          "id": "d",
+          "text": "Swedish Academy"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Swedish Academy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q29",
+      "type": "single-choice",
+      "text": "The ‘Chakradhar Fellowship’ is given in the field of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Folk dance"
+        },
+        {
+          "id": "b",
+          "text": "Classical music"
+        },
+        {
+          "id": "c",
+          "text": "Classical dance"
+        },
+        {
+          "id": "d",
+          "text": "Literary criticism"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Classical music",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q30",
+      "type": "single-choice",
+      "text": "The Maharana Pratap Award is given for excellence in the field of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Science and Technology"
+        },
+        {
+          "id": "b",
+          "text": "Sports"
+        },
+        {
+          "id": "c",
+          "text": "Social Work"
+        },
+        {
+          "id": "d",
+          "text": "Performing Arts"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sports",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q31",
+      "type": "single-choice",
+      "text": "Which one among the following Indians was honoured by a Special Oscar Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mahesh Bhatt"
+        },
+        {
+          "id": "b",
+          "text": "Mina Nair"
+        },
+        {
+          "id": "c",
+          "text": "Satyajit Ray"
+        },
+        {
+          "id": "d",
+          "text": "O.P. Sippy"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Satyajit Ray",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q32",
+      "type": "single-choice",
+      "text": "Who among the following is Bhartiya Gyanpeeth Award winner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhagawat Rawat"
+        },
+        {
+          "id": "b",
+          "text": "Firaq Gorakhpuri"
+        },
+        {
+          "id": "c",
+          "text": "Makhanlal Chaturvedi"
+        },
+        {
+          "id": "d",
+          "text": "Cyan Ranjan"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Firaq Gorakhpuri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q33",
+      "type": "single-choice",
+      "text": "Identify the wrong pair related to Indian Cinema.",
+      "options": [
+        {
+          "id": "a",
+          "text": "First full-length Tamil Feature Film - Keechak Vadham"
+        },
+        {
+          "id": "b",
+          "text": "First Indian Film to use to technique of Playback singing - Dhoop"
+        },
+        {
+          "id": "c",
+          "text": "First Indian Film to be nominated for an Oscar - Mughal-e-Azam"
+        },
+        {
+          "id": "d",
+          "text": "First Indian Cinemascope Film - Kagaz Ke Phool"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: First Indian Film to be nominated for an Oscar - Mughal-e-Azam",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q34",
+      "type": "single-choice",
+      "text": "Who among the following journalists is the recipient ‘Magsasey’ Award?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Khushwant Singh"
+        },
+        {
+          "id": "b",
+          "text": "Arun Shorie"
+        },
+        {
+          "id": "c",
+          "text": "Dharmavir Bharti"
+        },
+        {
+          "id": "d",
+          "text": "Kamleshwar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Arun Shorie",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "38th BPSC (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q35",
+      "type": "single-choice",
+      "text": "Consider the following names. 1. Arch Bishop Desmond Tutu 2. Lech Walesa 3. Shimon Peres 4. Yasser Arafat Who among these won the Nobel Peace Prize?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q36",
+      "type": "single-choice",
+      "text": "‘Stree Shakti Puraskar’ is given to women for 1. Their excellence in athletics 2. Their outstanding performance in games 3. Their courage and enterprise for betterment of women 4. Their contribution to the nation and the people Select your answer from the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 and 4",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-awards-q37",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (a) Bhatnagar Award (b) B.C. Roy Award (c) Dada Saheb Phalke Award (d) Gandharva Award List-II 1. Film 2. Medicine 3. Science 4. Classical Art 5. Literature Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "d",
+          "text": "4 3 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 2 1 4",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Pre) 1992"
+      ]
+    }
+  ]
+}

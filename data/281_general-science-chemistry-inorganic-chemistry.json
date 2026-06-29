@@ -1,0 +1,351 @@
+{
+  "bankId": "general-science-chemistry-inorganic-chemistry",
+  "subject": "Science",
+  "topic": "Inorganic Chemistry",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q1",
+      "type": "single-choice",
+      "text": "What is the usual property of oxides of Group III and IV?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Basic and acidic"
+        },
+        {
+          "id": "b",
+          "text": "Basic"
+        },
+        {
+          "id": "c",
+          "text": "Acidic"
+        },
+        {
+          "id": "d",
+          "text": "Neutral"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Basic and acidic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q2",
+      "type": "single-choice",
+      "text": "The element found maximum in the soil layer is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Manganese"
+        },
+        {
+          "id": "d",
+          "text": "Silicon"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q3",
+      "type": "single-choice",
+      "text": "Which one of the following is present in the largest amount in terms of percent by mass in the Earth’s crust?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silicon"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Carbon"
+        },
+        {
+          "id": "d",
+          "text": "Calcium"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q4",
+      "type": "single-choice",
+      "text": "Which is the most abundant element after oxygen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silicon"
+        },
+        {
+          "id": "b",
+          "text": "Carbon"
+        },
+        {
+          "id": "c",
+          "text": "Sodium"
+        },
+        {
+          "id": "d",
+          "text": "Chlorine"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Silicon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q5",
+      "type": "single-choice",
+      "text": "Which of the following is the most common element in the Universe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Carbon"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q6",
+      "type": "single-choice",
+      "text": "Approximately, how many different chemical elements exist in the Earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "300"
+        },
+        {
+          "id": "b",
+          "text": "250"
+        },
+        {
+          "id": "c",
+          "text": "200"
+        },
+        {
+          "id": "d",
+          "text": "100"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 100",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q7",
+      "type": "single-choice",
+      "text": "Which of the following is a fundamental element?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sand"
+        },
+        {
+          "id": "b",
+          "text": "Diamond"
+        },
+        {
+          "id": "c",
+          "text": "Marble"
+        },
+        {
+          "id": "d",
+          "text": "Sugar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Diamond",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q8",
+      "type": "single-choice",
+      "text": "The chemical composition of diamond is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Nickel"
+        },
+        {
+          "id": "d",
+          "text": "Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q9",
+      "type": "assertion-reason",
+      "text": "Assertion (A): In the periodic table of chemical elements, electron affinity is always found to increase from top to bottom in a group. Reason (R): In a group, the atomic radii generally increase from top to bottom.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: (A) is false, but (R) is true",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-inorganic-chemistry-q10",
+      "type": "single-choice",
+      "text": "Consider the following statements with reference to the periodic table of chemical elements. 1. Ionization potential gradually decreases along a period. 2. In a group of elements, electron affinity decreases as the atomic weight increases. 3. In a given period, electroneg- ativity decreases as the atomic number increases. Which of these statement(s) is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "1 and 3"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Only 2",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

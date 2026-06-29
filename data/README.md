@@ -1,104 +1,23 @@
-# Adding question banks
+# Quiz app banks — Objective General Studies (NCERT Subjectwise MCQs)
 
-Drop a new `.json` file into this folder, commit it, and push to GitHub.
-Vercel rebuilds automatically on push, and the new bank appears in the app's
-bank selector — no code changes needed.
+**328 bank files, 13,974 questions**, converted from the same source PDF into your app's schema. One file per chapter, matching the granularity of the earlier QuizForge export.
 
-## File naming
+## Field mapping / decisions
 
-Name the file `<bankId>.json`, matching the `bankId` field inside it
-(e.g. `economy-monetary-policy.json`). This isn't strictly required by the
-loader (it scans every `.json` file in this folder regardless of name), but
-keeping them in sync makes the repo easier to navigate.
+- **`subject`** — a simplified taxonomy across the book's 10 sections: `History` (History of India + Indian National Movement), `Geography` (World + Indian Geography), `Polity`, `Economy`, `Environment`, `Science` (Physics/Computer-IT/Chemistry/Biology), `General Awareness`, `State GK`. You said there's no existing list to match, so this is my own reasonable pick — easy to rename/merge with find-and-replace if you'd rather split History or Geography into two subjects.
+- **`topic`** = chapter title from the book (e.g. "Stone Age"). **`subtopic`** = the book's own sub-section where it has one (e.g. "Ancient History", "Physics", "Bihar"); omitted where the book doesn't subdivide further (e.g. Indian National Movement, Polity).
+- **`type`** — reclassified using the structure of each question: `assertion-reason` for "Assertion (A) / Reason (R)" questions, `match-the-following` for "Match List-I with List-II" questions, `single-choice` for everything else. All still use the same `options` / `correctOptionIds` shape.
+- **`source: "PYQ"`, `examYear: null`** — every question is a real cited exam question (UPSC, UPPCS, BPSC, state PCS, etc.), so PYQ is accurate, but each chapter mixes many different years, so there's no single bank-level year. The specific exam + year (e.g. "UPPCS (Pre) 2016") is kept per-question in `tags` instead.
+- **`tags`** = exam citation(s) + the subtopic slug, so you can filter by exam or by sub-section across chapters.
+- **No `defaultNegativeMarkingRatio`** — left out entirely (practice mode, no penalty). It's one field to add per bank if you want exam-mode scoring.
+- **`bankId`/question `id`** are built from the full section path (not just the simplified subject), since several chapters share a name across different sections — e.g. "Plateaus" exists in both World and Indian Geography. Verified globally unique across all 328 files and 13,974 questions.
 
-## Schema (final)
+## difficulty and estimatedTimeSeconds — both AI-estimated, not from the source
 
-```jsonc
-{
-  "bankId": "string, unique across all banks",
-  "subject": "string, e.g. 'History', 'Polity', 'Geography', 'Economy'",
-  "topic": "string, e.g. 'Modern Indian History'",
-  "subtopic": "string, optional, e.g. 'Revolt of 1857'",
-  "source": "'AI-generated' | 'PYQ' | 'mock-test'",
-  "examYear": "number or null — only set this for real, verified past-year questions",
-  "version": "number, bump when you materially edit the bank",
-  "defaultNegativeMarkingRatio": "number, optional, e.g. 0.3333 for UPSC's 1/3 rule. Applied to any question that omits its own negativeMarks. Omit entirely (or 0) for no negative marking.",
-  "questions": [
-    {
-      "id": "string, unique across the WHOLE app, not just this bank (see note below)",
-      "type": "'single-choice' | 'multi-choice' | 'assertion-reason' | 'match-the-following'",
-      "text": "the question text",
-      "options": [
-        { "id": "a", "text": "option text" }
-      ],
-      "correctOptionIds": ["array of option ids — supports more than one for multi-choice"],
-      "difficulty": "'easy' | 'medium' | 'hard'",
-      "marks": "number, marks for a correct answer",
-      "negativeMarks": "number, absolute marks deducted for a wrong answer. Set to 0 for no penalty, or omit and rely on the bank's defaultNegativeMarkingRatio.",
-      "explanation": "string, optional — shown during review",
-      "tags": ["optional array of strings — see 'Tags' below, this powers several features"],
-      "estimatedTimeSeconds": "number, optional — used for the 'time vs. average' analytics and the Insights heatmap"
-    }
-  ]
-}
-```
+You asked for these to be filled in, so here's exactly how, since neither exists in the book:
 
-Nothing here changed from the original schema — every feature added after the
-first version (bookmarks, spaced repetition, accuracy heatmap, mock-test
-presets, keyboard shortcuts) is built entirely from fields that already
-existed. You don't need to touch existing banks to use any of it.
+- **`estimatedTimeSeconds`**: baseline of **72 seconds**, the standard UPSC Prelims GS pace (100 questions in 120 minutes). Adjusted up for question types that need more reading/evaluation: +30s for assertion-reason, +45s for match-the-following, +20s for multi-statement "consider the following" questions, plus a small bump for unusually long prompts/options. Rounded to the nearest 5s. Treat these as reasonable starting points, not measured data.
+- **`difficulty`**: heuristic based on question structure — assertion-reason and match-the-following default to "hard"; multi-statement combination questions ("Only 1", "Both 1 and 2", etc.) are "hard" with 3+ statements or "medium" with fewer; numerical/calculation options are "medium"; short factual-recall questions with short options are "easy"; everything else defaults to "medium". Distribution across all 13,974: 6,817 easy / 6,084 medium / 1,073 hard. This is a structural guess, not a measure of how hard test-takers actually find each question — worth treating as a rough sort order rather than ground truth.
 
-### Notes
-
-- **`source`**: only mark something `"PYQ"` if it's a verified, real past-year
-  question with a known `examYear`. Don't relabel AI-generated practice
-  questions as PYQs. Questions from a `"PYQ"` bank get a small "PYQ" badge
-  during the quiz, and you can filter to PYQ-only when building a custom test.
-- **`correctOptionIds` is always an array**, even for `single-choice` questions
-  (just put one id in it). This keeps the scoring logic uniform.
-- **Negative marking is per-question, with a per-bank default.** A single
-  bank can mix question styles, while still letting you flip a whole bank
-  between "practice mode" (no penalty) and "exam mode" (UPSC-style 1/3
-  penalty) by setting one field.
-- **`estimatedTimeSeconds`** isn't just decorative — it's what the review
-  screen and the Insights heatmap compare your actual time against to flag
-  questions you're running slow on. Worth setting if you can estimate it
-  reasonably (e.g. ask your AI generator to estimate a fair solve time).
-- **IDs must be unique across the whole app**, not just within a bank — quiz
-  history, bookmarks, and spaced-repetition tracking all key off question id.
-  Duplicate ids across banks will cause mix-ups if both are ever used in the
-  same composed quiz, or if you bookmark a question that shares an id with
-  one in another bank. Prefixing the question id with the bank's short name
-  (as in the sample banks) avoids this.
-- The app validates structurally (`bankId` and `questions[]` must exist) and
-  will skip a malformed file with a warning rather than crashing the whole
-  app — check your Vercel build logs if a new bank doesn't show up.
-
-## Tags
-
-`tags` is free-form, but it's wired into three features, so it's worth a
-consistent vocabulary across your banks:
-
-1. **Filter chips** on the bank-selection screen and in the custom test
-   composer — pick a tag to narrow down questions.
-2. **Tag-based composer filters** — build a test from, say, only
-   `#writs`-tagged questions across multiple banks.
-3. Tags showing up consistently also make the per-bank tag chip list (shown
-   on each bank card) actually useful as a glance-able summary.
-
-A reasonable convention: one tag for the narrow sub-topic (`1857-revolt`,
-`fundamental-rights`), and optionally a second for a cross-cutting theme
-(`writs`, `amendments`, `causes`) so you can pull a thematic test across
-subjects later (e.g. every "amendments" question across Polity, however many
-banks that ends up spanning).
-
-## Generating banks with AI
-
-Since you're generating these with AI, a reliable approach is to paste the
-schema above (or point it at `lib/types.ts` if you're working in-repo) into
-your prompt along with the syllabus topic, and ask for output as a single
-JSON object matching the schema exactly — no markdown fences, no commentary.
-Always skim a sample of the output before committing; spot-check a few
-`correctOptionIds` and `explanation` fields against a trusted source, since
-factual errors in answer keys are the single most damaging failure mode for
-a prep tool like this.
+## Same 8 exclusions as before
+6 questions have diagram-only answer options (images, not text) and 2 have a confirmed typo in the book's own printed answer key — see the previous export's README for the exact locations. Both are simply not present in this version either.

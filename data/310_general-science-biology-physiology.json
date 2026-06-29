@@ -1,0 +1,419 @@
+{
+  "bankId": "general-science-biology-physiology",
+  "subject": "Science",
+  "topic": "Physiology",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-physiology-q1",
+      "type": "single-choice",
+      "text": "Which part of human body maintain the body temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heart"
+        },
+        {
+          "id": "b",
+          "text": "Lungs"
+        },
+        {
+          "id": "c",
+          "text": "Liver"
+        },
+        {
+          "id": "d",
+          "text": "Kidney"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lungs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 19991",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q2",
+      "type": "single-choice",
+      "text": "The temperature of a normal human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "98.4º F"
+        },
+        {
+          "id": "b",
+          "text": "98º F"
+        },
+        {
+          "id": "c",
+          "text": "98.8º F"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q3",
+      "type": "single-choice",
+      "text": "When ants bite, they inject",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glacial acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Methanol"
+        },
+        {
+          "id": "c",
+          "text": "Formic acid"
+        },
+        {
+          "id": "d",
+          "text": "Stearic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Formic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q4",
+      "type": "single-choice",
+      "text": "Which is an atrocious animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Penguin"
+        },
+        {
+          "id": "b",
+          "text": "Whale"
+        },
+        {
+          "id": "c",
+          "text": "Otter"
+        },
+        {
+          "id": "d",
+          "text": "Tortoise"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Whale",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q5",
+      "type": "single-choice",
+      "text": "The normal temperature of the human body is",
+      "options": [
+        {
+          "id": "a",
+          "text": "37ºC"
+        },
+        {
+          "id": "b",
+          "text": "98ºC"
+        },
+        {
+          "id": "c",
+          "text": "367 K"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 37ºC",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q6",
+      "type": "single-choice",
+      "text": "Identify parasite of the following.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pitcher plant"
+        },
+        {
+          "id": "b",
+          "text": "Cuscuta"
+        },
+        {
+          "id": "c",
+          "text": "Bladderwort"
+        },
+        {
+          "id": "d",
+          "text": "Sunflower"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cuscuta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q7",
+      "type": "single-choice",
+      "text": "Plants are formed like parent plant from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Seeds"
+        },
+        {
+          "id": "b",
+          "text": "Cut stem"
+        },
+        {
+          "id": "c",
+          "text": "Both of the above"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cut stem",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q8",
+      "type": "single-choice",
+      "text": "Which one of the following parts of the human brain is the regulating centre for swallowing and vomiting?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cerebellum"
+        },
+        {
+          "id": "b",
+          "text": "Cerebrum"
+        },
+        {
+          "id": "c",
+          "text": "Medulla oblongata"
+        },
+        {
+          "id": "d",
+          "text": "Pons"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Medulla oblongata",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q9",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Tapeworm is a hermaphrodite. 2. Round-worm has separate sexes. 3. Filaria is caused by a nematode. 4. Guinea-worm is an annelid. Which of these are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1, 2 and 3",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "Punjab PSC (Pre) 2019 IAS (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q10",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Sweet orange plant is propa- gated by grafting technique. 2. Jasmine plant is propagated by layering technique. Which of the statement(s) given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Both 1 and 2",
+      "estimatedTimeSeconds": 95,
+      "tags": [
+        "IAS (Pre) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q11",
+      "type": "single-choice",
+      "text": "Consider the following plants. 1. Bougainvillea 2. Carnations 3. Cocoa 4. Grapes Which of these plants are propagated by stem cuttings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-physiology-q12",
+      "type": "assertion-reason",
+      "text": "Consider the following statements. Assertion (A): During sleep, bright light is undesirable. Reason (R): In bright light, production of melatonin in the body is considerably increased. Select your answer using the codes given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPRO/ARO (Pre) 2014",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

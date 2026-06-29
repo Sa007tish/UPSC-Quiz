@@ -1,0 +1,861 @@
+{
+  "bankId": "general-science-chemistry-hydrogen-and-its-compounds",
+  "subject": "Science",
+  "topic": "Hydrogen and its Compounds",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q1",
+      "type": "single-choice",
+      "text": "One mole of Hydrogen gas burns in excess of Oxygen to give 290 kJ of heat. What is the amount of heat produced when 4g of Hydrogen gas is burnt under the same conditions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "145 kg"
+        },
+        {
+          "id": "b",
+          "text": "290 kg"
+        },
+        {
+          "id": "c",
+          "text": "580 kg"
+        },
+        {
+          "id": "d",
+          "text": "1160 kg"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 580 kg",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q2",
+      "type": "single-choice",
+      "text": "Burning of Hydrogen produces",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Ash"
+        },
+        {
+          "id": "c",
+          "text": "Soil"
+        },
+        {
+          "id": "d",
+          "text": "Water"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "47th BPSC (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q3",
+      "type": "single-choice",
+      "text": "An element X has four electrons in its outermost orbit. What will be the formula of its compounds with hydrogen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "X 4 H"
+        },
+        {
+          "id": "b",
+          "text": "X 4 H 4"
+        },
+        {
+          "id": "c",
+          "text": "XH 3"
+        },
+        {
+          "id": "d",
+          "text": "XH 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: XH 4",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "45th BPSC (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q4",
+      "type": "single-choice",
+      "text": "According to weight, the percentage of hydrogen in water (H 2 O), is",
+      "options": [
+        {
+          "id": "a",
+          "text": "44.45%"
+        },
+        {
+          "id": "b",
+          "text": "5.55%"
+        },
+        {
+          "id": "c",
+          "text": "88.89%"
+        },
+        {
+          "id": "d",
+          "text": "11.11%"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 11.11%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q5",
+      "type": "single-choice",
+      "text": "Which one of the following fuels causes minimum air pollution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kerosene oil"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "c",
+          "text": "Coal"
+        },
+        {
+          "id": "d",
+          "text": "Diesel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q6",
+      "type": "single-choice",
+      "text": "Heavy water is a type of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coolant"
+        },
+        {
+          "id": "b",
+          "text": "Moderator"
+        },
+        {
+          "id": "c",
+          "text": "Ore"
+        },
+        {
+          "id": "d",
+          "text": "Fuel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Moderator",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q7",
+      "type": "single-choice",
+      "text": "The chemical formula of Heavy Water is",
+      "options": [
+        {
+          "id": "a",
+          "text": "H O"
+        },
+        {
+          "id": "b",
+          "text": "D O 2 2"
+        },
+        {
+          "id": "c",
+          "text": "H CO"
+        },
+        {
+          "id": "d",
+          "text": "H S 2 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: D O 2 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q8",
+      "type": "single-choice",
+      "text": "The substance used as moderator and coolant both, in nuclear reactors is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ordinary water"
+        },
+        {
+          "id": "b",
+          "text": "Heavy water"
+        },
+        {
+          "id": "c",
+          "text": "Liquid Ammonia"
+        },
+        {
+          "id": "d",
+          "text": "Liquid Hydrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Heavy water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2018 UPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q9",
+      "type": "single-choice",
+      "text": "What is heavy water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxygen + Heavy Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen + Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogen + New Oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Heavy Hydrogen + Heavy Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Oxygen + Heavy Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q10",
+      "type": "single-choice",
+      "text": "Heavy water is that water",
+      "options": [
+        {
+          "id": "a",
+          "text": "The temperature of which is kept constant at 4ºC"
+        },
+        {
+          "id": "b",
+          "text": "In which insoluble salts of Calcium and Potassium are present"
+        },
+        {
+          "id": "c",
+          "text": "In which isotopes takes place of Hydrogen"
+        },
+        {
+          "id": "d",
+          "text": "In which isotopes takes place of Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: In which isotopes takes place of Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2015 41st BPSC (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q11",
+      "type": "single-choice",
+      "text": "Heavy water",
+      "options": [
+        {
+          "id": "a",
+          "text": "Contains more dissolved air"
+        },
+        {
+          "id": "b",
+          "text": "Contains deuterium in place of Hydrogen"
+        },
+        {
+          "id": "c",
+          "text": "Contains more dissolved minerals and salts"
+        },
+        {
+          "id": "d",
+          "text": "Contains organic impurities"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Contains deuterium in place of Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q12",
+      "type": "single-choice",
+      "text": "Who among the following discov- ered heavy water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Heinrich Hertz"
+        },
+        {
+          "id": "b",
+          "text": "H.C. Urey"
+        },
+        {
+          "id": "c",
+          "text": "G. Mendel"
+        },
+        {
+          "id": "d",
+          "text": "Joseph Priestly"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: H.C. Urey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q13",
+      "type": "single-choice",
+      "text": "Heavy water has molecular weight",
+      "options": [
+        {
+          "id": "a",
+          "text": "18"
+        },
+        {
+          "id": "b",
+          "text": "20"
+        },
+        {
+          "id": "c",
+          "text": "36"
+        },
+        {
+          "id": "d",
+          "text": "54"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 20",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q14",
+      "type": "single-choice",
+      "text": "Which one of the following catalysts is used in hydrogenation of vegetable oils?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zinc"
+        },
+        {
+          "id": "b",
+          "text": "Platinum"
+        },
+        {
+          "id": "c",
+          "text": "Nickel"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Nickel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q15",
+      "type": "single-choice",
+      "text": "Permanent hardness of water is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chlorides and sulphates of Calcium and Magnesium"
+        },
+        {
+          "id": "b",
+          "text": "Calcium bicarbonate sulphates"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium bicarbonate"
+        },
+        {
+          "id": "d",
+          "text": "Clorides of Silver and Potassium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chlorides and sulphates of Calcium and Magnesium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005 40th BPSC (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q16",
+      "type": "single-choice",
+      "text": "The pH value for water is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nearly zero"
+        },
+        {
+          "id": "b",
+          "text": "Nearly 7"
+        },
+        {
+          "id": "c",
+          "text": "5 or less than 5"
+        },
+        {
+          "id": "d",
+          "text": "8.7 or more"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nearly 7",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q17",
+      "type": "single-choice",
+      "text": "Which is the purest form of water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tap water"
+        },
+        {
+          "id": "b",
+          "text": "Sea water"
+        },
+        {
+          "id": "c",
+          "text": "Rain water"
+        },
+        {
+          "id": "d",
+          "text": "Distilled water"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Rain water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q18",
+      "type": "single-choice",
+      "text": "Water is a good solvent of ionic salts because",
+      "options": [
+        {
+          "id": "a",
+          "text": "It has a high boiling point"
+        },
+        {
+          "id": "b",
+          "text": "It has a high dipole moment"
+        },
+        {
+          "id": "c",
+          "text": "It has a high specific heat"
+        },
+        {
+          "id": "d",
+          "text": "It has no colour"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: It has a high dipole moment",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q19",
+      "type": "single-choice",
+      "text": "Large quantities of drinking water is prepared from impure water by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Desalination"
+        },
+        {
+          "id": "b",
+          "text": "Distillation"
+        },
+        {
+          "id": "c",
+          "text": "Ion-exchange"
+        },
+        {
+          "id": "d",
+          "text": "Decantation"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Desalination",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q20",
+      "type": "single-choice",
+      "text": "Which gas is used in the purification of drinking water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helium"
+        },
+        {
+          "id": "b",
+          "text": "Chlorine"
+        },
+        {
+          "id": "c",
+          "text": "Fluorine"
+        },
+        {
+          "id": "d",
+          "text": "Carbon Dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chlorine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q21",
+      "type": "single-choice",
+      "text": "By which process the sea water can be converted into pure water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deliquescence"
+        },
+        {
+          "id": "b",
+          "text": "Efflorescence"
+        },
+        {
+          "id": "c",
+          "text": "Electric separation"
+        },
+        {
+          "id": "d",
+          "text": "Reverse osmosis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Reverse osmosis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q22",
+      "type": "single-choice",
+      "text": "The process used for transforming salty water into pure water is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deliquescence"
+        },
+        {
+          "id": "b",
+          "text": "Efflorescence"
+        },
+        {
+          "id": "c",
+          "text": "Electric separation"
+        },
+        {
+          "id": "d",
+          "text": "Reverse osmosis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Reverse osmosis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q23",
+      "type": "single-choice",
+      "text": "By which process, Alum cleans the muddy water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absorption"
+        },
+        {
+          "id": "b",
+          "text": "Adsorption"
+        },
+        {
+          "id": "c",
+          "text": "Coagulation"
+        },
+        {
+          "id": "d",
+          "text": "Dialysis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Coagulation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q24",
+      "type": "single-choice",
+      "text": "The gas used in the manufacture of Vanaspati Ghee from Vanaspati Oil is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Carbon dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016 UPPCS (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-hydrogen-and-its-compounds-q25",
+      "type": "single-choice",
+      "text": "Consider the following statements. Hard water is not suitable for 1. Drinking 2. Washing clothes with soap 3. Use in boilers 4. Irrigating crops Which of these statements are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "1, 2 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 2, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 2, 3 and 4",
+      "estimatedTimeSeconds": 90,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

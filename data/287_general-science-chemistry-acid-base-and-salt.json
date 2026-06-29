@@ -1,0 +1,1099 @@
+{
+  "bankId": "general-science-chemistry-acid-base-and-salt",
+  "subject": "Science",
+  "topic": "Acid, Base and Salt",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q1",
+      "type": "single-choice",
+      "text": "A solution turns red litmus blue. The pH of solution is",
+      "options": [
+        {
+          "id": "a",
+          "text": "7"
+        },
+        {
+          "id": "b",
+          "text": "1"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2017 Chhattisgarh PCS (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q2",
+      "type": "single-choice",
+      "text": "Which acid is considered as a basic chemical in Industry?",
+      "options": [
+        {
+          "id": "a",
+          "text": "H CO"
+        },
+        {
+          "id": "b",
+          "text": "HNO 2 3 3"
+        },
+        {
+          "id": "c",
+          "text": "H SO"
+        },
+        {
+          "id": "d",
+          "text": "HCl 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: H SO",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q3",
+      "type": "single-choice",
+      "text": "Goldsmiths uses aqua regia, which is prepared by mixing",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitric acid and Sulphuric acid"
+        },
+        {
+          "id": "b",
+          "text": "Nitric acid and Hydrochloric acid"
+        },
+        {
+          "id": "c",
+          "text": "Sulphuric acid and Hydrochloric acid"
+        },
+        {
+          "id": "d",
+          "text": "Citric acid and Benzoic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nitric acid and Hydrochloric acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2017 UPPCS (Mains) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q4",
+      "type": "single-choice",
+      "text": "pH value shows the Numeric value of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quality of chemical used for developing photographic negatives"
+        },
+        {
+          "id": "b",
+          "text": "Analysing the nature of solution acidic or basic"
+        },
+        {
+          "id": "c",
+          "text": "Analysing the intensity of an earthquake"
+        },
+        {
+          "id": "d",
+          "text": "Analysing for checking purity of milk"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Analysing the nature of solution acidic or basic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2018 MPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q5",
+      "type": "single-choice",
+      "text": "Which of the following is present in maximum amount in acid rain?",
+      "options": [
+        {
+          "id": "a",
+          "text": "HCl"
+        },
+        {
+          "id": "b",
+          "text": "HNO 3"
+        },
+        {
+          "id": "c",
+          "text": "H SO"
+        },
+        {
+          "id": "d",
+          "text": "H CO 2 4 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: H SO",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q6",
+      "type": "single-choice",
+      "text": "An aqueous solution of copper sulphate is acidic in nature because the salt undergoes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dialysis"
+        },
+        {
+          "id": "b",
+          "text": "Electrolysis"
+        },
+        {
+          "id": "c",
+          "text": "Hydrolysis"
+        },
+        {
+          "id": "d",
+          "text": "Photolysis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hydrolysis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q7",
+      "type": "single-choice",
+      "text": "Which is not a Lewis acid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AlCl"
+        },
+        {
+          "id": "b",
+          "text": "BF 3 3"
+        },
+        {
+          "id": "c",
+          "text": "NH"
+        },
+        {
+          "id": "d",
+          "text": "FeCl 3 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: NH",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q8",
+      "type": "single-choice",
+      "text": "Sodawater obtained by passing carbon dioxide in water is",
+      "options": [
+        {
+          "id": "a",
+          "text": "An oxidising agent"
+        },
+        {
+          "id": "b",
+          "text": "Basic in nature"
+        },
+        {
+          "id": "c",
+          "text": "Acidic in nature"
+        },
+        {
+          "id": "d",
+          "text": "A reducing agent"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Acidic in nature",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q9",
+      "type": "single-choice",
+      "text": "Which of the following acid do not contain Oxygen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitric Acid"
+        },
+        {
+          "id": "b",
+          "text": "Sulphuric Acid"
+        },
+        {
+          "id": "c",
+          "text": "Hydrochloric Acid"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hydrochloric Acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q10",
+      "type": "single-choice",
+      "text": "What is Neela thotha?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper Sulphate"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Sulphate"
+        },
+        {
+          "id": "c",
+          "text": "Iron Sulphate"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Copper Sulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q11",
+      "type": "single-choice",
+      "text": "An unknown gas quickly dissolves in water. This gaseous aqueous solution turns red litmus into the blue. This gas produces hydrogen chloride with a white flame. This unknown gas is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sulphur dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Nitric hydroxide"
+        },
+        {
+          "id": "c",
+          "text": "Ammonia"
+        },
+        {
+          "id": "d",
+          "text": "Carbon monoxide"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ammonia",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "RAS/RTS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q12",
+      "type": "single-choice",
+      "text": "Baking soda is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium Hydrogen Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Sodium Dihydrogen Carbonate"
+        },
+        {
+          "id": "c",
+          "text": "Disodium Hydrogen Carbonate"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Carbonate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sodium Hydrogen Carbonate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2016 RAS/RTS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q13",
+      "type": "single-choice",
+      "text": "The chemical formula of baking soda is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ca(OH)"
+        },
+        {
+          "id": "b",
+          "text": "NaHCO 2 3"
+        },
+        {
+          "id": "c",
+          "text": "CaCO"
+        },
+        {
+          "id": "d",
+          "text": "Na CO 3 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: NaHCO 2 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q14",
+      "type": "single-choice",
+      "text": "The chemical formula of washing soda is",
+      "options": [
+        {
+          "id": "a",
+          "text": "NaOH"
+        },
+        {
+          "id": "b",
+          "text": "Na CO 2 3"
+        },
+        {
+          "id": "c",
+          "text": "NaHCO"
+        },
+        {
+          "id": "d",
+          "text": "Ca(OH) 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Na CO 2 3",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q15",
+      "type": "single-choice",
+      "text": "Antacids are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Base"
+        },
+        {
+          "id": "b",
+          "text": "Acid"
+        },
+        {
+          "id": "c",
+          "text": "Salt"
+        },
+        {
+          "id": "d",
+          "text": "Buffer"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Base",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q16",
+      "type": "single-choice",
+      "text": "Which one of the following salt predominant in the ocean?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Sodium Chloride"
+        },
+        {
+          "id": "c",
+          "text": "Potassium Chloride"
+        },
+        {
+          "id": "d",
+          "text": "Magnesium Sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sodium Chloride",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q17",
+      "type": "single-choice",
+      "text": "Table salt (NaCl) is a product of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Weak acid and weak base"
+        },
+        {
+          "id": "b",
+          "text": "Strong acid and strong base"
+        },
+        {
+          "id": "c",
+          "text": "Weak acid and strong base"
+        },
+        {
+          "id": "d",
+          "text": "Strong acid and weak basic"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Strong acid and strong base",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q18",
+      "type": "single-choice",
+      "text": "Which one of the following is viscous?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Water"
+        },
+        {
+          "id": "c",
+          "text": "Honey"
+        },
+        {
+          "id": "d",
+          "text": "Gasoline"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Honey",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q19",
+      "type": "single-choice",
+      "text": "Which one of the following state- ments is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The presence of NaCl increases the rate of setting of Plaster of Paris"
+        },
+        {
+          "id": "b",
+          "text": "Gypsum is added to the cement to slow down its rate of setting"
+        },
+        {
+          "id": "c",
+          "text": "All alkaline earth metals form hydrated salts"
+        },
+        {
+          "id": "d",
+          "text": "Barium and Strontium are found free in nature"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Barium and Strontium are found free in nature",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q20",
+      "type": "single-choice",
+      "text": "What is untrue for bleaching powder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is more soluble than water"
+        },
+        {
+          "id": "b",
+          "text": "It is powder of light yellow colour"
+        },
+        {
+          "id": "c",
+          "text": "It is oxidant"
+        },
+        {
+          "id": "d",
+          "text": "It releases chlorine after reaction with dilute acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: It is more soluble than water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q21",
+      "type": "single-choice",
+      "text": "Which chemical compound is present in Bleaching Powder?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Calcium Hydroxide"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Oxychloride"
+        },
+        {
+          "id": "c",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "id": "d",
+          "text": "Ammonium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Calcium Oxychloride",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q22",
+      "type": "single-choice",
+      "text": "When eno salt is poured into the water, bubbles forms, which is due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "O gas"
+        },
+        {
+          "id": "b",
+          "text": "CO gas 2 2"
+        },
+        {
+          "id": "c",
+          "text": "CO gas"
+        },
+        {
+          "id": "d",
+          "text": "H gas 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: CO gas 2 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q23",
+      "type": "single-choice",
+      "text": "To develop photographic plates",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium thiosulphate is used as oxidising agent"
+        },
+        {
+          "id": "b",
+          "text": "Free Bromine releases"
+        },
+        {
+          "id": "c",
+          "text": "Light affected area quickly oxidizes"
+        },
+        {
+          "id": "d",
+          "text": "The solution is kept developing until all the Bromide is not dissolved"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sodium thiosulphate is used as oxidising agent",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jammu & Kashmir PSC (Pre) 2016 RAS/RTS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q24",
+      "type": "single-choice",
+      "text": "Which one of the following substances is used in photography and also as an antichlor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chrome red"
+        },
+        {
+          "id": "b",
+          "text": "Sodium thiosulphate"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogen peroxide"
+        },
+        {
+          "id": "d",
+          "text": "Calomel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sodium thiosulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014 UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q25",
+      "type": "single-choice",
+      "text": "The hypo solution used in photography is an aqueous solution of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium thiosulphate"
+        },
+        {
+          "id": "b",
+          "text": "Sodium tetrathionate"
+        },
+        {
+          "id": "c",
+          "text": "Sodium sulphate"
+        },
+        {
+          "id": "d",
+          "text": "Ammonium per sulphate"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Sodium thiosulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q26",
+      "type": "single-choice",
+      "text": "The useful element in photography is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silver Nitrate"
+        },
+        {
+          "id": "b",
+          "text": "Silver Bromide"
+        },
+        {
+          "id": "c",
+          "text": "Sulphuric Acid"
+        },
+        {
+          "id": "d",
+          "text": "Citric Acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Silver Bromide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q27",
+      "type": "single-choice",
+      "text": "Which one of the following is coated on the photographic plate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Silver oxide"
+        },
+        {
+          "id": "b",
+          "text": "Silver bromide"
+        },
+        {
+          "id": "c",
+          "text": "Silver chloride"
+        },
+        {
+          "id": "d",
+          "text": "Silver iodide"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Silver bromide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q28",
+      "type": "assertion-reason",
+      "text": "Assertion (A): To dilute sulphuric acid, acid is added to water and not water to acid. Reason (R): Specific heat of water is very high.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q29",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Washing soda (b) Caustic soda (c) Neela thotha (d) Hypo List-II 1. Sodium Hydroxide 2. Copper Sulphate 3. Sodium Thiosulphate 4. Sodium Carbonate Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "b",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "c",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "d",
+          "text": "3 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 1 2 3",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q30",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Neela thotha (b) Epsom salt (c) Baking soda (d) Caustic soda List-II 1. Sodium Bicarbonate 2. Sodium Hydroxide 3. Magnesium Sulphate 4. Copper Sulphate Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 3 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 3 1 2",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Gujarat PSC (Pre) 2018 IAS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q31",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Anhydrous Sodium bicarbonate is commonly known as baking sodium (baking soda). 2. Baking soda is used as a fire extinguisher. 3. Bleaching powders are produced in Hasnclaver plant. Which of these statements is right.",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "Only 3"
+        },
+        {
+          "id": "d",
+          "text": "1 and 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 and 3",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-acid-base-and-salt-q32",
+      "type": "single-choice",
+      "text": "With reference to ionic compounds, consider the following statements. 1. Ionic compounds are insoluble in alcohol. 2. Ionic compounds in the solid state are a good conductor of electricity. Which of these statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2003",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

@@ -1,0 +1,725 @@
+{
+  "bankId": "general-science-biology-photosynthesis",
+  "subject": "Science",
+  "topic": "Photosynthesis",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-photosynthesis-q1",
+      "type": "single-choice",
+      "text": "Which one of the following gases is essential for photosynthesis process?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CO"
+        },
+        {
+          "id": "b",
+          "text": "CO 2"
+        },
+        {
+          "id": "c",
+          "text": "N"
+        },
+        {
+          "id": "d",
+          "text": "O 2 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: CO 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999 UPPCS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q2",
+      "type": "single-choice",
+      "text": "Oxygen, which is liberated during photosynthesis comes from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water"
+        },
+        {
+          "id": "b",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Chlorophyll"
+        },
+        {
+          "id": "d",
+          "text": "Phosphoglyceric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Water",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q3",
+      "type": "single-choice",
+      "text": "It happens during the photosynthe- sis in green plants",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taking nitrogen and releasing oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Taking CO and releasing 2 oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Taking oxygen and releasing CO 2"
+        },
+        {
+          "id": "d",
+          "text": "Taking oxygen and releasing nitrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Taking CO and releasing 2 oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q4",
+      "type": "single-choice",
+      "text": "Which one of the following gases is used by plants in photosynthesis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ammonia"
+        },
+        {
+          "id": "b",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Chlorine"
+        },
+        {
+          "id": "d",
+          "text": "Sulphur dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carbon dioxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q5",
+      "type": "single-choice",
+      "text": "Which of the following types of light are strongly absorbed by plants?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Violet and orange"
+        },
+        {
+          "id": "b",
+          "text": "Blue and red"
+        },
+        {
+          "id": "c",
+          "text": "Indigo and yellow"
+        },
+        {
+          "id": "d",
+          "text": "Yellow and violet"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Blue and red",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "West Bengal PSC (Pre) 2019 IAS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q6",
+      "type": "single-choice",
+      "text": "Most of the oxygen on earth is produced by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grasses"
+        },
+        {
+          "id": "b",
+          "text": "Algae"
+        },
+        {
+          "id": "c",
+          "text": "Trees"
+        },
+        {
+          "id": "d",
+          "text": "Paddy fields"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Algae",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q7",
+      "type": "single-choice",
+      "text": "Photosynthesis occurs in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Night"
+        },
+        {
+          "id": "b",
+          "text": "Day and night"
+        },
+        {
+          "id": "c",
+          "text": "Day or night"
+        },
+        {
+          "id": "d",
+          "text": "Only day"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Day or night",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Manipur PSC (Pre) 2019 43rd BPSC (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q8",
+      "type": "single-choice",
+      "text": "The process by which plants produce food is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbohydrolysis"
+        },
+        {
+          "id": "b",
+          "text": "Metabolic synthesis"
+        },
+        {
+          "id": "c",
+          "text": "Photosensitization"
+        },
+        {
+          "id": "d",
+          "text": "Photosynthesis"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q9",
+      "type": "single-choice",
+      "text": "The process by which plants synthesize their food is called",
+      "options": [
+        {
+          "id": "a",
+          "text": "Osmosis"
+        },
+        {
+          "id": "b",
+          "text": "Respiration"
+        },
+        {
+          "id": "c",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "d",
+          "text": "Plasmolysis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2013",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q10",
+      "type": "single-choice",
+      "text": "Photosynthesis occurs in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nucleus"
+        },
+        {
+          "id": "b",
+          "text": "Mitochondria"
+        },
+        {
+          "id": "c",
+          "text": "Chloroplast"
+        },
+        {
+          "id": "d",
+          "text": "Peroxisome"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Chloroplast",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q11",
+      "type": "single-choice",
+      "text": "The most active light for photosyn- thesis is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Violet light"
+        },
+        {
+          "id": "b",
+          "text": "Red light"
+        },
+        {
+          "id": "c",
+          "text": "Blue light"
+        },
+        {
+          "id": "d",
+          "text": "Green light"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Red light",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q12",
+      "type": "single-choice",
+      "text": "Which light is most effective in photosynthesis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Red"
+        },
+        {
+          "id": "b",
+          "text": "Blue"
+        },
+        {
+          "id": "c",
+          "text": "Green"
+        },
+        {
+          "id": "d",
+          "text": "Violet"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Red",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q13",
+      "type": "single-choice",
+      "text": "What rays of sunlight are mostly utilized by chlorophyll in photosyn- thesis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Red"
+        },
+        {
+          "id": "b",
+          "text": "Yellow"
+        },
+        {
+          "id": "c",
+          "text": "Green"
+        },
+        {
+          "id": "d",
+          "text": "Blue"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Red",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q14",
+      "type": "single-choice",
+      "text": "Artificial light can",
+      "options": [
+        {
+          "id": "a",
+          "text": "Destroy chlorophyll"
+        },
+        {
+          "id": "b",
+          "text": "Synthesise chlorophyll"
+        },
+        {
+          "id": "c",
+          "text": "Bring about photosynthesis"
+        },
+        {
+          "id": "d",
+          "text": "Not bring about photosynthesis"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Bring about photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Assam PSC (Pre) 2019 UP Lower (Spl)(Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q15",
+      "type": "single-choice",
+      "text": "Light energy changes into the chemical energy by which of the following process?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Electrolysis"
+        },
+        {
+          "id": "b",
+          "text": "By photosynthesis"
+        },
+        {
+          "id": "c",
+          "text": "By respiration"
+        },
+        {
+          "id": "d",
+          "text": "By spewing"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: By photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2019 Uttarakhand PCS (Pre) 2007",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q16",
+      "type": "single-choice",
+      "text": "Which one of the following is the process involved in photosynthe- sis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potential energy is released to form free energy"
+        },
+        {
+          "id": "b",
+          "text": "Free energy is converted into potential energy and stored"
+        },
+        {
+          "id": "c",
+          "text": "Food is oxidized to release carbon dioxide and water"
+        },
+        {
+          "id": "d",
+          "text": "Oxygen is taken and carbon dioxide and water vapour are given out"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Free energy is converted into potential energy and stored",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q17",
+      "type": "single-choice",
+      "text": "Which of the following has the maximum efficiency to convert solar energy into chemical energy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chorella"
+        },
+        {
+          "id": "b",
+          "text": "Tiger"
+        },
+        {
+          "id": "c",
+          "text": "Earthworm"
+        },
+        {
+          "id": "d",
+          "text": "Cuscutta"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chorella",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (RI) 2014",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q18",
+      "type": "single-choice",
+      "text": "Which of the following is not the work of roots?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "b",
+          "text": "Water absorption"
+        },
+        {
+          "id": "c",
+          "text": "Absorption nutrients"
+        },
+        {
+          "id": "d",
+          "text": "To help the plants"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q19",
+      "type": "single-choice",
+      "text": "When the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up or dries because",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water from soil cannot rise to aerial parts"
+        },
+        {
+          "id": "b",
+          "text": "Roots are starved of energy"
+        },
+        {
+          "id": "c",
+          "text": "Tree is infected by the soil microbes"
+        },
+        {
+          "id": "d",
+          "text": "Roots do not receive oxygen for respiration"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Roots are starved of energy",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2011",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q20",
+      "type": "single-choice",
+      "text": "‘Phloem’ in plants is mainly responsible for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transportation of food"
+        },
+        {
+          "id": "b",
+          "text": "Transportation of amino acid"
+        },
+        {
+          "id": "c",
+          "text": "Transportation of oxygen"
+        },
+        {
+          "id": "d",
+          "text": "Transportation of water"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Transportation of food",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-photosynthesis-q21",
+      "type": "single-choice",
+      "text": "Which one of the following does not increase the amount of carbon dioxide in carbon cycle on earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Respiration"
+        },
+        {
+          "id": "b",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "c",
+          "text": "Decay of organic matter"
+        },
+        {
+          "id": "d",
+          "text": "Volcanic action"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Photosynthesis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

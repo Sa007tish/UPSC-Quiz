@@ -1,0 +1,555 @@
+{
+  "bankId": "general-science-chemistry-fertilizers",
+  "subject": "Science",
+  "topic": "Fertilizers",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-fertilizers-q1",
+      "type": "single-choice",
+      "text": "Which one of the following fertilizers leaves maximum acidity in the soil?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea"
+        },
+        {
+          "id": "b",
+          "text": "Ammonium Sulphate"
+        },
+        {
+          "id": "c",
+          "text": "Ammonium Nitrate"
+        },
+        {
+          "id": "d",
+          "text": "Calcium Ammonium Nitrate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ammonium Sulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q2",
+      "type": "single-choice",
+      "text": "The percentage of nitrogen in urea is",
+      "options": [
+        {
+          "id": "a",
+          "text": "30%"
+        },
+        {
+          "id": "b",
+          "text": "25%"
+        },
+        {
+          "id": "c",
+          "text": "47%"
+        },
+        {
+          "id": "d",
+          "text": "60%"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 47%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q3",
+      "type": "single-choice",
+      "text": "For wheat cultivation which fertil- izer is used?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "b",
+          "text": "Potassium"
+        },
+        {
+          "id": "c",
+          "text": "Copper"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "47th BPSC (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q4",
+      "type": "single-choice",
+      "text": "The element not present in fertilizers is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "c",
+          "text": "Chlorine"
+        },
+        {
+          "id": "d",
+          "text": "Phosphorus"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q5",
+      "type": "single-choice",
+      "text": "Which form of nitrogen is available in urea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amide"
+        },
+        {
+          "id": "b",
+          "text": "Ammoniacal"
+        },
+        {
+          "id": "c",
+          "text": "Nitrate"
+        },
+        {
+          "id": "d",
+          "text": "Nitrite"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Amide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q6",
+      "type": "single-choice",
+      "text": "The plants receive Nitrogen in form of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitric oxide"
+        },
+        {
+          "id": "b",
+          "text": "Nitrate"
+        },
+        {
+          "id": "c",
+          "text": "Ammonia"
+        },
+        {
+          "id": "d",
+          "text": "Nitride"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nitrate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q7",
+      "type": "single-choice",
+      "text": "Which of the following is consumed in the manufacture of urea fertiliz- er?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Sulphur dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Chlorine"
+        },
+        {
+          "id": "d",
+          "text": "Nitric acid"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Carbon dioxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q8",
+      "type": "single-choice",
+      "text": "Why does the Government of India promote the use of ‘Neem-coated Urea’ in agriculture?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Release of Neem oil in the soil increases nitrogen fixation by the soil micro-organisms"
+        },
+        {
+          "id": "b",
+          "text": "Neem coating slows down the rate of dissolution of urea in the soil"
+        },
+        {
+          "id": "c",
+          "text": "Nitrous oxide, which is a greenhouse gas, is not at all released into atmosphere by crop fields"
+        },
+        {
+          "id": "d",
+          "text": "It is a combination of a weedicide and a fertilizer for particular crops"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Neem coating slows down the rate of dissolution of urea in the soil",
+      "estimatedTimeSeconds": 105,
+      "tags": [
+        "IAS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q9",
+      "type": "single-choice",
+      "text": "What percentage of phosphorus (P S ) and Nitrogen (N) is present 2 5 in DAP?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10% N and 20% P O 2 5"
+        },
+        {
+          "id": "b",
+          "text": "18% N and 46% P O 2 5"
+        },
+        {
+          "id": "c",
+          "text": "30% N and 46% P O 2 5"
+        },
+        {
+          "id": "d",
+          "text": "35% N and 70% P O 2 5"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 18% N and 46% P O 2 5",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q10",
+      "type": "single-choice",
+      "text": "Which one of the following is a mixed fertilizer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea"
+        },
+        {
+          "id": "b",
+          "text": "CAM"
+        },
+        {
+          "id": "c",
+          "text": "Ammonium Sulphate"
+        },
+        {
+          "id": "d",
+          "text": "NPK"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ammonium Sulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q11",
+      "type": "single-choice",
+      "text": "Which of the following is not a chemical fertilizer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urea"
+        },
+        {
+          "id": "b",
+          "text": "Sodium Sulphate"
+        },
+        {
+          "id": "c",
+          "text": "Super Phosphate"
+        },
+        {
+          "id": "d",
+          "text": "Potassium Nitrate"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sodium Sulphate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q12",
+      "type": "single-choice",
+      "text": "The most popular fertilizer for foliar application is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium Nitrate"
+        },
+        {
+          "id": "b",
+          "text": "Urea"
+        },
+        {
+          "id": "c",
+          "text": "D.A.P."
+        },
+        {
+          "id": "d",
+          "text": "Potassium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Urea",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015 UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q13",
+      "type": "single-choice",
+      "text": "‘Humus’ is an example of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soil structure"
+        },
+        {
+          "id": "b",
+          "text": "Crystalloids"
+        },
+        {
+          "id": "c",
+          "text": "Organic colloids"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Organic colloids",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tamil Nadu PSC (Pre) 2019 UPRO/ARO (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q14",
+      "type": "single-choice",
+      "text": "The most suitable crop for green manuring is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potato"
+        },
+        {
+          "id": "b",
+          "text": "Sugarcane"
+        },
+        {
+          "id": "c",
+          "text": "Sunhemp"
+        },
+        {
+          "id": "d",
+          "text": "Gram"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sunhemp",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q15",
+      "type": "assertion-reason",
+      "text": "Assertion (A): Chemical fertilizers are necessary for the phosphorus need of plants. Reason (R): One metric tonne of organic manure can barely supply 2 or 3 kg of phosphorus. From the above statement, which is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fertilizers-q16",
+      "type": "single-choice",
+      "text": "What can be the impact of the ex- cessive/inappropriate use of ni- trogenous fertilizers in agriculture? 1. The proliferation of nitrogen- fixing microorganisms in soil can occur. 2. The increase in the acidity of soil can take place. 3. Leaching of nitrate to the ground water can occur. Select the correct answer using the code given below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 3"
+        },
+        {
+          "id": "b",
+          "text": "Only 2"
+        },
+        {
+          "id": "c",
+          "text": "Only 2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Only 2 and 3",
+      "estimatedTimeSeconds": 100,
+      "tags": [
+        "IAS (Pre) 2015",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

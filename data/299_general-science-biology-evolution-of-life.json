@@ -1,0 +1,589 @@
+{
+  "bankId": "general-science-biology-evolution-of-life",
+  "subject": "Science",
+  "topic": "Evolution of Life",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-biology-evolution-of-life-q1",
+      "type": "single-choice",
+      "text": "Darwin’s theory of natural selection is based on",
+      "options": [
+        {
+          "id": "a",
+          "text": "Over production"
+        },
+        {
+          "id": "b",
+          "text": "Struggle for existence and variation"
+        },
+        {
+          "id": "c",
+          "text": "Survival of the fittest"
+        },
+        {
+          "id": "d",
+          "text": "All of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: All of the above",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q2",
+      "type": "single-choice",
+      "text": "Who propounded the theory of evolution?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spencer"
+        },
+        {
+          "id": "b",
+          "text": "Darwin"
+        },
+        {
+          "id": "c",
+          "text": "Wallace"
+        },
+        {
+          "id": "d",
+          "text": "Huxley"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Darwin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2010",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q3",
+      "type": "single-choice",
+      "text": "According to recent proof, the life on earth emerged approximately",
+      "options": [
+        {
+          "id": "a",
+          "text": "Before 20,000 years"
+        },
+        {
+          "id": "b",
+          "text": "Before 2,00,000 years"
+        },
+        {
+          "id": "c",
+          "text": "Before 20,00,000 years"
+        },
+        {
+          "id": "d",
+          "text": "Before 2,000,000,000 years"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Before 2,000,000,000 years",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "40th BPSC (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q4",
+      "type": "single-choice",
+      "text": "Which is the oldest organism on earth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blue-green algae"
+        },
+        {
+          "id": "b",
+          "text": "Fungi"
+        },
+        {
+          "id": "c",
+          "text": "Amoeba"
+        },
+        {
+          "id": "d",
+          "text": "Euglena"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Blue-green algae",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q5",
+      "type": "single-choice",
+      "text": "Who explained first the evolution of life?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Newton"
+        },
+        {
+          "id": "b",
+          "text": "Einstein"
+        },
+        {
+          "id": "c",
+          "text": "Charles Darwin"
+        },
+        {
+          "id": "d",
+          "text": "Lamarck"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lamarck",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q6",
+      "type": "single-choice",
+      "text": "The mutation theory of evolution was enunciated by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Huxley"
+        },
+        {
+          "id": "b",
+          "text": "Darwin"
+        },
+        {
+          "id": "c",
+          "text": "Lamarck"
+        },
+        {
+          "id": "d",
+          "text": "Hugo de Vries"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Hugo de Vries",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q7",
+      "type": "single-choice",
+      "text": "With reference to the evolution of living organisms, which one of the following sequences is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Octopus - Dolphin - Shark"
+        },
+        {
+          "id": "b",
+          "text": "Pangolin - Tortoise - Hawk"
+        },
+        {
+          "id": "c",
+          "text": "Salamander - Python - Kangaroo"
+        },
+        {
+          "id": "d",
+          "text": "Frog - Crab - Prawn"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Salamander - Python - Kangaroo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2009",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q8",
+      "type": "single-choice",
+      "text": "The main factor of evolution is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mutation"
+        },
+        {
+          "id": "b",
+          "text": "Achieved quality"
+        },
+        {
+          "id": "c",
+          "text": "Vaginal birth"
+        },
+        {
+          "id": "d",
+          "text": "Natural selection"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Natural selection",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q9",
+      "type": "single-choice",
+      "text": "In the context of organic evolution, the loss of limbs in snakes is explained by the phenomenon of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use and disuse of organs"
+        },
+        {
+          "id": "b",
+          "text": "Adaptation to living in burrows"
+        },
+        {
+          "id": "c",
+          "text": "Natural selection"
+        },
+        {
+          "id": "d",
+          "text": "Inheritance of acquired characters"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Use and disuse of organs",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2002",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q10",
+      "type": "single-choice",
+      "text": "About whom is said ‘India’s large wild cat’ has recently become extinct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cheetah"
+        },
+        {
+          "id": "b",
+          "text": "Leopard"
+        },
+        {
+          "id": "c",
+          "text": "Tiger"
+        },
+        {
+          "id": "d",
+          "text": "Lion"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Cheetah",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1992",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q11",
+      "type": "single-choice",
+      "text": "Latest ancestor of modern human is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Java man"
+        },
+        {
+          "id": "b",
+          "text": "Cro-magnon man"
+        },
+        {
+          "id": "c",
+          "text": "Neanderthan man"
+        },
+        {
+          "id": "d",
+          "text": "Peking man"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Cro-magnon man",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Himachal Pradesh PSC (Pre) 2019 39th BPSC (Pre) 1994",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q12",
+      "type": "single-choice",
+      "text": "Archeopteryx is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Most ancient bird of Jurassic age"
+        },
+        {
+          "id": "b",
+          "text": "Reptile of Jurassic period"
+        },
+        {
+          "id": "c",
+          "text": "Reptile of Triassic period"
+        },
+        {
+          "id": "d",
+          "text": "Reptile of both Triassic and Jurassic period"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Most ancient bird of Jurassic age",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2016 40th BPSC (Pre) 1995",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q13",
+      "type": "single-choice",
+      "text": "‘Archaeopteyrx’ is a connecting link between which of the following classes of animal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amphibia and Aves"
+        },
+        {
+          "id": "b",
+          "text": "Reptilia and Aves"
+        },
+        {
+          "id": "c",
+          "text": "Reptilia and Mammalia"
+        },
+        {
+          "id": "d",
+          "text": "Aves and Mammalia"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Reptilia and Aves",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2018 RAS/RTS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q14",
+      "type": "single-choice",
+      "text": "Mammoth is the ancestor of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dog"
+        },
+        {
+          "id": "b",
+          "text": "Horse"
+        },
+        {
+          "id": "c",
+          "text": "Camel"
+        },
+        {
+          "id": "d",
+          "text": "Elephant"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Elephant",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2019 RAS/RTS (Pre) 2008",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q15",
+      "type": "single-choice",
+      "text": "Dinosaurs were",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cenozoic reptiles"
+        },
+        {
+          "id": "b",
+          "text": "Mesozoic birds"
+        },
+        {
+          "id": "c",
+          "text": "Paleozoic amphibians"
+        },
+        {
+          "id": "d",
+          "text": "Mesozoic reptiles"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mesozoic reptiles",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q16",
+      "type": "single-choice",
+      "text": "Dinosaurs were in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paleozoic era"
+        },
+        {
+          "id": "b",
+          "text": "Cenozoic era"
+        },
+        {
+          "id": "c",
+          "text": "Mesozoic era"
+        },
+        {
+          "id": "d",
+          "text": "Pleistocene era"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mesozoic era",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 1998",
+        "biology"
+      ]
+    },
+    {
+      "id": "general-science-biology-evolution-of-life-q17",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Theory of mutation (b) Theory of evolution (c) One gene one enzyme hypothesis (d) Operon concept List-II 1. Beadle and Tatum 2. Jacob and Monod 3. Darwin 4. Hugo De Vries Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 3 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Maharashtra PSC (Pre) 2019 Gujarat PSC (Pre) 2017 IAS (Pre) 1998",
+        "biology"
+      ]
+    }
+  ],
+  "subtopic": "Biology"
+}

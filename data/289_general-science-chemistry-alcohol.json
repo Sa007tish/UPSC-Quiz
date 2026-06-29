@@ -1,0 +1,181 @@
+{
+  "bankId": "general-science-chemistry-alcohol",
+  "subject": "Science",
+  "topic": "Alcohol",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-alcohol-q1",
+      "type": "single-choice",
+      "text": "Which one of the following is also known as ‘wood spirit’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methyl alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Ethyl alcohol"
+        },
+        {
+          "id": "c",
+          "text": "Ethylene glycol"
+        },
+        {
+          "id": "d",
+          "text": "Glycerol"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methyl alcohol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alcohol-q2",
+      "type": "single-choice",
+      "text": "Fermentation of sugar leads to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethyl alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Methyl alcohol"
+        },
+        {
+          "id": "c",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "d",
+          "text": "Chlorophyll"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ethyl alcohol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2019 47th BPSC (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alcohol-q3",
+      "type": "single-choice",
+      "text": "Ethyl alcohol is made unfit for drinking by the addition of the following.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potassium Cyanide"
+        },
+        {
+          "id": "b",
+          "text": "Methanol and Pyridine"
+        },
+        {
+          "id": "c",
+          "text": "Acetic acid and Pyridine"
+        },
+        {
+          "id": "d",
+          "text": "Napthalene"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Methanol and Pyridine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2017 RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alcohol-q4",
+      "type": "single-choice",
+      "text": "The offending substance in the liquor tragedies leading to blindness etc., is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethyl alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Amyl alcohol"
+        },
+        {
+          "id": "c",
+          "text": "Benzyl alcohol"
+        },
+        {
+          "id": "d",
+          "text": "Methyl alcohol"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Methyl alcohol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alcohol-q5",
+      "type": "single-choice",
+      "text": "To whom molasses are excellent raw material for production?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycerin"
+        },
+        {
+          "id": "b",
+          "text": "Urea"
+        },
+        {
+          "id": "c",
+          "text": "Alcohol"
+        },
+        {
+          "id": "d",
+          "text": "Paraffin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Alcohol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2005",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

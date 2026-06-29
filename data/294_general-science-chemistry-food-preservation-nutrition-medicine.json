@@ -1,0 +1,759 @@
+{
+  "bankId": "general-science-chemistry-food-preservation-nutrition-medicine",
+  "subject": "Science",
+  "topic": "Food Preservation, Nutrition, Medicine",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q1",
+      "type": "single-choice",
+      "text": "Which one of the following is used in food preservation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium Carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Acetylene"
+        },
+        {
+          "id": "c",
+          "text": "Benzoic Acid"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Benzoic Acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2018 UPPCS (Pre) 1996, 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q2",
+      "type": "single-choice",
+      "text": "Refrigeration helps in food preservation by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Killing the germs"
+        },
+        {
+          "id": "b",
+          "text": "Reducing the rate of biochemical reactions"
+        },
+        {
+          "id": "c",
+          "text": "Destroying enzyme action"
+        },
+        {
+          "id": "d",
+          "text": "Sealing the food with a layer of ice"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Reducing the rate of biochemical reactions",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2015 UPPCS (Pre) 2013, 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q3",
+      "type": "single-choice",
+      "text": "Which one of the following sub- stances is used in the preservation of food stuff?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Citric Acid"
+        },
+        {
+          "id": "b",
+          "text": "Potassium Chloride"
+        },
+        {
+          "id": "c",
+          "text": "Sodium Benzoate"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Chloride"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sodium Benzoate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000 UP UDA/LDA (Spl)(Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q4",
+      "type": "single-choice",
+      "text": "For the preservation of fruit juice which of the following is used?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Formic acid"
+        },
+        {
+          "id": "c",
+          "text": "Sulphuric acid"
+        },
+        {
+          "id": "d",
+          "text": "Sodium Benzoate"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sodium Benzoate",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2018 West Bengal PSC (Pre) 2013 UPPSC (RI) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q5",
+      "type": "single-choice",
+      "text": "Which of the following is a common refrigerant used in the domestic refrigerator?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neon"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Freon"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Freon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2019 Jharkhand PCS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q6",
+      "type": "single-choice",
+      "text": "Charcoal which is used in decolouring raw sugar is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wood charcoal"
+        },
+        {
+          "id": "b",
+          "text": "Sugar charcoal"
+        },
+        {
+          "id": "c",
+          "text": "Animal charcoal"
+        },
+        {
+          "id": "d",
+          "text": "Coconut charcoal"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Animal charcoal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "West Bengal PSC (Pre) 2019 UPPCS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q7",
+      "type": "single-choice",
+      "text": "The main component of honey is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glucose"
+        },
+        {
+          "id": "b",
+          "text": "Sucrose"
+        },
+        {
+          "id": "c",
+          "text": "Maltose"
+        },
+        {
+          "id": "d",
+          "text": "Fructose"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Fructose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002 IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q8",
+      "type": "single-choice",
+      "text": "Aspartame is an artificial sweetner sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low calorie sweetening agent in food items. What is the basis of this use?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in the human body due to lack of requisite enzymes"
+        },
+        {
+          "id": "b",
+          "text": "When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation"
+        },
+        {
+          "id": "c",
+          "text": "Aspartame is as sweet as sugar but after ingestion into the body, it is converted into metabolites that yield no calories"
+        },
+        {
+          "id": "d",
+          "text": "Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "IAS (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q9",
+      "type": "single-choice",
+      "text": "Aspirin is obtained from",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petroleum"
+        },
+        {
+          "id": "b",
+          "text": "Earth"
+        },
+        {
+          "id": "c",
+          "text": "A tree"
+        },
+        {
+          "id": "d",
+          "text": "Chemical reaction of acids"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: A tree",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "47th BPSC (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q10",
+      "type": "single-choice",
+      "text": "Aspirin is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antibiotic"
+        },
+        {
+          "id": "b",
+          "text": "Antipyretic"
+        },
+        {
+          "id": "c",
+          "text": "Reliever"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Antipyretic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "40th BPSC (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q11",
+      "type": "single-choice",
+      "text": "Which one of the following compounds is used as a sedative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Potassium Bromide"
+        },
+        {
+          "id": "b",
+          "text": "Calcium Chloride"
+        },
+        {
+          "id": "c",
+          "text": "Ethyl Alcohol"
+        },
+        {
+          "id": "d",
+          "text": "Phosphorus Trichloride"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Potassium Bromide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q12",
+      "type": "single-choice",
+      "text": "Which one of the following forms an irreversible complex with a haemoglobin of the blood?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon Dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Pure Nitrogen gas"
+        },
+        {
+          "id": "c",
+          "text": "Carbon Monoxide"
+        },
+        {
+          "id": "d",
+          "text": "A mixture of Carbon Dioxide and Helium"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Carbon Monoxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Telangana PSC (Pre) 2019 UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q13",
+      "type": "single-choice",
+      "text": "Milk is an example of",
+      "options": [
+        {
+          "id": "a",
+          "text": "A gel"
+        },
+        {
+          "id": "b",
+          "text": "A foam"
+        },
+        {
+          "id": "c",
+          "text": "An emulsion"
+        },
+        {
+          "id": "d",
+          "text": "A suspension"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: An emulsion",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997 UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q14",
+      "type": "single-choice",
+      "text": "Which of these is not a colloid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Milk"
+        },
+        {
+          "id": "b",
+          "text": "Blood"
+        },
+        {
+          "id": "c",
+          "text": "Ice cream"
+        },
+        {
+          "id": "d",
+          "text": "Honey"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ice cream",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q15",
+      "type": "single-choice",
+      "text": "Milk is homogenized by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adding a little sodium carbonate"
+        },
+        {
+          "id": "b",
+          "text": "Removing its fat"
+        },
+        {
+          "id": "c",
+          "text": "Breaking down fat particles to the microscopic size with the help of centrifuge"
+        },
+        {
+          "id": "d",
+          "text": "Boiling only"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Breaking down fat particles to the microscopic size with the help of centrifuge",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q16",
+      "type": "single-choice",
+      "text": "Milk openly placed for sometime becomes sour due to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbonic acid"
+        },
+        {
+          "id": "b",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "c",
+          "text": "Citric acid"
+        },
+        {
+          "id": "d",
+          "text": "Acetic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lactic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q17",
+      "type": "single-choice",
+      "text": "Which one of the following acids is present in sour milk products?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Butyric acid"
+        },
+        {
+          "id": "c",
+          "text": "Tartaric acid"
+        },
+        {
+          "id": "d",
+          "text": "Lactic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lactic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q18",
+      "type": "single-choice",
+      "text": "Which one of the following acids, is formed during the change of milk into curd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "b",
+          "text": "Ascorbic acid"
+        },
+        {
+          "id": "c",
+          "text": "Citric acid"
+        },
+        {
+          "id": "d",
+          "text": "Lactic acid"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Lactic acid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q19",
+      "type": "single-choice",
+      "text": "Curd making is an ancient ‘Biotech- nological’ process involving",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bacteria"
+        },
+        {
+          "id": "b",
+          "text": "Virus"
+        },
+        {
+          "id": "c",
+          "text": "Fungus"
+        },
+        {
+          "id": "d",
+          "text": "Protozoa"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bacteria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q20",
+      "type": "single-choice",
+      "text": "Which of the following oil is an extract of clove oil?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methenol"
+        },
+        {
+          "id": "b",
+          "text": "Eugenol"
+        },
+        {
+          "id": "c",
+          "text": "Methenol"
+        },
+        {
+          "id": "d",
+          "text": "Benzayldehyde"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Eugenol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2005 UP UDA/LDA (Spl)(Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q21",
+      "type": "single-choice",
+      "text": "Which one of the following fruits is most suitable for jelly making?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mango"
+        },
+        {
+          "id": "b",
+          "text": "Papaya"
+        },
+        {
+          "id": "c",
+          "text": "Gauva"
+        },
+        {
+          "id": "d",
+          "text": "Wood apple"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Gauva",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2019 UPPCS (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-food-preservation-nutrition-medicine-q22",
+      "type": "single-choice",
+      "text": "Organic food is supposed to be better for us because it",
+      "options": [
+        {
+          "id": "a",
+          "text": "relies on chemicals to improve the flavour"
+        },
+        {
+          "id": "b",
+          "text": "is more expensive to buy"
+        },
+        {
+          "id": "c",
+          "text": "is grown in glasshouses keeping it clean of environmental pollutants"
+        },
+        {
+          "id": "d",
+          "text": "is grown without the use of artificial fertilizers and pesticides"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: is grown without the use of artificial fertilizers and pesticides",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "Orissa PSC (Pre) 2019 UPPSC (RI) 2014",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

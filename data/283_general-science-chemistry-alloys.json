@@ -1,0 +1,1099 @@
+{
+  "bankId": "general-science-chemistry-alloys",
+  "subject": "Science",
+  "topic": "Alloys",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-alloys-q1",
+      "type": "single-choice",
+      "text": "Galvanized iron is coated with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Galena"
+        },
+        {
+          "id": "c",
+          "text": "Silver"
+        },
+        {
+          "id": "d",
+          "text": "Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Zinc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2019 Chhattisgarh PCS (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q2",
+      "type": "single-choice",
+      "text": "Aluminium surface is often ‘Anod- ized’. This means the deposition of a layer of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chromium Oxide"
+        },
+        {
+          "id": "b",
+          "text": "Aluminium Oxide"
+        },
+        {
+          "id": "c",
+          "text": "Nickel Oxide"
+        },
+        {
+          "id": "d",
+          "text": "Zinc Oxide"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aluminium Oxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q3",
+      "type": "single-choice",
+      "text": "Out of the following which is not an alloy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steel"
+        },
+        {
+          "id": "b",
+          "text": "Brass"
+        },
+        {
+          "id": "c",
+          "text": "Bronze"
+        },
+        {
+          "id": "d",
+          "text": "Copper"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Copper",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Manipur PSC (Pre) 2018 MPPCS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q4",
+      "type": "single-choice",
+      "text": "The plates of galvanized iron remains protected from rust because the existence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lead"
+        },
+        {
+          "id": "b",
+          "text": "Chromium"
+        },
+        {
+          "id": "c",
+          "text": "Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Bung"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Zinc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q5",
+      "type": "single-choice",
+      "text": "Alloy of which metal is used to make aeroplane and parts of the compartment of the train?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper"
+        },
+        {
+          "id": "b",
+          "text": "Iron"
+        },
+        {
+          "id": "c",
+          "text": "Aluminium"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Aluminium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q6",
+      "type": "single-choice",
+      "text": "Mercury metal mixture is",
+      "options": [
+        {
+          "id": "a",
+          "text": "High colour alloy"
+        },
+        {
+          "id": "b",
+          "text": "Carbon mixed alloy"
+        },
+        {
+          "id": "c",
+          "text": "Mercury mixed alloy"
+        },
+        {
+          "id": "d",
+          "text": "Highly resisting alloy for malfriction"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mercury mixed alloy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q7",
+      "type": "single-choice",
+      "text": "Which one of the following metals does not form amalgam?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zinc"
+        },
+        {
+          "id": "b",
+          "text": "Copper"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium"
+        },
+        {
+          "id": "d",
+          "text": "Iron"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Iron",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q8",
+      "type": "single-choice",
+      "text": "Which one of the following alloys is called an amalgam?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zinc - Copper"
+        },
+        {
+          "id": "b",
+          "text": "Copper - Tin"
+        },
+        {
+          "id": "c",
+          "text": "Mercury - Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Lead - Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Mercury - Zinc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q9",
+      "type": "single-choice",
+      "text": "Solder used in soldering metal pieces consists of any alloy of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tin and Zinc"
+        },
+        {
+          "id": "b",
+          "text": "Tin and Lead"
+        },
+        {
+          "id": "c",
+          "text": "Tin, Zinc and Copper"
+        },
+        {
+          "id": "d",
+          "text": "Tin, Lead and Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tin and Lead",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005, 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q10",
+      "type": "single-choice",
+      "text": "Bronze is an alloy of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper and Tin"
+        },
+        {
+          "id": "b",
+          "text": "Copper and Silver"
+        },
+        {
+          "id": "c",
+          "text": "Copper and Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Copper and Lead"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Copper and Tin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre)(Re. Exam) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q11",
+      "type": "single-choice",
+      "text": "Bronze is an alloy of copper and",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tin"
+        },
+        {
+          "id": "b",
+          "text": "Aluminium"
+        },
+        {
+          "id": "c",
+          "text": "Silver"
+        },
+        {
+          "id": "d",
+          "text": "Nickel"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Tin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q12",
+      "type": "single-choice",
+      "text": "Percentage of Silver in German Silver is",
+      "options": [
+        {
+          "id": "a",
+          "text": "1%"
+        },
+        {
+          "id": "b",
+          "text": "5%"
+        },
+        {
+          "id": "c",
+          "text": "0%"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 0%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q13",
+      "type": "single-choice",
+      "text": "Which one of the following elements is not present in the German Silver?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper"
+        },
+        {
+          "id": "b",
+          "text": "Aluminium"
+        },
+        {
+          "id": "c",
+          "text": "Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Nickel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Aluminium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q14",
+      "type": "single-choice",
+      "text": "Which of the following alloys has a maximum percentage of Copper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brass"
+        },
+        {
+          "id": "b",
+          "text": "Bronze"
+        },
+        {
+          "id": "c",
+          "text": "German Silver"
+        },
+        {
+          "id": "d",
+          "text": "Gun Metal"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bronze",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower (Spl)(Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q15",
+      "type": "single-choice",
+      "text": "Which metal exists as a common component in Brass, Bronze and German Silver?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antimony"
+        },
+        {
+          "id": "b",
+          "text": "Copper"
+        },
+        {
+          "id": "c",
+          "text": "Tin"
+        },
+        {
+          "id": "d",
+          "text": "Zinc"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Copper",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q16",
+      "type": "single-choice",
+      "text": "Brass is a combination of what metals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Copper and Nickel"
+        },
+        {
+          "id": "b",
+          "text": "Copper and Tin"
+        },
+        {
+          "id": "c",
+          "text": "Copper and Zinc"
+        },
+        {
+          "id": "d",
+          "text": "Copper + Zinc and Nickel"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Copper and Zinc",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2011 Uttarakhand PCS (Pre) 2002 UPPCS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q17",
+      "type": "single-choice",
+      "text": "Which pair of following is of Copper alloys?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brass and invar"
+        },
+        {
+          "id": "b",
+          "text": "Bronze and Nichrome"
+        },
+        {
+          "id": "c",
+          "text": "Brass and Bronze"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Brass and Bronze",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q18",
+      "type": "single-choice",
+      "text": "Brass gets fade colour in air due to the presence of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen sulphide"
+        },
+        {
+          "id": "c",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hydrogen sulphide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q19",
+      "type": "single-choice",
+      "text": "Combination of which substance in the alloy renders stainless steel non-magnetic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon"
+        },
+        {
+          "id": "b",
+          "text": "Chromium"
+        },
+        {
+          "id": "c",
+          "text": "Nickel"
+        },
+        {
+          "id": "d",
+          "text": "Molybdenum"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Nickel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q20",
+      "type": "single-choice",
+      "text": "To make the steel hard requires increase in",
+      "options": [
+        {
+          "id": "a",
+          "text": "The quantity of Carbon"
+        },
+        {
+          "id": "b",
+          "text": "The quantity of Manganese"
+        },
+        {
+          "id": "c",
+          "text": "The quantity of Silicon"
+        },
+        {
+          "id": "d",
+          "text": "The quantity of Chromium"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: The quantity of Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Karnataka PSC (Pre) 2019 42nd BPSC (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q21",
+      "type": "single-choice",
+      "text": "Which of the following elements is added to iron to produce steel which can resist high temperature, have high hardness and abrasion resistance?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Chromium"
+        },
+        {
+          "id": "c",
+          "text": "Nickel"
+        },
+        {
+          "id": "d",
+          "text": "Tungsten"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chromium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q22",
+      "type": "single-choice",
+      "text": "The important metal used with iron to make it rust free",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Carbon"
+        },
+        {
+          "id": "c",
+          "text": "Chromium"
+        },
+        {
+          "id": "d",
+          "text": "Tin"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Chromium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2018 Chhattisgarh PCS (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q23",
+      "type": "single-choice",
+      "text": "Steel is further processed to obtain stainless steel by adding some element. Which one of the following is not used for this purpose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon"
+        },
+        {
+          "id": "b",
+          "text": "Silicon"
+        },
+        {
+          "id": "c",
+          "text": "Manganese"
+        },
+        {
+          "id": "d",
+          "text": "Nickel"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Silicon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q24",
+      "type": "single-choice",
+      "text": "The important metal used with iron produce stainless steel is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminium"
+        },
+        {
+          "id": "b",
+          "text": "Chromium"
+        },
+        {
+          "id": "c",
+          "text": "Tin"
+        },
+        {
+          "id": "d",
+          "text": "Carbon"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chromium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q25",
+      "type": "single-choice",
+      "text": "Which of the following elements are included in stainless steel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chromium, Nickel and Iron"
+        },
+        {
+          "id": "b",
+          "text": "Nickel, Iron and Carbon"
+        },
+        {
+          "id": "c",
+          "text": "Iron, Chromium, Manganese and Carbon"
+        },
+        {
+          "id": "d",
+          "text": "Iron, Zinc, Chromium and Carbon"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Iron, Chromium, Manganese and Carbon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Mizoram PSC (Pre) 2017 UPPSC (GIC) 2010 Chhattisgarh PCS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q26",
+      "type": "single-choice",
+      "text": "What is mixed with iron to make stainless steel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nickel and Copper"
+        },
+        {
+          "id": "b",
+          "text": "Zinc and Tin"
+        },
+        {
+          "id": "c",
+          "text": "Nickel and Tin"
+        },
+        {
+          "id": "d",
+          "text": "Chromium and Nickel"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Chromium and Nickel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005 RAS/RTS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q27",
+      "type": "single-choice",
+      "text": "How much carbon does steel contain?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.1-2%"
+        },
+        {
+          "id": "b",
+          "text": "7-10%"
+        },
+        {
+          "id": "c",
+          "text": "10-50%"
+        },
+        {
+          "id": "d",
+          "text": "Zero"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 0.1-2%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa PSC (Pre) 2015 MPPCS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q28",
+      "type": "single-choice",
+      "text": "In the case of rusting, the weight of iron",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increases"
+        },
+        {
+          "id": "b",
+          "text": "Decreases"
+        },
+        {
+          "id": "c",
+          "text": "Remains the same"
+        },
+        {
+          "id": "d",
+          "text": "Uncertain"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Increases",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008 MPPCS (Pre) 1991",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q29",
+      "type": "single-choice",
+      "text": "Statement",
+      "options": [
+        {
+          "id": "a",
+          "text": ": Galvanized iron does not rust. Statement (R): Zinc has the efficiency of oxidation. (A) Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: : Galvanized iron does not rust. Statement (R): Zinc has the efficiency of oxidation. (A) Both (A) and (R) are true and (R) is the correct explanation of (A)",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Tripura PSC (Pre) 2019 UP Lower Sub. (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q30",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) German silver (b) Solder (c) Bleaching powder (d) Hypo List-II 1. Tin 2. Nickel 3. Sodium 4. Chlorine Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 4 3"
+        },
+        {
+          "id": "b",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "c",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "d",
+          "text": "2 1 4 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 2 1 4 3",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q31",
+      "type": "single-choice",
+      "text": "Check these statements. 1. Brass is an alloy of Copper and Zinc. 2. Magnetite is the main ore of Aluminium. 3. Mercurius Solubilis are that substance which mainly involves mercury. 4. Potassium Nitrate (KNO ) is a 3 chemical used in photography. Which of the above are true?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1 and 3",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "UP UDA/LDA (Pre) 2001",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-alloys-q32",
+      "type": "single-choice",
+      "text": "Consider these statements and choose the right answer from counterfeit. Statement",
+      "options": [
+        {
+          "id": "a",
+          "text": ": Normally it has been seen that iron goods covered with a brown powder called rust when they are unsheltered in the atmosphere. Statement (R): Rust or the brown powder is the result of deposition Tannin. Code (A) Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: (A) is true, but (R) is false",
+      "estimatedTimeSeconds": 110,
+      "tags": [
+        "Sikkim PSC (Pre) 2019 UP Lower Sub. (Pre) 1998",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

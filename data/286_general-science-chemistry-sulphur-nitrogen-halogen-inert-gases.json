@@ -1,0 +1,895 @@
+{
+  "bankId": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases",
+  "subject": "Science",
+  "topic": "Sulphur, Nitrogen, Halogen, Inert Gases",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q1",
+      "type": "single-choice",
+      "text": "What is the approximate perce- ntage of Nitrogen present in the atmosphere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10-11%"
+        },
+        {
+          "id": "b",
+          "text": "18-20%"
+        },
+        {
+          "id": "c",
+          "text": "40-42%"
+        },
+        {
+          "id": "d",
+          "text": "78-79%"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 78-79%",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2006",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q2",
+      "type": "single-choice",
+      "text": "Which gas is not in the gaseous cycle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "N"
+        },
+        {
+          "id": "b",
+          "text": "O 2 2"
+        },
+        {
+          "id": "c",
+          "text": "Carbon"
+        },
+        {
+          "id": "d",
+          "text": "H 2"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: H 2",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2014",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q3",
+      "type": "single-choice",
+      "text": "Which gas is known as ‘noble gas’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Helium"
+        },
+        {
+          "id": "d",
+          "text": "Carbon dioxide"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Helium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2016 MPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q4",
+      "type": "single-choice",
+      "text": "Percentage amount (by volume) of which one of the following gas is lowest in the atmosphere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Argon"
+        },
+        {
+          "id": "b",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Carbon dioxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q5",
+      "type": "single-choice",
+      "text": "Which gas is mixed with Oxygen for respiration by divers in deep sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Helium"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Xenon"
+        },
+        {
+          "id": "d",
+          "text": "Ammonia"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Helium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q6",
+      "type": "single-choice",
+      "text": "Which one of the following mixture of gas is used by the deep sea divers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mixture of Helium-Oxygen"
+        },
+        {
+          "id": "b",
+          "text": "Mixture of Helium-Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Mixture of Oxygen-Acetylene"
+        },
+        {
+          "id": "d",
+          "text": "Mixture of Oxygen-Hydrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Mixture of Helium-Oxygen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q7",
+      "type": "single-choice",
+      "text": "What is the shape of sulphur hexafluoride molecule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trigonal pyramid"
+        },
+        {
+          "id": "b",
+          "text": "Octahedral"
+        },
+        {
+          "id": "c",
+          "text": "Planar"
+        },
+        {
+          "id": "d",
+          "text": "Tetrahedral"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Octahedral",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q8",
+      "type": "single-choice",
+      "text": "Easily soluble in water",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Ammonia"
+        },
+        {
+          "id": "d",
+          "text": "Iodine"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ammonia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Sikkim PSC (Pre) 2016 UPPCS (Pre) 1993",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q9",
+      "type": "single-choice",
+      "text": "Which is used as Laughing gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nitrous oxide"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen dioxide"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen trioxide"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen tetra oxide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Nitrous oxide",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011 UP UDA/LDA (Mains) 2010 40th BPSC (Pre) 1995",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q10",
+      "type": "single-choice",
+      "text": "Which one of the following is also called Stranger Gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Argon"
+        },
+        {
+          "id": "b",
+          "text": "Neon"
+        },
+        {
+          "id": "c",
+          "text": "Xenon"
+        },
+        {
+          "id": "d",
+          "text": "Nitrous Oxide"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Xenon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q11",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bordeaux mixture is a mixture of Copper (II) Sulphate and Calcium Hydroxide in water and is used as a fungicide"
+        },
+        {
+          "id": "b",
+          "text": "Boric acid is used in pharmaceutical industry and also as a food preservative"
+        },
+        {
+          "id": "c",
+          "text": "Dry ice is solid Carbon dioxide"
+        },
+        {
+          "id": "d",
+          "text": "Nitric oxide is a laughing gas"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Nitric oxide is a laughing gas",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "Haryana PSC (Pre) 2018 UPPCS (Mains) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q12",
+      "type": "single-choice",
+      "text": "Discharge of Nitrogen causes",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increase in the amount of atmospheric nitrogen"
+        },
+        {
+          "id": "b",
+          "text": "Increase in the amount of Nitrogen in lithosphere"
+        },
+        {
+          "id": "c",
+          "text": "The amount of Nitrogen in lithosphere and in atmosphere unchanged"
+        },
+        {
+          "id": "d",
+          "text": "Destruction of nitrates bacteria"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: The amount of Nitrogen in lithosphere and in atmosphere unchanged",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q13",
+      "type": "single-choice",
+      "text": "The gas used to inflate the tyres of an aircraft is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Helium"
+        },
+        {
+          "id": "d",
+          "text": "Neon"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Pre) 2014 Uttarakhand UDA/LDA (Pre) 2007",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q14",
+      "type": "single-choice",
+      "text": "In order to compensate the deficiency of which of the following elements, the insectivorous plants trap and eat insects?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Manganese"
+        },
+        {
+          "id": "b",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium"
+        },
+        {
+          "id": "d",
+          "text": "Sulphur"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q15",
+      "type": "single-choice",
+      "text": "The soil in which insectivorous plants grow is deficient in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magnesium"
+        },
+        {
+          "id": "b",
+          "text": "Calcium"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "d",
+          "text": "Water"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Nitrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q16",
+      "type": "single-choice",
+      "text": "Which gas is usually filled in the balloon?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "d",
+          "text": "Helium"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Helium",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q17",
+      "type": "single-choice",
+      "text": "Helium is preferred to Hydrogen in air balloons because it",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is cheaper"
+        },
+        {
+          "id": "b",
+          "text": "Is less dense"
+        },
+        {
+          "id": "c",
+          "text": "Has greater lifting power"
+        },
+        {
+          "id": "d",
+          "text": "Does not form an explosive mixture with air"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Does not form an explosive mixture with air",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Punjab PSC (Pre) 2018 UPPCS (Pre) 2011",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q18",
+      "type": "single-choice",
+      "text": "Tear gas is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ammonia"
+        },
+        {
+          "id": "b",
+          "text": "Chlorine"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogen Carbide"
+        },
+        {
+          "id": "d",
+          "text": "Hydrogen Sulphide"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ammonia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q19",
+      "type": "single-choice",
+      "text": "Which of the following gas is used as tear gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "H"
+        },
+        {
+          "id": "b",
+          "text": "SO 2 2"
+        },
+        {
+          "id": "c",
+          "text": "NH"
+        },
+        {
+          "id": "d",
+          "text": "Cl 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: NH",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q20",
+      "type": "single-choice",
+      "text": "The foul smell of dead fish is due to the compound",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amino compounds"
+        },
+        {
+          "id": "b",
+          "text": "Aldehydic compounds"
+        },
+        {
+          "id": "c",
+          "text": "Sulphur compounds"
+        },
+        {
+          "id": "d",
+          "text": "Nitro compounds"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Amino compounds",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q21",
+      "type": "single-choice",
+      "text": "Which of the following remains in a solid state at normal temperature?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chlorine"
+        },
+        {
+          "id": "b",
+          "text": "Bromine"
+        },
+        {
+          "id": "c",
+          "text": "Iodine"
+        },
+        {
+          "id": "d",
+          "text": "Fluorine"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Iodine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2003",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q22",
+      "type": "single-choice",
+      "text": "Which of the following is not optically active?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glycine"
+        },
+        {
+          "id": "b",
+          "text": "Alanine"
+        },
+        {
+          "id": "c",
+          "text": "Serine"
+        },
+        {
+          "id": "d",
+          "text": "All of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Glycine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Jharkhand PCS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q23",
+      "type": "single-choice",
+      "text": "The most reactive among the Halogens is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fluorine"
+        },
+        {
+          "id": "b",
+          "text": "Chlorine"
+        },
+        {
+          "id": "c",
+          "text": "Bromine"
+        },
+        {
+          "id": "d",
+          "text": "Iodine"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fluorine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q24",
+      "type": "single-choice",
+      "text": "The halogen being used as analgesic is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chlorine"
+        },
+        {
+          "id": "b",
+          "text": "Bromine"
+        },
+        {
+          "id": "c",
+          "text": "Iodine"
+        },
+        {
+          "id": "d",
+          "text": "Fluorine"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bromine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q25",
+      "type": "single-choice",
+      "text": "Which has is filled at low pressure in a tube light?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Argon and Neon"
+        },
+        {
+          "id": "b",
+          "text": "Neon and Mercury vapour"
+        },
+        {
+          "id": "c",
+          "text": "Nitrogen and Neon"
+        },
+        {
+          "id": "d",
+          "text": "Only Argon"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Neon and Mercury vapour",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-sulphur-nitrogen-halogen-inert-gases-q26",
+      "type": "single-choice",
+      "text": "Tubelight is filled with",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sodium vapour"
+        },
+        {
+          "id": "b",
+          "text": "Argon gas at low pressure"
+        },
+        {
+          "id": "c",
+          "text": "Mercury vapour at low pressure"
+        },
+        {
+          "id": "d",
+          "text": "Both (B) and (C)"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Both (B) and (C)",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}

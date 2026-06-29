@@ -1,0 +1,5752 @@
+{
+  "bankId": "general-awareness-books-and-authors",
+  "subject": "General Awareness",
+  "topic": "Books and Authors",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-awareness-books-and-authors-q1",
+      "type": "single-choice",
+      "text": "The book ‘India Wins Freedom’ is the autobiography of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dr. Rajendra Prasad"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "c",
+          "text": "Maulana Abul Kalam Azad"
+        },
+        {
+          "id": "d",
+          "text": "Humayun Kabir"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Maulana Abul Kalam Azad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q2",
+      "type": "single-choice",
+      "text": "Who has written the book named ‘Gita Rahasya’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "id": "c",
+          "text": "Vinoba Bhave"
+        },
+        {
+          "id": "d",
+          "text": "Gopal Krishna Gokhale"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bal Gangadhar Tilak",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Goa (Pre) 2017 MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q3",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abul Kalam Azad - Hind Swaraj"
+        },
+        {
+          "id": "b",
+          "text": "Annie Besant - New India"
+        },
+        {
+          "id": "c",
+          "text": "Bal Gangadhar Tilak - Common Weal"
+        },
+        {
+          "id": "d",
+          "text": "Mahatma Gandhi - India Wins Freedom"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Annie Besant - New India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q4",
+      "type": "single-choice",
+      "text": "The memoirs entitled ‘Bapu : My Mother’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.R. Nanda"
+        },
+        {
+          "id": "b",
+          "text": "Rajkumari Amrita Kaur"
+        },
+        {
+          "id": "c",
+          "text": "Mahadev Desai"
+        },
+        {
+          "id": "d",
+          "text": "Manubehn"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Manubehn",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q5",
+      "type": "single-choice",
+      "text": "Which one of the following books was written by Tilak?",
+      "options": [
+        {
+          "id": "a",
+          "text": "India in Transition"
+        },
+        {
+          "id": "b",
+          "text": "Gita Rahasya"
+        },
+        {
+          "id": "c",
+          "text": "Gokhale - My Political Guru"
+        },
+        {
+          "id": "d",
+          "text": "Discovery of India"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gita Rahasya",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "53rd to 55th BPSC (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q6",
+      "type": "single-choice",
+      "text": "‘Srimad Bhagavat Gita Rahasya’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aurobindo Ghosh"
+        },
+        {
+          "id": "b",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "id": "c",
+          "text": "Gopal Krishna Gokhale"
+        },
+        {
+          "id": "d",
+          "text": "Mohandas Karamchand Gandhi"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bal Gangadhar Tilak",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q7",
+      "type": "single-choice",
+      "text": "Aurobindo Ghosh wrote",
+      "options": [
+        {
+          "id": "a",
+          "text": "Extremist Movement"
+        },
+        {
+          "id": "b",
+          "text": "Moderate Movement"
+        },
+        {
+          "id": "c",
+          "text": "Kesari"
+        },
+        {
+          "id": "d",
+          "text": "The Life Divine"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: The Life Divine",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q8",
+      "type": "single-choice",
+      "text": "Who was the first historian who wrote about ‘Feudalism’ in Rajasthan during the 19th Century?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Col. James Tod"
+        },
+        {
+          "id": "b",
+          "text": "Dr. L.P. Tessitori"
+        },
+        {
+          "id": "c",
+          "text": "George Grearson"
+        },
+        {
+          "id": "d",
+          "text": "John Thomas"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Col. James Tod",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q9",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unhappy India - Bal Gangadhar Tilak"
+        },
+        {
+          "id": "b",
+          "text": "Durgesh Nandini - Bankim Chandra Chatterjee"
+        },
+        {
+          "id": "c",
+          "text": "India Wins Freedom - Abul Kalam Azad"
+        },
+        {
+          "id": "d",
+          "text": "Poverty and Un-British Rule in India - Dadabhai Naoroji"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Unhappy India - Bal Gangadhar Tilak",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Gujarat PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q10",
+      "type": "single-choice",
+      "text": "Who among the following is the author of ‘Poverty and Un-British Rule in India’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "R.C. Dutt"
+        },
+        {
+          "id": "b",
+          "text": "Henry Cotton"
+        },
+        {
+          "id": "c",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "d",
+          "text": "Dadabhai Naoroji"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Dadabhai Naoroji",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q11",
+      "type": "single-choice",
+      "text": "Which of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Larry Collins and Dominique Lapierre - Freedom at Midnight"
+        },
+        {
+          "id": "b",
+          "text": "Durga Das - India from Curzon to Nehru and After"
+        },
+        {
+          "id": "c",
+          "text": "K.K. Aziz - The Man Who Divided India"
+        },
+        {
+          "id": "d",
+          "text": "Maulana Abul Kalam Azad - India Wins Freedom"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: K.K. Aziz - The Man Who Divided India",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q12",
+      "type": "single-choice",
+      "text": "The book ‘The Man Who Divided India’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maulana Abul Kalam Azad"
+        },
+        {
+          "id": "b",
+          "text": "Dr. Rajendra Prasad"
+        },
+        {
+          "id": "c",
+          "text": "Rafiq Zakaria"
+        },
+        {
+          "id": "d",
+          "text": "Larry Collins and Dominque Lapierre"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Rafiq Zakaria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q13",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Valentine Chirol - Indian Struggle"
+        },
+        {
+          "id": "b",
+          "text": "Rafiq Zakaria - The Man Who Divided India"
+        },
+        {
+          "id": "c",
+          "text": "Subhash Chandra Bose - Indian Unrest"
+        },
+        {
+          "id": "d",
+          "text": "V.D. Savarkar - Unhappy India"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rafiq Zakaria - The Man Who Divided India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2003 UP Lower Sub. (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q14",
+      "type": "single-choice",
+      "text": "Who was the author of Indian Unrest?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dadabhai Naoroji"
+        },
+        {
+          "id": "b",
+          "text": "Annie Besant"
+        },
+        {
+          "id": "c",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "id": "d",
+          "text": "Valentine Chirol"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Valentine Chirol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "39th BPSC (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q15",
+      "type": "single-choice",
+      "text": "Who wrote the book ‘A Nation In The Making’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raja Ram Mohan Roy"
+        },
+        {
+          "id": "b",
+          "text": "Surendra Nath Bannerjee"
+        },
+        {
+          "id": "c",
+          "text": "B.G. Tilak"
+        },
+        {
+          "id": "d",
+          "text": "S.C. Bose"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Surendra Nath Bannerjee",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q16",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru - Hind Swaraj"
+        },
+        {
+          "id": "b",
+          "text": "Maulana Abul Kalam Azad - India Wins Freedom"
+        },
+        {
+          "id": "c",
+          "text": "Subhash Chandra Bose - Indian Struggle"
+        },
+        {
+          "id": "d",
+          "text": "Lala Lajpat Rai - Unhappy India"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Jawaharlal Nehru - Hind Swaraj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q17",
+      "type": "single-choice",
+      "text": "The book entitled ‘Indian Struggle’ on Indian National Movement was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subhash Chandra Bose"
+        },
+        {
+          "id": "b",
+          "text": "Pattabhi Sitaramaiyya"
+        },
+        {
+          "id": "c",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Subhash Chandra Bose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000, 07"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q18",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "V.D. Savarakar - The Indian War of Independence"
+        },
+        {
+          "id": "b",
+          "text": "R.C. Majumdar - The Sepoy Mutiny and Revolt of 1857"
+        },
+        {
+          "id": "c",
+          "text": "Radha Kamal Mukherjee - Awadh in Revolt (1857-1858)"
+        },
+        {
+          "id": "d",
+          "text": "S.B. Chaudhari - Civil Rebellions in the Indian Mutinies 1857-1859"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Radha Kamal Mukherjee - Awadh in Revolt (1857-1858)",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q19",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ailan-i-Haq - Bipin Chandra Pal"
+        },
+        {
+          "id": "b",
+          "text": "Al-Helal - Dr. Zaqir Hussain"
+        },
+        {
+          "id": "c",
+          "text": "Tahzib-ul-Akhlaq - Sir Syed Ahmad"
+        },
+        {
+          "id": "d",
+          "text": "Yugantar - Aurobindo Ghosh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Tahzib-ul-Akhlaq - Sir Syed Ahmad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q20",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subhash Chandra Bose - Towards Struggle"
+        },
+        {
+          "id": "b",
+          "text": "Hugh Toye - Springing Tiger"
+        },
+        {
+          "id": "c",
+          "text": "Louis Fischer - American witness to India’s Partition"
+        },
+        {
+          "id": "d",
+          "text": "Abul Kalam Azad - India Divided"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hugh Toye - Springing Tiger",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q21",
+      "type": "single-choice",
+      "text": "The book ‘Springing Tiger’ is the biography of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhagat Singh"
+        },
+        {
+          "id": "b",
+          "text": "Subhash Chandra Bose"
+        },
+        {
+          "id": "c",
+          "text": "Chandra Shekhar Azad"
+        },
+        {
+          "id": "d",
+          "text": "Ramprasad Bismil"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Subhash Chandra Bose",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q22",
+      "type": "single-choice",
+      "text": "The book ‘Springing Tiger’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hugh Toye"
+        },
+        {
+          "id": "b",
+          "text": "Louis Fisher"
+        },
+        {
+          "id": "c",
+          "text": "Webb Miller"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hugh Toye",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q23",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhagat Singh - An Introduction to the Dreamland"
+        },
+        {
+          "id": "b",
+          "text": "Subhash Chandra Bose - Bandi Jivan"
+        },
+        {
+          "id": "c",
+          "text": "Sachindra Nath Sanyal - Indian Struggle"
+        },
+        {
+          "id": "d",
+          "text": "Bhagwati Charan Vohra - Why I am an Atheist?"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bhagat Singh - An Introduction to the Dreamland",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q24",
+      "type": "single-choice",
+      "text": "Which one of the following is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhagat Singh - The Indian Sociologist"
+        },
+        {
+          "id": "b",
+          "text": "Sachindra Nath Sanyal - Bandi Jivan"
+        },
+        {
+          "id": "c",
+          "text": "Lala Ramsaran Das - Dreamland"
+        },
+        {
+          "id": "d",
+          "text": "Bhagwati Charan Vohra - The Philosophy of Bomb"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Bhagat Singh - The Indian Sociologist",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q25",
+      "type": "single-choice",
+      "text": "Who is the author of ‘Annihilation of Caste’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jyotirao Phule"
+        },
+        {
+          "id": "b",
+          "text": "Dr. B.R. Ambedkar"
+        },
+        {
+          "id": "c",
+          "text": "Kanshi Ram"
+        },
+        {
+          "id": "d",
+          "text": "Ram Mohan Roy"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Dr. B.R. Ambedkar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q26",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Durga Das - The Life of Mahatma Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "Louis Fischer - India From Curzon to Nehru and After"
+        },
+        {
+          "id": "c",
+          "text": "Frank Moraes - Jawaharlal Nehru-A Biography"
+        },
+        {
+          "id": "d",
+          "text": "Maulana Abul Kalam Azad - India Divided"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Frank Moraes - Jawaharlal Nehru-A Biography",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q27",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S.C. Bose - Indian Struggle"
+        },
+        {
+          "id": "b",
+          "text": "Dadabhai Naoroji - Poverty and Un-British Rule in India"
+        },
+        {
+          "id": "c",
+          "text": "Rajendra Prasad - India Divided"
+        },
+        {
+          "id": "d",
+          "text": "Frank Moraes - India from Curzon to Nehru and After"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Frank Moraes - India from Curzon to Nehru and After",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q28",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lajpat Rai - Poverty and Un- British Rule in India"
+        },
+        {
+          "id": "b",
+          "text": "Dadabhai Naoroji - Unhappy India"
+        },
+        {
+          "id": "c",
+          "text": "Rafiq Zakaria - The Man who Divided India"
+        },
+        {
+          "id": "d",
+          "text": "Subhash Chandra Bose - Guilty Men of India’s Partition"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Rafiq Zakaria - The Man who Divided India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013 UP UDA/LDA (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q29",
+      "type": "single-choice",
+      "text": "The book ‘Guilty Man of India’s Partition’ was authored by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "b",
+          "text": "Dr. Ram Manohar Lohia"
+        },
+        {
+          "id": "c",
+          "text": "Maulana Abul Kalam Azad"
+        },
+        {
+          "id": "d",
+          "text": "Sarojini Naidu"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Dr. Ram Manohar Lohia",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q30",
+      "type": "single-choice",
+      "text": "Which one of the following is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "William Wedderburn - The Great Divide"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru - Hind Swaraj"
+        },
+        {
+          "id": "c",
+          "text": "Ram Manohar Lohia - The Guilty Man of India’s Partition"
+        },
+        {
+          "id": "d",
+          "text": "Mahatma Gandhi - Glimpses of the World History"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ram Manohar Lohia - The Guilty Man of India’s Partition",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q31",
+      "type": "single-choice",
+      "text": "The English edition of ‘Gitanjali’ was published in the year",
+      "options": [
+        {
+          "id": "a",
+          "text": "1910"
+        },
+        {
+          "id": "b",
+          "text": "1911"
+        },
+        {
+          "id": "c",
+          "text": "1912"
+        },
+        {
+          "id": "d",
+          "text": "1913"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1912",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q32",
+      "type": "single-choice",
+      "text": "The author of ‘Hind Swaraj’ was",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.G. Tilak"
+        },
+        {
+          "id": "b",
+          "text": "Vinoba Bhave"
+        },
+        {
+          "id": "c",
+          "text": "Chandra Shekhar Azad"
+        },
+        {
+          "id": "d",
+          "text": "Mahatma Gandhi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mahatma Gandhi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003 MPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q33",
+      "type": "single-choice",
+      "text": "The book ‘India Wins Freedom’ is written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "A.K. Azad"
+        },
+        {
+          "id": "b",
+          "text": "M.K. Gandhi"
+        },
+        {
+          "id": "c",
+          "text": "M.A. Ansari"
+        },
+        {
+          "id": "d",
+          "text": "Sarojini Naidu"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A.K. Azad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q34",
+      "type": "single-choice",
+      "text": "In which of the following books did Mahatma Gandhi call British Parliament as sterile and prostitute?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sarvodaya or Universal dawn"
+        },
+        {
+          "id": "b",
+          "text": "An Autobiography or the Story of My Experiments with Truth"
+        },
+        {
+          "id": "c",
+          "text": "Hind Swaraj"
+        },
+        {
+          "id": "d",
+          "text": "The Story of a Satyagrahi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Hind Swaraj",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q35",
+      "type": "single-choice",
+      "text": "Who wrote the book ‘Gokhale-my political guru’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "M.A. Jinnah"
+        },
+        {
+          "id": "b",
+          "text": "M.K. Gandhi"
+        },
+        {
+          "id": "c",
+          "text": "Shaukat Ali"
+        },
+        {
+          "id": "d",
+          "text": "C.R. Das"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: M.K. Gandhi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q36",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "D.P. Mishra - Living an Era"
+        },
+        {
+          "id": "b",
+          "text": "Jawaharlal Nehru - India Divided"
+        },
+        {
+          "id": "c",
+          "text": "Rajendra Prasad - Discovery of India"
+        },
+        {
+          "id": "d",
+          "text": "Subhash Chandra Bose - Freedom at Midnight"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: D.P. Mishra - Living an Era",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2011"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q37",
+      "type": "single-choice",
+      "text": "The author of the book ‘India Divided’ was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maulana Abul Kalam Azad"
+        },
+        {
+          "id": "b",
+          "text": "Dr. Rajendra Prasad"
+        },
+        {
+          "id": "c",
+          "text": "Narendra Dev"
+        },
+        {
+          "id": "d",
+          "text": "Asaf Ali"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Dr. Rajendra Prasad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q38",
+      "type": "single-choice",
+      "text": "The famous book ‘Foundation of Indian Culture’ is authored by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "id": "b",
+          "text": "Shri Aurobindo"
+        },
+        {
+          "id": "c",
+          "text": "Radhakrishnan"
+        },
+        {
+          "id": "d",
+          "text": "Bhagwan Das"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Shri Aurobindo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2017 Chhattisgarh PCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q39",
+      "type": "single-choice",
+      "text": "Who among the following wrote the book ‘Bahubivah’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Raja Ram Mohan Roy"
+        },
+        {
+          "id": "b",
+          "text": "Ishwar Chandra Vidyasagar"
+        },
+        {
+          "id": "c",
+          "text": "Pandita Ramabai"
+        },
+        {
+          "id": "d",
+          "text": "Rabindra Nath Tagore"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Ishwar Chandra Vidyasagar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q40",
+      "type": "single-choice",
+      "text": "The author of the novel ‘Chandra- kanta’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhartendu Harishchandra"
+        },
+        {
+          "id": "b",
+          "text": "Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "d",
+          "text": "Devkinandan Khatri"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Devkinandan Khatri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "HP PSC (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q41",
+      "type": "single-choice",
+      "text": "The famous book, ‘Das Capital’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amartya Sen"
+        },
+        {
+          "id": "b",
+          "text": "Karl Marx"
+        },
+        {
+          "id": "c",
+          "text": "Gandhiji"
+        },
+        {
+          "id": "d",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Karl Marx",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q42",
+      "type": "single-choice",
+      "text": "Which one of the following was an emigre Communist journal of M.N. Roy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kisan Sabha"
+        },
+        {
+          "id": "b",
+          "text": "The Worker"
+        },
+        {
+          "id": "c",
+          "text": "Vanguard"
+        },
+        {
+          "id": "d",
+          "text": "Anushilan"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Vanguard",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Meghalaya (Pre) 2019"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q43",
+      "type": "single-choice",
+      "text": "Which one of the following books is associated with the rise of the national movement in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gitanjali"
+        },
+        {
+          "id": "b",
+          "text": "Anand Math"
+        },
+        {
+          "id": "c",
+          "text": "Satyarth Prakash"
+        },
+        {
+          "id": "d",
+          "text": "Gita Rahasya"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Anand Math",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2016 UPPCS (Mains) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q44",
+      "type": "single-choice",
+      "text": "The novel ‘Durgesha Nandini’ is written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "b",
+          "text": "Taraknath Gangopadhyaya"
+        },
+        {
+          "id": "c",
+          "text": "Swarna Kumari"
+        },
+        {
+          "id": "d",
+          "text": "Bankim Chandra Chatterjee"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bankim Chandra Chatterjee",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "43rd BPSC (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q45",
+      "type": "single-choice",
+      "text": "The author of ‘Rajaniti Ratnakara’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandesvara"
+        },
+        {
+          "id": "b",
+          "text": "Vidyapati"
+        },
+        {
+          "id": "c",
+          "text": "Jyotiresvara"
+        },
+        {
+          "id": "d",
+          "text": "Haribrahmadeva"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Chandesvara",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "50th to 62nd BPSC (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q46",
+      "type": "single-choice",
+      "text": "Which of the following books was known as ‘Bible of Bengali Patriotism’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gitanjali"
+        },
+        {
+          "id": "b",
+          "text": "Anand Math"
+        },
+        {
+          "id": "c",
+          "text": "Devdas"
+        },
+        {
+          "id": "d",
+          "text": "Gora"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Anand Math",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Haryana PSC (Pre) 2017 UPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q47",
+      "type": "single-choice",
+      "text": "The song of Vande Mataram which served as a great inspiration to the patriotic song of India in their freedom struggle is in book",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anand Math"
+        },
+        {
+          "id": "b",
+          "text": "Durgesha Nandini"
+        },
+        {
+          "id": "c",
+          "text": "Meghanad-Vadh"
+        },
+        {
+          "id": "d",
+          "text": "Virangana Kavya"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Anand Math",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004 UP Lower Sub. (Spl)(Pre) 2003, 02"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q48",
+      "type": "single-choice",
+      "text": "Who was the author of revolution- ary creation ‘Chetavani Ra Chuga- tiya’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shyamji Krishna Verma"
+        },
+        {
+          "id": "b",
+          "text": "Damodar Das Rathi"
+        },
+        {
+          "id": "c",
+          "text": "Kesari Singh Barahath"
+        },
+        {
+          "id": "d",
+          "text": "Rao Gopal Singh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Kesari Singh Barahath",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Kerala PSC (Pre) 2018"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q49",
+      "type": "single-choice",
+      "text": "Mahatma Gandhi wrote his autobi- ography originally in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hindi"
+        },
+        {
+          "id": "b",
+          "text": "Marathi"
+        },
+        {
+          "id": "c",
+          "text": "Gujarati"
+        },
+        {
+          "id": "d",
+          "text": "English"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Gujarati",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q50",
+      "type": "single-choice",
+      "text": "Who was the Author of ‘My Experiments with Truth’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "b",
+          "text": "Indira Gandhi"
+        },
+        {
+          "id": "c",
+          "text": "Narshimha Rao"
+        },
+        {
+          "id": "d",
+          "text": "Mahatma Gandhi"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mahatma Gandhi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006 MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q51",
+      "type": "single-choice",
+      "text": "‘Hindi Swaraj’ was written by Mahatma Gandhi in",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hindi"
+        },
+        {
+          "id": "b",
+          "text": "Gujarati"
+        },
+        {
+          "id": "c",
+          "text": "English"
+        },
+        {
+          "id": "d",
+          "text": "Urdu"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gujarati",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q52",
+      "type": "single-choice",
+      "text": "In which of the following year M.K. Gandhi wrote ‘Hind Swaraj’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1908"
+        },
+        {
+          "id": "b",
+          "text": "1909"
+        },
+        {
+          "id": "c",
+          "text": "1910"
+        },
+        {
+          "id": "d",
+          "text": "1914"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 1909",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q53",
+      "type": "single-choice",
+      "text": "The famous work of Bhartendu Harishchandra is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mayanka Manjari"
+        },
+        {
+          "id": "b",
+          "text": "Bharat Durdasha"
+        },
+        {
+          "id": "c",
+          "text": "Nutan Brahmachari"
+        },
+        {
+          "id": "d",
+          "text": "Chandra Kanta Santati"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bharat Durdasha",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q54",
+      "type": "single-choice",
+      "text": "Who wrote the play ‘Andher Nagari Chaupat Raja’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Govardhan Ram M. Tripathi"
+        },
+        {
+          "id": "b",
+          "text": "Munshi Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Fakir Mohan Senapati"
+        },
+        {
+          "id": "d",
+          "text": "Bhartendu Harishchandra"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bhartendu Harishchandra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q55",
+      "type": "single-choice",
+      "text": "Subramaniam Bharati was the poet of which language?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Telugu"
+        },
+        {
+          "id": "b",
+          "text": "Tamil"
+        },
+        {
+          "id": "c",
+          "text": "Kannada"
+        },
+        {
+          "id": "d",
+          "text": "Malayalam"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Tamil",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q56",
+      "type": "single-choice",
+      "text": "Who is the author of ‘Bharat Bharati’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "b",
+          "text": "Mulkraj Anand"
+        },
+        {
+          "id": "c",
+          "text": "Maithili Sharan Gupta"
+        },
+        {
+          "id": "d",
+          "text": "Bankim Chandra"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Maithili Sharan Gupta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q57",
+      "type": "single-choice",
+      "text": "Who among the following assumed title ‘Rashtrakavi’ for emphatical co-operation in Indian independence struggle by his literary creations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maithili Sharan Gupta"
+        },
+        {
+          "id": "b",
+          "text": "Jai Shankar Prasad"
+        },
+        {
+          "id": "c",
+          "text": "Sumitra Nandan Pant"
+        },
+        {
+          "id": "d",
+          "text": "Ramdhari Singh ‘Dinkar’"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Maithili Sharan Gupta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002 UPPCS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q58",
+      "type": "single-choice",
+      "text": "Which one of the following state- ments is not correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "‘Neel Darpan’ was play based on the exploitation of the indigo farmers"
+        },
+        {
+          "id": "b",
+          "text": "The author of the play ‘Ghashiram Kotwal’ is Vijay Tendulkar"
+        },
+        {
+          "id": "c",
+          "text": "The play ‘Nawab’ by Nabin Chandra Das was based on the famine of Bengal"
+        },
+        {
+          "id": "d",
+          "text": "Urdu theatre used to depend heavily on Parsi theatre"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: The play ‘Nawab’ by Nabin Chandra Das was based on the famine of Bengal",
+      "estimatedTimeSeconds": 85,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q59",
+      "type": "single-choice",
+      "text": "The author of the book ‘Towards Struggle’ was",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "b",
+          "text": "Ram Manohar Lohia"
+        },
+        {
+          "id": "c",
+          "text": "Jai Prakash Narayan"
+        },
+        {
+          "id": "d",
+          "text": "J.B. Kripalani"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Jai Prakash Narayan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q60",
+      "type": "single-choice",
+      "text": "Who wrote the book ‘Prison Diary’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jai Prakash Narayan"
+        },
+        {
+          "id": "b",
+          "text": "Munshi Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Morarji Desai"
+        },
+        {
+          "id": "d",
+          "text": "Atal Bihari Vajpayee"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Jai Prakash Narayan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q61",
+      "type": "single-choice",
+      "text": "Who wrote the book ‘A Passage to India’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "b",
+          "text": "Minoo Masani"
+        },
+        {
+          "id": "c",
+          "text": "E.M. Forster"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: E.M. Forster",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010, 06"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q62",
+      "type": "single-choice",
+      "text": "The book ‘India’s Struggle for Independence’ was authored by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tarachand"
+        },
+        {
+          "id": "b",
+          "text": "S.N. Sen"
+        },
+        {
+          "id": "c",
+          "text": "R.C. Majumdar"
+        },
+        {
+          "id": "d",
+          "text": "Bipan Chandra"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Bipan Chandra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010 UPPCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q63",
+      "type": "single-choice",
+      "text": "The writer of Indian National Movement : The Long-Term Dy- namics is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Satish Chandra"
+        },
+        {
+          "id": "b",
+          "text": "Bipan Chandra"
+        },
+        {
+          "id": "c",
+          "text": "Tarachand"
+        },
+        {
+          "id": "d",
+          "text": "Sumit Sarkar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bipan Chandra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q64",
+      "type": "single-choice",
+      "text": "Who is the author of the book ‘Out of Print : Newspapers, Journalism and the Business of News in the Digital Age’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Professor George Brock"
+        },
+        {
+          "id": "b",
+          "text": "Rabbin Jafferey"
+        },
+        {
+          "id": "c",
+          "text": "Nic Newman"
+        },
+        {
+          "id": "d",
+          "text": "Mark Tully"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Professor George Brock",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2012"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q65",
+      "type": "single-choice",
+      "text": "The Book ‘Mother India’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Catherine Mayo"
+        },
+        {
+          "id": "b",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "id": "c",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "id": "d",
+          "text": "Bipin Chandra Pal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Catherine Mayo",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q66",
+      "type": "single-choice",
+      "text": "Who is the author of flag song (Jhanda Geet) of India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "b",
+          "text": "Ramdhari Singh ‘Dinkar’"
+        },
+        {
+          "id": "c",
+          "text": "Shyamlal Prashad Gupta"
+        },
+        {
+          "id": "d",
+          "text": "Ganesh Shankar Vidyarthi"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Shyamlal Prashad Gupta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2004 46th BPSC (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q67",
+      "type": "single-choice",
+      "text": "The Nationalist song ‘Aie Mere Watan Ke Logo’ had been written by poet",
+      "options": [
+        {
+          "id": "a",
+          "text": "Javed Akhtar"
+        },
+        {
+          "id": "b",
+          "text": "Pradeep"
+        },
+        {
+          "id": "c",
+          "text": "Ramdhari Singh ‘Dinkar’"
+        },
+        {
+          "id": "d",
+          "text": "Maithili Sharan Gupta"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Pradeep",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q68",
+      "type": "single-choice",
+      "text": "Poet Iqbal who wrote ‘Sare Jahan Se Achcha’ was related to which State?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delhi"
+        },
+        {
+          "id": "b",
+          "text": "Uttar Pradesh"
+        },
+        {
+          "id": "c",
+          "text": "Punjab"
+        },
+        {
+          "id": "d",
+          "text": "Hyderabad"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Punjab",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q69",
+      "type": "single-choice",
+      "text": "Who wrote the famous song ‘Sare Jahan Se Achcha Hindustan Hamara’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sahir Ludhianvi"
+        },
+        {
+          "id": "b",
+          "text": "Sir Syed Ahmad Khan"
+        },
+        {
+          "id": "c",
+          "text": "Muhammad Iqbal"
+        },
+        {
+          "id": "d",
+          "text": "Bahadur Shah Zafar"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Muhammad Iqbal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2004 MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q70",
+      "type": "single-choice",
+      "text": "‘Mazhab Nahi Sikhata Aapas Mein Bair Rakhna’ who wrote these lines in his works?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mirza Ghalib"
+        },
+        {
+          "id": "b",
+          "text": "Muhammad Iqbal"
+        },
+        {
+          "id": "c",
+          "text": "Raghupati Sahai Firaq"
+        },
+        {
+          "id": "d",
+          "text": "Mahatma Gandhi"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Muhammad Iqbal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q71",
+      "type": "single-choice",
+      "text": "The pamphlet entitled ‘Why I Am an Atheist’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.K. Dutt"
+        },
+        {
+          "id": "b",
+          "text": "Bhagat Singh"
+        },
+        {
+          "id": "c",
+          "text": "Rajguru"
+        },
+        {
+          "id": "d",
+          "text": "Yashpal"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bhagat Singh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q72",
+      "type": "single-choice",
+      "text": "The song ‘Amar Sonar Bangla’ written during the Swadeshi Movement of India inspired the liberation struggle of Bangladesh and was adopted as the National Anthem of Bangladesh. Who wrote this song?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rajni Kanta Sen"
+        },
+        {
+          "id": "b",
+          "text": "Dwijendralal Roy"
+        },
+        {
+          "id": "c",
+          "text": "Mukunda Das"
+        },
+        {
+          "id": "d",
+          "text": "Rabindra Nath Tagore"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Rabindra Nath Tagore",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q73",
+      "type": "single-choice",
+      "text": "Who composed ‘Jana Gana Mana’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bankim Chandra Chatterjee"
+        },
+        {
+          "id": "b",
+          "text": "Aurobindo Ghosh"
+        },
+        {
+          "id": "c",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "d",
+          "text": "Sarojini Naidu"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Rabindra Nath Tagore",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q74",
+      "type": "single-choice",
+      "text": "Who of the following is the author of a collection of a poem called ‘Golden Threshold’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aruna Asaf Ali"
+        },
+        {
+          "id": "b",
+          "text": "Annie Besant"
+        },
+        {
+          "id": "c",
+          "text": "Sarojini Naidu"
+        },
+        {
+          "id": "d",
+          "text": "Vijaya Lakshmi Pandit"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Sarojini Naidu",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q75",
+      "type": "single-choice",
+      "text": "Who is the author of the book, ‘Landmarks in Indian Constitutional and National Development’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bipin Chandra"
+        },
+        {
+          "id": "b",
+          "text": "Gurmukh Nihal Singh"
+        },
+        {
+          "id": "c",
+          "text": "B.R. Nanda"
+        },
+        {
+          "id": "d",
+          "text": "Ram Gopal"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gurmukh Nihal Singh",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q76",
+      "type": "single-choice",
+      "text": "The Editor of ‘Congress Presidential Addresses’ was",
+      "options": [
+        {
+          "id": "a",
+          "text": "G.A. Natesan"
+        },
+        {
+          "id": "b",
+          "text": "B.P. Sitaramayya"
+        },
+        {
+          "id": "c",
+          "text": "Ramananda Chatterjee"
+        },
+        {
+          "id": "d",
+          "text": "H.N. Mitra"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: G.A. Natesan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q77",
+      "type": "single-choice",
+      "text": "In which one of the following jails, the book ‘Discovery of India’ was written by Jawaharlal Nehru?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alipur Central Jail"
+        },
+        {
+          "id": "b",
+          "text": "Yerwada Jail"
+        },
+        {
+          "id": "c",
+          "text": "Naini Central Jail"
+        },
+        {
+          "id": "d",
+          "text": "Ahmadnagar Fort Jail"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ahmadnagar Fort Jail",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2010, 03 Uttarakhand PCS (Mains) 2006 UP Lower Sub. (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q78",
+      "type": "single-choice",
+      "text": "Who is the author of the book, ‘Discovery of India’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "b",
+          "text": "B.R. Ambedkar"
+        },
+        {
+          "id": "c",
+          "text": "Rabindra Nath Tagore"
+        },
+        {
+          "id": "d",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jawaharlal Nehru",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q79",
+      "type": "single-choice",
+      "text": "Who was the author of the book ‘Bandi Jiwan’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dinbandhu Mitra"
+        },
+        {
+          "id": "b",
+          "text": "Hema Chandrakar"
+        },
+        {
+          "id": "c",
+          "text": "Ram Prasad Bismil"
+        },
+        {
+          "id": "d",
+          "text": "Sachindra Nath Sanyal"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Sachindra Nath Sanyal",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q80",
+      "type": "single-choice",
+      "text": "The book ‘Mountbatten and the Partition of India’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Larry Collins and Dominique Lapierre"
+        },
+        {
+          "id": "b",
+          "text": "M.N. Das"
+        },
+        {
+          "id": "c",
+          "text": "Louis Fischer"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Larry Collins and Dominique Lapierre",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q81",
+      "type": "single-choice",
+      "text": "The report ‘Journey through the Kingdom of Oudh in the year 1849- 50’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "W.H. Sleeman"
+        },
+        {
+          "id": "b",
+          "text": "Outram"
+        },
+        {
+          "id": "c",
+          "text": "Bishop Heber"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: W.H. Sleeman",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q82",
+      "type": "single-choice",
+      "text": "‘Indian War of Independence 1857’ is written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "S.N. Sen"
+        },
+        {
+          "id": "b",
+          "text": "R.C. Majumdar"
+        },
+        {
+          "id": "c",
+          "text": "V.D. Savarkar"
+        },
+        {
+          "id": "d",
+          "text": "S.B. Chaudhuri"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: V.D. Savarkar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2013 UPPCS (Mains) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q83",
+      "type": "single-choice",
+      "text": "‘The Roots of Ancient India’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "D.K. Chakravarti"
+        },
+        {
+          "id": "b",
+          "text": "D.P. Agrawal"
+        },
+        {
+          "id": "c",
+          "text": "W.A. Fairservis"
+        },
+        {
+          "id": "d",
+          "text": "A. Ghosh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: W.A. Fairservis",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q84",
+      "type": "single-choice",
+      "text": "The writer of the book ‘India’s Second Freedom’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soli Sorabji"
+        },
+        {
+          "id": "b",
+          "text": "Loknayak Jai Prakash Narayan"
+        },
+        {
+          "id": "c",
+          "text": "Lal Krishna Advani"
+        },
+        {
+          "id": "d",
+          "text": "M.G. Devasahayam"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: M.G. Devasahayam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q85",
+      "type": "single-choice",
+      "text": "The author of the book entitled ‘Planning and the Poor’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.S. Minhas"
+        },
+        {
+          "id": "b",
+          "text": "Gunnar Myrdal"
+        },
+        {
+          "id": "c",
+          "text": "L.C. Jain"
+        },
+        {
+          "id": "d",
+          "text": "L.K. Jha"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: B.S. Minhas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q86",
+      "type": "single-choice",
+      "text": "Who among the following is the author of the book ‘The Problems of the Far East’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lawrence"
+        },
+        {
+          "id": "b",
+          "text": "Curzon"
+        },
+        {
+          "id": "c",
+          "text": "Churchill"
+        },
+        {
+          "id": "d",
+          "text": "Lytton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Curzon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q87",
+      "type": "single-choice",
+      "text": "Who wrote ‘The Untold Story’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brigadier Dalvi"
+        },
+        {
+          "id": "b",
+          "text": "General Kaul"
+        },
+        {
+          "id": "c",
+          "text": "Admiral Bhagwat"
+        },
+        {
+          "id": "d",
+          "text": "Air Marshal Keelor"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: General Kaul",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q88",
+      "type": "single-choice",
+      "text": "The famous book ‘The Alphabet’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buhler"
+        },
+        {
+          "id": "b",
+          "text": "David Diringer"
+        },
+        {
+          "id": "c",
+          "text": "G.S. Ojha"
+        },
+        {
+          "id": "d",
+          "text": "Sir William Jons"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: David Diringer",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q89",
+      "type": "single-choice",
+      "text": "The book ‘The Proudest Day’ was authored by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alok Bhalla"
+        },
+        {
+          "id": "b",
+          "text": "Durga Das"
+        },
+        {
+          "id": "c",
+          "text": "Chandra Kumar and Mohindra Puri"
+        },
+        {
+          "id": "d",
+          "text": "Anthony Read and David Fisher"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Anthony Read and David Fisher",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q90",
+      "type": "single-choice",
+      "text": "Whose autobiography is the book ‘My Music, My Life’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pandit Shiv Kumar Sharma"
+        },
+        {
+          "id": "b",
+          "text": "Ustad Amjad Ali Khan"
+        },
+        {
+          "id": "c",
+          "text": "Pandit Ravi Shankar"
+        },
+        {
+          "id": "d",
+          "text": "Ustad Zakir Hussain"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Pandit Ravi Shankar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q91",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is not correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Baki Itihas - Badal Sarkar"
+        },
+        {
+          "id": "b",
+          "text": "Sita - Vishnu Das Swayamvar Bhave"
+        },
+        {
+          "id": "c",
+          "text": "Yayati - Girish Karnad"
+        },
+        {
+          "id": "d",
+          "text": "Giddha - Jabbar Patel"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Yayati - Girish Karnad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q92",
+      "type": "single-choice",
+      "text": "The author of ‘Love and Longing in Bombay’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vikram Chandra"
+        },
+        {
+          "id": "b",
+          "text": "Arundhati Roy"
+        },
+        {
+          "id": "c",
+          "text": "Raj Kamal Jha"
+        },
+        {
+          "id": "d",
+          "text": "Kiran Desai"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vikram Chandra",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q93",
+      "type": "single-choice",
+      "text": "‘Godan’ and ‘Gaban’ are the works of the same author. What is his name?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rabindra Nath Thakur"
+        },
+        {
+          "id": "b",
+          "text": "Munshi Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Kalidas"
+        },
+        {
+          "id": "d",
+          "text": "Nirala"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Munshi Premchand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1998"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q94",
+      "type": "single-choice",
+      "text": "The author of ‘Nirmala’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jaishankar Prasad"
+        },
+        {
+          "id": "b",
+          "text": "Munshi Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Maithili Sharan Gupta"
+        },
+        {
+          "id": "d",
+          "text": "Mohan Rakesh"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Munshi Premchand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q95",
+      "type": "single-choice",
+      "text": "Which one of the following books is not written by Kalidas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meghadutam"
+        },
+        {
+          "id": "b",
+          "text": "Kumarasambhavam"
+        },
+        {
+          "id": "c",
+          "text": "Uttararamacharitam"
+        },
+        {
+          "id": "d",
+          "text": "Ritusamharam"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Uttararamacharitam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2017"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q96",
+      "type": "single-choice",
+      "text": "Soj-e-Vatan is the book written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mahadevi Verma"
+        },
+        {
+          "id": "b",
+          "text": "Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Sumitra Nandan Pant"
+        },
+        {
+          "id": "d",
+          "text": "Suryakant Tripathi ‘Nirala’"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Premchand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q97",
+      "type": "single-choice",
+      "text": "The author of ‘Malgudi Days’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "K. Abbas"
+        },
+        {
+          "id": "b",
+          "text": "R.K. Narayan"
+        },
+        {
+          "id": "c",
+          "text": "Laxman Seth"
+        },
+        {
+          "id": "d",
+          "text": "Mulkraj Anand"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: R.K. Narayan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1993"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q98",
+      "type": "single-choice",
+      "text": "Which of the following pair is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C. Rajagopalachari - India Wins Freedom"
+        },
+        {
+          "id": "b",
+          "text": "Mani Shankar Aiyar - The Pakistan Papers"
+        },
+        {
+          "id": "c",
+          "text": "Savita Pande - The Path to Power"
+        },
+        {
+          "id": "d",
+          "text": "Margaret Thatcher - The Future of N.P.T."
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mani Shankar Aiyar - The Pakistan Papers",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1994"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q99",
+      "type": "single-choice",
+      "text": "The author of ‘The Golden Gate’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amitabh Ghosh"
+        },
+        {
+          "id": "b",
+          "text": "Ernest Hemingway"
+        },
+        {
+          "id": "c",
+          "text": "Sir Walter Scott"
+        },
+        {
+          "id": "d",
+          "text": "Vikram Seth"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Vikram Seth",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1990"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q100",
+      "type": "single-choice",
+      "text": "Who among the following Journal- ists has written his autobiography entitled the ‘Lucknow Boy’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vinod Mehta"
+        },
+        {
+          "id": "b",
+          "text": "Alok Mehta"
+        },
+        {
+          "id": "c",
+          "text": "Narendra Mohan"
+        },
+        {
+          "id": "d",
+          "text": "Pritish Nandi"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vinod Mehta",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2012 UPRO/ARO (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q101",
+      "type": "single-choice",
+      "text": "‘Silent Spring’ was written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rachel Carson"
+        },
+        {
+          "id": "b",
+          "text": "Linnaeus"
+        },
+        {
+          "id": "c",
+          "text": "Richard Wetherald"
+        },
+        {
+          "id": "d",
+          "text": "Joseph Fourier"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Rachel Carson",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q102",
+      "type": "single-choice",
+      "text": "Who wrote ‘The Satanic Verses’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arundhati Roy"
+        },
+        {
+          "id": "b",
+          "text": "Vikram Seth"
+        },
+        {
+          "id": "c",
+          "text": "Salman Rushdie"
+        },
+        {
+          "id": "d",
+          "text": "Taslima Nasreen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Salman Rushdie",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q103",
+      "type": "single-choice",
+      "text": "‘Two Years Eight Months and Twenty-Eight Nights’ is a book written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jai Ram Ramesh"
+        },
+        {
+          "id": "b",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "c",
+          "text": "Salman Rushdie"
+        },
+        {
+          "id": "d",
+          "text": "Jhumpa Lahiri"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Salman Rushdie",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Re. Exam)(Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q104",
+      "type": "single-choice",
+      "text": "Who is the author of the book ‘Namesake’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kiran Desai"
+        },
+        {
+          "id": "b",
+          "text": "Chetan Bhagat"
+        },
+        {
+          "id": "c",
+          "text": "Arundhati Roy"
+        },
+        {
+          "id": "d",
+          "text": "Jhumpa Lahiri"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Jhumpa Lahiri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q105",
+      "type": "single-choice",
+      "text": "The author of the book ‘The Road Ahead’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bill Clinton"
+        },
+        {
+          "id": "b",
+          "text": "Bill Gates"
+        },
+        {
+          "id": "c",
+          "text": "Vikram Seth"
+        },
+        {
+          "id": "d",
+          "text": "Salman Rushdie"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Bill Gates",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q106",
+      "type": "single-choice",
+      "text": "The author of ‘Manas ke Hans’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jai Shankar Prasad"
+        },
+        {
+          "id": "b",
+          "text": "Premchand"
+        },
+        {
+          "id": "c",
+          "text": "Amritlal Nagar"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Amritlal Nagar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q107",
+      "type": "single-choice",
+      "text": "Sumitra Nandan Pant has been known as",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bhaktivadi poet"
+        },
+        {
+          "id": "b",
+          "text": "Chhayavadi poet"
+        },
+        {
+          "id": "c",
+          "text": "Pragativadi poet"
+        },
+        {
+          "id": "d",
+          "text": "Veer ras poet"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Chhayavadi poet",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Mains) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q108",
+      "type": "single-choice",
+      "text": "The author of ‘Dyna : A Tribute’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Peter Donnelly"
+        },
+        {
+          "id": "b",
+          "text": "Tim Graham"
+        },
+        {
+          "id": "c",
+          "text": "Julia Delano"
+        },
+        {
+          "id": "d",
+          "text": "Andrew Morton"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Julia Delano",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q109",
+      "type": "single-choice",
+      "text": "Who is Cornelius Fudge in the novel ‘Harry Potter’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Friend of Harry Potter"
+        },
+        {
+          "id": "b",
+          "text": "The Minister of Magic"
+        },
+        {
+          "id": "c",
+          "text": "A King"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: The Minister of Magic",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q110",
+      "type": "single-choice",
+      "text": "The book ‘Bullet for Bullet : My Life as a Police Officer’ is authored by",
+      "options": [
+        {
+          "id": "a",
+          "text": "K.P.S. Gill"
+        },
+        {
+          "id": "b",
+          "text": "Julius Rebeiro"
+        },
+        {
+          "id": "c",
+          "text": "Kiran Bedi"
+        },
+        {
+          "id": "d",
+          "text": "Ashwani Kumar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Julius Rebeiro",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q111",
+      "type": "single-choice",
+      "text": "Who wrote the book entitled ‘Romancing with Life : An Autobi- ography’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Devanand"
+        },
+        {
+          "id": "b",
+          "text": "Kalpana Chawla"
+        },
+        {
+          "id": "c",
+          "text": "Amitabh Bachchan"
+        },
+        {
+          "id": "d",
+          "text": "Anupam Kher"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Devanand",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2006"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q112",
+      "type": "single-choice",
+      "text": "Which one of the following pairs is correctly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "W.C. Smith - The Muslims of British India"
+        },
+        {
+          "id": "b",
+          "text": "Khalid B. Sayeed - Pakistan : The Formative Phase (1857-1948)"
+        },
+        {
+          "id": "c",
+          "text": "Peter Hardy - Khilafat to Partition"
+        },
+        {
+          "id": "d",
+          "text": "Moin Shakir - Modern Islam in India"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Khalid B. Sayeed - Pakistan : The Formative Phase (1857-1948)",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2015"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q113",
+      "type": "single-choice",
+      "text": "Who has written the book ‘Heart of India’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Khushwant Singh"
+        },
+        {
+          "id": "b",
+          "text": "Mark Tully"
+        },
+        {
+          "id": "c",
+          "text": "R.K. Narayanan"
+        },
+        {
+          "id": "d",
+          "text": "Anita Desai"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Mark Tully",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q114",
+      "type": "single-choice",
+      "text": "The author of the book ‘Lajja’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sheikh Mujibur Rehman"
+        },
+        {
+          "id": "b",
+          "text": "Taslima Nasrin"
+        },
+        {
+          "id": "c",
+          "text": "Kiran Bedi"
+        },
+        {
+          "id": "d",
+          "text": "Arundhati Roy"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Taslima Nasrin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand UDA/LDA (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q115",
+      "type": "single-choice",
+      "text": "What is the name of the controversial novel written by Taslima Nasrin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tamas"
+        },
+        {
+          "id": "b",
+          "text": "Water"
+        },
+        {
+          "id": "c",
+          "text": "Lajja"
+        },
+        {
+          "id": "d",
+          "text": "Fire"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lajja",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q116",
+      "type": "single-choice",
+      "text": "The Book ‘Nineteen Eighty Four’ is written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "R.K. Narayanan"
+        },
+        {
+          "id": "b",
+          "text": "Khushwant Singh"
+        },
+        {
+          "id": "c",
+          "text": "George Orwell"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: George Orwell",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "48th to 52nd BPSC (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q117",
+      "type": "single-choice",
+      "text": "Who wrote the fiction ‘The God of Small Things’ in English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shobha De"
+        },
+        {
+          "id": "b",
+          "text": "R.K. Narayanan"
+        },
+        {
+          "id": "c",
+          "text": "Mulkraj Anand"
+        },
+        {
+          "id": "d",
+          "text": "Arundhati Roy"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Arundhati Roy",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q118",
+      "type": "single-choice",
+      "text": "Who is the author of ‘Mrignayani’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vrindavan Lal Verma"
+        },
+        {
+          "id": "b",
+          "text": "Acharya Chatursen"
+        },
+        {
+          "id": "c",
+          "text": "Amritlal Nagar"
+        },
+        {
+          "id": "d",
+          "text": "Bhagavati Charan Verma"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vrindavan Lal Verma",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q119",
+      "type": "single-choice",
+      "text": "Which of the following Hindi works was written first?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Indravati"
+        },
+        {
+          "id": "b",
+          "text": "Padmavati"
+        },
+        {
+          "id": "c",
+          "text": "Madhumalti"
+        },
+        {
+          "id": "d",
+          "text": "Mrigavati"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Mrigavati",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q120",
+      "type": "single-choice",
+      "text": "‘India from Curzon to Nehru’ is the book of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kuldip Nayyar"
+        },
+        {
+          "id": "b",
+          "text": "Durga Das"
+        },
+        {
+          "id": "c",
+          "text": "Nirad C. Chaudhuri"
+        },
+        {
+          "id": "d",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Durga Das",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1991"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q121",
+      "type": "single-choice",
+      "text": "The book entitled ‘India from Curzon to Nehru and After’ is written by",
+      "options": [
+        {
+          "id": "a",
+          "text": "Durga Das"
+        },
+        {
+          "id": "b",
+          "text": "Web Miller"
+        },
+        {
+          "id": "c",
+          "text": "Frank Moraes"
+        },
+        {
+          "id": "d",
+          "text": "Louis Fischer"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Durga Das",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Spl)(Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q122",
+      "type": "single-choice",
+      "text": "Who has written ‘An Equal Music’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shobha De"
+        },
+        {
+          "id": "b",
+          "text": "Vikram Seth"
+        },
+        {
+          "id": "c",
+          "text": "Khushwant Singh"
+        },
+        {
+          "id": "d",
+          "text": "Anita Desai"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vikram Seth",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q123",
+      "type": "single-choice",
+      "text": "The writer of ‘Bikhre Moti’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Muktibodh"
+        },
+        {
+          "id": "b",
+          "text": "Agyeya"
+        },
+        {
+          "id": "c",
+          "text": "Subhadra Kumari Chauhan"
+        },
+        {
+          "id": "d",
+          "text": "Dinkar Sonwalkar"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Subhadra Kumari Chauhan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2015 MPPCS (Spl)(Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q124",
+      "type": "single-choice",
+      "text": "What is the name of the writer of ‘Naukar Ki Kameez’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ashok Vajpayee"
+        },
+        {
+          "id": "b",
+          "text": "Vinod Kumar Shukla"
+        },
+        {
+          "id": "c",
+          "text": "Bhawani Prasad Mishra"
+        },
+        {
+          "id": "d",
+          "text": "Prabhakar Shukla"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Vinod Kumar Shukla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q125",
+      "type": "single-choice",
+      "text": "Who was the writer of the novel ‘David Copperfield’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thomas Hardy"
+        },
+        {
+          "id": "b",
+          "text": "Charles Lamb"
+        },
+        {
+          "id": "c",
+          "text": "Charles Dickens"
+        },
+        {
+          "id": "d",
+          "text": "Thomas Mann"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Charles Dickens",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2005"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q126",
+      "type": "single-choice",
+      "text": "The story of the book named ‘The Proudest Day’ is related to",
+      "options": [
+        {
+          "id": "a",
+          "text": "The integration of the Indian States"
+        },
+        {
+          "id": "b",
+          "text": "The independence of India"
+        },
+        {
+          "id": "c",
+          "text": "The Pokhran nuclear explosion"
+        },
+        {
+          "id": "d",
+          "text": "The formation of NDA Government in the centre"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: The independence of India",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2003, 01 UP UDA/LDA (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q127",
+      "type": "single-choice",
+      "text": "Taslima Nasreen is not the author of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lajja"
+        },
+        {
+          "id": "b",
+          "text": "Utol Hawa Ki"
+        },
+        {
+          "id": "c",
+          "text": "Amar Meye Bela"
+        },
+        {
+          "id": "d",
+          "text": "Amar Sonar Bangla"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Amar Sonar Bangla",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2002 UP Lower Sub. (Spl)(Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q128",
+      "type": "single-choice",
+      "text": "Who wrote the ‘Kamayani’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jai Shankar Prasad"
+        },
+        {
+          "id": "b",
+          "text": "Shamsher Bahadur Singh"
+        },
+        {
+          "id": "c",
+          "text": "Girija Kumar Mathur"
+        },
+        {
+          "id": "d",
+          "text": "Mahadevi Verma"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Jai Shankar Prasad",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2004"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q129",
+      "type": "single-choice",
+      "text": "Who wrote the book ‘Geographical Factors in Indian History’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "K.M. Panikkar"
+        },
+        {
+          "id": "b",
+          "text": "Toyanbee"
+        },
+        {
+          "id": "c",
+          "text": "M.N. Srinivas"
+        },
+        {
+          "id": "d",
+          "text": "Jamna Das"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: K.M. Panikkar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q130",
+      "type": "single-choice",
+      "text": "Who wrote the book named ‘Baiga’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "S.C. Roy"
+        },
+        {
+          "id": "b",
+          "text": "D.N. Majumdar"
+        },
+        {
+          "id": "c",
+          "text": "Verrier Elwin"
+        },
+        {
+          "id": "d",
+          "text": "H. Rizle"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Verrier Elwin",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q131",
+      "type": "single-choice",
+      "text": "Which of the following novels is not written by Sharat Chandra?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Charitraheen"
+        },
+        {
+          "id": "b",
+          "text": "Rangbhumi"
+        },
+        {
+          "id": "c",
+          "text": "Srikant"
+        },
+        {
+          "id": "d",
+          "text": "Shesh Prashna"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rangbhumi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 1997"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q132",
+      "type": "single-choice",
+      "text": "What is the name of Khushwant Singh’s autobiography?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Last Moor Last Sigh"
+        },
+        {
+          "id": "b",
+          "text": "Truth Love and a Little Malice"
+        },
+        {
+          "id": "c",
+          "text": "The End Racism"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Truth Love and a Little Malice",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1995"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q133",
+      "type": "single-choice",
+      "text": "Who is the author of the book ‘New Dimensions of India’s Foreign Policy’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A.B. Vajpayee"
+        },
+        {
+          "id": "b",
+          "text": "Jaswant Singh"
+        },
+        {
+          "id": "c",
+          "text": "P.C. Alexander"
+        },
+        {
+          "id": "d",
+          "text": "Yashwant Sinha"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A.B. Vajpayee",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q134",
+      "type": "single-choice",
+      "text": "The author of ‘Ignited Minds’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "A.P.J. Abdul Kalam"
+        },
+        {
+          "id": "b",
+          "text": "Balasaheb Thackeray"
+        },
+        {
+          "id": "c",
+          "text": "Khushwant Singh"
+        },
+        {
+          "id": "d",
+          "text": "Nayantara Sahgal"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: A.P.J. Abdul Kalam",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002 UP UDA/LDA (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q135",
+      "type": "single-choice",
+      "text": "Who is the author of the book named ‘The Post-American World’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arun Shourie"
+        },
+        {
+          "id": "b",
+          "text": "Barack Obama"
+        },
+        {
+          "id": "c",
+          "text": "Fareed Zakaria"
+        },
+        {
+          "id": "d",
+          "text": "Jagmohan"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Fareed Zakaria",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Spl)(Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q136",
+      "type": "single-choice",
+      "text": "Who wrote the book - The Story of The Integration of the Indian States?",
+      "options": [
+        {
+          "id": "a",
+          "text": "B.N. Rao"
+        },
+        {
+          "id": "b",
+          "text": "C. Rajagopalachari"
+        },
+        {
+          "id": "c",
+          "text": "Krishna Menon"
+        },
+        {
+          "id": "d",
+          "text": "V.P. Menon"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: V.P. Menon",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q137",
+      "type": "single-choice",
+      "text": "Who of the following wrote the book named ‘Ayodhya December, 1992’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chandra Shekhar"
+        },
+        {
+          "id": "b",
+          "text": "P.V. Narasimha Rao"
+        },
+        {
+          "id": "c",
+          "text": "Jaswant Singh"
+        },
+        {
+          "id": "d",
+          "text": "Arun Shourie"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: P.V. Narasimha Rao",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q138",
+      "type": "single-choice",
+      "text": "The author of the book ‘World of All Human Rights : Soli J. Sorabjee A Festschriff’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Chetan Bhagat"
+        },
+        {
+          "id": "b",
+          "text": "Vishnu Sahai"
+        },
+        {
+          "id": "c",
+          "text": "R.N. Trivedi"
+        },
+        {
+          "id": "d",
+          "text": "Arun Jaitely"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: R.N. Trivedi",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q139",
+      "type": "single-choice",
+      "text": "Who among the following translated the autobiography of Madam Curie in Hindi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atal Bihari Vajpayee"
+        },
+        {
+          "id": "b",
+          "text": "Lal Bahadur Shastri"
+        },
+        {
+          "id": "c",
+          "text": "Chaudhary Charan Singh"
+        },
+        {
+          "id": "d",
+          "text": "Gobind Ballabh Pant"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Lal Bahadur Shastri",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q140",
+      "type": "single-choice",
+      "text": "Who among the following wrote the poem, Subh-e-Azadi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sahir Ludhiyanvi"
+        },
+        {
+          "id": "b",
+          "text": "Faiz Ahmed Faiz"
+        },
+        {
+          "id": "c",
+          "text": "Muhammad Iqbal"
+        },
+        {
+          "id": "d",
+          "text": "Maulana Abul Kalam Azad"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Faiz Ahmed Faiz",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q141",
+      "type": "single-choice",
+      "text": "Elizabeth Hawley is well-known for her writings relating to which one of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Historical monuments in India"
+        },
+        {
+          "id": "b",
+          "text": "Regional dances in India"
+        },
+        {
+          "id": "c",
+          "text": "Himalayan expeditions"
+        },
+        {
+          "id": "d",
+          "text": "Wildlife in India"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Himalayan expeditions",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q142",
+      "type": "single-choice",
+      "text": "Who is the author of ‘The Audacity of Hope’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Al Gore"
+        },
+        {
+          "id": "b",
+          "text": "Barack Obama"
+        },
+        {
+          "id": "c",
+          "text": "Bill Clinton"
+        },
+        {
+          "id": "d",
+          "text": "Hillary Clinton"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Barack Obama",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Tripura PSC (Pre) 2018 Uttarakhand UDA/LDA (Mains) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q143",
+      "type": "single-choice",
+      "text": "Who authored the book ‘Politics in India’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bidyut Chakrabarty"
+        },
+        {
+          "id": "b",
+          "text": "Rajni Kothari"
+        },
+        {
+          "id": "c",
+          "text": "Romila Thapar"
+        },
+        {
+          "id": "d",
+          "text": "A.K. Dubey"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Rajni Kothari",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013 UPRO/ARO (Pre) 2016"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q144",
+      "type": "single-choice",
+      "text": "Who is the ghost writer of Parvez Musharraf’s biography ‘In the Line of Fire’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Humayun Gohar"
+        },
+        {
+          "id": "b",
+          "text": "Hamidi Kashmiri"
+        },
+        {
+          "id": "c",
+          "text": "Jabir Hussain"
+        },
+        {
+          "id": "d",
+          "text": "None of the above"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Humayun Gohar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q145",
+      "type": "single-choice",
+      "text": "Who is the author of ‘Andhayug’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ramdhari Singh ‘Dinkar’"
+        },
+        {
+          "id": "b",
+          "text": "Mahaveer Prasad Diwedi"
+        },
+        {
+          "id": "c",
+          "text": "Dharam Veer Bharti"
+        },
+        {
+          "id": "d",
+          "text": "Mohan Rakesh"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Dharam Veer Bharti",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "RAS/RTS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q146",
+      "type": "single-choice",
+      "text": "Who amongst the following drafted the ‘Sarvodaya Plan’?",
+      "options": [
+        {
+          "id": "a",
+          "text": "M.N. Roy"
+        },
+        {
+          "id": "b",
+          "text": "Jai Prakash Narayan"
+        },
+        {
+          "id": "c",
+          "text": "Morarji Desai"
+        },
+        {
+          "id": "d",
+          "text": "Shriman Narayan Aggarwal"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Jai Prakash Narayan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q147",
+      "type": "single-choice",
+      "text": "Author of the book ‘One-day Wonders’ is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ravi Shastri"
+        },
+        {
+          "id": "b",
+          "text": "Sunil Gavaskar"
+        },
+        {
+          "id": "c",
+          "text": "G. Vishwanath"
+        },
+        {
+          "id": "d",
+          "text": "Dilip Vengasarkar"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Sunil Gavaskar",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "MPPCS (Pre) 2014"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q148",
+      "type": "single-choice",
+      "text": "Which one of the following pairs (Author and Book) properly matched?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sunil Gavaskar - Cricket - My Style"
+        },
+        {
+          "id": "b",
+          "text": "Hillary Clinton - Living History"
+        },
+        {
+          "id": "c",
+          "text": "Dominique Lapierre - Myth of Mahatma"
+        },
+        {
+          "id": "d",
+          "text": "Minoo Masani - The Struggle for Peace"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Hillary Clinton - Living History",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q149",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Amritlal Nagar (b) Sumitra Nandan Pant (c) Sharat Chandra Chatterjee (d) Jaidev List-II 1. Devdas 2. Geet Govind 3. Amrit aur Vish 4. Chidambara Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 4 1 2",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q150",
+      "type": "single-choice",
+      "text": "Arrange the poems of Late Harivansh Rai Bachchan in chrono- logical order and choose the correct answer from the code given below. 1. Madhukalash 2. Madhubala 3. Madhushala",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3"
+        },
+        {
+          "id": "b",
+          "text": "2, 3, 1"
+        },
+        {
+          "id": "c",
+          "text": "3, 2, 1"
+        },
+        {
+          "id": "d",
+          "text": "2, 1, 3"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3, 2, 1",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Spl)(Pre) 2003, 02"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q151",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Munshi Insha Alla Khan (b) Babu Devki Nandan Khatri (c) Pt. Pratap Narain Mishra (d) Jai Shankar Prasad List-II 1. Hathi Hamir 2. Kankal 3. Kajar Ki Kothri 4. Udaibhan Charit Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 3 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Telangana PSC (Pre) 2017 UPPCS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q152",
+      "type": "match-the-following",
+      "text": "Match the following correctly. List-I (a) India Wins Freedom (b) Runs and Ruins (c) Young India (d) New India List-II 1. Sunil Gavaskar 2. Abul Kalam Azad 3. Mahatma Gandhi 4. Annie Besant Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "d",
+          "text": "4 2 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 3 4",
+      "estimatedTimeSeconds": 120,
+      "tags": [
+        "UPPCS (Pre) 1992"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q153",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Surendra Nath Banerjee (b) M.K. Gandhi (c) Subhash Chandra Bose (d) Lajpat Rai List-II 1. Hind Swaraj 2. The Indian Struggle 3. Autobiographical Writings 4. A Nation in Making Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "b",
+          "text": "1 4 3 2"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 2 3"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 4 1 2 3",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q154",
+      "type": "match-the-following",
+      "text": "Match the names mentioned in List-I with the names mentioned in List-II and select the right answer using the code given below. List-I (Books) (a) History of the Freedom Move- ment in India (b) History of the Freedom Movement in Bihar (c) Anand Math (d) Precepts of Jesus (e) Our Indian Musalmans List-II (Authors) 1. Tara Chand 2. W.W. Hunter 3. Raja Ram Mohan Roy 4. Father Bulke 5. K.K. Dutta 6. Bankim Chandra Chatterjee Code (a) (b) (c) (d) (e)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 4 6 3 2"
+        },
+        {
+          "id": "b",
+          "text": "2 4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "1 5 6 3 2"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4 5"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 1 5 6 3 2",
+      "estimatedTimeSeconds": 155,
+      "tags": [
+        "41st BPSC (Pre) 1996"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q155",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Authors) (a) Bankim Chandra Chatterjee (b) Michael Madhusudan Dutt (c) Rabindra Nath Tagore (d) Sarojini Naidu List-II (Works) 1. Anand Math 2. Captive Lady 3. Gora 4. The Broken Wing Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 1 2 3 4",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Pre) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q156",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Authors) (a) Mahatma Gandhi (b) Ram Manohar Lohia (c) Dr. Rajendra Prasad (d) Abul Kalam Azad List-II (Works) 1. India Divided 2. India Wins Freedom 3. Hind Swaraj 4. The Wheel of History Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 4 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "2 3 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q157",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Authors) (a) Rajendra Prasad (b) Dilip Mukherjee (c) S.N. Banerjee (d) Mahatma Gandhi List-II (Books) 1. Nation in Making 2. India Divided 3. My Experiments with Truth 4. Terrorist Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 4 3"
+        },
+        {
+          "id": "b",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "c",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "d",
+          "text": "2 4 3 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 4 1 3",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Mains) 2003"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q158",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Authors) (a) Bankim Chandra (b) Dinbandhu Mitra (c) Premchand List-II (Works) 1. Shatranj Ke Khilari 2. Debi Chaudhrani 3. Nil Darpan 4. Chandrakanta Code (a) (b) (c)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "3 4 2"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1"
+        },
+        {
+          "id": "d",
+          "text": "3 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 3 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "IAS (Pre) 2008"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q159",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) The First Indian War of Independence (b) Anand Math (c) Life Divine (d) Sadhana List-II (Authors) 1. Rabindra Nath Tagore 2. Sri Aurobindo 3. Bankim Chandra Chatterjee 4. Vinayak Damodar Savarkar Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "b",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "c",
+          "text": "4 3 1 2"
+        },
+        {
+          "id": "d",
+          "text": "3 4 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 4 3 2 1",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q160",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Lady Catherine Mayo (b) Larry Collins and Dominique Lapierre (c) Ram Manohar Lohia (d) Jawaharlal Nehru List-II 1. Freedom at Midnight 2. Mother India 3. Discovery of India 4. Guilty Men of India’s Partition Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "b",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "c",
+          "text": "1 2 4 3"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 1 4 3",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UPPCS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q161",
+      "type": "match-the-following",
+      "text": "Match the names of the authors with that of the books and choose your answer from the code given below. List-I (Authors) (a) R.C. Dutt (b) J.R. Mclane (c) B.N. Ganguli (d) Bipin Chandra List-II (Books) 1. Indian Economic Thought - 19 th Century Perspectives 2. The Economic History of India under Early British Rule 3. Indian Nationalism and the Early Congress 4. The Rise and Growth of Economic Nationalism in India Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "b",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "4 1 3 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 3 1 4",
+      "estimatedTimeSeconds": 155,
+      "tags": [
+        "RAS/RTS (Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q162",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (a) Priya Pravas (b) Gaban (c) Eternal India (d) Shah Nama List-II 1. Indira Gandhi 2. Ayodhya Prasad 3. Premchand 4. Firdausi Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "c",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 3 1 4",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UPPCS (Mains) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q163",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) Autobiography of an Unknown Indian (b) India : A Wounded Civilization (c) Confessions of a Lover (d) The English Teacher List-II (Authors) 1. Mulk Raj Anand 2. Nirad C. Chaudhari 3. R.K. Narayan 4. V.S. Naipaul Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "b",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "c",
+          "text": "1 4 2 3"
+        },
+        {
+          "id": "d",
+          "text": "2 3 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 4 1 3",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q164",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) My Music My Life (b) Adha Gaon (c) Radha (d) The Pilferer List-II (Authors) 1. Laxman Gaikwad 2. Rahi Masoom Raza 3. Ramakanta Rath 4. Ravi Shankar Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "d",
+          "text": "3 1 4 2"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 2 3 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Haryana PSC (Pre) 2017 IAS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q165",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Writers) (a) Sashi Tharoor (b) Amitabh Ghosh (c) Anita Desai (d) Vikram Chandra List-II (Books) 1. Clear Light of Day 2. Circle of Reason 3. Love and Longing in Bombay 4. Show Business Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "2 4 3 1"
+        },
+        {
+          "id": "d",
+          "text": "2 4 1 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 4 2 1 3",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 1999"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q166",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) Ghar Aur Adalat (b) Jhopri Se Rashtrapati Bhawan Tak (c) Imagining India (d) Journey through Babudom and Neta land List-II (Authors) 1. T.S.R. Subramaniam 2. Nandan Nilekani 3. Mahendra Kulshrestha 4. Leila Seth Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 3 2"
+        },
+        {
+          "id": "b",
+          "text": "4 3 2 1"
+        },
+        {
+          "id": "c",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "d",
+          "text": "3 2 4 1"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 4 3 2 1",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "UP UDA/LDA (Mains) 2010"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q167",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) The Struggle in My Life (b) The Struggle and the Triumph (c) Friends and Foes (d) Rebirth List-II (Authors) 1. Lech Walesa 2. Nelson Mandela 3. Leonid Brezhnev 4. Zulfiqar Ali Bhutto 5. Sheikh Mujibur Rehman Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 5 3"
+        },
+        {
+          "id": "b",
+          "text": "2 1 5 3"
+        },
+        {
+          "id": "c",
+          "text": "1 2 3 4"
+        },
+        {
+          "id": "d",
+          "text": "2 1 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option B: 2 1 5 3",
+      "estimatedTimeSeconds": 140,
+      "tags": [
+        "IAS (Pre) 2001"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q168",
+      "type": "match-the-following",
+      "text": "Match the following. List-I (Books) (a) Price of Partition (b) Anand Math (c) India 2020 (d) Pathology of Corruption List-II (Authors) 1. Abul Kalam 2. S.S. Gill 3. Rafiq Zakaria 4. Bankim Chandra Chatterjee Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 4 2 1"
+        },
+        {
+          "id": "b",
+          "text": "4 2 3 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 1 2",
+      "estimatedTimeSeconds": 125,
+      "tags": [
+        "UP UDA/LDA (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q169",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) The Price of Partition (b) Ulysses (c) India 2020 (d) Pathology of corruption List-II (Authors) 1. Abul Kalam 2. S.S. Gill 3. Rafiq Zakaria 4. James Joyce 5. P.N. Chopra Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 5 1 2"
+        },
+        {
+          "id": "b",
+          "text": "4 2 5 1"
+        },
+        {
+          "id": "c",
+          "text": "3 4 1 2"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 5"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 4 1 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UP Lower Sub. (Pre) 2004 UPPCS (Pre) 2000"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q170",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) Half a Life (b) Worshipping False Gods (c) Agni Ki Udaan (d) Jeet Apki List-II (Authors) 1. Arun Shourie 2. Shiv Khera 3. V.S. Naipaul 4. A.P.J. Abdul Kalam 5. James and Jougeward Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 2 3 5"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "3 1 4 2"
+        },
+        {
+          "id": "d",
+          "text": "1 3 2 5"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 1 4 2",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2002"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q171",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) Gandhian Constitution for India (b) The Republic of India (c) The White Umbrella (d) The Politics of India since Independence List-II (Authors) 1. D. Mackenzie Brown 2. Sriman Narayan 3. A. Gledhill 4. Paul R. Brass Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 4 1 3"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "2 3 1 4"
+        },
+        {
+          "id": "d",
+          "text": "1 2 3 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 2 3 1 4",
+      "estimatedTimeSeconds": 145,
+      "tags": [
+        "RAS/RTS (Re. Exam)(Pre) 2013"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q172",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Persons) (a) V.S. Naipaul (b) Salman Rushdie (c) Paul Scott (d) J.G. Farrell List-II (Books) 1. The Siege of Krishnapur 2. In a Free State 3. Midnight’s Children 4. Staying On Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 3 4 1"
+        },
+        {
+          "id": "b",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "c",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "d",
+          "text": "4 3 2 1"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 2 3 4 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2007"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q173",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Books) (a) In Custody (b) Sea of Poppies (c) The Argumentative Indian (d) Unaccustomed Earth List-II (Authors) 1. Amartya Sen 2. Amitav Ghosh 3. Anita Desai 4. Jhumpa Lahiri Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 1 2 3"
+        },
+        {
+          "id": "b",
+          "text": "4 2 1 3"
+        },
+        {
+          "id": "c",
+          "text": "3 2 1 4"
+        },
+        {
+          "id": "d",
+          "text": "3 1 2 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 2 1 4",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "IAS (Pre) 2009"
+      ]
+    },
+    {
+      "id": "general-awareness-books-and-authors-q174",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Works) (a) Tabaqat-i-Akbari (b) Tabaqat-i-Nasiri (c) Tarikh-i-Firozshahi (d) Tarikh-i-Yamini List-II (Authors) 1. Al Utbi 2. Minhaj-ud-din bin Siraj-ud-din 3. Nizamuddin 4. Zia-ud-din Barani Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "b",
+          "text": "2 1 4 3"
+        },
+        {
+          "id": "c",
+          "text": "1 3 2 4"
+        },
+        {
+          "id": "d",
+          "text": "3 4 1 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: 3 2 4 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "UPPCS (Mains) 2013"
+      ]
+    }
+  ]
+}

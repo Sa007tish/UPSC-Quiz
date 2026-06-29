@@ -1,0 +1,1201 @@
+{
+  "bankId": "general-science-chemistry-fuel",
+  "subject": "Science",
+  "topic": "Fuel",
+  "source": "PYQ",
+  "examYear": null,
+  "version": 1,
+  "questions": [
+    {
+      "id": "general-science-chemistry-fuel-q1",
+      "type": "single-choice",
+      "text": "Which one of the following has the highest fuel value?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Charcoal"
+        },
+        {
+          "id": "c",
+          "text": "Natural gas"
+        },
+        {
+          "id": "d",
+          "text": "Gasoline"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hydrogen",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q2",
+      "type": "single-choice",
+      "text": "Octane number is a measure of the quality of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Edible oils"
+        },
+        {
+          "id": "b",
+          "text": "Petrol"
+        },
+        {
+          "id": "c",
+          "text": "Kerosene oil"
+        },
+        {
+          "id": "d",
+          "text": "Perfumed oil"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Petrol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q3",
+      "type": "single-choice",
+      "text": "Which of the following is a natural fuel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coal gas"
+        },
+        {
+          "id": "b",
+          "text": "Tar"
+        },
+        {
+          "id": "c",
+          "text": "Coke"
+        },
+        {
+          "id": "d",
+          "text": "Petroleum"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Petroleum",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1990",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q4",
+      "type": "single-choice",
+      "text": "Which of the following fossil fuels is the cleanest fuel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Coal"
+        },
+        {
+          "id": "b",
+          "text": "Petrol"
+        },
+        {
+          "id": "c",
+          "text": "Natural gas"
+        },
+        {
+          "id": "d",
+          "text": "Diesel"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Natural gas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (RI) 2014 UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q5",
+      "type": "single-choice",
+      "text": "Cetane number is used as a quality parameter mainly for which of the following?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petrol"
+        },
+        {
+          "id": "b",
+          "text": "Kerosene"
+        },
+        {
+          "id": "c",
+          "text": "Diesel"
+        },
+        {
+          "id": "d",
+          "text": "Turpentine Oil"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Diesel",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP Lower Sub. (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q6",
+      "type": "single-choice",
+      "text": "The fuel used in a diesel engine",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vapour of diesel and air"
+        },
+        {
+          "id": "b",
+          "text": "Diesel only"
+        },
+        {
+          "id": "c",
+          "text": "Mixture of diesel and petrol"
+        },
+        {
+          "id": "d",
+          "text": "Mixture of diesel, air and petrol"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Vapour of diesel and air",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1994",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q7",
+      "type": "single-choice",
+      "text": "Cooking gas is mainly",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "b",
+          "text": "Carbon monoxide"
+        },
+        {
+          "id": "c",
+          "text": "Methane"
+        },
+        {
+          "id": "d",
+          "text": "Nitrogen and Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "44th BPSC (Pre) 2000",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q8",
+      "type": "single-choice",
+      "text": "Which one of the following gases, released from biogas plant is used as a fuel gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Butane"
+        },
+        {
+          "id": "b",
+          "text": "Propane"
+        },
+        {
+          "id": "c",
+          "text": "Methane"
+        },
+        {
+          "id": "d",
+          "text": "Ethane"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q9",
+      "type": "single-choice",
+      "text": "Biogas mainly consists of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Carbon dioxide and Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Hydrogen and Methane"
+        },
+        {
+          "id": "c",
+          "text": "Cardon dioxide and Methane"
+        },
+        {
+          "id": "d",
+          "text": "Hydrogen and Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Cardon dioxide and Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q10",
+      "type": "single-choice",
+      "text": "The main component of biogas is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Methane"
+        },
+        {
+          "id": "c",
+          "text": "Butane"
+        },
+        {
+          "id": "d",
+          "text": "Acetylene"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand PCS (Pre) 2012",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q11",
+      "type": "single-choice",
+      "text": "The main component of Gobar Gas is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane"
+        },
+        {
+          "id": "b",
+          "text": "Ethane"
+        },
+        {
+          "id": "c",
+          "text": "Propane"
+        },
+        {
+          "id": "d",
+          "text": "Chlorine"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPSC (GIC) 2010 MPPCS (Pre) 1999",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q12",
+      "type": "single-choice",
+      "text": "Which of the following is the procedure for a biogas plant?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fermentation"
+        },
+        {
+          "id": "b",
+          "text": "Reduction"
+        },
+        {
+          "id": "c",
+          "text": "Hydrogenation"
+        },
+        {
+          "id": "d",
+          "text": "Polymerization"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Fermentation",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UP UDA/LDA (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q13",
+      "type": "single-choice",
+      "text": "Who among the following invented ‘Gobar Gas’ system?",
+      "options": [
+        {
+          "id": "a",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "b",
+          "text": "J.C. Bose"
+        },
+        {
+          "id": "c",
+          "text": "S.V. Desai"
+        },
+        {
+          "id": "d",
+          "text": "H. Khurana"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: S.V. Desai",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q14",
+      "type": "single-choice",
+      "text": "The main component of Liquid Petroleum Gas (LPG) are",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane, Ethane and Hexane"
+        },
+        {
+          "id": "b",
+          "text": "Methane, Pentane and Hexane"
+        },
+        {
+          "id": "c",
+          "text": "Ethane, Propane and Butane"
+        },
+        {
+          "id": "d",
+          "text": "Methane, Carbon Monoxide and Hydrogen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Ethane, Propane and Butane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q15",
+      "type": "single-choice",
+      "text": "What is the main component of L.P.G.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane"
+        },
+        {
+          "id": "b",
+          "text": "Ethane"
+        },
+        {
+          "id": "c",
+          "text": "Propane"
+        },
+        {
+          "id": "d",
+          "text": "Butane"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Butane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPRO/ARO (Mains) 2013 Chhattisgarh PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q16",
+      "type": "single-choice",
+      "text": "LPG used as domestic fuel chiefly contains",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane"
+        },
+        {
+          "id": "b",
+          "text": "Propane"
+        },
+        {
+          "id": "c",
+          "text": "Ethylene"
+        },
+        {
+          "id": "d",
+          "text": "None of these"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: None of these",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "60th to 62nd BPSC (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q17",
+      "type": "single-choice",
+      "text": "Indane gas is a mixture of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Butane and Hydrogen"
+        },
+        {
+          "id": "b",
+          "text": "Butane and Oxygen"
+        },
+        {
+          "id": "c",
+          "text": "Butane and Propane"
+        },
+        {
+          "id": "d",
+          "text": "Methane and Oxygen"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Butane and Propane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2011 Uttarakhand PCS (Pre) 2010 RAS/RTS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q18",
+      "type": "single-choice",
+      "text": "The stench due to leakage from LPG cylinder is because of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane"
+        },
+        {
+          "id": "b",
+          "text": "Propane"
+        },
+        {
+          "id": "c",
+          "text": "Butane"
+        },
+        {
+          "id": "d",
+          "text": "Ethyl mercaptan"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ethyl mercaptan",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2017",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q19",
+      "type": "single-choice",
+      "text": "The Pressure gauge is not given in the domestic LPG cylinders because",
+      "options": [
+        {
+          "id": "a",
+          "text": "They are so costly"
+        },
+        {
+          "id": "b",
+          "text": "They cannot represent the quantity of gas in LPG cylinders"
+        },
+        {
+          "id": "c",
+          "text": "Their use is not safe"
+        },
+        {
+          "id": "d",
+          "text": "They are choked by LPGs"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: They cannot represent the quantity of gas in LPG cylinders",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "42nd BPSC (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q20",
+      "type": "single-choice",
+      "text": "In what form cooking gas is supplied in cylinders?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Liquid"
+        },
+        {
+          "id": "b",
+          "text": "Gas"
+        },
+        {
+          "id": "c",
+          "text": "Solid"
+        },
+        {
+          "id": "d",
+          "text": "Solution"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Liquid",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Uttarakhand Lower Sub. (Pre) 2010",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q21",
+      "type": "single-choice",
+      "text": "CNG is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Compressed Natural Gas"
+        },
+        {
+          "id": "b",
+          "text": "Cyanogen Natural Gas"
+        },
+        {
+          "id": "c",
+          "text": "Condensed Nitrogen Gas"
+        },
+        {
+          "id": "d",
+          "text": "Controlled Natural Gas"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Compressed Natural Gas",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2015",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q22",
+      "type": "single-choice",
+      "text": "CNG used in automobiles to check pollution mainly consists of",
+      "options": [
+        {
+          "id": "a",
+          "text": "CH"
+        },
+        {
+          "id": "b",
+          "text": "CO 4 3"
+        },
+        {
+          "id": "c",
+          "text": "N"
+        },
+        {
+          "id": "d",
+          "text": "H 2 2"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: CH",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q23",
+      "type": "single-choice",
+      "text": "Which is main component of natural gas?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Methane"
+        },
+        {
+          "id": "b",
+          "text": "Ethane"
+        },
+        {
+          "id": "c",
+          "text": "Propane"
+        },
+        {
+          "id": "d",
+          "text": "Benzene"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Methane",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Chhattisgarh PCS (Pre) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q24",
+      "type": "single-choice",
+      "text": "Gasohol is",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethyl alcohol + Petrol"
+        },
+        {
+          "id": "b",
+          "text": "Natural gas + Ethyl alcohol"
+        },
+        {
+          "id": "c",
+          "text": "Any gas dissolved in alcohol"
+        },
+        {
+          "id": "d",
+          "text": "Ethyl alcohol + Kerosene oil"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Ethyl alcohol + Petrol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "Arunachal Pradesh PSC (Pre) 2015 Uttarakhand PCS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q25",
+      "type": "single-choice",
+      "text": "Gasohol is a mixture of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gasoline and Methanol"
+        },
+        {
+          "id": "b",
+          "text": "Gasoline and Ethanol"
+        },
+        {
+          "id": "c",
+          "text": "Gasoline and Propanol"
+        },
+        {
+          "id": "d",
+          "text": "Methanol and Ethanol"
+        }
+      ],
+      "correctOptionIds": [
+        "b"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option B: Gasoline and Ethanol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Mains) 2016",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q26",
+      "type": "single-choice",
+      "text": "To avoid ‘knocking’ of the engine of a car, which one of the following is used as anti-knocking agent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ethyl alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Butane"
+        },
+        {
+          "id": "c",
+          "text": "Lead Tetra Ethyl"
+        },
+        {
+          "id": "d",
+          "text": "White Petrol"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: Lead Tetra Ethyl",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1998",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q27",
+      "type": "single-choice",
+      "text": "Tetraethyl Lead (TEL) is added to petrol",
+      "options": [
+        {
+          "id": "a",
+          "text": "To prevent it from freezing"
+        },
+        {
+          "id": "b",
+          "text": "To increase its flash points"
+        },
+        {
+          "id": "c",
+          "text": "To increase its anti-knocking rating"
+        },
+        {
+          "id": "d",
+          "text": "To increase its boiling point"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: To increase its anti-knocking rating",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1996",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q28",
+      "type": "single-choice",
+      "text": "Which one of the following is used as an anti-freeze for the automobile engines?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Propyl alcohol"
+        },
+        {
+          "id": "b",
+          "text": "Ethanol"
+        },
+        {
+          "id": "c",
+          "text": "Methanol"
+        },
+        {
+          "id": "d",
+          "text": "Ethylene glycol"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "easy",
+      "marks": 1,
+      "explanation": "The correct answer is option D: Ethylene glycol",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "IAS (Pre) 1997",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q29",
+      "type": "single-choice",
+      "text": "Diesel used in heavy vehicles for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Extra mileage and save engine"
+        },
+        {
+          "id": "b",
+          "text": "Low expense and save the fuel"
+        },
+        {
+          "id": "c",
+          "text": "High power and financially secure"
+        },
+        {
+          "id": "d",
+          "text": "Being cheaper than low petrol"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option C: High power and financially secure",
+      "estimatedTimeSeconds": 70,
+      "tags": [
+        "UPPCS (Pre) 1992",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q30",
+      "type": "single-choice",
+      "text": "Hydrogen gas can be conveniently used as a fuel for running vehicles if it is absorbed at very low temperature by a substance only to be released at the temperature generated by the exhaust. What is the substance found in India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hydride"
+        },
+        {
+          "id": "b",
+          "text": "Coals"
+        },
+        {
+          "id": "c",
+          "text": "Soapstone"
+        },
+        {
+          "id": "d",
+          "text": "Resins"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Hydride",
+      "estimatedTimeSeconds": 75,
+      "tags": [
+        "UPPCS (Pre) 2008",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q31",
+      "type": "match-the-following",
+      "text": "Match List-I with List-II and select the correct answer using the code given below the lists. List-I (Fuel Gases) (a) CNG (b) LPG (c) Coal gas (d) Water gas List-II (Major Constituents) 1. Carbon monoxide, Hydrogen 2. Butane, Propane 3. Methane 4. Hydrogen, Methane, Carbon monoxide Code (a) (b) (c) (d)",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 1 3 4"
+        },
+        {
+          "id": "b",
+          "text": "2 4 3 1"
+        },
+        {
+          "id": "c",
+          "text": "3 2 4 1"
+        },
+        {
+          "id": "d",
+          "text": "3 2 1 4"
+        }
+      ],
+      "correctOptionIds": [
+        "c"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option C: 3 2 4 1",
+      "estimatedTimeSeconds": 135,
+      "tags": [
+        "Sikkim PSC (Pre) 2017 RAS/RTS (Pre) 2013",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q32",
+      "type": "assertion-reason",
+      "text": "Assertion (A): The main component of the liquefied petroleum gas is Methane. Reason (R): Methane can be used directly for burning in homes and factories where it can be supplied through pipelines.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+        },
+        {
+          "id": "b",
+          "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+        },
+        {
+          "id": "c",
+          "text": "(A) is true, but (R) is false"
+        },
+        {
+          "id": "d",
+          "text": "(A) is false, but (R) is true"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: (A) is false, but (R) is true",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Andhra Pradesh PSC (Pre) 2019 IAS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q33",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Liquefied Natural Gas (LNG) is liquefied under extremely cold temperatures and high pressure to facilitate storage or transportation in specially designed vessels. 2. First LNG terminal in India was built in Hassan. 3. Natural Gas Matters (NGM) are separated from LPG and these include ethane, propane, butane and natural gasoline. Which of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
+        }
+      ],
+      "correctOptionIds": [
+        "a"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option A: Only 1",
+      "estimatedTimeSeconds": 130,
+      "tags": [
+        "Tripura PSC (Pre) 2017 IAS (Pre) 2005",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q34",
+      "type": "single-choice",
+      "text": "Consider the following statements. 1. Coal, petroleum and natural gas are fossil fuels. 2. Gasohol is mixture of benzene and alcohol. 3. Geothermal energy is non- conventional energy source. 4. Gobar gas contains mainly methane. Of these statements.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only 1 and 2 are correct"
+        },
+        {
+          "id": "b",
+          "text": "Only 2 and 3 are correct"
+        },
+        {
+          "id": "c",
+          "text": "Only 1, 2 and 3 are correct"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4 are correct"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "hard",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 3 and 4 are correct",
+      "estimatedTimeSeconds": 115,
+      "tags": [
+        "Punjab PSC (Pre) 2017 UPPCS (Mains) 2009",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "general-science-chemistry-fuel-q35",
+      "type": "single-choice",
+      "text": "Consider the following features of newer models of motor cars. 1. Radial tyres 2. Streamlined body 3. Multipoint fuel injection 4. Catalytic converter with exhaust Which of these features make the new models of motor cars more fuel efficient?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2"
+        },
+        {
+          "id": "b",
+          "text": "2 and 3"
+        },
+        {
+          "id": "c",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "d",
+          "text": "1, 3 and 4"
+        }
+      ],
+      "correctOptionIds": [
+        "d"
+      ],
+      "difficulty": "medium",
+      "marks": 1,
+      "explanation": "The correct answer is option D: 1, 3 and 4",
+      "estimatedTimeSeconds": 80,
+      "tags": [
+        "IAS (Pre) 2000",
+        "chemistry"
+      ]
+    }
+  ],
+  "subtopic": "Chemistry"
+}
